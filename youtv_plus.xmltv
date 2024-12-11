@@ -225,8 +225,47 @@
   <programme start="20241212213000 +0200" stop="20241212231600 +0200" channel="1">
     <title lang="ru">Люблю тебе, чуваче</title>
   </programme>
-  <programme start="20241212231600 +0200" stop="20241213001600 +0200" channel="1">
+  <programme start="20241212231600 +0200" stop="20241213011700 +0200" channel="1">
     <title lang="ru">Час відплати</title>
+  </programme>
+  <programme start="20241213011700 +0200" stop="20241213030200 +0200" channel="1">
+    <title lang="ru">Голгофа</title>
+  </programme>
+  <programme start="20241213030200 +0200" stop="20241213045200 +0200" channel="1">
+    <title lang="ru">Школа Року</title>
+  </programme>
+  <programme start="20241213045200 +0200" stop="20241213062400 +0200" channel="1">
+    <title lang="ru">Машина</title>
+  </programme>
+  <programme start="20241213062400 +0200" stop="20241213081000 +0200" channel="1">
+    <title lang="ru">Клятва</title>
+  </programme>
+  <programme start="20241213081000 +0200" stop="20241213094900 +0200" channel="1">
+    <title lang="ru">Син Рембо</title>
+  </programme>
+  <programme start="20241213094900 +0200" stop="20241213120000 +0200" channel="1">
+    <title lang="ru">Двохсотлітня людина</title>
+  </programme>
+  <programme start="20241213120000 +0200" stop="20241213150100 +0200" channel="1">
+    <title lang="ru">Внутрішня імперія</title>
+  </programme>
+  <programme start="20241213150100 +0200" stop="20241213170200 +0200" channel="1">
+    <title lang="ru">Я, Тоня</title>
+  </programme>
+  <programme start="20241213170200 +0200" stop="20241213185200 +0200" channel="1">
+    <title lang="ru">О, де ж ти, брате?</title>
+  </programme>
+  <programme start="20241213185200 +0200" stop="20241213201600 +0200" channel="1">
+    <title lang="ru">Джиммі Нейтрон: Хлопчик-геній</title>
+  </programme>
+  <programme start="20241213201600 +0200" stop="20241213223700 +0200" channel="1">
+    <title lang="ru">Паркани</title>
+  </programme>
+  <programme start="20241213223700 +0200" stop="20241214001700 +0200" channel="1">
+    <title lang="ru">Зомбі на ім’я Шон</title>
+  </programme>
+  <programme start="20241214001700 +0200" stop="20241214011700 +0200" channel="1">
+    <title lang="ru">Шанхайськi лицарi</title>
   </programme>
   <programme start="20241209025800 +0200" stop="20241209043500 +0200" channel="2">
     <title lang="ru">Телеведучий: Легенда про Рона Борґанді</title>
@@ -375,8 +414,44 @@
   <programme start="20241212212900 +0200" stop="20241212234000 +0200" channel="2">
     <title lang="ru">Останній кіногерой</title>
   </programme>
-  <programme start="20241212234000 +0200" stop="20241213004000 +0200" channel="2">
+  <programme start="20241212234000 +0200" stop="20241213012000 +0200" channel="2">
     <title lang="ru">Дружина</title>
+  </programme>
+  <programme start="20241213012000 +0200" stop="20241213031400 +0200" channel="2">
+    <title lang="ru">Зізнання небезпечної людини</title>
+  </programme>
+  <programme start="20241213031400 +0200" stop="20241213045000 +0200" channel="2">
+    <title lang="ru">Остін Паверс: Міжнародний таємний агент</title>
+  </programme>
+  <programme start="20241213045000 +0200" stop="20241213071300 +0200" channel="2">
+    <title lang="ru">Форрест Ґамп</title>
+  </programme>
+  <programme start="20241213071300 +0200" stop="20241213092300 +0200" channel="2">
+    <title lang="ru">Останній кіногерой</title>
+  </programme>
+  <programme start="20241213092300 +0200" stop="20241213112700 +0200" channel="2">
+    <title lang="ru">Фрост проти Ніксона</title>
+  </programme>
+  <programme start="20241213112700 +0200" stop="20241213133700 +0200" channel="2">
+    <title lang="ru">Легенда Зорро</title>
+  </programme>
+  <programme start="20241213133700 +0200" stop="20241213150600 +0200" channel="2">
+    <title lang="ru">Жах Амітивілля</title>
+  </programme>
+  <programme start="20241213150600 +0200" stop="20241213165800 +0200" channel="2">
+    <title lang="ru">Банда Келлі</title>
+  </programme>
+  <programme start="20241213165800 +0200" stop="20241213185800 +0200" channel="2">
+    <title lang="ru">Життя спочатку</title>
+  </programme>
+  <programme start="20241213185800 +0200" stop="20241213204800 +0200" channel="2">
+    <title lang="ru">Справжня мужність</title>
+  </programme>
+  <programme start="20241213204800 +0200" stop="20241213231800 +0200" channel="2">
+    <title lang="ru">Піаніст</title>
+  </programme>
+  <programme start="20241213231800 +0200" stop="20241214001800 +0200" channel="2">
+    <title lang="ru">Чорна орхідея</title>
   </programme>
   <programme start="20241209032000 +0200" stop="20241209045800 +0200" channel="3">
     <title lang="ru">40 днів та 40 ночей</title>
@@ -543,8 +618,50 @@
   <programme start="20241212231800 +0200" stop="20241213004700 +0200" channel="3">
     <title lang="ru">Ханнес</title>
   </programme>
-  <programme start="20241213004700 +0200" stop="20241213014700 +0200" channel="3">
+  <programme start="20241213004700 +0200" stop="20241213024400 +0200" channel="3">
     <title lang="ru">Видимість гніву</title>
+  </programme>
+  <programme start="20241213024400 +0200" stop="20241213041400 +0200" channel="3">
+    <title lang="ru">Вид згори кращий</title>
+  </programme>
+  <programme start="20241213041400 +0200" stop="20241213054800 +0200" channel="3">
+    <title lang="ru">Вціліла</title>
+  </programme>
+  <programme start="20241213054800 +0200" stop="20241213073300 +0200" channel="3">
+    <title lang="ru">Норбіт</title>
+  </programme>
+  <programme start="20241213073300 +0200" stop="20241213090600 +0200" channel="3">
+    <title lang="ru">Вулкан пристрастей</title>
+  </programme>
+  <programme start="20241213090600 +0200" stop="20241213104900 +0200" channel="3">
+    <title lang="ru">Три ікси 2: Новий рівень</title>
+  </programme>
+  <programme start="20241213104900 +0200" stop="20241213122700 +0200" channel="3">
+    <title lang="ru">Орбіта 9</title>
+  </programme>
+  <programme start="20241213122700 +0200" stop="20241213142600 +0200" channel="3">
+    <title lang="ru">Розкрадачка гробниць: Лара Крофт</title>
+  </programme>
+  <programme start="20241213142600 +0200" stop="20241213160000 +0200" channel="3">
+    <title lang="ru">Одружуся з першою ліпшою</title>
+  </programme>
+  <programme start="20241213160000 +0200" stop="20241213174100 +0200" channel="3">
+    <title lang="ru">Розправа</title>
+  </programme>
+  <programme start="20241213174100 +0200" stop="20241213191900 +0200" channel="3">
+    <title lang="ru">Щоденник Бріджит Джонс</title>
+  </programme>
+  <programme start="20241213191900 +0200" stop="20241213210200 +0200" channel="3">
+    <title lang="ru">Лемоні Снікет: Тридцять три нещастя</title>
+  </programme>
+  <programme start="20241213210200 +0200" stop="20241213224300 +0200" channel="3">
+    <title lang="ru">Смокінг</title>
+  </programme>
+  <programme start="20241213224300 +0200" stop="20241214004100 +0200" channel="3">
+    <title lang="ru">Зелений Шершень</title>
+  </programme>
+  <programme start="20241214004100 +0200" stop="20241214014100 +0200" channel="3">
+    <title lang="ru">Легковажна Я</title>
   </programme>
   <programme start="20241209025400 +0200" stop="20241209040600 +0200" channel="4">
     <title lang="ru">Замкнутий бос, 1 сез, 9 еп.</title>
@@ -801,8 +918,74 @@
   <programme start="20241213003000 +0200" stop="20241213013300 +0200" channel="4">
     <title lang="ru">Скажений пес, 1 сез, 14 еп.</title>
   </programme>
-  <programme start="20241213013300 +0200" stop="20241213023300 +0200" channel="4">
+  <programme start="20241213013300 +0200" stop="20241213023700 +0200" channel="4">
     <title lang="ru">Під вінець, без побачень, 1 сез, 14 еп.</title>
+  </programme>
+  <programme start="20241213023700 +0200" stop="20241213034800 +0200" channel="4">
+    <title lang="ru">Замкнутий бос, 1 сез, 13 еп.</title>
+  </programme>
+  <programme start="20241213034800 +0200" stop="20241213044900 +0200" channel="4">
+    <title lang="ru">Королева детектива, 1 сез, 13 еп.</title>
+  </programme>
+  <programme start="20241213044900 +0200" stop="20241213062500 +0200" channel="4">
+    <title lang="ru">Правила гри, 1 сез, 13 еп.</title>
+  </programme>
+  <programme start="20241213062500 +0200" stop="20241213072200 +0200" channel="4">
+    <title lang="ru">Король шопінгу Луї, 1 сез, 13 еп.</title>
+  </programme>
+  <programme start="20241213072200 +0200" stop="20241213082400 +0200" channel="4">
+    <title lang="ru">Скажи, що ти бачила, 1 сез, 6 еп.</title>
+  </programme>
+  <programme start="20241213082400 +0200" stop="20241213092800 +0200" channel="4">
+    <title lang="ru">Великий спокусник, 1 сез, 3 еп.</title>
+  </programme>
+  <programme start="20241213092800 +0200" stop="20241213103600 +0200" channel="4">
+    <title lang="ru">Чумон, 1 сез, 27 еп.</title>
+  </programme>
+  <programme start="20241213103600 +0200" stop="20241213113800 +0200" channel="4">
+    <title lang="ru">Кохання у місячному сяйві, 1 сез, 15 еп.</title>
+  </programme>
+  <programme start="20241213113800 +0200" stop="20241213123900 +0200" channel="4">
+    <title lang="ru">Скажений пес, 1 сез, 15 еп.</title>
+  </programme>
+  <programme start="20241213123900 +0200" stop="20241213134300 +0200" channel="4">
+    <title lang="ru">Під вінець, без побачень, 1 сез, 15 еп.</title>
+  </programme>
+  <programme start="20241213134300 +0200" stop="20241213145400 +0200" channel="4">
+    <title lang="ru">Замкнутий бос, 1 сез, 14 еп.</title>
+  </programme>
+  <programme start="20241213145400 +0200" stop="20241213161300 +0200" channel="4">
+    <title lang="ru">Правила гри, 1 сез, 14 еп.</title>
+  </programme>
+  <programme start="20241213161300 +0200" stop="20241213171500 +0200" channel="4">
+    <title lang="ru">Королева детектива, 1 сез, 14 еп.</title>
+  </programme>
+  <programme start="20241213171500 +0200" stop="20241213181300 +0200" channel="4">
+    <title lang="ru">Король шопінгу Луї, 1 сез, 14 еп.</title>
+  </programme>
+  <programme start="20241213181300 +0200" stop="20241213191500 +0200" channel="4">
+    <title lang="ru">Скажи, що ти бачила, 1 сез, 7 еп.</title>
+  </programme>
+  <programme start="20241213191500 +0200" stop="20241213202000 +0200" channel="4">
+    <title lang="ru">Великий спокусник, 1 сез, 4 еп.</title>
+  </programme>
+  <programme start="20241213202000 +0200" stop="20241213213300 +0200" channel="4">
+    <title lang="ru">Наречена річкового бога, 1 сез, 3 еп.</title>
+  </programme>
+  <programme start="20241213213300 +0200" stop="20241213224100 +0200" channel="4">
+    <title lang="ru">Чумон, 1 сез, 27 еп.</title>
+  </programme>
+  <programme start="20241213224100 +0200" stop="20241213234200 +0200" channel="4">
+    <title lang="ru">Кохання у місячному сяйві, 1 сез, 15 еп.</title>
+  </programme>
+  <programme start="20241213234200 +0200" stop="20241214004400 +0200" channel="4">
+    <title lang="ru">Скажений пес, 1 сез, 15 еп.</title>
+  </programme>
+  <programme start="20241214004400 +0200" stop="20241214014800 +0200" channel="4">
+    <title lang="ru">Під вінець, без побачень, 1 сез, 15 еп.</title>
+  </programme>
+  <programme start="20241214014800 +0200" stop="20241214024800 +0200" channel="4">
+    <title lang="ru">Замкнутий бос, 1 сез, 14 еп.</title>
   </programme>
   <programme start="20241209024100 +0200" stop="20241209035800 +0200" channel="5">
     <title lang="ru">Діти проти зірок 2 сез., 11 еп.</title>
@@ -1026,8 +1209,59 @@
   <programme start="20241212230300 +0200" stop="20241213002200 +0200" channel="5">
     <title lang="ru">Діти проти зірок 3 сез., 14 еп.</title>
   </programme>
-  <programme start="20241213002200 +0200" stop="20241213012200 +0200" channel="5">
+  <programme start="20241213002200 +0200" stop="20241213015000 +0200" channel="5">
     <title lang="ru">Комік на мільйон 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20241213015000 +0200" stop="20241213031800 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20241213031800 +0200" stop="20241213043900 +0200" channel="5">
+    <title lang="ru">Діти проти зірок 3 сез., 13 еп.</title>
+  </programme>
+  <programme start="20241213043900 +0200" stop="20241213055800 +0200" channel="5">
+    <title lang="ru">Діти проти зірок 3 сез., 14 еп.</title>
+  </programme>
+  <programme start="20241213055800 +0200" stop="20241213072600 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20241213072600 +0200" stop="20241213085400 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20241213085400 +0200" stop="20241213101500 +0200" channel="5">
+    <title lang="ru">Діти проти зірок 3 сез., 13 еп.</title>
+  </programme>
+  <programme start="20241213101500 +0200" stop="20241213113400 +0200" channel="5">
+    <title lang="ru">Діти проти зірок 3 сез., 14 еп.</title>
+  </programme>
+  <programme start="20241213113400 +0200" stop="20241213130200 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20241213130200 +0200" stop="20241213143000 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20241213143000 +0200" stop="20241213155100 +0200" channel="5">
+    <title lang="ru">Діти проти зірок 3 сез., 13 еп.</title>
+  </programme>
+  <programme start="20241213155100 +0200" stop="20241213171700 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213171700 +0200" stop="20241213184200 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20241213184200 +0200" stop="20241213202700 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20241213202700 +0200" stop="20241213221500 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20241213221500 +0200" stop="20241213234000 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213234000 +0200" stop="20241214010500 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20241214010500 +0200" stop="20241214020500 +0200" channel="5">
+    <title lang="ru">Комік на мільйон 1 сез., 5 еп.</title>
   </programme>
   <programme start="20241209020000 +0200" stop="20241209030000 +0200" channel="6">
     <title lang="ru">Classic Hits.</title>
@@ -1230,7 +1464,76 @@
   <programme start="20241212020000 +0200" stop="20241212030000 +0200" channel="6">
     <title lang="ru">Classic Hits.</title>
   </programme>
-  <programme start="20241212030000 +0200" stop="20241212040000 +0200" channel="6">
+  <programme start="20241212030000 +0200" stop="20241212050000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212050000 +0200" stop="20241212060000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212060000 +0200" stop="20241212070000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212070000 +0200" stop="20241212080000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212080000 +0200" stop="20241212090000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212090000 +0200" stop="20241212100000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212100000 +0200" stop="20241212110000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212110000 +0200" stop="20241212120000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212120000 +0200" stop="20241212130000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212130000 +0200" stop="20241212140000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212140000 +0200" stop="20241212150000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212150000 +0200" stop="20241212160000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212160000 +0200" stop="20241212170000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212170000 +0200" stop="20241212180000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212180000 +0200" stop="20241212190000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212190000 +0200" stop="20241212200000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212200000 +0200" stop="20241212210000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212210000 +0200" stop="20241212220000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212220000 +0200" stop="20241212230000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241212230000 +0200" stop="20241213000000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241213000000 +0200" stop="20241213010000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241213010000 +0200" stop="20241213020000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241213020000 +0200" stop="20241213030000 +0200" channel="6">
+    <title lang="ru">Classic Hits.</title>
+  </programme>
+  <programme start="20241213030000 +0200" stop="20241213040000 +0200" channel="6">
     <title lang="ru">Classic Hits.</title>
   </programme>
   <programme start="20241209020700 +0200" stop="20241209030200 +0200" channel="7">
@@ -1557,8 +1860,86 @@
   <programme start="20241213010700 +0200" stop="20241213020100 +0200" channel="7">
     <title lang="ru">Готуємо разом, 3 сезон, 39 випуск: Страви з гарбуза</title>
   </programme>
-  <programme start="20241213020100 +0200" stop="20241213030100 +0200" channel="7">
+  <programme start="20241213020100 +0200" stop="20241213025600 +0200" channel="7">
     <title lang="ru">Готуємо разом, 3 сезон, 40 випуск: Страви з фаршу</title>
+  </programme>
+  <programme start="20241213025600 +0200" stop="20241213035000 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 41 випуск: Страви на пиві</title>
+  </programme>
+  <programme start="20241213035000 +0200" stop="20241213044400 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 42 випуск: Бюджетний стіл для компанії</title>
+  </programme>
+  <programme start="20241213044400 +0200" stop="20241213053900 +0200" channel="7">
+    <title lang="ru">Готуємо разом. Домашня кухня, 3 сезон, 6 випуск</title>
+  </programme>
+  <programme start="20241213053900 +0200" stop="20241213063400 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 6 сезон, 6 випуск: Курині крильця</title>
+  </programme>
+  <programme start="20241213063400 +0200" stop="20241213072900 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 6 сезон, 7 випуск: Запіканки з картопляного пюре</title>
+  </programme>
+  <programme start="20241213072900 +0200" stop="20241213082400 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 6 сезон, 8 випуск: Супи</title>
+  </programme>
+  <programme start="20241213082400 +0200" stop="20241213091800 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 6 сезон, 9 випуск: Масляна</title>
+  </programme>
+  <programme start="20241213091800 +0200" stop="20241213101200 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 6 сезон, 10 випуск: Пісне меню</title>
+  </programme>
+  <programme start="20241213101200 +0200" stop="20241213110600 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 43 випуск: Страви зі свинини</title>
+  </programme>
+  <programme start="20241213110600 +0200" stop="20241213120000 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 44 випуск: Страви з бананів</title>
+  </programme>
+  <programme start="20241213120000 +0200" stop="20241213125300 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 45 випуск: Зігрівальні страви</title>
+  </programme>
+  <programme start="20241213125300 +0200" stop="20241213134700 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 46 випуск: День Святого Миколая</title>
+  </programme>
+  <programme start="20241213134700 +0200" stop="20241213144200 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 6 сезон, 7 випуск: Запіканки з картопляного пюре</title>
+  </programme>
+  <programme start="20241213144200 +0200" stop="20241213153700 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 6 сезон, 8 випуск: Супи</title>
+  </programme>
+  <programme start="20241213153700 +0200" stop="20241213163200 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 6 сезон, 9 випуск: Масляна</title>
+  </programme>
+  <programme start="20241213163200 +0200" stop="20241213172600 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 6 сезон, 10 випуск: Пісне меню</title>
+  </programme>
+  <programme start="20241213172600 +0200" stop="20241213182000 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 39 випуск: Страви з гарбуза</title>
+  </programme>
+  <programme start="20241213182000 +0200" stop="20241213191400 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 40 випуск: Страви з фаршу</title>
+  </programme>
+  <programme start="20241213191400 +0200" stop="20241213200800 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 41 випуск: Страви на пиві</title>
+  </programme>
+  <programme start="20241213200800 +0200" stop="20241213210200 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 42 випуск: Бюджетний стіл для компанії</title>
+  </programme>
+  <programme start="20241213210200 +0200" stop="20241213215600 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 47 випуск: Закуски</title>
+  </programme>
+  <programme start="20241213215600 +0200" stop="20241213225000 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 48 випуск: Новорічні страви</title>
+  </programme>
+  <programme start="20241213225000 +0200" stop="20241213234400 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 4 сезон, 1 випуск: Розвантажувальне меню</title>
+  </programme>
+  <programme start="20241213234400 +0200" stop="20241214003800 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 4 сезон, 2 випуск: Зимове меню</title>
+  </programme>
+  <programme start="20241214003800 +0200" stop="20241214013100 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 43 випуск: Страви зі свинини</title>
+  </programme>
+  <programme start="20241214013100 +0200" stop="20241214023100 +0200" channel="7">
+    <title lang="ru">Готуємо разом, 3 сезон, 44 випуск: Страви з бананів</title>
   </programme>
   <programme start="20241209023800 +0200" stop="20241209032700 +0200" channel="8">
     <title lang="ru">Вовчиця, 95 серія</title>
@@ -1899,8 +2280,92 @@
   <programme start="20241213011600 +0200" stop="20241213020500 +0200" channel="8">
     <title lang="ru">Вовчиця, 38 серія</title>
   </programme>
-  <programme start="20241213020500 +0200" stop="20241213030500 +0200" channel="8">
+  <programme start="20241213020500 +0200" stop="20241213025500 +0200" channel="8">
     <title lang="ru">Вовчиця, 39 серія</title>
+  </programme>
+  <programme start="20241213025500 +0200" stop="20241213034400 +0200" channel="8">
+    <title lang="ru">Вовчиця, 40 серія</title>
+  </programme>
+  <programme start="20241213034400 +0200" stop="20241213043500 +0200" channel="8">
+    <title lang="ru">Вовчиця, 41 серія</title>
+  </programme>
+  <programme start="20241213043500 +0200" stop="20241213052600 +0200" channel="8">
+    <title lang="ru">Вовчиця, 42 серія</title>
+  </programme>
+  <programme start="20241213052600 +0200" stop="20241213061500 +0200" channel="8">
+    <title lang="ru">Вовчиця, 43 серія</title>
+  </programme>
+  <programme start="20241213061500 +0200" stop="20241213070700 +0200" channel="8">
+    <title lang="ru">Вовчиця, 44 серія</title>
+  </programme>
+  <programme start="20241213070700 +0200" stop="20241213075600 +0200" channel="8">
+    <title lang="ru">Вовчиця, 45 серія</title>
+  </programme>
+  <programme start="20241213075600 +0200" stop="20241213084800 +0200" channel="8">
+    <title lang="ru">Гречанка, 37 серія</title>
+  </programme>
+  <programme start="20241213084800 +0200" stop="20241213093900 +0200" channel="8">
+    <title lang="ru">Гречанка, 38 серія</title>
+  </programme>
+  <programme start="20241213093900 +0200" stop="20241213103000 +0200" channel="8">
+    <title lang="ru">Гречанка, 39 серія</title>
+  </programme>
+  <programme start="20241213103000 +0200" stop="20241213112200 +0200" channel="8">
+    <title lang="ru">Гречанка, 40 серія</title>
+  </programme>
+  <programme start="20241213112200 +0200" stop="20241213121300 +0200" channel="8">
+    <title lang="ru">Страх у твоєму домі, 35 серія</title>
+  </programme>
+  <programme start="20241213121300 +0200" stop="20241213130200 +0200" channel="8">
+    <title lang="ru">Страх у твоєму домі, 36 серія</title>
+  </programme>
+  <programme start="20241213130200 +0200" stop="20241213135300 +0200" channel="8">
+    <title lang="ru">Страх у твоєму домі, 37 серія</title>
+  </programme>
+  <programme start="20241213135300 +0200" stop="20241213144300 +0200" channel="8">
+    <title lang="ru">Страх у твоєму домі, 38 серія</title>
+  </programme>
+  <programme start="20241213144300 +0200" stop="20241213153300 +0200" channel="8">
+    <title lang="ru">Вовчиця, 42 серія</title>
+  </programme>
+  <programme start="20241213153300 +0200" stop="20241213162300 +0200" channel="8">
+    <title lang="ru">Вовчиця, 43 серія</title>
+  </programme>
+  <programme start="20241213162300 +0200" stop="20241213171400 +0200" channel="8">
+    <title lang="ru">Вовчиця, 44 серія</title>
+  </programme>
+  <programme start="20241213171400 +0200" stop="20241213180400 +0200" channel="8">
+    <title lang="ru">Вовчиця, 45 серія</title>
+  </programme>
+  <programme start="20241213180400 +0200" stop="20241213185500 +0200" channel="8">
+    <title lang="ru">Гречанка, 37 серія</title>
+  </programme>
+  <programme start="20241213185500 +0200" stop="20241213194700 +0200" channel="8">
+    <title lang="ru">Гречанка, 38 серія</title>
+  </programme>
+  <programme start="20241213194700 +0200" stop="20241213203800 +0200" channel="8">
+    <title lang="ru">Гречанка, 39 серія</title>
+  </programme>
+  <programme start="20241213203800 +0200" stop="20241213213000 +0200" channel="8">
+    <title lang="ru">Гречанка, 40 серія</title>
+  </programme>
+  <programme start="20241213213000 +0200" stop="20241213222000 +0200" channel="8">
+    <title lang="ru">Страх у твоєму домі, 39 серія</title>
+  </programme>
+  <programme start="20241213222000 +0200" stop="20241213231000 +0200" channel="8">
+    <title lang="ru">Страх у твоєму домі, 40 серія</title>
+  </programme>
+  <programme start="20241213231000 +0200" stop="20241214000000 +0200" channel="8">
+    <title lang="ru">Страх у твоєму домі, 41 серія</title>
+  </programme>
+  <programme start="20241214000000 +0200" stop="20241214005000 +0200" channel="8">
+    <title lang="ru">Страх у твоєму домі, 42 серія</title>
+  </programme>
+  <programme start="20241214005000 +0200" stop="20241214014000 +0200" channel="8">
+    <title lang="ru">Вовчиця, 42 серія</title>
+  </programme>
+  <programme start="20241214014000 +0200" stop="20241214024000 +0200" channel="8">
+    <title lang="ru">Вовчиця, 43 серія</title>
   </programme>
   <programme start="20241209021900 +0200" stop="20241209023800 +0200" channel="9">
     <title lang="ru">Україна на картах</title>
@@ -2817,8 +3282,230 @@
   <programme start="20241213041500 +0200" stop="20241213043400 +0200" channel="9">
     <title lang="ru">Франко. Частина 3</title>
   </programme>
-  <programme start="20241213043400 +0200" stop="20241213053400 +0200" channel="9">
+  <programme start="20241213043400 +0200" stop="20241213045200 +0200" channel="9">
     <title lang="ru">Незалежність 30 років. Частина 1</title>
+  </programme>
+  <programme start="20241213045200 +0200" stop="20241213051100 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 2</title>
+  </programme>
+  <programme start="20241213051100 +0200" stop="20241213053100 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 3</title>
+  </programme>
+  <programme start="20241213053100 +0200" stop="20241213054100 +0200" channel="9">
+    <title lang="ru">Суровікін</title>
+  </programme>
+  <programme start="20241213054100 +0200" stop="20241213060100 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 4</title>
+  </programme>
+  <programme start="20241213060100 +0200" stop="20241213062300 +0200" channel="9">
+    <title lang="ru">Степан Бандера. Частина 2</title>
+  </programme>
+  <programme start="20241213062300 +0200" stop="20241213064100 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 5</title>
+  </programme>
+  <programme start="20241213064100 +0200" stop="20241213070100 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 6</title>
+  </programme>
+  <programme start="20241213070100 +0200" stop="20241213072000 +0200" channel="9">
+    <title lang="ru">Casus Belli. Привід для війни</title>
+  </programme>
+  <programme start="20241213072000 +0200" stop="20241213074000 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 7</title>
+  </programme>
+  <programme start="20241213074000 +0200" stop="20241213080000 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 8</title>
+  </programme>
+  <programme start="20241213080000 +0200" stop="20241213082200 +0200" channel="9">
+    <title lang="ru">Створення ОУН. Частина 1</title>
+  </programme>
+  <programme start="20241213082200 +0200" stop="20241213084600 +0200" channel="9">
+    <title lang="ru">Роковини Революції Гідності</title>
+  </programme>
+  <programme start="20241213084600 +0200" stop="20241213090000 +0200" channel="9">
+    <title lang="ru">Степан Бандера. Частина 1</title>
+  </programme>
+  <programme start="20241213090000 +0200" stop="20241213090700 +0200" channel="9">
+    <title lang="ru">ХВИЛИНА МОВЧАННЯ</title>
+  </programme>
+  <programme start="20241213090700 +0200" stop="20241213092900 +0200" channel="9">
+    <title lang="ru">Створення ОУН. Частина 3</title>
+  </programme>
+  <programme start="20241213092900 +0200" stop="20241213095000 +0200" channel="9">
+    <title lang="ru">Річниця УНР. Частина 1</title>
+  </programme>
+  <programme start="20241213095000 +0200" stop="20241213101000 +0200" channel="9">
+    <title lang="ru">Контрнаступ</title>
+  </programme>
+  <programme start="20241213101000 +0200" stop="20241213103300 +0200" channel="9">
+    <title lang="ru">Народження УПА. Частина 7</title>
+  </programme>
+  <programme start="20241213103300 +0200" stop="20241213105200 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 9</title>
+  </programme>
+  <programme start="20241213105200 +0200" stop="20241213111400 +0200" channel="9">
+    <title lang="ru">Народження УПА. Частина 6</title>
+  </programme>
+  <programme start="20241213111400 +0200" stop="20241213113500 +0200" channel="9">
+    <title lang="ru">Голокост</title>
+  </programme>
+  <programme start="20241213113500 +0200" stop="20241213115500 +0200" channel="9">
+    <title lang="ru">Народження УПА. Частина 5</title>
+  </programme>
+  <programme start="20241213115500 +0200" stop="20241213121600 +0200" channel="9">
+    <title lang="ru">Леся Українка. 152 роки від дня народження</title>
+  </programme>
+  <programme start="20241213121600 +0200" stop="20241213123900 +0200" channel="9">
+    <title lang="ru">Леонтович</title>
+  </programme>
+  <programme start="20241213123900 +0200" stop="20241213130200 +0200" channel="9">
+    <title lang="ru">Франко. Частина 2</title>
+  </programme>
+  <programme start="20241213130200 +0200" stop="20241213132200 +0200" channel="9">
+    <title lang="ru">Франко. Частина 3</title>
+  </programme>
+  <programme start="20241213132200 +0200" stop="20241213134000 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 1</title>
+  </programme>
+  <programme start="20241213134000 +0200" stop="20241213135900 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 2</title>
+  </programme>
+  <programme start="20241213135900 +0200" stop="20241213141800 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 3</title>
+  </programme>
+  <programme start="20241213141800 +0200" stop="20241213142900 +0200" channel="9">
+    <title lang="ru">Суровікін</title>
+  </programme>
+  <programme start="20241213142900 +0200" stop="20241213144900 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 4</title>
+  </programme>
+  <programme start="20241213144900 +0200" stop="20241213151000 +0200" channel="9">
+    <title lang="ru">Степан Бандера. Частина 2</title>
+  </programme>
+  <programme start="20241213151000 +0200" stop="20241213152900 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 5</title>
+  </programme>
+  <programme start="20241213152900 +0200" stop="20241213154900 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 6</title>
+  </programme>
+  <programme start="20241213154900 +0200" stop="20241213160800 +0200" channel="9">
+    <title lang="ru">Casus Belli. Привід для війни</title>
+  </programme>
+  <programme start="20241213160800 +0200" stop="20241213162800 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 7</title>
+  </programme>
+  <programme start="20241213162800 +0200" stop="20241213164700 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 8</title>
+  </programme>
+  <programme start="20241213164700 +0200" stop="20241213171000 +0200" channel="9">
+    <title lang="ru">Створення ОУН. Частина 1</title>
+  </programme>
+  <programme start="20241213171000 +0200" stop="20241213173400 +0200" channel="9">
+    <title lang="ru">Роковини Революції Гідності</title>
+  </programme>
+  <programme start="20241213173400 +0200" stop="20241213175200 +0200" channel="9">
+    <title lang="ru">Про мову</title>
+  </programme>
+  <programme start="20241213175200 +0200" stop="20241213181000 +0200" channel="9">
+    <title lang="ru">Крим та москалі</title>
+  </programme>
+  <programme start="20241213181000 +0200" stop="20241213183200 +0200" channel="9">
+    <title lang="ru">Кордон. Частина 2</title>
+  </programme>
+  <programme start="20241213183200 +0200" stop="20241213185000 +0200" channel="9">
+    <title lang="ru">Кордон. Частина 1</title>
+  </programme>
+  <programme start="20241213185000 +0200" stop="20241213191000 +0200" channel="9">
+    <title lang="ru">Херсон. Це УКРАЇНА</title>
+  </programme>
+  <programme start="20241213191000 +0200" stop="20241213192900 +0200" channel="9">
+    <title lang="ru">Гітлер та Єва Браун. Частина 2</title>
+  </programme>
+  <programme start="20241213192900 +0200" stop="20241213193900 +0200" channel="9">
+    <title lang="ru">Незалежність 30 років. Частина 10</title>
+  </programme>
+  <programme start="20241213193900 +0200" stop="20241213195500 +0200" channel="9">
+    <title lang="ru">Гітлер та Єва Браун. Частина 1</title>
+  </programme>
+  <programme start="20241213195500 +0200" stop="20241213201200 +0200" channel="9">
+    <title lang="ru">Афганістан. Частина 1</title>
+  </programme>
+  <programme start="20241213201200 +0200" stop="20241213203100 +0200" channel="9">
+    <title lang="ru">Афганістан. Частина 2</title>
+  </programme>
+  <programme start="20241213203100 +0200" stop="20241213205300 +0200" channel="9">
+    <title lang="ru">Розпад СРСР</title>
+  </programme>
+  <programme start="20241213205300 +0200" stop="20241213211400 +0200" channel="9">
+    <title lang="ru">Василь Овсієнко</title>
+  </programme>
+  <programme start="20241213211400 +0200" stop="20241213213600 +0200" channel="9">
+    <title lang="ru">Мирослав Симчич</title>
+  </programme>
+  <programme start="20241213213600 +0200" stop="20241213215800 +0200" channel="9">
+    <title lang="ru">Створення ОУН. Частина 2</title>
+  </programme>
+  <programme start="20241213215800 +0200" stop="20241213222000 +0200" channel="9">
+    <title lang="ru">московська церква</title>
+  </programme>
+  <programme start="20241213222000 +0200" stop="20241213223900 +0200" channel="9">
+    <title lang="ru">Мюнхенська змова</title>
+  </programme>
+  <programme start="20241213223900 +0200" stop="20241213230000 +0200" channel="9">
+    <title lang="ru">Як ленін створив Україну</title>
+  </programme>
+  <programme start="20241213230000 +0200" stop="20241213231800 +0200" channel="9">
+    <title lang="ru">"вагнер" та сс дірлеванґер</title>
+  </programme>
+  <programme start="20241213231800 +0200" stop="20241213233800 +0200" channel="9">
+    <title lang="ru">УПА проти третього рейху</title>
+  </programme>
+  <programme start="20241213233800 +0200" stop="20241213235700 +0200" channel="9">
+    <title lang="ru">Україна на картах</title>
+  </programme>
+  <programme start="20241213235700 +0200" stop="20241214001600 +0200" channel="9">
+    <title lang="ru">"супер зброя" путіна</title>
+  </programme>
+  <programme start="20241214001600 +0200" stop="20241214003700 +0200" channel="9">
+    <title lang="ru">Народження УПА. Частина 1</title>
+  </programme>
+  <programme start="20241214003700 +0200" stop="20241214005900 +0200" channel="9">
+    <title lang="ru">Народження УПА. Частина 2</title>
+  </programme>
+  <programme start="20241214005900 +0200" stop="20241214011900 +0200" channel="9">
+    <title lang="ru">Слобожанщина</title>
+  </programme>
+  <programme start="20241214011900 +0200" stop="20241214013800 +0200" channel="9">
+    <title lang="ru">Річниця УНР. Частина 2</title>
+  </programme>
+  <programme start="20241214013800 +0200" stop="20241214015700 +0200" channel="9">
+    <title lang="ru">Денацифікація росії та Німеччини</title>
+  </programme>
+  <programme start="20241214015700 +0200" stop="20241214021400 +0200" channel="9">
+    <title lang="ru">Карабах</title>
+  </programme>
+  <programme start="20241214021400 +0200" stop="20241214023300 +0200" channel="9">
+    <title lang="ru">Поразка росії. Частина 1</title>
+  </programme>
+  <programme start="20241214023300 +0200" stop="20241214025300 +0200" channel="9">
+    <title lang="ru">Народження УПА. Частина 3</title>
+  </programme>
+  <programme start="20241214025300 +0200" stop="20241214031200 +0200" channel="9">
+    <title lang="ru">Народження УПА. Частина 4</title>
+  </programme>
+  <programme start="20241214031200 +0200" stop="20241214033000 +0200" channel="9">
+    <title lang="ru">Дамба</title>
+  </programme>
+  <programme start="20241214033000 +0200" stop="20241214034900 +0200" channel="9">
+    <title lang="ru">Арештована коляда</title>
+  </programme>
+  <programme start="20241214034900 +0200" stop="20241214040900 +0200" channel="9">
+    <title lang="ru">Степан Бандера. Частина 1</title>
+  </programme>
+  <programme start="20241214040900 +0200" stop="20241214042800 +0200" channel="9">
+    <title lang="ru">Крим та москалі</title>
+  </programme>
+  <programme start="20241214042800 +0200" stop="20241214052800 +0200" channel="9">
+    <title lang="ru">Кордон. Частина 2</title>
   </programme>
   <programme start="20241209022200 +0200" stop="20241209031500 +0200" channel="10">
     <title lang="ru">Зоя 1 сез., 7 еп.</title>
@@ -3165,8 +3852,92 @@
   <programme start="20241213003600 +0200" stop="20241213012900 +0200" channel="10">
     <title lang="ru">Вірина Любов 1 сез., 2 еп.</title>
   </programme>
-  <programme start="20241213012900 +0200" stop="20241213022900 +0200" channel="10">
+  <programme start="20241213012900 +0200" stop="20241213022300 +0200" channel="10">
     <title lang="ru">Дім чужих таємниць 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20241213022300 +0200" stop="20241213032200 +0200" channel="10">
+    <title lang="ru">Життя прекрасне 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213032200 +0200" stop="20241213041400 +0200" channel="10">
+    <title lang="ru">За вітриною 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20241213041400 +0200" stop="20241213051000 +0200" channel="10">
+    <title lang="ru">Пес 2 сез., 21 еп.</title>
+  </programme>
+  <programme start="20241213051000 +0200" stop="20241213053800 +0200" channel="10">
+    <title lang="ru">Доньки - матері 1 сез., 20 еп.</title>
+  </programme>
+  <programme start="20241213053800 +0200" stop="20241213063000 +0200" channel="10">
+    <title lang="ru">Було у батька два сини 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20241213063000 +0200" stop="20241213072300 +0200" channel="10">
+    <title lang="ru">Вірина Любов 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20241213072300 +0200" stop="20241213081800 +0200" channel="10">
+    <title lang="ru">Дім чужих таємниць 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20241213081800 +0200" stop="20241213091600 +0200" channel="10">
+    <title lang="ru">Життя прекрасне 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213091600 +0200" stop="20241213100900 +0200" channel="10">
+    <title lang="ru">За вітриною 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20241213100900 +0200" stop="20241213110500 +0200" channel="10">
+    <title lang="ru">Пес 2 сез., 21 еп.</title>
+  </programme>
+  <programme start="20241213110500 +0200" stop="20241213113200 +0200" channel="10">
+    <title lang="ru">Доньки - матері 1 сез., 20 еп.</title>
+  </programme>
+  <programme start="20241213113200 +0200" stop="20241213122500 +0200" channel="10">
+    <title lang="ru">Було у батька два сини 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20241213122500 +0200" stop="20241213131700 +0200" channel="10">
+    <title lang="ru">Вірина Любов 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20241213131700 +0200" stop="20241213141200 +0200" channel="10">
+    <title lang="ru">Дім чужих таємниць 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20241213141200 +0200" stop="20241213151100 +0200" channel="10">
+    <title lang="ru">Життя прекрасне 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213151100 +0200" stop="20241213160300 +0200" channel="10">
+    <title lang="ru">За вітриною 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20241213160300 +0200" stop="20241213170100 +0200" channel="10">
+    <title lang="ru">Пес 2 сез., 22 еп.</title>
+  </programme>
+  <programme start="20241213170100 +0200" stop="20241213172900 +0200" channel="10">
+    <title lang="ru">Доньки - матері 1 сез., 21 еп.</title>
+  </programme>
+  <programme start="20241213172900 +0200" stop="20241213182200 +0200" channel="10">
+    <title lang="ru">Було у батька два сини 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213182200 +0200" stop="20241213191600 +0200" channel="10">
+    <title lang="ru">Вірина Любов 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213191600 +0200" stop="20241213201100 +0200" channel="10">
+    <title lang="ru">Дім чужих таємниць 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20241213201100 +0200" stop="20241213211200 +0200" channel="10">
+    <title lang="ru">Життя прекрасне 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20241213211200 +0200" stop="20241213220500 +0200" channel="10">
+    <title lang="ru">За вітриною 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20241213220500 +0200" stop="20241213225900 +0200" channel="10">
+    <title lang="ru">Кріпосна. Жадана любов 3 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213225900 +0200" stop="20241213235600 +0200" channel="10">
+    <title lang="ru">Пес 2 сез., 22 еп.</title>
+  </programme>
+  <programme start="20241213235600 +0200" stop="20241214002500 +0200" channel="10">
+    <title lang="ru">Доньки - матері 1 сез., 21 еп.</title>
+  </programme>
+  <programme start="20241214002500 +0200" stop="20241214011700 +0200" channel="10">
+    <title lang="ru">Було у батька два сини 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241214011700 +0200" stop="20241214021700 +0200" channel="10">
+    <title lang="ru">Вірина Любов 1 сез., 3 еп.</title>
   </programme>
   <programme start="20241209021900 +0200" stop="20241209023800 +0200" channel="11">
     <title lang="ru">02.10 Невигадані Історії. Передова</title>
@@ -3477,7 +4248,10 @@
   <programme start="20241210112000 +0200" stop="20241210114100 +0200" channel="11">
     <title lang="ru">17.06 Невигадані Історії</title>
   </programme>
-  <programme start="20241210114100 +0200" stop="20241210120400 +0200" channel="11">
+  <programme start="20241210114100 +0200" stop="20241210115400 +0200" channel="11">
+    <title lang="ru">15.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20241210115400 +0200" stop="20241210120400 +0200" channel="11">
     <title lang="ru">15.07 Невигадані Історії</title>
   </programme>
   <programme start="20241210120400 +0200" stop="20241210122600 +0200" channel="11">
@@ -4053,8 +4827,224 @@
   <programme start="20241213041500 +0200" stop="20241213043200 +0200" channel="11">
     <title lang="ru">27.11 Невигадані Історії</title>
   </programme>
-  <programme start="20241213043200 +0200" stop="20241213053200 +0200" channel="11">
+  <programme start="20241213043200 +0200" stop="20241213044800 +0200" channel="11">
     <title lang="ru">24.04 Невигадані Історії. Слов'янськ</title>
+  </programme>
+  <programme start="20241213044800 +0200" stop="20241213050400 +0200" channel="11">
+    <title lang="ru">19.06 Невигадані Історії. Зброя та безпека</title>
+  </programme>
+  <programme start="20241213050400 +0200" stop="20241213051800 +0200" channel="11">
+    <title lang="ru">18.12 Невигадані Історії. AN для рятувальників</title>
+  </programme>
+  <programme start="20241213051800 +0200" stop="20241213052900 +0200" channel="11">
+    <title lang="ru">14.11 Невигадані Історії. Сержанти</title>
+  </programme>
+  <programme start="20241213052900 +0200" stop="20241213054400 +0200" channel="11">
+    <title lang="ru">05.06 Невигадані Історії. 75 ANTONOV</title>
+  </programme>
+  <programme start="20241213054400 +0200" stop="20241213060500 +0200" channel="11">
+    <title lang="ru">03.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213060500 +0200" stop="20241213062600 +0200" channel="11">
+    <title lang="ru">07.05 Невигадані Історії. Буча</title>
+  </programme>
+  <programme start="20241213062600 +0200" stop="20241213064800 +0200" channel="11">
+    <title lang="ru">10.12 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213064800 +0200" stop="20241213071000 +0200" channel="11">
+    <title lang="ru">27.05 Невигадані Історії. Cнайпери</title>
+  </programme>
+  <programme start="20241213071000 +0200" stop="20241213073100 +0200" channel="11">
+    <title lang="ru">26.08 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213073100 +0200" stop="20241213075200 +0200" channel="11">
+    <title lang="ru">23.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213075200 +0200" stop="20241213081300 +0200" channel="11">
+    <title lang="ru">22.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213081300 +0200" stop="20241213083500 +0200" channel="11">
+    <title lang="ru">18.03 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213083500 +0200" stop="20241213085300 +0200" channel="11">
+    <title lang="ru">16.01 Невигадані Історії. Сумрак</title>
+  </programme>
+  <programme start="20241213085300 +0200" stop="20241213085900 +0200" channel="11">
+    <title lang="ru">15.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213085900 +0200" stop="20241213090000 +0200" channel="11">
+    <title lang="ru">ХВИЛИНА МОВЧАННЯ</title>
+  </programme>
+  <programme start="20241213090000 +0200" stop="20241213091500 +0200" channel="11">
+    <title lang="ru">15.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213091500 +0200" stop="20241213093700 +0200" channel="11">
+    <title lang="ru">27.05 Невигадані Історії. Cнайпери</title>
+  </programme>
+  <programme start="20241213093700 +0200" stop="20241213095800 +0200" channel="11">
+    <title lang="ru">26.08 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213095800 +0200" stop="20241213101800 +0200" channel="11">
+    <title lang="ru">23.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213101800 +0200" stop="20241213104000 +0200" channel="11">
+    <title lang="ru">22.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213104000 +0200" stop="20241213110200 +0200" channel="11">
+    <title lang="ru">18.03 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213110200 +0200" stop="20241213112000 +0200" channel="11">
+    <title lang="ru">16.01 Невигадані Історії. Сумрак</title>
+  </programme>
+  <programme start="20241213112000 +0200" stop="20241213114100 +0200" channel="11">
+    <title lang="ru">17.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213114100 +0200" stop="20241213120400 +0200" channel="11">
+    <title lang="ru">15.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213120400 +0200" stop="20241213122600 +0200" channel="11">
+    <title lang="ru">15.05 Невигадані Історії. Миротворець</title>
+  </programme>
+  <programme start="20241213122600 +0200" stop="20241213124600 +0200" channel="11">
+    <title lang="ru">15.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213124600 +0200" stop="20241213130800 +0200" channel="11">
+    <title lang="ru">11.03 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213130800 +0200" stop="20241213133000 +0200" channel="11">
+    <title lang="ru">10.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213133000 +0200" stop="20241213135100 +0200" channel="11">
+    <title lang="ru">09.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213135100 +0200" stop="20241213141200 +0200" channel="11">
+    <title lang="ru">03.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213141200 +0200" stop="20241213143600 +0200" channel="11">
+    <title lang="ru">08.07 Невигадані Історії. OPFOR</title>
+  </programme>
+  <programme start="20241213143600 +0200" stop="20241213145400 +0200" channel="11">
+    <title lang="ru">17.04 Невигадані Історії. Війна. Початок</title>
+  </programme>
+  <programme start="20241213145400 +0200" stop="20241213151600 +0200" channel="11">
+    <title lang="ru">07.01 Невигадані Історії. Бахмут. Піхота</title>
+  </programme>
+  <programme start="20241213151600 +0200" stop="20241213153600 +0200" channel="11">
+    <title lang="ru">06.05 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213153600 +0200" stop="20241213155800 +0200" channel="11">
+    <title lang="ru">04.03 Невигадані Історії. Бахмут. Рекси</title>
+  </programme>
+  <programme start="20241213155800 +0200" stop="20241213162000 +0200" channel="11">
+    <title lang="ru">02.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213162000 +0200" stop="20241213163700 +0200" channel="11">
+    <title lang="ru">24.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213163700 +0200" stop="20241213170000 +0200" channel="11">
+    <title lang="ru">01.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213170000 +0200" stop="20241213172000 +0200" channel="11">
+    <title lang="ru">31.12 Невигадані Історії. Бахмут. Волонтери</title>
+  </programme>
+  <programme start="20241213172000 +0200" stop="20241213174500 +0200" channel="11">
+    <title lang="ru">30.04.2022 Невигадані Історії. Маріуполь</title>
+  </programme>
+  <programme start="20241213174500 +0200" stop="20241213180600 +0200" channel="11">
+    <title lang="ru">30.01 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213180600 +0200" stop="20241213182700 +0200" channel="11">
+    <title lang="ru">29.10 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213182700 +0200" stop="20241213184600 +0200" channel="11">
+    <title lang="ru">27.03 Невигадані Історії. Навчання Нацгвардії</title>
+  </programme>
+  <programme start="20241213184600 +0200" stop="20241213190900 +0200" channel="11">
+    <title lang="ru">28.05 Невигадані Історії. Катюжанка</title>
+  </programme>
+  <programme start="20241213190900 +0200" stop="20241213193000 +0200" channel="11">
+    <title lang="ru">26.11 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213193000 +0200" stop="20241213195300 +0200" channel="11">
+    <title lang="ru">25.06 Невигадані Історії. Андріївка</title>
+  </programme>
+  <programme start="20241213195300 +0200" stop="20241213201500 +0200" channel="11">
+    <title lang="ru">24.12 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213201500 +0200" stop="20241213203700 +0200" channel="11">
+    <title lang="ru">24.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213203700 +0200" stop="20241213210100 +0200" channel="11">
+    <title lang="ru">23.07 Невигадані Історії. SANTA</title>
+  </programme>
+  <programme start="20241213210100 +0200" stop="20241213211800 +0200" channel="11">
+    <title lang="ru">22.05 Невигадані Історії. Перший AN-178</title>
+  </programme>
+  <programme start="20241213211800 +0200" stop="20241213214000 +0200" channel="11">
+    <title lang="ru">22.10 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213214000 +0200" stop="20241213220200 +0200" channel="11">
+    <title lang="ru">21.05 Невигадані Історії. Херсонщина. Окупація</title>
+  </programme>
+  <programme start="20241213220200 +0200" stop="20241213222200 +0200" channel="11">
+    <title lang="ru">18.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213222200 +0200" stop="20241213224400 +0200" channel="11">
+    <title lang="ru">17.12 Невигадані Історії. Бахмут</title>
+  </programme>
+  <programme start="20241213224400 +0200" stop="20241213230500 +0200" channel="11">
+    <title lang="ru">15.10 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213230500 +0200" stop="20241213232300 +0200" channel="11">
+    <title lang="ru">04.09 Невигадані Історії. Мрія і Богатирі</title>
+  </programme>
+  <programme start="20241213232300 +0200" stop="20241213234600 +0200" channel="11">
+    <title lang="ru">10.12 Невигадані Історії</title>
+  </programme>
+  <programme start="20241213234600 +0200" stop="20241214000800 +0200" channel="11">
+    <title lang="ru">10.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20241214000800 +0200" stop="20241214002900 +0200" channel="11">
+    <title lang="ru">07.05 Невигадані Історії. Буча</title>
+  </programme>
+  <programme start="20241214002900 +0200" stop="20241214005000 +0200" channel="11">
+    <title lang="ru">06.08 Невигадані Історії</title>
+  </programme>
+  <programme start="20241214005000 +0200" stop="20241214010900 +0200" channel="11">
+    <title lang="ru">26.06 Невигадані Історії. Східний фронт</title>
+  </programme>
+  <programme start="20241214010900 +0200" stop="20241214013000 +0200" channel="11">
+    <title lang="ru">04.06 Невигадані Історії. Димер</title>
+  </programme>
+  <programme start="20241214013000 +0200" stop="20241214015100 +0200" channel="11">
+    <title lang="ru">03.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20241214015100 +0200" stop="20241214021300 +0200" channel="11">
+    <title lang="ru">02.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20241214021300 +0200" stop="20241214023400 +0200" channel="11">
+    <title lang="ru">31.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20241214023400 +0200" stop="20241214025300 +0200" channel="11">
+    <title lang="ru">02.10 Невигадані Історії. Передова</title>
+  </programme>
+  <programme start="20241214025300 +0200" stop="20241214031400 +0200" channel="11">
+    <title lang="ru">30.10 Невигадані Історії. Передова. Танкісти</title>
+  </programme>
+  <programme start="20241214031400 +0200" stop="20241214033500 +0200" channel="11">
+    <title lang="ru">30.01 Невигадані Історії. Захисники</title>
+  </programme>
+  <programme start="20241214033500 +0200" stop="20241214035500 +0200" channel="11">
+    <title lang="ru">29.05 Невигадані Історії. Миротворці. Іловайськ</title>
+  </programme>
+  <programme start="20241214035500 +0200" stop="20241214041500 +0200" channel="11">
+    <title lang="ru">27.08 Невигадані Історії. Пам'ять</title>
+  </programme>
+  <programme start="20241214041500 +0200" stop="20241214043700 +0200" channel="11">
+    <title lang="ru">20.02 Невигадані Історії. Дебальцеве</title>
+  </programme>
+  <programme start="20241214043700 +0200" stop="20241214053700 +0200" channel="11">
+    <title lang="ru">23.10 Невигадані Історії. Снайпери на Передовій</title>
   </programme>
   <programme start="20241209021000 +0200" stop="20241209023500 +0200" channel="12">
     <title lang="ru">Помста природи, 3 сезон, 45 еп.</title>
@@ -4434,8 +5424,146 @@
   <programme start="20241212034500 +0200" stop="20241212041000 +0200" channel="12">
     <title lang="ru">Помста природи, 4 сезон, 19 еп.</title>
   </programme>
-  <programme start="20241212041000 +0200" stop="20241212051000 +0200" channel="12">
+  <programme start="20241212041000 +0200" stop="20241212050000 +0200" channel="12">
     <title lang="ru">Помста природи, 4 сезон, 20 еп.</title>
+  </programme>
+  <programme start="20241212050000 +0200" stop="20241212052500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 22 еп.</title>
+  </programme>
+  <programme start="20241212052500 +0200" stop="20241212054000 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 23 еп.</title>
+  </programme>
+  <programme start="20241212054000 +0200" stop="20241212060500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 11 еп.</title>
+  </programme>
+  <programme start="20241212060500 +0200" stop="20241212063000 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 12 еп.</title>
+  </programme>
+  <programme start="20241212063000 +0200" stop="20241212065500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 13 еп.</title>
+  </programme>
+  <programme start="20241212065500 +0200" stop="20241212072000 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 14 еп.</title>
+  </programme>
+  <programme start="20241212072000 +0200" stop="20241212074500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 15 еп.</title>
+  </programme>
+  <programme start="20241212074500 +0200" stop="20241212081000 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 16 еп.</title>
+  </programme>
+  <programme start="20241212081000 +0200" stop="20241212083500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 17 еп.</title>
+  </programme>
+  <programme start="20241212083500 +0200" stop="20241212090000 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 18 еп.</title>
+  </programme>
+  <programme start="20241212090000 +0200" stop="20241212100000 +0200" channel="12">
+    <title lang="ru">Телемагазин.</title>
+  </programme>
+  <programme start="20241212100000 +0200" stop="20241212105500 +0200" channel="12">
+    <title lang="ru">Мисливці за смаками, 18 еп. Камбоджа.</title>
+  </programme>
+  <programme start="20241212105500 +0200" stop="20241212115000 +0200" channel="12">
+    <title lang="ru">Мисливці за смаками, 19 еп. Японія.</title>
+  </programme>
+  <programme start="20241212115000 +0200" stop="20241212121000 +0200" channel="12">
+    <title lang="ru">А ти знав?, 7 еп.</title>
+  </programme>
+  <programme start="20241212121000 +0200" stop="20241212123000 +0200" channel="12">
+    <title lang="ru">А ти знав?, 8 еп.</title>
+  </programme>
+  <programme start="20241212123000 +0200" stop="20241212125000 +0200" channel="12">
+    <title lang="ru">А ти знав?, 9 еп.</title>
+  </programme>
+  <programme start="20241212125000 +0200" stop="20241212131000 +0200" channel="12">
+    <title lang="ru">А ти знав?, 10 еп.</title>
+  </programme>
+  <programme start="20241212131000 +0200" stop="20241212133500 +0200" channel="12">
+    <title lang="ru">А ти знав?, 11 еп.</title>
+  </programme>
+  <programme start="20241212133500 +0200" stop="20241212140000 +0200" channel="12">
+    <title lang="ru">А ти знав?, 12 еп.</title>
+  </programme>
+  <programme start="20241212140000 +0200" stop="20241212145000 +0200" channel="12">
+    <title lang="ru">Світ навиворіт. Бразилія, 26 еп.</title>
+  </programme>
+  <programme start="20241212145000 +0200" stop="20241212154000 +0200" channel="12">
+    <title lang="ru">Світ навиворіт. Бразилія, 27 еп.</title>
+  </programme>
+  <programme start="20241212154000 +0200" stop="20241212163000 +0200" channel="12">
+    <title lang="ru">Світ навиворіт. Бразилія, 28 еп.</title>
+  </programme>
+  <programme start="20241212163000 +0200" stop="20241212172000 +0200" channel="12">
+    <title lang="ru">Світ навиворіт. Бразилія, 29 еп.</title>
+  </programme>
+  <programme start="20241212172000 +0200" stop="20241212181000 +0200" channel="12">
+    <title lang="ru">Світ навиворіт. Бразилія, 30 еп.</title>
+  </programme>
+  <programme start="20241212181000 +0200" stop="20241212190000 +0200" channel="12">
+    <title lang="ru">Світ навиворіт. Бразилія, 31 еп.</title>
+  </programme>
+  <programme start="20241212190000 +0200" stop="20241212200000 +0200" channel="12">
+    <title lang="ru">Світ навиворіт. Бразилія, 32 еп.</title>
+  </programme>
+  <programme start="20241212200000 +0200" stop="20241212204000 +0200" channel="12">
+    <title lang="ru">Дім моєї мрії, 5 сезон, 8 еп.</title>
+  </programme>
+  <programme start="20241212204000 +0200" stop="20241212212000 +0200" channel="12">
+    <title lang="ru">Дім моєї мрії, 5 сезон, 9 еп.</title>
+  </programme>
+  <programme start="20241212212000 +0200" stop="20241212220000 +0200" channel="12">
+    <title lang="ru">Дім моєї мрії, 5 сезон, 10 еп.</title>
+  </programme>
+  <programme start="20241212220000 +0200" stop="20241212222000 +0200" channel="12">
+    <title lang="ru">Дім моєї мрії, 6 сезон, 1 еп.</title>
+  </programme>
+  <programme start="20241212222000 +0200" stop="20241212224500 +0200" channel="12">
+    <title lang="ru">Дім моєї мрії, 6 сезон, 2 еп.</title>
+  </programme>
+  <programme start="20241212224500 +0200" stop="20241212231000 +0200" channel="12">
+    <title lang="ru">Дім моєї мрії, 6 сезон, 3 еп.</title>
+  </programme>
+  <programme start="20241212231000 +0200" stop="20241212233000 +0200" channel="12">
+    <title lang="ru">Дім моєї мрії, 6 сезон, 4 еп.</title>
+  </programme>
+  <programme start="20241212233000 +0200" stop="20241212235000 +0200" channel="12">
+    <title lang="ru">Дім моєї мрії, 6 сезон, 5 еп.</title>
+  </programme>
+  <programme start="20241212235000 +0200" stop="20241213001500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 15 еп.</title>
+  </programme>
+  <programme start="20241213001500 +0200" stop="20241213004000 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 16 еп.</title>
+  </programme>
+  <programme start="20241213004000 +0200" stop="20241213010500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 17 еп.</title>
+  </programme>
+  <programme start="20241213010500 +0200" stop="20241213013000 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 18 еп.</title>
+  </programme>
+  <programme start="20241213013000 +0200" stop="20241213015500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 19 еп.</title>
+  </programme>
+  <programme start="20241213015500 +0200" stop="20241213022000 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 20 еп.</title>
+  </programme>
+  <programme start="20241213022000 +0200" stop="20241213024500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 21 еп.</title>
+  </programme>
+  <programme start="20241213024500 +0200" stop="20241213031000 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 22 еп.</title>
+  </programme>
+  <programme start="20241213031000 +0200" stop="20241213033500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 23 еп.</title>
+  </programme>
+  <programme start="20241213033500 +0200" stop="20241213040000 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 24 еп.</title>
+  </programme>
+  <programme start="20241213040000 +0200" stop="20241213042500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 25 еп.</title>
+  </programme>
+  <programme start="20241213042500 +0200" stop="20241213052500 +0200" channel="12">
+    <title lang="ru">Помста природи, 4 сезон, 26 еп.</title>
   </programme>
   <programme start="20241209024500 +0200" stop="20241209033600 +0200" channel="13">
     <title lang="ru">Орел і Решка: Морський сезон 3, Віргінські Острови</title>
@@ -4767,8 +5895,92 @@
   <programme start="20241213010900 +0200" stop="20241213020000 +0200" channel="13">
     <title lang="ru">Орел і Решка: Морський сезон 3, Перу</title>
   </programme>
-  <programme start="20241213020000 +0200" stop="20241213030000 +0200" channel="13">
+  <programme start="20241213020000 +0200" stop="20241213025200 +0200" channel="13">
     <title lang="ru">Орел і Решка: Морський сезон 3, Санта-Катаріна</title>
+  </programme>
+  <programme start="20241213025200 +0200" stop="20241213034400 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шопінг, 3 сезон, Краків</title>
+  </programme>
+  <programme start="20241213034400 +0200" stop="20241213043400 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шопінг, 3 сезон, Мюнхен</title>
+  </programme>
+  <programme start="20241213043400 +0200" stop="20241213052300 +0200" channel="13">
+    <title lang="ru">Орел і Решка, 4 сезон, Рига</title>
+  </programme>
+  <programme start="20241213052300 +0200" stop="20241213061200 +0200" channel="13">
+    <title lang="ru">Орел і Решка, 4 сезон, Лондон</title>
+  </programme>
+  <programme start="20241213061200 +0200" stop="20241213070500 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шопінг, 4 сезон, Єреван</title>
+  </programme>
+  <programme start="20241213070500 +0200" stop="20241213075700 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шопінг, 4 сезон, Таллінн</title>
+  </programme>
+  <programme start="20241213075700 +0200" stop="20241213084900 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шопінг, 4 сезон, Ефіопія</title>
+  </programme>
+  <programme start="20241213084900 +0200" stop="20241213093900 +0200" channel="13">
+    <title lang="ru">Орел і Решка, 4 сезон, Копенгаґен</title>
+  </programme>
+  <programme start="20241213093900 +0200" stop="20241213102400 +0200" channel="13">
+    <title lang="ru">Орел і Решка, 4 сезон, Кейптаун</title>
+  </programme>
+  <programme start="20241213102400 +0200" stop="20241213111700 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шалені вихідні, Куршевель</title>
+  </programme>
+  <programme start="20241213111700 +0200" stop="20241213120900 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шалені вихідні, Адаманські острови</title>
+  </programme>
+  <programme start="20241213120900 +0200" stop="20241213130100 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Морський сезон 3, Рів'єра-Майя, Мексика</title>
+  </programme>
+  <programme start="20241213130100 +0200" stop="20241213135300 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Морський сезон 3, Абу-Дабі</title>
+  </programme>
+  <programme start="20241213135300 +0200" stop="20241213144500 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шопінг, 4 сезон, Таллінн</title>
+  </programme>
+  <programme start="20241213144500 +0200" stop="20241213153700 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шопінг, 4 сезон, Ефіопія</title>
+  </programme>
+  <programme start="20241213153700 +0200" stop="20241213162700 +0200" channel="13">
+    <title lang="ru">Орел і Решка, 4 сезон, Копенгаґен</title>
+  </programme>
+  <programme start="20241213162700 +0200" stop="20241213171200 +0200" channel="13">
+    <title lang="ru">Орел і Решка, 4 сезон, Кейптаун</title>
+  </programme>
+  <programme start="20241213171200 +0200" stop="20241213180500 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шалені вихідні, Раджастхан</title>
+  </programme>
+  <programme start="20241213180500 +0200" stop="20241213185800 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шалені вихідні, Венеція</title>
+  </programme>
+  <programme start="20241213185800 +0200" stop="20241213194900 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Морський сезон 3, Перу</title>
+  </programme>
+  <programme start="20241213194900 +0200" stop="20241213204100 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Морський сезон 3, Санта-Катаріна</title>
+  </programme>
+  <programme start="20241213204100 +0200" stop="20241213213500 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шалені вихідні, Невидане</title>
+  </programme>
+  <programme start="20241213213500 +0200" stop="20241213223400 +0200" channel="13">
+    <title lang="ru">Навколо М, Париж</title>
+  </programme>
+  <programme start="20241213223400 +0200" stop="20241213232700 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Морський сезон 3, Боракай</title>
+  </programme>
+  <programme start="20241213232700 +0200" stop="20241214001900 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Морський сезон 3, Гоа</title>
+  </programme>
+  <programme start="20241214001900 +0200" stop="20241214011100 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шалені вихідні, Куршевель</title>
+  </programme>
+  <programme start="20241214011100 +0200" stop="20241214020400 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Шалені вихідні, Адаманські острови</title>
+  </programme>
+  <programme start="20241214020400 +0200" stop="20241214030400 +0200" channel="13">
+    <title lang="ru">Орел і Решка: Морський сезон 3, Рів'єра-Майя, Мексика</title>
   </programme>
   <programme start="20241209022800 +0200" stop="20241209031300 +0200" channel="14">
     <title lang="ru">Що приховує Труханів острів. Історія. Міфи та цікаві місця</title>
@@ -4974,7 +6186,10 @@
   <programme start="20241210105500 +0200" stop="20241210113700 +0200" channel="14">
     <title lang="ru">Громадські туалети та каналізація Києва. Історія та сьогодення</title>
   </programme>
-  <programme start="20241210113700 +0200" stop="20241210124300 +0200" channel="14">
+  <programme start="20241210113700 +0200" stop="20241210115000 +0200" channel="14">
+    <title lang="ru">Воскресенка. Знищенні хутори. Голодомор. Масив Райдужний. Історія та факти</title>
+  </programme>
+  <programme start="20241210115000 +0200" stop="20241210124300 +0200" channel="14">
     <title lang="ru">Воскресенка. Знищенні хутори. Голодомор. Масив Райдужний. Історія та факти</title>
   </programme>
   <programme start="20241210124300 +0200" stop="20241210130100 +0200" channel="14">
@@ -5346,8 +6561,152 @@
   <programme start="20241213034100 +0200" stop="20241213041700 +0200" channel="14">
     <title lang="ru">Що не так з Позняками. Таємниче село. Яке стало величезним масивом</title>
   </programme>
-  <programme start="20241213041700 +0200" stop="20241213051700 +0200" channel="14">
+  <programme start="20241213041700 +0200" stop="20241213045300 +0200" channel="14">
     <title lang="ru">Шок. Закинута тюрма у лісі</title>
+  </programme>
+  <programme start="20241213045300 +0200" stop="20241213050400 +0200" channel="14">
+    <title lang="ru">Чому цей будинок вбиває людей. Будинок вбивця на Лісовому масиві</title>
+  </programme>
+  <programme start="20241213050400 +0200" stop="20241213051800 +0200" channel="14">
+    <title lang="ru">Церква Сатани. Правда чи вигадка</title>
+  </programme>
+  <programme start="20241213051800 +0200" stop="20241213053400 +0200" channel="14">
+    <title lang="ru">Хутор База або Бермудський Трикутник Києва. Що там приховано</title>
+  </programme>
+  <programme start="20241213053400 +0200" stop="20241213055600 +0200" channel="14">
+    <title lang="ru">Хто такі дігери</title>
+  </programme>
+  <programme start="20241213055600 +0200" stop="20241213063200 +0200" channel="14">
+    <title lang="ru">Трагічні історії майдану незалежності. Негативна енергетика. Трагедії та революції</title>
+  </programme>
+  <programme start="20241213063200 +0200" stop="20241213064900 +0200" channel="14">
+    <title lang="ru">"Університет". Історія та Легенди найкрасивішої станції метро Києва</title>
+  </programme>
+  <programme start="20241213064900 +0200" stop="20241213071000 +0200" channel="14">
+    <title lang="ru">Укриття. Бомбосховища. Бункери</title>
+  </programme>
+  <programme start="20241213071000 +0200" stop="20241213074400 +0200" channel="14">
+    <title lang="ru">Топ-7 палаців Старої Київщини</title>
+  </programme>
+  <programme start="20241213074400 +0200" stop="20241213080500 +0200" channel="14">
+    <title lang="ru">Таємничі "Золоті Ворота". Історія та Секрети найкрасивішої станції метро у світі</title>
+  </programme>
+  <programme start="20241213080500 +0200" stop="20241213083400 +0200" channel="14">
+    <title lang="ru">Таємниці станцій-привидів Київського метро</title>
+  </programme>
+  <programme start="20241213083400 +0200" stop="20241213090000 +0200" channel="14">
+    <title lang="ru">Таємниці Царського Села</title>
+  </programme>
+  <programme start="20241213090000 +0200" stop="20241213091000 +0200" channel="14">
+    <title lang="ru">ХВИЛИНА МОВЧАННЯ</title>
+  </programme>
+  <programme start="20241213091000 +0200" stop="20241213091900 +0200" channel="14">
+    <title lang="ru">Таємний хід під Царським селом. З-під землі до неба</title>
+  </programme>
+  <programme start="20241213091900 +0200" stop="20241213095400 +0200" channel="14">
+    <title lang="ru">Таємниці та історія Південної Борщагівки. Огляд на масив</title>
+  </programme>
+  <programme start="20241213095400 +0200" stop="20241213101500 +0200" channel="14">
+    <title lang="ru">Спустились у тунель метро на Виноградар. У якому стані будівництво</title>
+  </programme>
+  <programme start="20241213101500 +0200" stop="20241213103900 +0200" channel="14">
+    <title lang="ru">Слідами забутої Почайни. Чи існувала взагалі ця київська ріка</title>
+  </programme>
+  <programme start="20241213103900 +0200" stop="20241213105700 +0200" channel="14">
+    <title lang="ru">Секретне закинуте метро в Києві. Що там приховано</title>
+  </programme>
+  <programme start="20241213105700 +0200" stop="20241213114800 +0200" channel="14">
+    <title lang="ru">Соцмісто в Києві. Історія. Сталінська архітектура. Події та персоналії</title>
+  </programme>
+  <programme start="20241213114800 +0200" stop="20241213120300 +0200" channel="14">
+    <title lang="ru">Реальна історія із затопленням в метро. Чому ми втратили шість станцій</title>
+  </programme>
+  <programme start="20241213120300 +0200" stop="20241213122600 +0200" channel="14">
+    <title lang="ru">Реальний стан укриттів Києва</title>
+  </programme>
+  <programme start="20241213122600 +0200" stop="20241213124700 +0200" channel="14">
+    <title lang="ru">Район ДВРЗ. Історія та сучасність</title>
+  </programme>
+  <programme start="20241213124700 +0200" stop="20241213130900 +0200" channel="14">
+    <title lang="ru">Радянська символіка у Києві. Що ще залишилось</title>
+  </programme>
+  <programme start="20241213130900 +0200" stop="20241213134200 +0200" channel="14">
+    <title lang="ru">Околиці Дарницького вокзалу</title>
+  </programme>
+  <programme start="20241213134200 +0200" stop="20241213143900 +0200" channel="14">
+    <title lang="ru">Нивки. Від хуторів до 'хрущовського' гетто. Витоки. Історія та факти</title>
+  </programme>
+  <programme start="20241213143900 +0200" stop="20241213151500 +0200" channel="14">
+    <title lang="ru">Невідома Юрковиця. Північний Поділ. Перша промзона Києва. Завод Ріхерта</title>
+  </programme>
+  <programme start="20241213151500 +0200" stop="20241213155000 +0200" channel="14">
+    <title lang="ru">Куренівка. Найбільша катастрофа Києва. Невідомі сторінки</title>
+  </programme>
+  <programme start="20241213155000 +0200" stop="20241213161500 +0200" channel="14">
+    <title lang="ru">Містичні місця сили Голосіївського Лісу</title>
+  </programme>
+  <programme start="20241213161500 +0200" stop="20241213170000 +0200" channel="14">
+    <title lang="ru">Кудрявець. Алкозавод. Найстаріший міст. Художня академія та інше</title>
+  </programme>
+  <programme start="20241213170000 +0200" stop="20241213173600 +0200" channel="14">
+    <title lang="ru">Коцюбинське. Історія та факти про 'київський анклав'</title>
+  </programme>
+  <programme start="20241213173600 +0200" stop="20241213181600 +0200" channel="14">
+    <title lang="ru">Київські маєтки комуністичних лідерів. Нивки і Лукʼянівка</title>
+  </programme>
+  <programme start="20241213181600 +0200" stop="20241213184700 +0200" channel="14">
+    <title lang="ru">Київська психлікарня. Історія та таємниці Павлівки</title>
+  </programme>
+  <programme start="20241213184700 +0200" stop="20241213190400 +0200" channel="14">
+    <title lang="ru">Історія та Легенди станції "Хрещатик". Що приховує перша станція київського метро</title>
+  </programme>
+  <programme start="20241213190400 +0200" stop="20241213202100 +0200" channel="14">
+    <title lang="ru">Історія Василя Стуса у Києві. Що надихало поета на його шедеври</title>
+  </programme>
+  <programme start="20241213202100 +0200" stop="20241213205900 +0200" channel="14">
+    <title lang="ru">Ірпінь. Затишне передмістя посеред лісу. Історія та Таємниці</title>
+  </programme>
+  <programme start="20241213205900 +0200" stop="20241213212400 +0200" channel="14">
+    <title lang="ru">Залізли в скандальний ЖК на каналізації. Підземна річка Дарниця</title>
+  </programme>
+  <programme start="20241213212400 +0200" stop="20241213214200 +0200" channel="14">
+    <title lang="ru">Закинуті шедеври архітектури Києва</title>
+  </programme>
+  <programme start="20241213214200 +0200" stop="20241213215700 +0200" channel="14">
+    <title lang="ru">Закинута база "Динамо" на Відрадному. Рай для Сталкерів</title>
+  </programme>
+  <programme start="20241213215700 +0200" stop="20241213222900 +0200" channel="14">
+    <title lang="ru">За лаштунками "Арсенальної". Перший район червоних ліхтарів в Києві. Печерські Хрести</title>
+  </programme>
+  <programme start="20241213222900 +0200" stop="20241213231000 +0200" channel="14">
+    <title lang="ru">Загадки і легенди Батиєвої гори. Зсув може знищити цілий масив</title>
+  </programme>
+  <programme start="20241213231000 +0200" stop="20241213234400 +0200" channel="14">
+    <title lang="ru">Забуті Курорти Чорнобиля. Святкуємо ювілей</title>
+  </programme>
+  <programme start="20241213234400 +0200" stop="20241214002400 +0200" channel="14">
+    <title lang="ru">Жахливі історії Сирецького лісу. Справжній осередок криміналу</title>
+  </programme>
+  <programme start="20241214002400 +0200" stop="20241214005800 +0200" channel="14">
+    <title lang="ru">Буча. Історія Міста Героя та Війни. Турнір Пам'яті загиблих спецпризначенців ГУР МО</title>
+  </programme>
+  <programme start="20241214005800 +0200" stop="20241214012000 +0200" channel="14">
+    <title lang="ru">Боярка. Другий Хрещатик під Києвом. Який народив творця ядерної зброї</title>
+  </programme>
+  <programme start="20241214012000 +0200" stop="20241214014100 +0200" channel="14">
+    <title lang="ru">Білогородка. Оборонні вали часів Русі і Штольня. Історія та факти</title>
+  </programme>
+  <programme start="20241214014100 +0200" stop="20241214023300 +0200" channel="14">
+    <title lang="ru">Біличі. Від стародавнього села до масиву. Історія та факти</title>
+  </programme>
+  <programme start="20241214023300 +0200" stop="20241214032300 +0200" channel="14">
+    <title lang="ru">Барахолки Києва- Історія та факти. Мій власний досвід</title>
+  </programme>
+  <programme start="20241214032300 +0200" stop="20241214035800 +0200" channel="14">
+    <title lang="ru">Байки та легенди склепів Байкового кладовища</title>
+  </programme>
+  <programme start="20241214035800 +0200" stop="20241214045800 +0200" channel="14">
+    <title lang="ru">Арсенальна. Історія найглибшої станції метро в Європі</title>
   </programme>
   <programme start="20241209022100 +0200" stop="20241209040000 +0200" channel="15">
     <title lang="ru">Екси 3 сез., 9 еп.</title>
@@ -5592,8 +6951,86 @@
   <programme start="20241213004000 +0200" stop="20241213013500 +0200" channel="15">
     <title lang="ru">Аферисти у сітях 2 сез., 4 еп.</title>
   </programme>
-  <programme start="20241213013500 +0200" stop="20241213023500 +0200" channel="15">
+  <programme start="20241213013500 +0200" stop="20241213022200 +0200" channel="15">
     <title lang="ru">Аферисти у сітях 2 сез., 5 еп.</title>
+  </programme>
+  <programme start="20241213022200 +0200" stop="20241213031500 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 6 еп.</title>
+  </programme>
+  <programme start="20241213031500 +0200" stop="20241213041200 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 7 еп.</title>
+  </programme>
+  <programme start="20241213041200 +0200" stop="20241213050600 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 1 еп.</title>
+  </programme>
+  <programme start="20241213050600 +0200" stop="20241213060600 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 2 еп.</title>
+  </programme>
+  <programme start="20241213060600 +0200" stop="20241213064700 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213064700 +0200" stop="20241213074200 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 4 еп.</title>
+  </programme>
+  <programme start="20241213074200 +0200" stop="20241213082900 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 5 еп.</title>
+  </programme>
+  <programme start="20241213082900 +0200" stop="20241213092200 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 6 еп.</title>
+  </programme>
+  <programme start="20241213092200 +0200" stop="20241213101900 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 7 еп.</title>
+  </programme>
+  <programme start="20241213101900 +0200" stop="20241213111300 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 1 еп.</title>
+  </programme>
+  <programme start="20241213111300 +0200" stop="20241213121300 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 2 еп.</title>
+  </programme>
+  <programme start="20241213121300 +0200" stop="20241213125400 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213125400 +0200" stop="20241213134900 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 4 еп.</title>
+  </programme>
+  <programme start="20241213134900 +0200" stop="20241213143600 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 5 еп.</title>
+  </programme>
+  <programme start="20241213143600 +0200" stop="20241213152900 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 6 еп.</title>
+  </programme>
+  <programme start="20241213152900 +0200" stop="20241213162600 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 7 еп.</title>
+  </programme>
+  <programme start="20241213162600 +0200" stop="20241213172000 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 8 еп.</title>
+  </programme>
+  <programme start="20241213172000 +0200" stop="20241213182900 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 9 еп.</title>
+  </programme>
+  <programme start="20241213182900 +0200" stop="20241213192800 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 10 еп.</title>
+  </programme>
+  <programme start="20241213192800 +0200" stop="20241213202600 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 3 сез., 1 еп.</title>
+  </programme>
+  <programme start="20241213202600 +0200" stop="20241213211900 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 3 сез., 2 еп.</title>
+  </programme>
+  <programme start="20241213211900 +0200" stop="20241213221800 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 3 сез., 3 еп.</title>
+  </programme>
+  <programme start="20241213221800 +0200" stop="20241213231300 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 8 еп.</title>
+  </programme>
+  <programme start="20241213231300 +0200" stop="20241214002200 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 9 еп.</title>
+  </programme>
+  <programme start="20241214002200 +0200" stop="20241214012100 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 2 сез., 10 еп.</title>
+  </programme>
+  <programme start="20241214012100 +0200" stop="20241214022100 +0200" channel="15">
+    <title lang="ru">Аферисти у сітях 3 сез., 1 еп.</title>
   </programme>
   <programme start="20241209023700 +0200" stop="20241209032700 +0200" channel="16">
     <title lang="ru">Речдок, 9 сезон, 38 випуск: У шаховому порядяку</title>
@@ -5904,8 +7341,89 @@
   <programme start="20241213003000 +0200" stop="20241213012200 +0200" channel="16">
     <title lang="ru">Речдок, 11 сезон, 39 випуск: Сільський Шерлок</title>
   </programme>
-  <programme start="20241213012200 +0200" stop="20241213022200 +0200" channel="16">
+  <programme start="20241213012200 +0200" stop="20241213021400 +0200" channel="16">
     <title lang="ru">Речдок, 11 сезон, 40 випуск: Як скаженого собаку</title>
+  </programme>
+  <programme start="20241213021400 +0200" stop="20241213030400 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 41 випуск: Лікарський почерк</title>
+  </programme>
+  <programme start="20241213030400 +0200" stop="20241213035700 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 42 випуск: Зліт - посадка</title>
+  </programme>
+  <programme start="20241213035700 +0200" stop="20241213045800 +0200" channel="16">
+    <title lang="ru">Речдок. Особливий випадок. По той бік фронту, 4 випуск: Час-пісок</title>
+  </programme>
+  <programme start="20241213045800 +0200" stop="20241213060000 +0200" channel="16">
+    <title lang="ru">Речдок. Особливий випадок. По той бік фронту 2, 1 випуск: Ціною життя</title>
+  </programme>
+  <programme start="20241213060000 +0200" stop="20241213070200 +0200" channel="16">
+    <title lang="ru">Речдок. Особливий випадок. По той бік фронту 2, 2 випуск: Залізний хрест</title>
+  </programme>
+  <programme start="20241213070200 +0200" stop="20241213080100 +0200" channel="16">
+    <title lang="ru">Речдок. Особливий випадок. По той бік фронту 2, 3 випуск: Батьківський гріх</title>
+  </programme>
+  <programme start="20241213080100 +0200" stop="20241213090300 +0200" channel="16">
+    <title lang="ru">Речдок. Особливий випадок. По той бік фронту 2, 4 випуск: Батьківщина мати</title>
+  </programme>
+  <programme start="20241213090300 +0200" stop="20241213100400 +0200" channel="16">
+    <title lang="ru">Речдок. Особливий випадок. По той бік фронту 2, 5 випуск: Хрестоцвіт</title>
+  </programme>
+  <programme start="20241213100400 +0200" stop="20241213105600 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 43 випуск: Таємна зброя</title>
+  </programme>
+  <programme start="20241213105600 +0200" stop="20241213114400 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 44 випуск: Персона нон-грата</title>
+  </programme>
+  <programme start="20241213114400 +0200" stop="20241213123700 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 45 випуск: Своя здобич</title>
+  </programme>
+  <programme start="20241213123700 +0200" stop="20241213132900 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 46 випуск: Марні надії</title>
+  </programme>
+  <programme start="20241213132900 +0200" stop="20241213143000 +0200" channel="16">
+    <title lang="ru">Речдок. Особливий випадок. По той бік фронту 2, 2 випуск: Залізний хрест</title>
+  </programme>
+  <programme start="20241213143000 +0200" stop="20241213153000 +0200" channel="16">
+    <title lang="ru">Речдок. Особливий випадок. По той бік фронту 2, 3 випуск: Батьківський гріх</title>
+  </programme>
+  <programme start="20241213153000 +0200" stop="20241213163100 +0200" channel="16">
+    <title lang="ru">Речдок. Особливий випадок. По той бік фронту 2, 4 випуск: Батьківщина мати</title>
+  </programme>
+  <programme start="20241213163100 +0200" stop="20241213173300 +0200" channel="16">
+    <title lang="ru">Речдок. Особливий випадок. По той бік фронту 2, 5 випуск: Хрестоцвіт</title>
+  </programme>
+  <programme start="20241213173300 +0200" stop="20241213182500 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 39 випуск: Сільський Шерлок</title>
+  </programme>
+  <programme start="20241213182500 +0200" stop="20241213191700 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 40 випуск: Як скаженого собаку</title>
+  </programme>
+  <programme start="20241213191700 +0200" stop="20241213200700 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 41 випуск: Лікарський почерк</title>
+  </programme>
+  <programme start="20241213200700 +0200" stop="20241213210000 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 42 випуск: Зліт - посадка</title>
+  </programme>
+  <programme start="20241213210000 +0200" stop="20241213214900 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 47 випуск: Без виправдань</title>
+  </programme>
+  <programme start="20241213214900 +0200" stop="20241213224100 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 48 випуск: Кунай</title>
+  </programme>
+  <programme start="20241213224100 +0200" stop="20241213233300 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 49 випуск: Тепло вогню</title>
+  </programme>
+  <programme start="20241213233300 +0200" stop="20241214002400 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 50 випуск: Між нами дівчатками</title>
+  </programme>
+  <programme start="20241214002400 +0200" stop="20241214011600 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 43 випуск: Таємна зброя</title>
+  </programme>
+  <programme start="20241214011600 +0200" stop="20241214020400 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 44 випуск: Персона нон-грата</title>
+  </programme>
+  <programme start="20241214020400 +0200" stop="20241214030400 +0200" channel="16">
+    <title lang="ru">Речдок, 11 сезон, 45 випуск: Своя здобич</title>
   </programme>
   <programme start="20241209023500 +0200" stop="20241209032000 +0200" channel="17">
     <title lang="ru">Слідство ведуть екстрасенси 12 сезон, 2 еп.: Ардат Лілі 1 ч.</title>
@@ -6198,8 +7716,563 @@
   <programme start="20241210201000 +0200" stop="20241210204000 +0200" channel="17">
     <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 21 еп.: Чорна відьма 2 ч.</title>
   </programme>
-  <programme start="20241210204000 +0200" stop="20241210214000 +0200" channel="17">
+  <programme start="20241210204000 +0200" stop="20241210210500 +0200" channel="17">
     <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 28 еп.: Диявольський підпал 1 ч.</title>
+  </programme>
+  <programme start="20241210210500 +0200" stop="20241210212800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 28 еп.: Диявольський підпал 2 ч.</title>
+  </programme>
+  <programme start="20241210212800 +0200" stop="20241210215200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 33 еп.: Страшний будинок 1 ч.</title>
+  </programme>
+  <programme start="20241210215200 +0200" stop="20241210221600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 33 еп.: Страшний будинок 2 ч.</title>
+  </programme>
+  <programme start="20241210221600 +0200" stop="20241210223800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 42 еп.: Чвари 1 ч.</title>
+  </programme>
+  <programme start="20241210223800 +0200" stop="20241210230900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 42 еп.: Чвари 2 ч.</title>
+  </programme>
+  <programme start="20241210230900 +0200" stop="20241210233100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 7 еп.: Перехрестя смерті 2 ч.</title>
+  </programme>
+  <programme start="20241210233100 +0200" stop="20241210234700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 9 еп.: 4 сестри 1 ч.</title>
+  </programme>
+  <programme start="20241210234700 +0200" stop="20241211002200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 9 еп.: 4 сестри 2 ч.</title>
+  </programme>
+  <programme start="20241211002200 +0200" stop="20241211004300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 10 еп.: Привиди 1 ч.</title>
+  </programme>
+  <programme start="20241211004300 +0200" stop="20241211010400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 10 еп.: Привиди 2 ч.</title>
+  </programme>
+  <programme start="20241211010400 +0200" stop="20241211013500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 20 еп.: Відьомський будинок 1 ч.</title>
+  </programme>
+  <programme start="20241211013500 +0200" stop="20241211015700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 20 еп.: Відьомський будинок 2 ч.</title>
+  </programme>
+  <programme start="20241211015700 +0200" stop="20241211022100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 21 еп.: Чорна відьма 1 ч.</title>
+  </programme>
+  <programme start="20241211022100 +0200" stop="20241211025100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 21 еп.: Чорна відьма 2 ч.</title>
+  </programme>
+  <programme start="20241211025100 +0200" stop="20241211031600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 28 еп.: Диявольський підпал 1 ч.</title>
+  </programme>
+  <programme start="20241211031600 +0200" stop="20241211033900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 28 еп.: Диявольський підпал 2 ч.</title>
+  </programme>
+  <programme start="20241211033900 +0200" stop="20241211040300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 33 еп.: Страшний будинок 1 ч.</title>
+  </programme>
+  <programme start="20241211040300 +0200" stop="20241211042700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 33 еп.: Страшний будинок 2 ч.</title>
+  </programme>
+  <programme start="20241211042700 +0200" stop="20241211044900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 42 еп.: Чвари 1 ч.</title>
+  </programme>
+  <programme start="20241211044900 +0200" stop="20241211052000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 42 еп.: Чвари 2 ч.</title>
+  </programme>
+  <programme start="20241211052000 +0200" stop="20241211054200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 7 еп.: Перехрестя смерті 2 ч.</title>
+  </programme>
+  <programme start="20241211054200 +0200" stop="20241211055900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 9 еп.: 4 сестри 1 ч.</title>
+  </programme>
+  <programme start="20241211055900 +0200" stop="20241211063400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 9 еп.: 4 сестри 2 ч.</title>
+  </programme>
+  <programme start="20241211063400 +0200" stop="20241211065400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 10 еп.: Привиди 1 ч.</title>
+  </programme>
+  <programme start="20241211065400 +0200" stop="20241211071500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 10 еп.: Привиди 2 ч.</title>
+  </programme>
+  <programme start="20241211071500 +0200" stop="20241211074600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 20 еп.: Відьомський будинок 1 ч.</title>
+  </programme>
+  <programme start="20241211074600 +0200" stop="20241211080800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 20 еп.: Відьомський будинок 2 ч.</title>
+  </programme>
+  <programme start="20241211080800 +0200" stop="20241211083200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 21 еп.: Чорна відьма 1 ч.</title>
+  </programme>
+  <programme start="20241211083200 +0200" stop="20241211090200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 21 еп.: Чорна відьма 2 ч.</title>
+  </programme>
+  <programme start="20241211090200 +0200" stop="20241211092800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 28 еп.: Диявольський підпал 1 ч.</title>
+  </programme>
+  <programme start="20241211092800 +0200" stop="20241211095000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 28 еп.: Диявольський підпал 2 ч.</title>
+  </programme>
+  <programme start="20241211095000 +0200" stop="20241211101400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 33 еп.: Страшний будинок 1 ч.</title>
+  </programme>
+  <programme start="20241211101400 +0200" stop="20241211103800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 33 еп.: Страшний будинок 2 ч.</title>
+  </programme>
+  <programme start="20241211103800 +0200" stop="20241211110100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 42 еп.: Чвари 1 ч.</title>
+  </programme>
+  <programme start="20241211110100 +0200" stop="20241211113100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 42 еп.: Чвари 2 ч.</title>
+  </programme>
+  <programme start="20241211113100 +0200" stop="20241211115300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 7 еп.: Перехрестя смерті 2 ч.</title>
+  </programme>
+  <programme start="20241211115300 +0200" stop="20241211121000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 9 еп.: 4 сестри 1 ч.</title>
+  </programme>
+  <programme start="20241211121000 +0200" stop="20241211124500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 9 еп.: 4 сестри 2 ч.</title>
+  </programme>
+  <programme start="20241211124500 +0200" stop="20241211130500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 10 еп.: Привиди 1 ч.</title>
+  </programme>
+  <programme start="20241211130500 +0200" stop="20241211132700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 10 еп.: Привиди 2 ч.</title>
+  </programme>
+  <programme start="20241211132700 +0200" stop="20241211135700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 20 еп.: Відьомський будинок 1 ч.</title>
+  </programme>
+  <programme start="20241211135700 +0200" stop="20241211141900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 20 еп.: Відьомський будинок 2 ч.</title>
+  </programme>
+  <programme start="20241211141900 +0200" stop="20241211144400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 21 еп.: Чорна відьма 1 ч.</title>
+  </programme>
+  <programme start="20241211144400 +0200" stop="20241211151300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 21 еп.: Чорна відьма 2 ч.</title>
+  </programme>
+  <programme start="20241211151300 +0200" stop="20241211153900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 28 еп.: Диявольський підпал 1 ч.</title>
+  </programme>
+  <programme start="20241211153900 +0200" stop="20241211160100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 28 еп.: Диявольський підпал 2 ч.</title>
+  </programme>
+  <programme start="20241211160100 +0200" stop="20241211162600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 33 еп.: Страшний будинок 1 ч.</title>
+  </programme>
+  <programme start="20241211162600 +0200" stop="20241211170800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 44 еп.: Зникаючий рід</title>
+  </programme>
+  <programme start="20241211170800 +0200" stop="20241211173700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 45 еп.: В обіймах 1 ч.</title>
+  </programme>
+  <programme start="20241211173700 +0200" stop="20241211180200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 45 еп.: В обіймах 2 ч.</title>
+  </programme>
+  <programme start="20241211180200 +0200" stop="20241211182800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 46 еп.: Навіжений 1 ч.</title>
+  </programme>
+  <programme start="20241211182800 +0200" stop="20241211185400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 46 еп.: Навіжений 2 ч.</title>
+  </programme>
+  <programme start="20241211185400 +0200" stop="20241211191700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 47 еп.: Тіні предків 1 ч.</title>
+  </programme>
+  <programme start="20241211191700 +0200" stop="20241211194200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 47 еп.: Тіні предків 2 ч.</title>
+  </programme>
+  <programme start="20241211194200 +0200" stop="20241211201300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 48 еп.: Шаманка 1 ч.</title>
+  </programme>
+  <programme start="20241211201300 +0200" stop="20241211203500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 48 еп.: Шаманка 2 ч.</title>
+  </programme>
+  <programme start="20241211203500 +0200" stop="20241211210000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 49 еп.: Усиновлена 1 ч.</title>
+  </programme>
+  <programme start="20241211210000 +0200" stop="20241211212700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 49 еп.: Усиновлена 2 ч.</title>
+  </programme>
+  <programme start="20241211212700 +0200" stop="20241211215000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 50 еп.: Пікова дама 1 ч.</title>
+  </programme>
+  <programme start="20241211215000 +0200" stop="20241211221400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 50 еп.: Пікова дама 2 ч.</title>
+  </programme>
+  <programme start="20241211221400 +0200" stop="20241211223700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 1 випуск: Два вбитих міліціонера 1 ч.</title>
+  </programme>
+  <programme start="20241211223700 +0200" stop="20241211232000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 44 еп.: Зникаючий рід</title>
+  </programme>
+  <programme start="20241211232000 +0200" stop="20241211234900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 45 еп.: В обіймах 1 ч.</title>
+  </programme>
+  <programme start="20241211234900 +0200" stop="20241212001300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 45 еп.: В обіймах 2 ч.</title>
+  </programme>
+  <programme start="20241212001300 +0200" stop="20241212003900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 46 еп.: Навіжений 1 ч.</title>
+  </programme>
+  <programme start="20241212003900 +0200" stop="20241212010500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 46 еп.: Навіжений 2 ч.</title>
+  </programme>
+  <programme start="20241212010500 +0200" stop="20241212012800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 47 еп.: Тіні предків 1 ч.</title>
+  </programme>
+  <programme start="20241212012800 +0200" stop="20241212015400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 47 еп.: Тіні предків 2 ч.</title>
+  </programme>
+  <programme start="20241212015400 +0200" stop="20241212022500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 48 еп.: Шаманка 1 ч.</title>
+  </programme>
+  <programme start="20241212022500 +0200" stop="20241212024700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 48 еп.: Шаманка 2 ч.</title>
+  </programme>
+  <programme start="20241212024700 +0200" stop="20241212031200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 49 еп.: Усиновлена 1 ч.</title>
+  </programme>
+  <programme start="20241212031200 +0200" stop="20241212033800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 49 еп.: Усиновлена 2 ч.</title>
+  </programme>
+  <programme start="20241212033800 +0200" stop="20241212040200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 50 еп.: Пікова дама 1 ч.</title>
+  </programme>
+  <programme start="20241212040200 +0200" stop="20241212042500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 50 еп.: Пікова дама 2 ч.</title>
+  </programme>
+  <programme start="20241212042500 +0200" stop="20241212044900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 1 випуск: Два вбитих міліціонера 1 ч.</title>
+  </programme>
+  <programme start="20241212044900 +0200" stop="20241212053100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 44 еп.: Зникаючий рід</title>
+  </programme>
+  <programme start="20241212053100 +0200" stop="20241212060000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 45 еп.: В обіймах 1 ч.</title>
+  </programme>
+  <programme start="20241212060000 +0200" stop="20241212062500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 45 еп.: В обіймах 2 ч.</title>
+  </programme>
+  <programme start="20241212062500 +0200" stop="20241212065100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 46 еп.: Навіжений 1 ч.</title>
+  </programme>
+  <programme start="20241212065100 +0200" stop="20241212071700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 46 еп.: Навіжений 2 ч.</title>
+  </programme>
+  <programme start="20241212071700 +0200" stop="20241212074000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 47 еп.: Тіні предків 1 ч.</title>
+  </programme>
+  <programme start="20241212074000 +0200" stop="20241212080500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 47 еп.: Тіні предків 2 ч.</title>
+  </programme>
+  <programme start="20241212080500 +0200" stop="20241212083600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 48 еп.: Шаманка 1 ч.</title>
+  </programme>
+  <programme start="20241212083600 +0200" stop="20241212085800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 48 еп.: Шаманка 2 ч.</title>
+  </programme>
+  <programme start="20241212085800 +0200" stop="20241212092300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 49 еп.: Усиновлена 1 ч.</title>
+  </programme>
+  <programme start="20241212092300 +0200" stop="20241212095000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 49 еп.: Усиновлена 2 ч.</title>
+  </programme>
+  <programme start="20241212095000 +0200" stop="20241212101300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 50 еп.: Пікова дама 1 ч.</title>
+  </programme>
+  <programme start="20241212101300 +0200" stop="20241212103700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 50 еп.: Пікова дама 2 ч.</title>
+  </programme>
+  <programme start="20241212103700 +0200" stop="20241212110000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 1 випуск: Два вбитих міліціонера 1 ч.</title>
+  </programme>
+  <programme start="20241212110000 +0200" stop="20241212114300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 44 еп.: Зникаючий рід</title>
+  </programme>
+  <programme start="20241212114300 +0200" stop="20241212121200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 45 еп.: В обіймах 1 ч.</title>
+  </programme>
+  <programme start="20241212121200 +0200" stop="20241212123600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 45 еп.: В обіймах 2 ч.</title>
+  </programme>
+  <programme start="20241212123600 +0200" stop="20241212130200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 46 еп.: Навіжений 1 ч.</title>
+  </programme>
+  <programme start="20241212130200 +0200" stop="20241212132900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 46 еп.: Навіжений 2 ч.</title>
+  </programme>
+  <programme start="20241212132900 +0200" stop="20241212135100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 47 еп.: Тіні предків 1 ч.</title>
+  </programme>
+  <programme start="20241212135100 +0200" stop="20241212141700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 47 еп.: Тіні предків 2 ч.</title>
+  </programme>
+  <programme start="20241212141700 +0200" stop="20241212144800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 48 еп.: Шаманка 1 ч.</title>
+  </programme>
+  <programme start="20241212144800 +0200" stop="20241212151000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 48 еп.: Шаманка 2 ч.</title>
+  </programme>
+  <programme start="20241212151000 +0200" stop="20241212153500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 49 еп.: Усиновлена 1 ч.</title>
+  </programme>
+  <programme start="20241212153500 +0200" stop="20241212160200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 49 еп.: Усиновлена 2 ч.</title>
+  </programme>
+  <programme start="20241212160200 +0200" stop="20241212162500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 50 еп.: Пікова дама 1 ч.</title>
+  </programme>
+  <programme start="20241212162500 +0200" stop="20241212165300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 6 сезон, 50 еп.: Пікова дама 2 ч.</title>
+  </programme>
+  <programme start="20241212165300 +0200" stop="20241212172100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 1 випуск: Два вбитих міліціонера 2 ч.</title>
+  </programme>
+  <programme start="20241212172100 +0200" stop="20241212174000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 2 випуск: Згвалтований хлопчик 1 ч.</title>
+  </programme>
+  <programme start="20241212174000 +0200" stop="20241212181000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 2 випуск: Згвалтований хлопчик 2 ч.</title>
+  </programme>
+  <programme start="20241212181000 +0200" stop="20241212183000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 5 випуск: Хлопчик на рейках 1 ч.</title>
+  </programme>
+  <programme start="20241212183000 +0200" stop="20241212185600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 5 випуск: Хлопчик на рейках 2 ч.</title>
+  </programme>
+  <programme start="20241212185600 +0200" stop="20241212192200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 6 випуск: Цвинтарна огорожа 1 ч.</title>
+  </programme>
+  <programme start="20241212192200 +0200" stop="20241212194700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 6 випуск: Цвинтарна огорожа 2 ч.</title>
+  </programme>
+  <programme start="20241212194700 +0200" stop="20241212200600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 7 випуск: Загинула в ДТП 1 ч.</title>
+  </programme>
+  <programme start="20241212200600 +0200" stop="20241212203600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 7 випуск: Загинула в ДТП 2 ч.</title>
+  </programme>
+  <programme start="20241212203600 +0200" stop="20241212205600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 8 випуск: Затонувший хлопчик 1 ч.</title>
+  </programme>
+  <programme start="20241212205600 +0200" stop="20241212212300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 8 випуск: Затонувший хлопчик 2 ч.</title>
+  </programme>
+  <programme start="20241212212300 +0200" stop="20241212214900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 9 випуск: Мотоцикл 1 ч.</title>
+  </programme>
+  <programme start="20241212214900 +0200" stop="20241212221400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 9 випуск: Мотоцикл 2 ч.</title>
+  </programme>
+  <programme start="20241212221400 +0200" stop="20241212223000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 10 випуск: Повішена дівчина 1 ч.</title>
+  </programme>
+  <programme start="20241212223000 +0200" stop="20241212225900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 10 випуск: Повішена дівчина 2 ч.</title>
+  </programme>
+  <programme start="20241212225900 +0200" stop="20241212232700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 1 випуск: Два вбитих міліціонера 2 ч.</title>
+  </programme>
+  <programme start="20241212232700 +0200" stop="20241212234600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 2 випуск: Згвалтований хлопчик 1 ч.</title>
+  </programme>
+  <programme start="20241212234600 +0200" stop="20241213001600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 2 випуск: Згвалтований хлопчик 2 ч.</title>
+  </programme>
+  <programme start="20241213001600 +0200" stop="20241213003600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 5 випуск: Хлопчик на рейках 1 ч.</title>
+  </programme>
+  <programme start="20241213003600 +0200" stop="20241213010200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 5 випуск: Хлопчик на рейках 2 ч.</title>
+  </programme>
+  <programme start="20241213010200 +0200" stop="20241213012800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 6 випуск: Цвинтарна огорожа 1 ч.</title>
+  </programme>
+  <programme start="20241213012800 +0200" stop="20241213015300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 6 випуск: Цвинтарна огорожа 2 ч.</title>
+  </programme>
+  <programme start="20241213015300 +0200" stop="20241213021200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 7 випуск: Загинула в ДТП 1 ч.</title>
+  </programme>
+  <programme start="20241213021200 +0200" stop="20241213024200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 7 випуск: Загинула в ДТП 2 ч.</title>
+  </programme>
+  <programme start="20241213024200 +0200" stop="20241213030200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 8 випуск: Затонувший хлопчик 1 ч.</title>
+  </programme>
+  <programme start="20241213030200 +0200" stop="20241213032900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 8 випуск: Затонувший хлопчик 2 ч.</title>
+  </programme>
+  <programme start="20241213032900 +0200" stop="20241213035500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 9 випуск: Мотоцикл 1 ч.</title>
+  </programme>
+  <programme start="20241213035500 +0200" stop="20241213042000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 9 випуск: Мотоцикл 2 ч.</title>
+  </programme>
+  <programme start="20241213042000 +0200" stop="20241213043600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 10 випуск: Повішена дівчина 1 ч.</title>
+  </programme>
+  <programme start="20241213043600 +0200" stop="20241213050500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 10 випуск: Повішена дівчина 2 ч.</title>
+  </programme>
+  <programme start="20241213050500 +0200" stop="20241213053300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 1 випуск: Два вбитих міліціонера 2 ч.</title>
+  </programme>
+  <programme start="20241213053300 +0200" stop="20241213055200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 2 випуск: Згвалтований хлопчик 1 ч.</title>
+  </programme>
+  <programme start="20241213055200 +0200" stop="20241213062200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 2 випуск: Згвалтований хлопчик 2 ч.</title>
+  </programme>
+  <programme start="20241213062200 +0200" stop="20241213064200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 5 випуск: Хлопчик на рейках 1 ч.</title>
+  </programme>
+  <programme start="20241213064200 +0200" stop="20241213070800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 5 випуск: Хлопчик на рейках 2 ч.</title>
+  </programme>
+  <programme start="20241213070800 +0200" stop="20241213073400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 6 випуск: Цвинтарна огорожа 1 ч.</title>
+  </programme>
+  <programme start="20241213073400 +0200" stop="20241213075900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 6 випуск: Цвинтарна огорожа 2 ч.</title>
+  </programme>
+  <programme start="20241213075900 +0200" stop="20241213081800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 7 випуск: Загинула в ДТП 1 ч.</title>
+  </programme>
+  <programme start="20241213081800 +0200" stop="20241213084800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 7 випуск: Загинула в ДТП 2 ч.</title>
+  </programme>
+  <programme start="20241213084800 +0200" stop="20241213090800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 8 випуск: Затонувший хлопчик 1 ч.</title>
+  </programme>
+  <programme start="20241213090800 +0200" stop="20241213093500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 8 випуск: Затонувший хлопчик 2 ч.</title>
+  </programme>
+  <programme start="20241213093500 +0200" stop="20241213100100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 9 випуск: Мотоцикл 1 ч.</title>
+  </programme>
+  <programme start="20241213100100 +0200" stop="20241213102600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 9 випуск: Мотоцикл 2 ч.</title>
+  </programme>
+  <programme start="20241213102600 +0200" stop="20241213104200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 10 випуск: Повішена дівчина 1 ч.</title>
+  </programme>
+  <programme start="20241213104200 +0200" stop="20241213111100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 10 випуск: Повішена дівчина 2 ч.</title>
+  </programme>
+  <programme start="20241213111100 +0200" stop="20241213113900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 1 випуск: Два вбитих міліціонера 2 ч.</title>
+  </programme>
+  <programme start="20241213113900 +0200" stop="20241213115800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 2 випуск: Згвалтований хлопчик 1 ч.</title>
+  </programme>
+  <programme start="20241213115800 +0200" stop="20241213122800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 2 випуск: Згвалтований хлопчик 2 ч.</title>
+  </programme>
+  <programme start="20241213122800 +0200" stop="20241213124800 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 5 випуск: Хлопчик на рейках 1 ч.</title>
+  </programme>
+  <programme start="20241213124800 +0200" stop="20241213131400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 5 випуск: Хлопчик на рейках 2 ч.</title>
+  </programme>
+  <programme start="20241213131400 +0200" stop="20241213134000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 6 випуск: Цвинтарна огорожа 1 ч.</title>
+  </programme>
+  <programme start="20241213134000 +0200" stop="20241213140500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 6 випуск: Цвинтарна огорожа 2 ч.</title>
+  </programme>
+  <programme start="20241213140500 +0200" stop="20241213142400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 7 випуск: Загинула в ДТП 1 ч.</title>
+  </programme>
+  <programme start="20241213142400 +0200" stop="20241213145400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 7 випуск: Загинула в ДТП 2 ч.</title>
+  </programme>
+  <programme start="20241213145400 +0200" stop="20241213151400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 8 випуск: Затонувший хлопчик 1 ч.</title>
+  </programme>
+  <programme start="20241213151400 +0200" stop="20241213154100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 8 випуск: Затонувший хлопчик 2 ч.</title>
+  </programme>
+  <programme start="20241213154100 +0200" stop="20241213160700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 9 випуск: Мотоцикл 1 ч.</title>
+  </programme>
+  <programme start="20241213160700 +0200" stop="20241213163200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 9 випуск: Мотоцикл 2 ч.</title>
+  </programme>
+  <programme start="20241213163200 +0200" stop="20241213165300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 10 випуск: Повішена дівчина 1 ч.</title>
+  </programme>
+  <programme start="20241213165300 +0200" stop="20241213171200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 11 випуск: Загибла підприємниця 1 ч.</title>
+  </programme>
+  <programme start="20241213171200 +0200" stop="20241213173500 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 11 випуск: Загибла підприємниця 2 ч.</title>
+  </programme>
+  <programme start="20241213173500 +0200" stop="20241213180200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 12 випуск: Смерть від сексуальної перевтоми 1 ч.</title>
+  </programme>
+  <programme start="20241213180200 +0200" stop="20241213182700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 12 випуск: Смерть від сексуальної перевтоми 2 ч.</title>
+  </programme>
+  <programme start="20241213182700 +0200" stop="20241213184300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 13 випуск: Школярку вбил однокласник 1 ч.</title>
+  </programme>
+  <programme start="20241213184300 +0200" stop="20241213191600 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 13 випуск: Школярку вбил однокласник 2 ч.</title>
+  </programme>
+  <programme start="20241213191600 +0200" stop="20241213193900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 14 випуск: Дірки у голові 1 ч.</title>
+  </programme>
+  <programme start="20241213193900 +0200" stop="20241213195900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 14 випуск: Дірки у голові 2 ч.</title>
+  </programme>
+  <programme start="20241213195900 +0200" stop="20241213202300 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 15 випуск: Фантом-вбивця 1 ч.</title>
+  </programme>
+  <programme start="20241213202300 +0200" stop="20241213204900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 15 випуск: Фантом-вбивця 2 ч.</title>
+  </programme>
+  <programme start="20241213204900 +0200" stop="20241213211000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 16 випуск: Вбита продавщиця 1 ч.</title>
+  </programme>
+  <programme start="20241213211000 +0200" stop="20241213213900 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 16 випуск: Вбита продавщиця 2 ч.</title>
+  </programme>
+  <programme start="20241213213900 +0200" stop="20241213223100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 2 сезон, 1 випуск: Вагітна в кар'єрі</title>
+  </programme>
+  <programme start="20241213223100 +0200" stop="20241213225000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 11 випуск: Загибла підприємниця 1 ч.</title>
+  </programme>
+  <programme start="20241213225000 +0200" stop="20241213231200 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 11 випуск: Загибла підприємниця 2 ч.</title>
+  </programme>
+  <programme start="20241213231200 +0200" stop="20241213234000 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 12 випуск: Смерть від сексуальної перевтоми 1 ч.</title>
+  </programme>
+  <programme start="20241213234000 +0200" stop="20241214000400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 12 випуск: Смерть від сексуальної перевтоми 2 ч.</title>
+  </programme>
+  <programme start="20241214000400 +0200" stop="20241214002100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 13 випуск: Школярку вбил однокласник 1 ч.</title>
+  </programme>
+  <programme start="20241214002100 +0200" stop="20241214005400 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 13 випуск: Школярку вбил однокласник 2 ч.</title>
+  </programme>
+  <programme start="20241214005400 +0200" stop="20241214011700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 14 випуск: Дірки у голові 1 ч.</title>
+  </programme>
+  <programme start="20241214011700 +0200" stop="20241214013700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 14 випуск: Дірки у голові 2 ч.</title>
+  </programme>
+  <programme start="20241214013700 +0200" stop="20241214020100 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 15 випуск: Фантом-вбивця 1 ч.</title>
+  </programme>
+  <programme start="20241214020100 +0200" stop="20241214022700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 15 випуск: Фантом-вбивця 2 ч.</title>
+  </programme>
+  <programme start="20241214022700 +0200" stop="20241214032700 +0200" channel="17">
+    <title lang="ru">Слідство ведуть екстрасенси 1 сезон, 16 випуск: Вбита продавщиця 1 ч.</title>
   </programme>
   <programme start="20241209022600 +0200" stop="20241209032600 +0200" channel="18">
     <title lang="ru">"Супермама", 5 сезон, 22 еп. "Покер-мама Віка любить статусних чоловіків".</title>
@@ -6414,8 +8487,80 @@
   <programme start="20241212024600 +0200" stop="20241212034500 +0200" channel="18">
     <title lang="ru">"Супермама", 6 сезон, 30 еп. "Мама-артистка Таня поєднує гастрольне життя і виховання дітей".</title>
   </programme>
-  <programme start="20241212034500 +0200" stop="20241212044500 +0200" channel="18">
+  <programme start="20241212034500 +0200" stop="20241212054300 +0200" channel="18">
     <title lang="ru">"Супермама", 6 сезон, 31 еп. "Сильна й незалежна мама Катя виснажує себе заради трьох дітей".</title>
+  </programme>
+  <programme start="20241212054300 +0200" stop="20241212062600 +0200" channel="18">
+    <title lang="ru">"Супермама", 6 сезон, 8 еп. "Демократична мама Аліса відстоює свободу дочки чи просто лінується?".</title>
+  </programme>
+  <programme start="20241212062600 +0200" stop="20241212072900 +0200" channel="18">
+    <title lang="ru">"Супербабуся", 2 сезон, 21 еп. "Богемна бабуся Світлана справжній контролер для своєї родини".</title>
+  </programme>
+  <programme start="20241212072900 +0200" stop="20241212082600 +0200" channel="18">
+    <title lang="ru">"Супербабуся", 2 сезон, 22 еп. "Бабуся-квочка Наталя 24/7 з онуками".</title>
+  </programme>
+  <programme start="20241212082600 +0200" stop="20241212092400 +0200" channel="18">
+    <title lang="ru">"Супербабуся", 2 сезон, 23 еп. "Бабуся-фрукторіанка Наталі практикує нудизм і любить експерименти".</title>
+  </programme>
+  <programme start="20241212092400 +0200" stop="20241212101700 +0200" channel="18">
+    <title lang="ru">"Супербабуся", 2 сезон, 24 еп. "Бабуся-командир Мартинова виховала трьох дівчат-військових".</title>
+  </programme>
+  <programme start="20241212101700 +0200" stop="20241212111600 +0200" channel="18">
+    <title lang="ru">"Супербабуся", 1 сезон, 1 еп. "Гламурна бабуся Ольга вчить внучку фарбуватися, а не читати".</title>
+  </programme>
+  <programme start="20241212111600 +0200" stop="20241212121400 +0200" channel="18">
+    <title lang="ru">"Супербабуся", 1 сезон, 2 еп. "Бабуся-лісова царівна".</title>
+  </programme>
+  <programme start="20241212121400 +0200" stop="20241212131200 +0200" channel="18">
+    <title lang="ru">"Супербабуся", 1 сезон, 3 еп. "Бабуся-модель Лілія приховує страшну правду".</title>
+  </programme>
+  <programme start="20241212131200 +0200" stop="20241212141000 +0200" channel="18">
+    <title lang="ru">"Супербабуся", 1 сезон, 4 еп. "Бабуся-зірвиголова Лана ризикує життям заради вічної молодості".</title>
+  </programme>
+  <programme start="20241212141000 +0200" stop="20241212150900 +0200" channel="18">
+    <title lang="ru">"Супермама", 4 сезон, 45 еп. "Мама-всесвіт Тетяна живе заради материнства?".</title>
+  </programme>
+  <programme start="20241212150900 +0200" stop="20241212160700 +0200" channel="18">
+    <title lang="ru">"Супермама", 4 сезон, 46 еп. "Східна мама Лана жертвує собою заради сімейного благополуччя".</title>
+  </programme>
+  <programme start="20241212160700 +0200" stop="20241212170300 +0200" channel="18">
+    <title lang="ru">"Супермама", 4 сезон, 47 еп. "Мама-імператриця в ресурсі, моменті та потоці".</title>
+  </programme>
+  <programme start="20241212170300 +0200" stop="20241212180000 +0200" channel="18">
+    <title lang="ru">"Супермама", 4 сезон, 48 еп. "Мама-інфлюенсерка Таня хайпує на материнстві?".</title>
+  </programme>
+  <programme start="20241212180000 +0200" stop="20241212190000 +0200" channel="18">
+    <title lang="ru">"Супермама", 6 сезон, 53 еп. "Мама з пропелером Галя взяла участь у шоу, щоб врятувати родину?".</title>
+  </programme>
+  <programme start="20241212190000 +0200" stop="20241212195900 +0200" channel="18">
+    <title lang="ru">"Супермама", 6 сезон, 54 еп. "Енергетична мама Анна знає, як приручити божественну енергію".</title>
+  </programme>
+  <programme start="20241212195900 +0200" stop="20241212205900 +0200" channel="18">
+    <title lang="ru">"Супермама", 6 сезон, 55 еп. "Мама спец. призначення Олена муштрує синів і хоче на передову?".</title>
+  </programme>
+  <programme start="20241212205900 +0200" stop="20241212215900 +0200" channel="18">
+    <title lang="ru">"Супермама", 6 сезон, 56 еп. "Мама за екологію Катя надмірно опікує сина".</title>
+  </programme>
+  <programme start="20241212215900 +0200" stop="20241212225700 +0200" channel="18">
+    <title lang="ru">"Супермама", 4 сезон, 9 еп. "Гламурна фотомодель Даша живе в тотальному контролі".</title>
+  </programme>
+  <programme start="20241212225700 +0200" stop="20241212235600 +0200" channel="18">
+    <title lang="ru">"Супермама", 4 сезон, 10 еп. "Мама Леся завжди на коні".</title>
+  </programme>
+  <programme start="20241212235600 +0200" stop="20241213005400 +0200" channel="18">
+    <title lang="ru">"Супермама", 4 сезон, 11 еп. "Мама-цариця Іра ходить на побачення із синами".</title>
+  </programme>
+  <programme start="20241213005400 +0200" stop="20241213015200 +0200" channel="18">
+    <title lang="ru">"Супермама", 4 сезон, 12 еп. "Мама-героїня Ліля насправді аферистка?".</title>
+  </programme>
+  <programme start="20241213015200 +0200" stop="20241213025300 +0200" channel="18">
+    <title lang="ru">"Супермама", 6 сезон, 33 еп. "Мама-диригентка Оля запровадила в родині матріархат".</title>
+  </programme>
+  <programme start="20241213025300 +0200" stop="20241213034900 +0200" channel="18">
+    <title lang="ru">"Супермама", 6 сезон, 34 еп. "Кайфова мама Катя запропонувала суперницям фотосесію".</title>
+  </programme>
+  <programme start="20241213034900 +0200" stop="20241213044900 +0200" channel="18">
+    <title lang="ru">"Супермама", 6 сезон, 35 еп. "Мама на зарплаті Маріанна страждає через власні комплекси".</title>
   </programme>
   <programme start="20241209022400 +0200" stop="20241209031300 +0200" channel="22">
     <title lang="ru">Один за всіх 245 еп.</title>
@@ -6945,8 +9090,146 @@
   <programme start="20241213012500 +0200" stop="20241213015100 +0200" channel="22">
     <title lang="ru">Один за всіх 73 еп., 1 ч.</title>
   </programme>
-  <programme start="20241213015100 +0200" stop="20241213025100 +0200" channel="22">
+  <programme start="20241213015100 +0200" stop="20241213023300 +0200" channel="22">
     <title lang="ru">Один за всіх 73 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213023300 +0200" stop="20241213030000 +0200" channel="22">
+    <title lang="ru">Один за всіх 75 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213030000 +0200" stop="20241213033400 +0200" channel="22">
+    <title lang="ru">Один за всіх 75 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213033400 +0200" stop="20241213035700 +0200" channel="22">
+    <title lang="ru">Один за всіх 76 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213035700 +0200" stop="20241213042200 +0200" channel="22">
+    <title lang="ru">Один за всіх 76 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213042200 +0200" stop="20241213044500 +0200" channel="22">
+    <title lang="ru">Один за всіх 70 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213044500 +0200" stop="20241213052300 +0200" channel="22">
+    <title lang="ru">Один за всіх 70 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213052300 +0200" stop="20241213054600 +0200" channel="22">
+    <title lang="ru">Один за всіх 71 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213054600 +0200" stop="20241213063200 +0200" channel="22">
+    <title lang="ru">Один за всіх 71 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213063200 +0200" stop="20241213065900 +0200" channel="22">
+    <title lang="ru">Один за всіх 72 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213065900 +0200" stop="20241213073400 +0200" channel="22">
+    <title lang="ru">Один за всіх 72 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213073400 +0200" stop="20241213080000 +0200" channel="22">
+    <title lang="ru">Один за всіх 73 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213080000 +0200" stop="20241213084200 +0200" channel="22">
+    <title lang="ru">Один за всіх 73 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213084200 +0200" stop="20241213090900 +0200" channel="22">
+    <title lang="ru">Один за всіх 75 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213090900 +0200" stop="20241213094300 +0200" channel="22">
+    <title lang="ru">Один за всіх 75 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213094300 +0200" stop="20241213100600 +0200" channel="22">
+    <title lang="ru">Один за всіх 76 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213100600 +0200" stop="20241213103000 +0200" channel="22">
+    <title lang="ru">Один за всіх 76 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213103000 +0200" stop="20241213105400 +0200" channel="22">
+    <title lang="ru">Один за всіх 70 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213105400 +0200" stop="20241213113200 +0200" channel="22">
+    <title lang="ru">Один за всіх 70 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213113200 +0200" stop="20241213115500 +0200" channel="22">
+    <title lang="ru">Один за всіх 71 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213115500 +0200" stop="20241213124100 +0200" channel="22">
+    <title lang="ru">Один за всіх 71 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213124100 +0200" stop="20241213130800 +0200" channel="22">
+    <title lang="ru">Один за всіх 72 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213130800 +0200" stop="20241213134300 +0200" channel="22">
+    <title lang="ru">Один за всіх 72 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213134300 +0200" stop="20241213140900 +0200" channel="22">
+    <title lang="ru">Один за всіх 73 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213140900 +0200" stop="20241213145000 +0200" channel="22">
+    <title lang="ru">Один за всіх 73 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213145000 +0200" stop="20241213151700 +0200" channel="22">
+    <title lang="ru">Один за всіх 75 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213151700 +0200" stop="20241213155200 +0200" channel="22">
+    <title lang="ru">Один за всіх 75 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213155200 +0200" stop="20241213161700 +0200" channel="22">
+    <title lang="ru">Один за всіх 77 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213161700 +0200" stop="20241213165400 +0200" channel="22">
+    <title lang="ru">Один за всіх 77 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213165400 +0200" stop="20241213172000 +0200" channel="22">
+    <title lang="ru">Один за всіх 78 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213172000 +0200" stop="20241213174500 +0200" channel="22">
+    <title lang="ru">Один за всіх 78 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213174500 +0200" stop="20241213181600 +0200" channel="22">
+    <title lang="ru">Один за всіх 79 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213181600 +0200" stop="20241213184600 +0200" channel="22">
+    <title lang="ru">Один за всіх 79 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213184600 +0200" stop="20241213191500 +0200" channel="22">
+    <title lang="ru">Один за всіх 80 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213191500 +0200" stop="20241213200100 +0200" channel="22">
+    <title lang="ru">Один за всіх 80 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213200100 +0200" stop="20241213203300 +0200" channel="22">
+    <title lang="ru">Один за всіх 81 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213203300 +0200" stop="20241213211100 +0200" channel="22">
+    <title lang="ru">Один за всіх 81 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213211100 +0200" stop="20241213214800 +0200" channel="22">
+    <title lang="ru">Один за всіх 82 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213214800 +0200" stop="20241213222800 +0200" channel="22">
+    <title lang="ru">Один за всіх 82 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213222800 +0200" stop="20241213225300 +0200" channel="22">
+    <title lang="ru">Один за всіх 77 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213225300 +0200" stop="20241213233000 +0200" channel="22">
+    <title lang="ru">Один за всіх 77 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241213233000 +0200" stop="20241213235600 +0200" channel="22">
+    <title lang="ru">Один за всіх 78 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241213235600 +0200" stop="20241214002100 +0200" channel="22">
+    <title lang="ru">Один за всіх 78 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241214002100 +0200" stop="20241214005200 +0200" channel="22">
+    <title lang="ru">Один за всіх 79 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241214005200 +0200" stop="20241214012300 +0200" channel="22">
+    <title lang="ru">Один за всіх 79 еп., 2 ч.</title>
+  </programme>
+  <programme start="20241214012300 +0200" stop="20241214015200 +0200" channel="22">
+    <title lang="ru">Один за всіх 80 еп., 1 ч.</title>
+  </programme>
+  <programme start="20241214015200 +0200" stop="20241214025200 +0200" channel="22">
+    <title lang="ru">Один за всіх 80 еп., 2 ч.</title>
   </programme>
   <programme start="20241209025800 +0200" stop="20241209034900 +0200" channel="28">
     <title lang="ru">Стосується кожного, 4 сезон, 115 випуск</title>
@@ -7221,8 +9504,74 @@
   <programme start="20241212234500 +0200" stop="20241213012200 +0200" channel="28">
     <title lang="ru">Стосується кожного, 7 сезон, 187 випуск</title>
   </programme>
-  <programme start="20241213012200 +0200" stop="20241213022200 +0200" channel="28">
+  <programme start="20241213012200 +0200" stop="20241213025800 +0200" channel="28">
     <title lang="ru">Стосується кожного, 9 сезон, 1 випуск</title>
+  </programme>
+  <programme start="20241213025800 +0200" stop="20241213034900 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 9 сезон, 2 випуск</title>
+  </programme>
+  <programme start="20241213034900 +0200" stop="20241213043900 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 7 сезон, 182 випуск</title>
+  </programme>
+  <programme start="20241213043900 +0200" stop="20241213053000 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 7 сезон, 183 випуск</title>
+  </programme>
+  <programme start="20241213053000 +0200" stop="20241213062200 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 8 сезон, 61 випуск</title>
+  </programme>
+  <programme start="20241213062200 +0200" stop="20241213071300 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 8 сезон, 62 випуск</title>
+  </programme>
+  <programme start="20241213071300 +0200" stop="20241213080400 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 8 сезон, 63 випуск</title>
+  </programme>
+  <programme start="20241213080400 +0200" stop="20241213085600 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 8 сезон, 64 випуск</title>
+  </programme>
+  <programme start="20241213085600 +0200" stop="20241213103200 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 8 сезон, 65 випуск</title>
+  </programme>
+  <programme start="20241213103200 +0200" stop="20241213112400 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 7 сезон, 186 випуск</title>
+  </programme>
+  <programme start="20241213112400 +0200" stop="20241213130000 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 7 сезон, 187 випуск</title>
+  </programme>
+  <programme start="20241213130000 +0200" stop="20241213143600 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 9 сезон, 1 випуск</title>
+  </programme>
+  <programme start="20241213143600 +0200" stop="20241213152800 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 9 сезон, 2 випуск</title>
+  </programme>
+  <programme start="20241213152800 +0200" stop="20241213161900 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 8 сезон, 62 випуск</title>
+  </programme>
+  <programme start="20241213161900 +0200" stop="20241213171000 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 8 сезон, 63 випуск</title>
+  </programme>
+  <programme start="20241213171000 +0200" stop="20241213180200 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 8 сезон, 64 випуск</title>
+  </programme>
+  <programme start="20241213180200 +0200" stop="20241213193800 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 8 сезон, 65 випуск</title>
+  </programme>
+  <programme start="20241213193800 +0200" stop="20241213202700 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 7 сезон, 182 випуск</title>
+  </programme>
+  <programme start="20241213202700 +0200" stop="20241213211900 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 7 сезон, 183 випуск</title>
+  </programme>
+  <programme start="20241213211900 +0200" stop="20241213225500 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 7 сезон, 184 випуск</title>
+  </programme>
+  <programme start="20241213225500 +0200" stop="20241214003100 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 7 сезон, 185 випуск</title>
+  </programme>
+  <programme start="20241214003100 +0200" stop="20241214012200 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 9 сезон, 3 випуск</title>
+  </programme>
+  <programme start="20241214012200 +0200" stop="20241214022200 +0200" channel="28">
+    <title lang="ru">Стосується кожного, 9 сезон, 4 випуск</title>
   </programme>
   <programme start="20241209023200 +0200" stop="20241209032000 +0200" channel="29">
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 2 с. "Повстання ферзя".</title>
@@ -7530,7 +9879,112 @@
   <programme start="20241212024500 +0200" stop="20241212033200 +0200" channel="29">
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 4 с. "Шило на мило (Байкери)".</title>
   </programme>
-  <programme start="20241212033200 +0200" stop="20241212043200 +0200" channel="29">
+  <programme start="20241212033200 +0200" stop="20241212050200 +0200" channel="29">
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 19 с. "Мої гості - мої правила".</title>
+  </programme>
+  <programme start="20241212050200 +0200" stop="20241212055100 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 21 с. "Звичка одружуватися".</title>
+  </programme>
+  <programme start="20241212055100 +0200" stop="20241212063900 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 22 с. "Відчайдушна домогосподарка".</title>
+  </programme>
+  <programme start="20241212063900 +0200" stop="20241212072400 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 41 с. "Хочу пацана".</title>
+  </programme>
+  <programme start="20241212072400 +0200" stop="20241212081000 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 42 с. "Змін, потребують наші серця".</title>
+  </programme>
+  <programme start="20241212081000 +0200" stop="20241212085400 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 43 с. "Печиво та шоколад".</title>
+  </programme>
+  <programme start="20241212085400 +0200" stop="20241212094100 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 44 с. "Пристрасті, як у серіалі".</title>
+  </programme>
+  <programme start="20241212094100 +0200" stop="20241212110600 +0200" channel="29">
+    <title lang="ru">"Вар'яти", 2 сезон, 2 еп.</title>
+  </programme>
+  <programme start="20241212110600 +0200" stop="20241212122300 +0200" channel="29">
+    <title lang="ru">"Вар'яти", 2 сезон, 3 еп.</title>
+  </programme>
+  <programme start="20241212122300 +0200" stop="20241212134700 +0200" channel="29">
+    <title lang="ru">"Вар'яти", 2 сезон, 4 еп.</title>
+  </programme>
+  <programme start="20241212134700 +0200" stop="20241212150900 +0200" channel="29">
+    <title lang="ru">"Вар'яти", 2 сезон, 5 еп.</title>
+  </programme>
+  <programme start="20241212150900 +0200" stop="20241212163200 +0200" channel="29">
+    <title lang="ru">"Вар'яти", 2 сезон, 6 еп.</title>
+  </programme>
+  <programme start="20241212163200 +0200" stop="20241212180000 +0200" channel="29">
+    <title lang="ru">"Вар'яти", 2 сезон, 7 еп.</title>
+  </programme>
+  <programme start="20241212180000 +0200" stop="20241212182300 +0200" channel="29">
+    <title lang="ru">Т/с "Друзі", 1 сезон, 21 с.</title>
+  </programme>
+  <programme start="20241212182300 +0200" stop="20241212184600 +0200" channel="29">
+    <title lang="ru">Т/с "Друзі", 1 сезон, 22 с.</title>
+  </programme>
+  <programme start="20241212184600 +0200" stop="20241212190900 +0200" channel="29">
+    <title lang="ru">Т/с "Друзі", 1 сезон, 23 с.</title>
+  </programme>
+  <programme start="20241212190900 +0200" stop="20241212193200 +0200" channel="29">
+    <title lang="ru">Т/с "Друзі", 1 сезон, 24 с.</title>
+  </programme>
+  <programme start="20241212193200 +0200" stop="20241212195400 +0200" channel="29">
+    <title lang="ru">Т/с "Друзі", 2 сезон, 1 с.</title>
+  </programme>
+  <programme start="20241212195400 +0200" stop="20241212201700 +0200" channel="29">
+    <title lang="ru">Т/с "Друзі", 2 сезон, 2 с.</title>
+  </programme>
+  <programme start="20241212201700 +0200" stop="20241212204000 +0200" channel="29">
+    <title lang="ru">Т/с "Друзі", 2 сезон, 3 с.</title>
+  </programme>
+  <programme start="20241212204000 +0200" stop="20241212210300 +0200" channel="29">
+    <title lang="ru">Т/с "Друзі", 2 сезон, 4 с.</title>
+  </programme>
+  <programme start="20241212210300 +0200" stop="20241212212500 +0200" channel="29">
+    <title lang="ru">М/с "Сімпсони", 22 сезон, 5 с. "Лісо Сімпсон, це не твоє життя".</title>
+  </programme>
+  <programme start="20241212212500 +0200" stop="20241212214700 +0200" channel="29">
+    <title lang="ru">М/с "Сімпсони", 22 сезон, 6 с. "Дурний Монті".</title>
+  </programme>
+  <programme start="20241212214700 +0200" stop="20241212220800 +0200" channel="29">
+    <title lang="ru">М/с "Сімпсони", 22 сезон, 7 с. "Як з'їли ту пташку на вікні?".</title>
+  </programme>
+  <programme start="20241212220800 +0200" stop="20241212222900 +0200" channel="29">
+    <title lang="ru">М/с "Сімпсони", 22 сезон, 3 с. "Барт, який змінив усе".</title>
+  </programme>
+  <programme start="20241212222900 +0200" stop="20241212225100 +0200" channel="29">
+    <title lang="ru">М/с "Сімпсони", 22 сезон, 4 с. "Хатка жахів. Геллоуїн із Сімпсонами XXI".</title>
+  </programme>
+  <programme start="20241212225100 +0200" stop="20241212231500 +0200" channel="29">
+    <title lang="ru">Т/с "Альф", 1 сезон, 16 с.</title>
+  </programme>
+  <programme start="20241212231500 +0200" stop="20241212233800 +0200" channel="29">
+    <title lang="ru">Т/с "Альф", 1 сезон, 15 с.</title>
+  </programme>
+  <programme start="20241212233800 +0200" stop="20241213000100 +0200" channel="29">
+    <title lang="ru">Т/с "Альф", 1 сезон, 14 с.</title>
+  </programme>
+  <programme start="20241213000100 +0200" stop="20241213002500 +0200" channel="29">
+    <title lang="ru">Т/с "Альф", 1 сезон, 13 с.</title>
+  </programme>
+  <programme start="20241213002500 +0200" stop="20241213011200 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 12 с. "Гаражі, хот доги, дід".</title>
+  </programme>
+  <programme start="20241213011200 +0200" stop="20241213015800 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 13 с. "Аутсайдери".</title>
+  </programme>
+  <programme start="20241213015800 +0200" stop="20241213024400 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 14 с. "Боротьба за кабінет".</title>
+  </programme>
+  <programme start="20241213024400 +0200" stop="20241213033100 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 15 с. "Таланти".</title>
+  </programme>
+  <programme start="20241213033100 +0200" stop="20241213040900 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома". "Українська родина".</title>
+  </programme>
+  <programme start="20241213040900 +0200" stop="20241213050900 +0200" channel="29">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 1 с. "Риночні війни".</title>
   </programme>
 </tv>
