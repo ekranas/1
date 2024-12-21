@@ -9,18 +9,6 @@
      <display-name lang="en">Discovery Theater</display-name>
      <icon src="http://ms-epg.minimax-tv.ru/logo/discovery-theatre.png"/>
   </channel>
-  <channel id="tv1000comedy">
-     <display-name lang="en">TV1000 Comedy</display-name>
-     <icon src="http://ms-epg.minimax-tv.ru/logo/tv1000-comedy.png"/>
-  </channel>
-  <channel id="tv1000fantastic">
-     <display-name lang="en">TV1000 Fantastic</display-name>
-     <icon src="http://ms-epg.minimax-tv.ru/logo/tv1000-fant.png"/>
-  </channel>
-  <channel id="tv1000thriller">
-     <display-name lang="en">TV1000 Thriller</display-name>
-     <icon src="http://ms-epg.minimax-tv.ru/logo/tv1000-thril.png"/>
-  </channel>
 <channel id="20century_fox">
      <display-name lang="en">20 Century Fox</display-name>
      <icon src="http://ms-epg.minimax-tv.ru/logo/century-fox.png"/>
