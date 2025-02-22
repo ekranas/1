@@ -312,8 +312,11 @@
   <programme start="20250223215500 +0200" stop="20250224005500 +0200" channel="1">
     <title lang="ru">Список Шиндлера</title>
   </programme>
-  <programme start="20250224005500 +0200" stop="20250224015500 +0200" channel="1">
+  <programme start="20250224005500 +0200" stop="20250224011100 +0200" channel="1">
     <title lang="ru">Список Шиндлера</title>
+  </programme>
+  <programme start="20250224011100 +0200" stop="20250224021100 +0200" channel="1">
+    <title lang="ru">Трансформери: Час вимирання</title>
   </programme>
   <programme start="20250217030300 +0200" stop="20250217050300 +0200" channel="2">
     <title lang="ru">Спліт</title>
@@ -2451,20 +2454,8 @@
   <programme start="20250221032000 +0200" stop="20250221040900 +0200" channel="6">
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 8 с. "Батьки та діти".</title>
   </programme>
-  <programme start="20250221040900 +0200" stop="20250221052400 +0200" channel="6">
+  <programme start="20250221040900 +0200" stop="20250221082900 +0200" channel="6">
     <title lang="ru">Т/с "Коли ми вдома". "Українська родина".</title>
-  </programme>
-  <programme start="20250221052400 +0200" stop="20250221061000 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 17 с. "Авторитет та іномарка".</title>
-  </programme>
-  <programme start="20250221061000 +0200" stop="20250221070200 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 18 с. "Відпочинок нам тільки сниться".</title>
-  </programme>
-  <programme start="20250221070200 +0200" stop="20250221073400 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 19 с. "Босс, шпаргалка, рок-н-ролл".</title>
-  </programme>
-  <programme start="20250221073400 +0200" stop="20250221082900 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 21 с. "Григорій Іванович змінює професію".</title>
   </programme>
   <programme start="20250221082900 +0200" stop="20250221085800 +0200" channel="6">
     <title lang="ru">Т/с "Альф", 3 сезон, 21 с.</title>
@@ -2673,8 +2664,98 @@
   <programme start="20250223030300 +0200" stop="20250223034400 +0200" channel="6">
     <title lang="ru">Т/с "Коли ми вдома". "Українська родина".</title>
   </programme>
-  <programme start="20250223034400 +0200" stop="20250223044400 +0200" channel="6">
+  <programme start="20250223034400 +0200" stop="20250223052200 +0200" channel="6">
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 22 с. "Відчайдушна домогосподарка".</title>
+  </programme>
+  <programme start="20250223052200 +0200" stop="20250223061000 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 24 с. "Переатестація".</title>
+  </programme>
+  <programme start="20250223061000 +0200" stop="20250223070300 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 29 с. "Навчись не нервувати".</title>
+  </programme>
+  <programme start="20250223070300 +0200" stop="20250223075100 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 28 с. "Повернути все назад".</title>
+  </programme>
+  <programme start="20250223075100 +0200" stop="20250223084200 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 27 с. "Про репутацію (Героскутеров багато не буває)".</title>
+  </programme>
+  <programme start="20250223084200 +0200" stop="20250223093100 +0200" channel="6">
+    <title lang="ru">Вар'яти, 5 сезон, 6 еп.</title>
+  </programme>
+  <programme start="20250223093100 +0200" stop="20250223102600 +0200" channel="6">
+    <title lang="ru">Вар'яти, 5 сезон, 8 еп.</title>
+  </programme>
+  <programme start="20250223102600 +0200" stop="20250223105500 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 7 сезон, 1 с.</title>
+  </programme>
+  <programme start="20250223105500 +0200" stop="20250223111700 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 7 сезон, 2 с.</title>
+  </programme>
+  <programme start="20250223111700 +0200" stop="20250223114500 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 7 сезон, 3 с.</title>
+  </programme>
+  <programme start="20250223114500 +0200" stop="20250223120700 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 7 сезон, 4 с.</title>
+  </programme>
+  <programme start="20250223120700 +0200" stop="20250223122900 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 7 сезон, 5 с.</title>
+  </programme>
+  <programme start="20250223122900 +0200" stop="20250223125800 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 7 сезон, 6 с.</title>
+  </programme>
+  <programme start="20250223125800 +0200" stop="20250223132000 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 7 сезон, 7 с.</title>
+  </programme>
+  <programme start="20250223132000 +0200" stop="20250223141100 +0200" channel="6">
+    <title lang="ru">Т/с "Дитячий охоронець", 17 с. "Найкращий стрілець".</title>
+  </programme>
+  <programme start="20250223141100 +0200" stop="20250223150200 +0200" channel="6">
+    <title lang="ru">Т/с "Дитячий охоронець", 18 с. "Слідами Шерлока Холмса".</title>
+  </programme>
+  <programme start="20250223150200 +0200" stop="20250223155600 +0200" channel="6">
+    <title lang="ru">Т/с "Дитячий охоронець", 19 с. "Справжнє мистецтво".</title>
+  </programme>
+  <programme start="20250223155600 +0200" stop="20250223164800 +0200" channel="6">
+    <title lang="ru">Т/с "Дитячий охоронець", 20 с. "Мері Попінс".</title>
+  </programme>
+  <programme start="20250223164800 +0200" stop="20250223174300 +0200" channel="6">
+    <title lang="ru">Т/с "Дитячий охоронець", 21 с. "Правий хук".</title>
+  </programme>
+  <programme start="20250223174300 +0200" stop="20250223183000 +0200" channel="6">
+    <title lang="ru">Т/с "Дитячий охоронець", 22 с. "Донька художника".</title>
+  </programme>
+  <programme start="20250223183000 +0200" stop="20250223192200 +0200" channel="6">
+    <title lang="ru">Т/с "Дитячий охоронець", 23 с. "Поворот не туди".</title>
+  </programme>
+  <programme start="20250223192200 +0200" stop="20250223201600 +0200" channel="6">
+    <title lang="ru">Т/с "Дитячий охоронець", 24 с. "Ритуал".</title>
+  </programme>
+  <programme start="20250223201600 +0200" stop="20250223210800 +0200" channel="6">
+    <title lang="ru">Т/с "Дитячий охоронець", 25 с. "Вікно навпроти".</title>
+  </programme>
+  <programme start="20250223210800 +0200" stop="20250223220000 +0200" channel="6">
+    <title lang="ru">Т/с "Дитячий охоронець", 26 с. "Пропав собака".</title>
+  </programme>
+  <programme start="20250223220000 +0200" stop="20250223222800 +0200" channel="6">
+    <title lang="ru">М/с "Сімпсони", 29 сезон, 15 с. "Жодне гарне читання не залишається безкарним".</title>
+  </programme>
+  <programme start="20250223222800 +0200" stop="20250223225000 +0200" channel="6">
+    <title lang="ru">М/с "Сімпсони", 29 сезон, 16 с. "Король Злісний Погляд".</title>
+  </programme>
+  <programme start="20250223225000 +0200" stop="20250223231800 +0200" channel="6">
+    <title lang="ru">М/с "Сімпсони", 29 сезон, 13 с. "3 сцени плюс тег з подружнього життя".</title>
+  </programme>
+  <programme start="20250223231800 +0200" stop="20250223234000 +0200" channel="6">
+    <title lang="ru">М/с "Сімпсони", 29 сезон, 14 с. "Страхи клоуна".</title>
+  </programme>
+  <programme start="20250223234000 +0200" stop="20250224003400 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 1 с. "Риночні війни".</title>
+  </programme>
+  <programme start="20250224003400 +0200" stop="20250224012900 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 2 с. "Повстання ферзя".</title>
+  </programme>
+  <programme start="20250224012900 +0200" stop="20250224022900 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 3 с. "Не каблук".</title>
   </programme>
   <programme start="20250217025000 +0200" stop="20250217034000 +0200" channel="7">
     <title lang="ru">Великі інженерні помилки 4 сез., 4 еп.</title>
@@ -6036,8 +6117,230 @@
   <programme start="20250224040900 +0200" stop="20250224042800 +0200" channel="11">
     <title lang="ru">Крим та москалі</title>
   </programme>
-  <programme start="20250224042800 +0200" stop="20250224052800 +0200" channel="11">
+  <programme start="20250224042800 +0200" stop="20250224044900 +0200" channel="11">
     <title lang="ru">Кордон. Частина 2</title>
+  </programme>
+  <programme start="20250224044900 +0200" stop="20250224050700 +0200" channel="11">
+    <title lang="ru">Кордон. Частина 1</title>
+  </programme>
+  <programme start="20250224050700 +0200" stop="20250224052700 +0200" channel="11">
+    <title lang="ru">Херсон. Це УКРАЇНА</title>
+  </programme>
+  <programme start="20250224052700 +0200" stop="20250224054600 +0200" channel="11">
+    <title lang="ru">Гітлер та Єва Браун. Частина 2</title>
+  </programme>
+  <programme start="20250224054600 +0200" stop="20250224055600 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 10</title>
+  </programme>
+  <programme start="20250224055600 +0200" stop="20250224061200 +0200" channel="11">
+    <title lang="ru">Гітлер та Єва Браун. Частина 1</title>
+  </programme>
+  <programme start="20250224061200 +0200" stop="20250224062900 +0200" channel="11">
+    <title lang="ru">Афганістан. Частина 1</title>
+  </programme>
+  <programme start="20250224062900 +0200" stop="20250224064800 +0200" channel="11">
+    <title lang="ru">Афганістан. Частина 2</title>
+  </programme>
+  <programme start="20250224064800 +0200" stop="20250224071000 +0200" channel="11">
+    <title lang="ru">Розпад СРСР</title>
+  </programme>
+  <programme start="20250224071000 +0200" stop="20250224073100 +0200" channel="11">
+    <title lang="ru">Василь Овсієнко</title>
+  </programme>
+  <programme start="20250224073100 +0200" stop="20250224075300 +0200" channel="11">
+    <title lang="ru">Мирослав Симчич</title>
+  </programme>
+  <programme start="20250224075300 +0200" stop="20250224081500 +0200" channel="11">
+    <title lang="ru">Створення ОУН. Частина 2</title>
+  </programme>
+  <programme start="20250224081500 +0200" stop="20250224083700 +0200" channel="11">
+    <title lang="ru">московська церква</title>
+  </programme>
+  <programme start="20250224083700 +0200" stop="20250224085600 +0200" channel="11">
+    <title lang="ru">Мюнхенська змова</title>
+  </programme>
+  <programme start="20250224085600 +0200" stop="20250224090000 +0200" channel="11">
+    <title lang="ru">Як ленін створив Україну</title>
+  </programme>
+  <programme start="20250224090000 +0200" stop="20250224092000 +0200" channel="11">
+    <title lang="ru">ХВИЛИНА МОВЧАННЯ</title>
+  </programme>
+  <programme start="20250224092000 +0200" stop="20250224094100 +0200" channel="11">
+    <title lang="ru">Поразка росії. Частина 2</title>
+  </programme>
+  <programme start="20250224094100 +0200" stop="20250224100600 +0200" channel="11">
+    <title lang="ru">Франко. Частина 1</title>
+  </programme>
+  <programme start="20250224100600 +0200" stop="20250224102500 +0200" channel="11">
+    <title lang="ru">Українські батальйони на Західному фронті</title>
+  </programme>
+  <programme start="20250224102500 +0200" stop="20250224104500 +0200" channel="11">
+    <title lang="ru">Василь Стефаник</title>
+  </programme>
+  <programme start="20250224104500 +0200" stop="20250224110600 +0200" channel="11">
+    <title lang="ru">Створення ОУН. Частина 4</title>
+  </programme>
+  <programme start="20250224110600 +0200" stop="20250224112700 +0200" channel="11">
+    <title lang="ru">Україна. Польща</title>
+  </programme>
+  <programme start="20250224112700 +0200" stop="20250224114700 +0200" channel="11">
+    <title lang="ru">Степан Бандера. Частина 1</title>
+  </programme>
+  <programme start="20250224114700 +0200" stop="20250224120900 +0200" channel="11">
+    <title lang="ru">Створення ОУН. Частина 3</title>
+  </programme>
+  <programme start="20250224120900 +0200" stop="20250224123100 +0200" channel="11">
+    <title lang="ru">Річниця УНР. Частина 1</title>
+  </programme>
+  <programme start="20250224123100 +0200" stop="20250224125100 +0200" channel="11">
+    <title lang="ru">Контрнаступ</title>
+  </programme>
+  <programme start="20250224125100 +0200" stop="20250224131400 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 7</title>
+  </programme>
+  <programme start="20250224131400 +0200" stop="20250224133200 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 9</title>
+  </programme>
+  <programme start="20250224133200 +0200" stop="20250224135500 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 6</title>
+  </programme>
+  <programme start="20250224135500 +0200" stop="20250224141600 +0200" channel="11">
+    <title lang="ru">Голокост</title>
+  </programme>
+  <programme start="20250224141600 +0200" stop="20250224143600 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 5</title>
+  </programme>
+  <programme start="20250224143600 +0200" stop="20250224145700 +0200" channel="11">
+    <title lang="ru">Леся Українка. 152 роки від дня народження</title>
+  </programme>
+  <programme start="20250224145700 +0200" stop="20250224152000 +0200" channel="11">
+    <title lang="ru">Леонтович</title>
+  </programme>
+  <programme start="20250224152000 +0200" stop="20250224154300 +0200" channel="11">
+    <title lang="ru">Франко. Частина 2</title>
+  </programme>
+  <programme start="20250224154300 +0200" stop="20250224160200 +0200" channel="11">
+    <title lang="ru">Франко. Частина 3</title>
+  </programme>
+  <programme start="20250224160200 +0200" stop="20250224162100 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 1</title>
+  </programme>
+  <programme start="20250224162100 +0200" stop="20250224164000 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 2</title>
+  </programme>
+  <programme start="20250224164000 +0200" stop="20250224165900 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 3</title>
+  </programme>
+  <programme start="20250224165900 +0200" stop="20250224171000 +0200" channel="11">
+    <title lang="ru">Суровікін</title>
+  </programme>
+  <programme start="20250224171000 +0200" stop="20250224173000 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 4</title>
+  </programme>
+  <programme start="20250224173000 +0200" stop="20250224175100 +0200" channel="11">
+    <title lang="ru">Степан Бандера. Частина 2</title>
+  </programme>
+  <programme start="20250224175100 +0200" stop="20250224181000 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 5</title>
+  </programme>
+  <programme start="20250224181000 +0200" stop="20250224183000 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 6</title>
+  </programme>
+  <programme start="20250224183000 +0200" stop="20250224184900 +0200" channel="11">
+    <title lang="ru">Casus Belli. Привід для війни</title>
+  </programme>
+  <programme start="20250224184900 +0200" stop="20250224190900 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 7</title>
+  </programme>
+  <programme start="20250224190900 +0200" stop="20250224192800 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 8</title>
+  </programme>
+  <programme start="20250224192800 +0200" stop="20250224195000 +0200" channel="11">
+    <title lang="ru">Створення ОУН. Частина 1</title>
+  </programme>
+  <programme start="20250224195000 +0200" stop="20250224201400 +0200" channel="11">
+    <title lang="ru">Роковини Революції Гідності</title>
+  </programme>
+  <programme start="20250224201400 +0200" stop="20250224203300 +0200" channel="11">
+    <title lang="ru">Про мову</title>
+  </programme>
+  <programme start="20250224203300 +0200" stop="20250224205100 +0200" channel="11">
+    <title lang="ru">Крим та москалі</title>
+  </programme>
+  <programme start="20250224205100 +0200" stop="20250224211300 +0200" channel="11">
+    <title lang="ru">Кордон. Частина 2</title>
+  </programme>
+  <programme start="20250224211300 +0200" stop="20250224213000 +0200" channel="11">
+    <title lang="ru">Кордон. Частина 1</title>
+  </programme>
+  <programme start="20250224213000 +0200" stop="20250224215100 +0200" channel="11">
+    <title lang="ru">Херсон. Це УКРАЇНА</title>
+  </programme>
+  <programme start="20250224215100 +0200" stop="20250224220900 +0200" channel="11">
+    <title lang="ru">Гітлер та Єва Браун. Частина 2</title>
+  </programme>
+  <programme start="20250224220900 +0200" stop="20250224222000 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 10</title>
+  </programme>
+  <programme start="20250224222000 +0200" stop="20250224223500 +0200" channel="11">
+    <title lang="ru">Гітлер та Єва Браун. Частина 1</title>
+  </programme>
+  <programme start="20250224223500 +0200" stop="20250224225300 +0200" channel="11">
+    <title lang="ru">Афганістан. Частина 1</title>
+  </programme>
+  <programme start="20250224225300 +0200" stop="20250224231200 +0200" channel="11">
+    <title lang="ru">Афганістан. Частина 2</title>
+  </programme>
+  <programme start="20250224231200 +0200" stop="20250224233300 +0200" channel="11">
+    <title lang="ru">Розпад СРСР</title>
+  </programme>
+  <programme start="20250224233300 +0200" stop="20250224235500 +0200" channel="11">
+    <title lang="ru">Василь Овсієнко</title>
+  </programme>
+  <programme start="20250224235500 +0200" stop="20250225001700 +0200" channel="11">
+    <title lang="ru">Мирослав Симчич</title>
+  </programme>
+  <programme start="20250225001700 +0200" stop="20250225003800 +0200" channel="11">
+    <title lang="ru">Створення ОУН. Частина 2</title>
+  </programme>
+  <programme start="20250225003800 +0200" stop="20250225010000 +0200" channel="11">
+    <title lang="ru">московська церква</title>
+  </programme>
+  <programme start="20250225010000 +0200" stop="20250225012000 +0200" channel="11">
+    <title lang="ru">Мюнхенська змова</title>
+  </programme>
+  <programme start="20250225012000 +0200" stop="20250225014000 +0200" channel="11">
+    <title lang="ru">Як ленін створив Україну</title>
+  </programme>
+  <programme start="20250225014000 +0200" stop="20250225015800 +0200" channel="11">
+    <title lang="ru">"вагнер" та сс дірлеванґер</title>
+  </programme>
+  <programme start="20250225015800 +0200" stop="20250225021900 +0200" channel="11">
+    <title lang="ru">УПА проти третього рейху</title>
+  </programme>
+  <programme start="20250225021900 +0200" stop="20250225023800 +0200" channel="11">
+    <title lang="ru">Україна на картах</title>
+  </programme>
+  <programme start="20250225023800 +0200" stop="20250225025600 +0200" channel="11">
+    <title lang="ru">"супер зброя" путіна</title>
+  </programme>
+  <programme start="20250225025600 +0200" stop="20250225031800 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 1</title>
+  </programme>
+  <programme start="20250225031800 +0200" stop="20250225033900 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 2</title>
+  </programme>
+  <programme start="20250225033900 +0200" stop="20250225040000 +0200" channel="11">
+    <title lang="ru">Слобожанщина</title>
+  </programme>
+  <programme start="20250225040000 +0200" stop="20250225041800 +0200" channel="11">
+    <title lang="ru">Річниця УНР. Частина 2</title>
+  </programme>
+  <programme start="20250225041800 +0200" stop="20250225043700 +0200" channel="11">
+    <title lang="ru">Денацифікація росії та Німеччини</title>
+  </programme>
+  <programme start="20250225043700 +0200" stop="20250225053700 +0200" channel="11">
+    <title lang="ru">Карабах</title>
   </programme>
   <programme start="20250217025100 +0200" stop="20250217034300 +0200" channel="12">
     <title lang="ru">Одне серце на двох 1 сез., 4 еп.</title>
@@ -8193,7 +8496,220 @@
   <programme start="20250224041500 +0200" stop="20250224043700 +0200" channel="13">
     <title lang="ru">20.02 Невигадані Історії. Дебальцеве</title>
   </programme>
-  <programme start="20250224043700 +0200" stop="20250224053700 +0200" channel="13">
+  <programme start="20250224043700 +0200" stop="20250224045700 +0200" channel="13">
+    <title lang="ru">23.10 Невигадані Історії. Снайпери на Передовій</title>
+  </programme>
+  <programme start="20250224045700 +0200" stop="20250224051900 +0200" channel="13">
+    <title lang="ru">15.05 Невигадані Історії. Миротворець</title>
+  </programme>
+  <programme start="20250224051900 +0200" stop="20250224053800 +0200" channel="13">
+    <title lang="ru">04.02 Невигадані Історії. Бахмут. Місто і жителі</title>
+  </programme>
+  <programme start="20250224053800 +0200" stop="20250224060000 +0200" channel="13">
+    <title lang="ru">25.08 Невигадані Історії. Генерал. Артилерист</title>
+  </programme>
+  <programme start="20250224060000 +0200" stop="20250224062100 +0200" channel="13">
+    <title lang="ru">20.03 Невигадані Історії. Розмови з ворогом</title>
+  </programme>
+  <programme start="20250224062100 +0200" stop="20250224063800 +0200" channel="13">
+    <title lang="ru">01.10 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224063800 +0200" stop="20250224065500 +0200" channel="13">
+    <title lang="ru">27.11 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224065500 +0200" stop="20250224071100 +0200" channel="13">
+    <title lang="ru">24.04 Невигадані Історії. Слов'янськ</title>
+  </programme>
+  <programme start="20250224071100 +0200" stop="20250224072700 +0200" channel="13">
+    <title lang="ru">19.06 Невигадані Історії. Зброя та безпека</title>
+  </programme>
+  <programme start="20250224072700 +0200" stop="20250224074100 +0200" channel="13">
+    <title lang="ru">18.12 Невигадані Історії. AN для рятувальників</title>
+  </programme>
+  <programme start="20250224074100 +0200" stop="20250224075200 +0200" channel="13">
+    <title lang="ru">14.11 Невигадані Історії. Сержанти</title>
+  </programme>
+  <programme start="20250224075200 +0200" stop="20250224080600 +0200" channel="13">
+    <title lang="ru">05.06 Невигадані Історії. 75 ANTONOV</title>
+  </programme>
+  <programme start="20250224080600 +0200" stop="20250224082800 +0200" channel="13">
+    <title lang="ru">03.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224082800 +0200" stop="20250224084900 +0200" channel="13">
+    <title lang="ru">07.05 Невигадані Історії. Буча</title>
+  </programme>
+  <programme start="20250224084900 +0200" stop="20250224085900 +0200" channel="13">
+    <title lang="ru">10.12 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224085900 +0200" stop="20250224090000 +0200" channel="13">
+    <title lang="ru">ХВИЛИНА МОВЧАННЯ</title>
+  </programme>
+  <programme start="20250224090000 +0200" stop="20250224092200 +0200" channel="13">
+    <title lang="ru">27.05 Невигадані Історії. Cнайпери</title>
+  </programme>
+  <programme start="20250224092200 +0200" stop="20250224094300 +0200" channel="13">
+    <title lang="ru">26.08 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224094300 +0200" stop="20250224100400 +0200" channel="13">
+    <title lang="ru">23.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224100400 +0200" stop="20250224102600 +0200" channel="13">
+    <title lang="ru">22.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224102600 +0200" stop="20250224104700 +0200" channel="13">
+    <title lang="ru">18.03 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224104700 +0200" stop="20250224110600 +0200" channel="13">
+    <title lang="ru">16.01 Невигадані Історії. Сумрак</title>
+  </programme>
+  <programme start="20250224110600 +0200" stop="20250224112700 +0200" channel="13">
+    <title lang="ru">17.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224112700 +0200" stop="20250224115000 +0200" channel="13">
+    <title lang="ru">15.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224115000 +0200" stop="20250224121100 +0200" channel="13">
+    <title lang="ru">15.05 Невигадані Історії. Миротворець</title>
+  </programme>
+  <programme start="20250224121100 +0200" stop="20250224123200 +0200" channel="13">
+    <title lang="ru">15.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224123200 +0200" stop="20250224125400 +0200" channel="13">
+    <title lang="ru">11.03 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224125400 +0200" stop="20250224131500 +0200" channel="13">
+    <title lang="ru">10.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224131500 +0200" stop="20250224133600 +0200" channel="13">
+    <title lang="ru">09.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224133600 +0200" stop="20250224135700 +0200" channel="13">
+    <title lang="ru">03.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224135700 +0200" stop="20250224142200 +0200" channel="13">
+    <title lang="ru">08.07 Невигадані Історії. OPFOR</title>
+  </programme>
+  <programme start="20250224142200 +0200" stop="20250224144000 +0200" channel="13">
+    <title lang="ru">17.04 Невигадані Історії. Війна. Початок</title>
+  </programme>
+  <programme start="20250224144000 +0200" stop="20250224150100 +0200" channel="13">
+    <title lang="ru">07.01 Невигадані Історії. Бахмут. Піхота</title>
+  </programme>
+  <programme start="20250224150100 +0200" stop="20250224152100 +0200" channel="13">
+    <title lang="ru">06.05 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224152100 +0200" stop="20250224154300 +0200" channel="13">
+    <title lang="ru">04.03 Невигадані Історії. Бахмут. Рекси</title>
+  </programme>
+  <programme start="20250224154300 +0200" stop="20250224160500 +0200" channel="13">
+    <title lang="ru">02.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224160500 +0200" stop="20250224162200 +0200" channel="13">
+    <title lang="ru">24.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224162200 +0200" stop="20250224164500 +0200" channel="13">
+    <title lang="ru">01.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224164500 +0200" stop="20250224170500 +0200" channel="13">
+    <title lang="ru">31.12 Невигадані Історії. Бахмут. Волонтери</title>
+  </programme>
+  <programme start="20250224170500 +0200" stop="20250224173000 +0200" channel="13">
+    <title lang="ru">30.04.2022 Невигадані Історії. Маріуполь</title>
+  </programme>
+  <programme start="20250224173000 +0200" stop="20250224175100 +0200" channel="13">
+    <title lang="ru">30.01 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224175100 +0200" stop="20250224181300 +0200" channel="13">
+    <title lang="ru">29.10 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224181300 +0200" stop="20250224183100 +0200" channel="13">
+    <title lang="ru">27.03 Невигадані Історії. Навчання Нацгвардії</title>
+  </programme>
+  <programme start="20250224183100 +0200" stop="20250224185500 +0200" channel="13">
+    <title lang="ru">28.05 Невигадані Історії. Катюжанка</title>
+  </programme>
+  <programme start="20250224185500 +0200" stop="20250224191600 +0200" channel="13">
+    <title lang="ru">26.11 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224191600 +0200" stop="20250224193800 +0200" channel="13">
+    <title lang="ru">25.06 Невигадані Історії. Андріївка</title>
+  </programme>
+  <programme start="20250224193800 +0200" stop="20250224200100 +0200" channel="13">
+    <title lang="ru">24.12 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224200100 +0200" stop="20250224202200 +0200" channel="13">
+    <title lang="ru">24.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224202200 +0200" stop="20250224204600 +0200" channel="13">
+    <title lang="ru">23.07 Невигадані Історії. SANTA</title>
+  </programme>
+  <programme start="20250224204600 +0200" stop="20250224210400 +0200" channel="13">
+    <title lang="ru">22.05 Невигадані Історії. Перший AN-178</title>
+  </programme>
+  <programme start="20250224210400 +0200" stop="20250224212500 +0200" channel="13">
+    <title lang="ru">22.10 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224212500 +0200" stop="20250224214700 +0200" channel="13">
+    <title lang="ru">21.05 Невигадані Історії. Херсонщина. Окупація</title>
+  </programme>
+  <programme start="20250224214700 +0200" stop="20250224220800 +0200" channel="13">
+    <title lang="ru">18.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224220800 +0200" stop="20250224222900 +0200" channel="13">
+    <title lang="ru">17.12 Невигадані Історії. Бахмут</title>
+  </programme>
+  <programme start="20250224222900 +0200" stop="20250224225000 +0200" channel="13">
+    <title lang="ru">15.10 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224225000 +0200" stop="20250224230900 +0200" channel="13">
+    <title lang="ru">04.09 Невигадані Історії. Мрія і Богатирі</title>
+  </programme>
+  <programme start="20250224230900 +0200" stop="20250224233100 +0200" channel="13">
+    <title lang="ru">10.12 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224233100 +0200" stop="20250224235400 +0200" channel="13">
+    <title lang="ru">10.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250224235400 +0200" stop="20250225001400 +0200" channel="13">
+    <title lang="ru">07.05 Невигадані Історії. Буча</title>
+  </programme>
+  <programme start="20250225001400 +0200" stop="20250225003600 +0200" channel="13">
+    <title lang="ru">06.08 Невигадані Історії</title>
+  </programme>
+  <programme start="20250225003600 +0200" stop="20250225005400 +0200" channel="13">
+    <title lang="ru">26.06 Невигадані Історії. Східний фронт</title>
+  </programme>
+  <programme start="20250225005400 +0200" stop="20250225011600 +0200" channel="13">
+    <title lang="ru">04.06 Невигадані Історії. Димер</title>
+  </programme>
+  <programme start="20250225011600 +0200" stop="20250225013700 +0200" channel="13">
+    <title lang="ru">03.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250225013700 +0200" stop="20250225015800 +0200" channel="13">
+    <title lang="ru">02.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20250225015800 +0200" stop="20250225021900 +0200" channel="13">
+    <title lang="ru">31.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20250225021900 +0200" stop="20250225023800 +0200" channel="13">
+    <title lang="ru">02.10 Невигадані Історії. Передова</title>
+  </programme>
+  <programme start="20250225023800 +0200" stop="20250225030000 +0200" channel="13">
+    <title lang="ru">30.10 Невигадані Історії. Передова. Танкісти</title>
+  </programme>
+  <programme start="20250225030000 +0200" stop="20250225032100 +0200" channel="13">
+    <title lang="ru">30.01 Невигадані Історії. Захисники</title>
+  </programme>
+  <programme start="20250225032100 +0200" stop="20250225034100 +0200" channel="13">
+    <title lang="ru">29.05 Невигадані Історії. Миротворці. Іловайськ</title>
+  </programme>
+  <programme start="20250225034100 +0200" stop="20250225040100 +0200" channel="13">
+    <title lang="ru">27.08 Невигадані Історії. Пам'ять</title>
+  </programme>
+  <programme start="20250225040100 +0200" stop="20250225042200 +0200" channel="13">
+    <title lang="ru">20.02 Невигадані Історії. Дебальцеве</title>
+  </programme>
+  <programme start="20250225042200 +0200" stop="20250225052200 +0200" channel="13">
     <title lang="ru">23.10 Невигадані Історії. Снайпери на Передовій</title>
   </programme>
   <programme start="20250217024500 +0200" stop="20250217030000 +0200" channel="17">
@@ -8358,14 +8874,8 @@
   <programme start="20250221032000 +0200" stop="20250221032500 +0200" channel="17">
     <title lang="ru">"Знають навіть діти".</title>
   </programme>
-  <programme start="20250221032500 +0200" stop="20250221055500 +0200" channel="17">
+  <programme start="20250221032500 +0200" stop="20250221090000 +0200" channel="17">
     <title lang="ru">Д/ф "Кобзар. Історія однієї книги".</title>
-  </programme>
-  <programme start="20250221055500 +0200" stop="20250221073500 +0200" channel="17">
-    <title lang="ru">Х/ф "Фортеця Хаджибей".</title>
-  </programme>
-  <programme start="20250221073500 +0200" stop="20250221090000 +0200" channel="17">
-    <title lang="ru">Х/ф "Полонянка. Втеча".</title>
   </programme>
   <programme start="20250221090000 +0200" stop="20250221090200 +0200" channel="17">
     <title lang="ru">Загальнонаціональна хвилина мовчання.</title>
@@ -8442,8 +8952,47 @@
   <programme start="20250223031500 +0200" stop="20250223033500 +0200" channel="17">
     <title lang="ru">Д/ф "Олександр Довженко. Одеський світанок".</title>
   </programme>
-  <programme start="20250223033500 +0200" stop="20250223043500 +0200" channel="17">
+  <programme start="20250223033500 +0200" stop="20250223055000 +0200" channel="17">
     <title lang="ru">Д/ф "Експедиція".</title>
+  </programme>
+  <programme start="20250223055000 +0200" stop="20250223075500 +0200" channel="17">
+    <title lang="ru">Х/ф "Бути Астрід Ліндґрен".</title>
+  </programme>
+  <programme start="20250223075500 +0200" stop="20250223090000 +0200" channel="17">
+    <title lang="ru">Х/ф "Вигнанець", 1 ч.</title>
+  </programme>
+  <programme start="20250223090000 +0200" stop="20250223090200 +0200" channel="17">
+    <title lang="ru">Загальнонаціональна хвилина мовчання.</title>
+  </programme>
+  <programme start="20250223090200 +0200" stop="20250223103000 +0200" channel="17">
+    <title lang="ru">Х/ф "Вигнанець", 2 ч.</title>
+  </programme>
+  <programme start="20250223103000 +0200" stop="20250223121000 +0200" channel="17">
+    <title lang="ru">Х/ф "Джон Вік".</title>
+  </programme>
+  <programme start="20250223121000 +0200" stop="20250223142500 +0200" channel="17">
+    <title lang="ru">Х/ф "Термінал".</title>
+  </programme>
+  <programme start="20250223142500 +0200" stop="20250223170000 +0200" channel="17">
+    <title lang="ru">Х/ф "Код да Вінчі".</title>
+  </programme>
+  <programme start="20250223170000 +0200" stop="20250223193000 +0200" channel="17">
+    <title lang="ru">Х/ф "Форрест Ґамп".</title>
+  </programme>
+  <programme start="20250223193000 +0200" stop="20250223220000 +0200" channel="17">
+    <title lang="ru">Х/ф "Впіймай мене, якщо зможеш".</title>
+  </programme>
+  <programme start="20250223220000 +0200" stop="20250224000000 +0200" channel="17">
+    <title lang="ru">Х/ф "Містер і місіс Сміт".</title>
+  </programme>
+  <programme start="20250224000000 +0200" stop="20250224013500 +0200" channel="17">
+    <title lang="ru">Х/ф "Джампер".</title>
+  </programme>
+  <programme start="20250224013500 +0200" stop="20250224031900 +0200" channel="17">
+    <title lang="ru">Х/ф "Захоплення підземки 123".</title>
+  </programme>
+  <programme start="20250224031900 +0200" stop="20250224041900 +0200" channel="17">
+    <title lang="ru">Х/ф "Фортеця Хаджибей".</title>
   </programme>
   <programme start="20250217033500 +0200" stop="20250217034000 +0200" channel="18">
     <title lang="ru">"Знають навіть діти".</title>
@@ -8608,7 +9157,7 @@
     <title lang="ru">Х/ф "Джульєтта".</title>
   </programme>
   <programme start="20250221000000 +0200" stop="20250221020500 +0200" channel="18">
-    <title lang="ru">Х/ф "Тоня проти всіх".</title>
+    <title lang="ru">Х/ф "Я, Тоня".</title>
   </programme>
   <programme start="20250221020500 +0200" stop="20250221033000 +0200" channel="18">
     <title lang="ru">Х/ф "За мрією".</title>
@@ -8616,14 +9165,8 @@
   <programme start="20250221033000 +0200" stop="20250221033500 +0200" channel="18">
     <title lang="ru">"Знають навіть діти".</title>
   </programme>
-  <programme start="20250221033500 +0200" stop="20250221054000 +0200" channel="18">
+  <programme start="20250221033500 +0200" stop="20250221090000 +0200" channel="18">
     <title lang="ru">К/ф "Mia Donna".</title>
-  </programme>
-  <programme start="20250221054000 +0200" stop="20250221072000 +0200" channel="18">
-    <title lang="ru">Х/ф "Антон і червона химера".</title>
-  </programme>
-  <programme start="20250221072000 +0200" stop="20250221090000 +0200" channel="18">
-    <title lang="ru">Х/ф "Кривий будиночок", 1 ч.</title>
   </programme>
   <programme start="20250221090000 +0200" stop="20250221090200 +0200" channel="18">
     <title lang="ru">Загальнонаціональна хвилина мовчання.</title>
@@ -8656,7 +9199,7 @@
     <title lang="ru">Х/ф "Відчайдушні втікачі".</title>
   </programme>
   <programme start="20250222004000 +0200" stop="20250222024000 +0200" channel="18">
-    <title lang="ru">Х/ф "Тоня проти всіх".</title>
+    <title lang="ru">Х/ф "Я, Тоня".</title>
   </programme>
   <programme start="20250222024000 +0200" stop="20250222043000 +0200" channel="18">
     <title lang="ru">Х/ф "Тарас. Повернення".</title>
@@ -8709,8 +9252,56 @@
   <programme start="20250223022000 +0200" stop="20250223042000 +0200" channel="18">
     <title lang="ru">Х/ф "Маргарита".</title>
   </programme>
-  <programme start="20250223042000 +0200" stop="20250223052000 +0200" channel="18">
+  <programme start="20250223042000 +0200" stop="20250223060500 +0200" channel="18">
     <title lang="ru">К/ф "Лист з минулого".</title>
+  </programme>
+  <programme start="20250223060500 +0200" stop="20250223074000 +0200" channel="18">
+    <title lang="ru">Х/ф "Відчайдушні втікачі".</title>
+  </programme>
+  <programme start="20250223074000 +0200" stop="20250223090000 +0200" channel="18">
+    <title lang="ru">Х/ф "Зоряний пил", 1 ч.</title>
+  </programme>
+  <programme start="20250223090000 +0200" stop="20250223090200 +0200" channel="18">
+    <title lang="ru">Загальнонаціональна хвилина мовчання.</title>
+  </programme>
+  <programme start="20250223090200 +0200" stop="20250223100000 +0200" channel="18">
+    <title lang="ru">Х/ф "Зоряний пил", 2 ч.</title>
+  </programme>
+  <programme start="20250223100000 +0200" stop="20250223114500 +0200" channel="18">
+    <title lang="ru">Х/ф "Останній володар стихій".</title>
+  </programme>
+  <programme start="20250223114500 +0200" stop="20250223133000 +0200" channel="18">
+    <title lang="ru">Х/ф "Місто Ембер".</title>
+  </programme>
+  <programme start="20250223133000 +0200" stop="20250223152000 +0200" channel="18">
+    <title lang="ru">Х/ф "Крок уперед".</title>
+  </programme>
+  <programme start="20250223152000 +0200" stop="20250223170500 +0200" channel="18">
+    <title lang="ru">Х/ф "Крок уперед 2: Вулиці".</title>
+  </programme>
+  <programme start="20250223170500 +0200" stop="20250223190000 +0200" channel="18">
+    <title lang="ru">Х/ф "Крок уперед 3D".</title>
+  </programme>
+  <programme start="20250223190000 +0200" stop="20250223204500 +0200" channel="18">
+    <title lang="ru">Х/ф "Крок вперед 4: Революція".</title>
+  </programme>
+  <programme start="20250223204500 +0200" stop="20250223222500 +0200" channel="18">
+    <title lang="ru">Х/ф "Крок уперед: Рік танців".</title>
+  </programme>
+  <programme start="20250223222500 +0200" stop="20250224002000 +0200" channel="18">
+    <title lang="ru">Х/ф "Перед північчю".</title>
+  </programme>
+  <programme start="20250224002000 +0200" stop="20250224022000 +0200" channel="18">
+    <title lang="ru">Х/ф "Я, Тоня".</title>
+  </programme>
+  <programme start="20250224022000 +0200" stop="20250224035900 +0200" channel="18">
+    <title lang="ru">Х/ф "Справжній Санта".</title>
+  </programme>
+  <programme start="20250224035900 +0200" stop="20250224042200 +0200" channel="18">
+    <title lang="ru">Д/ф "Олександр Довженко. Одеський світанок".</title>
+  </programme>
+  <programme start="20250224042200 +0200" stop="20250224052200 +0200" channel="18">
+    <title lang="ru">К/ф "Mia Donna".</title>
   </programme>
   <programme start="20250217031500 +0200" stop="20250217061500 +0200" channel="19">
     <title lang="ru">Х/ф "Найкращі вихідні".</title>
@@ -8874,14 +9465,8 @@
   <programme start="20250221021500 +0200" stop="20250221035500 +0200" channel="19">
     <title lang="ru">Х/ф "Червона спека".</title>
   </programme>
-  <programme start="20250221035500 +0200" stop="20250221051500 +0200" channel="19">
+  <programme start="20250221035500 +0200" stop="20250221083500 +0200" channel="19">
     <title lang="ru">"Знають навіть діти".</title>
-  </programme>
-  <programme start="20250221051500 +0200" stop="20250221065500 +0200" channel="19">
-    <title lang="ru">Х/ф "Секс і нічого особистого".</title>
-  </programme>
-  <programme start="20250221065500 +0200" stop="20250221083500 +0200" channel="19">
-    <title lang="ru">Х/ф "Ураган".</title>
   </programme>
   <programme start="20250221083500 +0200" stop="20250221090000 +0200" channel="19">
     <title lang="ru">Х/ф "S. W. A. Т.: Спецназ міста янголів", 1 ч.</title>
@@ -8967,8 +9552,53 @@
   <programme start="20250223034500 +0200" stop="20250223035500 +0200" channel="19">
     <title lang="ru">К/ф "Лист з минулого".</title>
   </programme>
-  <programme start="20250223035500 +0200" stop="20250223045500 +0200" channel="19">
+  <programme start="20250223035500 +0200" stop="20250223054000 +0200" channel="19">
     <title lang="ru">К/ф "Mia Donna".</title>
+  </programme>
+  <programme start="20250223054000 +0200" stop="20250223074500 +0200" channel="19">
+    <title lang="ru">Х/ф "Снайпер. Білий ворон".</title>
+  </programme>
+  <programme start="20250223074500 +0200" stop="20250223090000 +0200" channel="19">
+    <title lang="ru">Х/ф "Всі запобіжні заходи", 1 ч.</title>
+  </programme>
+  <programme start="20250223090000 +0200" stop="20250223090200 +0200" channel="19">
+    <title lang="ru">Загальнонаціональна хвилина мовчання.</title>
+  </programme>
+  <programme start="20250223090200 +0200" stop="20250223093500 +0200" channel="19">
+    <title lang="ru">Х/ф "Всі запобіжні заходи", 2 ч.</title>
+  </programme>
+  <programme start="20250223093500 +0200" stop="20250223112500 +0200" channel="19">
+    <title lang="ru">Х/ф "Червона спека".</title>
+  </programme>
+  <programme start="20250223112500 +0200" stop="20250223131500 +0200" channel="19">
+    <title lang="ru">Х/ф "Копи на підхваті".</title>
+  </programme>
+  <programme start="20250223131500 +0200" stop="20250223145000 +0200" channel="19">
+    <title lang="ru">Х/ф "Примарний патруль".</title>
+  </programme>
+  <programme start="20250223145000 +0200" stop="20250223165500 +0200" channel="19">
+    <title lang="ru">Х/ф "Книга Ілая".</title>
+  </programme>
+  <programme start="20250223165500 +0200" stop="20250223190000 +0200" channel="19">
+    <title lang="ru">Х/ф "Війна світів".</title>
+  </programme>
+  <programme start="20250223190000 +0200" stop="20250223210000 +0200" channel="19">
+    <title lang="ru">Х/ф "Джі Ай Джо: Атака кобри".</title>
+  </programme>
+  <programme start="20250223210000 +0200" stop="20250223225500 +0200" channel="19">
+    <title lang="ru">Х/ф "Джі-Ай Джо: Атака кобри 2".</title>
+  </programme>
+  <programme start="20250223225500 +0200" stop="20250224003500 +0200" channel="19">
+    <title lang="ru">Х/ф "Патруль часу".</title>
+  </programme>
+  <programme start="20250224003500 +0200" stop="20250224024500 +0200" channel="19">
+    <title lang="ru">Х/ф "Як відмити мільйон".</title>
+  </programme>
+  <programme start="20250224024500 +0200" stop="20250224040400 +0200" channel="19">
+    <title lang="ru">Х/ф "Кохання без контракту".</title>
+  </programme>
+  <programme start="20250224040400 +0200" stop="20250224050400 +0200" channel="19">
+    <title lang="ru">Д/ф "Кобзар. Історія однієї книги".</title>
   </programme>
   <programme start="20250217021200 +0200" stop="20250217024200 +0200" channel="20">
     <title lang="ru">Дзеркало історії, 77 еп.</title>
@@ -9480,26 +10110,8 @@
   <programme start="20250221040800 +0200" stop="20250221043200 +0200" channel="20">
     <title lang="ru">Культ Ура!, 14 еп.</title>
   </programme>
-  <programme start="20250221043200 +0200" stop="20250221051900 +0200" channel="20">
+  <programme start="20250221043200 +0200" stop="20250221082100 +0200" channel="20">
     <title lang="ru">Культ Ура!, 15 еп.</title>
-  </programme>
-  <programme start="20250221051900 +0200" stop="20250221060000 +0200" channel="20">
-    <title lang="ru">Пастка, 1 еп.</title>
-  </programme>
-  <programme start="20250221060000 +0200" stop="20250221062800 +0200" channel="20">
-    <title lang="ru">Україна. 1921-1991, 29 еп.</title>
-  </programme>
-  <programme start="20250221062800 +0200" stop="20250221065900 +0200" channel="20">
-    <title lang="ru">Україна. 1921-1991, 30 еп.</title>
-  </programme>
-  <programme start="20250221065900 +0200" stop="20250221072600 +0200" channel="20">
-    <title lang="ru">Україна. 1921-1991, 31 еп.</title>
-  </programme>
-  <programme start="20250221072600 +0200" stop="20250221075200 +0200" channel="20">
-    <title lang="ru">Україна. 1921-1991, 32 еп.</title>
-  </programme>
-  <programme start="20250221075200 +0200" stop="20250221082100 +0200" channel="20">
-    <title lang="ru">Україна. 1921-1991, 33 еп.</title>
   </programme>
   <programme start="20250221082100 +0200" stop="20250221084700 +0200" channel="20">
     <title lang="ru">Україна. 1921-1991, 34 еп.</title>
@@ -9765,7 +10377,154 @@
   <programme start="20250223034400 +0200" stop="20250223041400 +0200" channel="20">
     <title lang="ru">Дзеркало історії, 72 еп.</title>
   </programme>
-  <programme start="20250223041400 +0200" stop="20250223051400 +0200" channel="20">
+  <programme start="20250223041400 +0200" stop="20250223050500 +0200" channel="20">
     <title lang="ru">Культ Ура!, 21 еп.</title>
+  </programme>
+  <programme start="20250223050500 +0200" stop="20250223053200 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 23 еп.</title>
+  </programme>
+  <programme start="20250223053200 +0200" stop="20250223060000 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 24 еп.</title>
+  </programme>
+  <programme start="20250223060000 +0200" stop="20250223062800 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 43 еп.</title>
+  </programme>
+  <programme start="20250223062800 +0200" stop="20250223065600 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 44 еп.</title>
+  </programme>
+  <programme start="20250223065600 +0200" stop="20250223072300 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 45 еп.</title>
+  </programme>
+  <programme start="20250223072300 +0200" stop="20250223074900 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 46 еп.</title>
+  </programme>
+  <programme start="20250223074900 +0200" stop="20250223081600 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 47 еп.</title>
+  </programme>
+  <programme start="20250223081600 +0200" stop="20250223084400 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 48 еп.</title>
+  </programme>
+  <programme start="20250223084400 +0200" stop="20250223091400 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 49 еп.</title>
+  </programme>
+  <programme start="20250223091400 +0200" stop="20250223094200 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 50 еп.</title>
+  </programme>
+  <programme start="20250223094200 +0200" stop="20250223101100 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 51 еп.</title>
+  </programme>
+  <programme start="20250223101100 +0200" stop="20250223103800 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 52 еп.</title>
+  </programme>
+  <programme start="20250223103800 +0200" stop="20250223110500 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 15 еп.</title>
+  </programme>
+  <programme start="20250223110500 +0200" stop="20250223113300 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 16 еп.</title>
+  </programme>
+  <programme start="20250223113300 +0200" stop="20250223120000 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 17 еп.</title>
+  </programme>
+  <programme start="20250223120000 +0200" stop="20250223122700 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 18 еп.</title>
+  </programme>
+  <programme start="20250223122700 +0200" stop="20250223125500 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 19 еп.</title>
+  </programme>
+  <programme start="20250223125500 +0200" stop="20250223132200 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 20 еп.</title>
+  </programme>
+  <programme start="20250223132200 +0200" stop="20250223134900 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 21 еп.</title>
+  </programme>
+  <programme start="20250223134900 +0200" stop="20250223141500 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 22 еп.</title>
+  </programme>
+  <programme start="20250223141500 +0200" stop="20250223144100 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 23 еп.</title>
+  </programme>
+  <programme start="20250223144100 +0200" stop="20250223150800 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 24 еп.</title>
+  </programme>
+  <programme start="20250223150800 +0200" stop="20250223153500 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 25 еп.</title>
+  </programme>
+  <programme start="20250223153500 +0200" stop="20250223155700 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 27 еп.</title>
+  </programme>
+  <programme start="20250223155700 +0200" stop="20250223162600 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 28 еп.</title>
+  </programme>
+  <programme start="20250223162600 +0200" stop="20250223165200 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 29 еп.</title>
+  </programme>
+  <programme start="20250223165200 +0200" stop="20250223171800 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 30 еп.</title>
+  </programme>
+  <programme start="20250223171800 +0200" stop="20250223174300 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 31 еп.</title>
+  </programme>
+  <programme start="20250223174300 +0200" stop="20250223181000 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 32 еп.</title>
+  </programme>
+  <programme start="20250223181000 +0200" stop="20250223183400 +0200" channel="20">
+    <title lang="ru">Обережно, діти!, 30 еп.</title>
+  </programme>
+  <programme start="20250223183400 +0200" stop="20250223192200 +0200" channel="20">
+    <title lang="ru">Апельсинова долька, 1 еп.</title>
+  </programme>
+  <programme start="20250223192200 +0200" stop="20250223201000 +0200" channel="20">
+    <title lang="ru">Апельсинова долька, 2 еп.</title>
+  </programme>
+  <programme start="20250223201000 +0200" stop="20250223210000 +0200" channel="20">
+    <title lang="ru">Апельсинова долька, 3 еп.</title>
+  </programme>
+  <programme start="20250223210000 +0200" stop="20250223213000 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 73 еп.</title>
+  </programme>
+  <programme start="20250223213000 +0200" stop="20250223215900 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 74 еп.</title>
+  </programme>
+  <programme start="20250223215900 +0200" stop="20250223222800 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 75 еп.</title>
+  </programme>
+  <programme start="20250223222800 +0200" stop="20250223225500 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 76 еп.</title>
+  </programme>
+  <programme start="20250223225500 +0200" stop="20250223232500 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 77 еп.</title>
+  </programme>
+  <programme start="20250223232500 +0200" stop="20250223235500 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 78 еп.</title>
+  </programme>
+  <programme start="20250223235500 +0200" stop="20250224002300 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 79 еп.</title>
+  </programme>
+  <programme start="20250224002300 +0200" stop="20250224005100 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 80 еп.</title>
+  </programme>
+  <programme start="20250224005100 +0200" stop="20250224011900 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 81 еп.</title>
+  </programme>
+  <programme start="20250224011900 +0200" stop="20250224014600 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 82 еп.</title>
+  </programme>
+  <programme start="20250224014600 +0200" stop="20250224021300 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 83 еп.</title>
+  </programme>
+  <programme start="20250224021300 +0200" stop="20250224024000 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 84 еп.</title>
+  </programme>
+  <programme start="20250224024000 +0200" stop="20250224030900 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 25 еп.</title>
+  </programme>
+  <programme start="20250224030900 +0200" stop="20250224033800 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 26 еп.</title>
+  </programme>
+  <programme start="20250224033800 +0200" stop="20250224040800 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 27 еп.</title>
+  </programme>
+  <programme start="20250224040800 +0200" stop="20250224050800 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 28 еп.</title>
   </programme>
 </tv>
