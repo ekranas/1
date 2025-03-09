@@ -61,19 +61,43 @@
     <display-name>Хроніка+ HD</display-name>
   </channel>
   <channel id="21">
-    <display-name>Варʼяти HD</display-name>
+    <display-name>Family is HD</display-name>
   </channel>
   <channel id="22">
-    <display-name>Кріпосна+ HD</display-name>
+    <display-name>Hollywood Glow HD</display-name>
   </channel>
   <channel id="23">
-    <display-name>Орел &amp; Решка: Морський сезон HD</display-name>
+    <display-name>One Planet+ HD</display-name>
   </channel>
   <channel id="24">
-    <display-name>Пес HD</display-name>
+    <display-name>Варʼяти HD</display-name>
   </channel>
   <channel id="25">
+    <display-name>Вікторина HD</display-name>
+  </channel>
+  <channel id="26">
+    <display-name>Загублений світ+ HD</display-name>
+  </channel>
+  <channel id="27">
+    <display-name>Знаєм 24 HD</display-name>
+  </channel>
+  <channel id="28">
+    <display-name>Кріпосна+ HD</display-name>
+  </channel>
+  <channel id="29">
+    <display-name>Львів. Я Люблю ТБ – канал Тараса Гаврика HD</display-name>
+  </channel>
+  <channel id="30">
+    <display-name>Орел &amp; Решка: Морський сезон HD</display-name>
+  </channel>
+  <channel id="31">
+    <display-name>Пес HD</display-name>
+  </channel>
+  <channel id="32">
     <display-name>Твій ТБ HD</display-name>
+  </channel>
+  <channel id="33">
+    <display-name>Хащі HD</display-name>
   </channel>
   <programme start="20250303032400 +0200" stop="20250303050300 +0200" channel="1">
     <title lang="ru">Син Рембо</title>
@@ -2554,37 +2578,25 @@
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 12 с. "Врятувати онука".</title>
   </programme>
   <programme start="20250308021700 +0200" stop="20250308030400 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 45 с. "Рік в селі".</title>
+    <title lang="ru">Т/с "Когда мы дома. Новая история", 2 сезон, 45 с. "Год в деревне".</title>
   </programme>
   <programme start="20250308030400 +0200" stop="20250308035000 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 44 с. "Пристрасті, як у серіалі".</title>
+    <title lang="ru">Т/с "Когда мы дома. Новая история", 2 сезон, 44 с. "Страсти, как в сериале".</title>
   </programme>
   <programme start="20250308035000 +0200" stop="20250308041200 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома". "Українська родина".</title>
+    <title lang="ru">Т/с "Когда мы дома". "Украинская семья".</title>
   </programme>
-  <programme start="20250308041200 +0200" stop="20250308054300 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 43 с. "Печиво та шоколад".</title>
+  <programme start="20250308041200 +0200" stop="20250308081600 +0200" channel="6">
+    <title lang="ru">Т/с "Когда мы дома. Новая история", 2 сезон, 43 с. "Печенье и шоколад".</title>
   </programme>
-  <programme start="20250308054300 +0200" stop="20250308063700 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 7 с. "Як спілкуватися з дітьми".</title>
-  </programme>
-  <programme start="20250308063700 +0200" stop="20250308072400 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 8 с. "Обручки і мусорне королівство".</title>
-  </programme>
-  <programme start="20250308072400 +0200" stop="20250308081600 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 9 с. "Цьому району потрібен герой".</title>
-  </programme>
-  <programme start="20250308081600 +0200" stop="20250308090200 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 10 с. "Закохайся в мого чоловіка".</title>
-  </programme>
-  <programme start="20250308090200 +0200" stop="20250308090800 +0200" channel="6">
+  <programme start="20250308081600 +0200" stop="20250308090800 +0200" channel="6">
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 10 с. "Закохайся в мого чоловіка".</title>
   </programme>
   <programme start="20250308090800 +0200" stop="20250308095900 +0200" channel="6">
-    <title lang="ru">Вар'яти, 5 сезон, 14 еп.</title>
+    <title lang="ru">"Вар'яти", 5 сезон, 14 еп.</title>
   </programme>
   <programme start="20250308095900 +0200" stop="20250308104900 +0200" channel="6">
-    <title lang="ru">Вар'яти, 5 сезон, 15 еп.</title>
+    <title lang="ru">"Вар'яти", 5 сезон, 15 еп.</title>
   </programme>
   <programme start="20250308104900 +0200" stop="20250308111100 +0200" channel="6">
     <title lang="ru">Т/с "Друзі", 7 сезон, 24 с.</title>
@@ -2694,10 +2706,7 @@
   <programme start="20250309020700 +0200" stop="20250309025400 +0200" channel="6">
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 2 с. "Юбілей Гриші і Наді".</title>
   </programme>
-  <programme start="20250309025400 +0200" stop="20250309030000 +0200" channel="6">
-    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 10 с. "Голодні ігри".</title>
-  </programme>
-  <programme start="20250309030000 +0200" stop="20250309034300 +0200" channel="6">
+  <programme start="20250309025400 +0200" stop="20250309034300 +0200" channel="6">
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 10 с. "Голодні ігри".</title>
   </programme>
   <programme start="20250309034300 +0200" stop="20250309040000 +0200" channel="6">
@@ -2719,10 +2728,10 @@
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 14 с. "Боротьба за кабінет".</title>
   </programme>
   <programme start="20250309090200 +0200" stop="20250309095600 +0200" channel="6">
-    <title lang="ru">Вар'яти, 5 сезон, 16 еп.</title>
+    <title lang="ru">"Вар'яти", 5 сезон, 16 еп.</title>
   </programme>
   <programme start="20250309095600 +0200" stop="20250309104900 +0200" channel="6">
-    <title lang="ru">Вар'яти, 4 сезон, 3 еп.</title>
+    <title lang="ru">"Вар'яти", 4 сезон, 3 еп.</title>
   </programme>
   <programme start="20250309104900 +0200" stop="20250309111100 +0200" channel="6">
     <title lang="ru">Т/с "Друзі", 8 сезон, 2 с.</title>
@@ -2796,8 +2805,92 @@
   <programme start="20250310003000 +0200" stop="20250310012200 +0200" channel="6">
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 4 с. "Пропажа коліс".</title>
   </programme>
-  <programme start="20250310012200 +0200" stop="20250310022200 +0200" channel="6">
+  <programme start="20250310012200 +0200" stop="20250310080700 +0200" channel="6">
     <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 5 с. "Романси про фінанси".</title>
+  </programme>
+  <programme start="20250310080700 +0200" stop="20250310090200 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 13 с. "Аутсайдери".</title>
+  </programme>
+  <programme start="20250310090200 +0200" stop="20250310095600 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 2 сезон, 14 с. "Боротьба за кабінет".</title>
+  </programme>
+  <programme start="20250310095600 +0200" stop="20250310104900 +0200" channel="6">
+    <title lang="ru">"Вар'яти", 5 сезон, 16 еп.</title>
+  </programme>
+  <programme start="20250310104900 +0200" stop="20250310111100 +0200" channel="6">
+    <title lang="ru">"Вар'яти", 4 сезон, 3 еп.</title>
+  </programme>
+  <programme start="20250310111100 +0200" stop="20250310113300 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 8 сезон, 2 с.</title>
+  </programme>
+  <programme start="20250310113300 +0200" stop="20250310120100 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 8 сезон, 3 с.</title>
+  </programme>
+  <programme start="20250310120100 +0200" stop="20250310122300 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 8 сезон, 4 с.</title>
+  </programme>
+  <programme start="20250310122300 +0200" stop="20250310125100 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 8 сезон, 5 с.</title>
+  </programme>
+  <programme start="20250310125100 +0200" stop="20250310131300 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 8 сезон, 6 с.</title>
+  </programme>
+  <programme start="20250310131300 +0200" stop="20250310133500 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 8 сезон, 7 с.</title>
+  </programme>
+  <programme start="20250310133500 +0200" stop="20250310142100 +0200" channel="6">
+    <title lang="ru">Т/с "Друзі", 8 сезон, 8 с.</title>
+  </programme>
+  <programme start="20250310142100 +0200" stop="20250310150600 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 6 с.</title>
+  </programme>
+  <programme start="20250310150600 +0200" stop="20250310155500 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 7 с.</title>
+  </programme>
+  <programme start="20250310155500 +0200" stop="20250310164500 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 8 с.</title>
+  </programme>
+  <programme start="20250310164500 +0200" stop="20250310172500 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 9 с.</title>
+  </programme>
+  <programme start="20250310172500 +0200" stop="20250310181200 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 10 с.</title>
+  </programme>
+  <programme start="20250310181200 +0200" stop="20250310185900 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 11 с.</title>
+  </programme>
+  <programme start="20250310185900 +0200" stop="20250310194400 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 12 с.</title>
+  </programme>
+  <programme start="20250310194400 +0200" stop="20250310202400 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 13 с.</title>
+  </programme>
+  <programme start="20250310202400 +0200" stop="20250310211100 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 14 с.</title>
+  </programme>
+  <programme start="20250310211100 +0200" stop="20250310220000 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 15 с.</title>
+  </programme>
+  <programme start="20250310220000 +0200" stop="20250310222700 +0200" channel="6">
+    <title lang="ru">Т/с "Папаньки", 1 сезон, 16 с.</title>
+  </programme>
+  <programme start="20250310222700 +0200" stop="20250310224900 +0200" channel="6">
+    <title lang="ru">М/с "Сімпсони", 30 сезон, 22 с. "Ву-ху, детектив?".</title>
+  </programme>
+  <programme start="20250310224900 +0200" stop="20250310231000 +0200" channel="6">
+    <title lang="ru">М/с "Сімпсони", 30 сезон, 23 с. "Кришталево синьоволосий доказ".</title>
+  </programme>
+  <programme start="20250310231000 +0200" stop="20250310233700 +0200" channel="6">
+    <title lang="ru">М/с "Сімпсони", 30 сезон, 20 с. "Я - просто дівчина, що не каже "Д'оу".</title>
+  </programme>
+  <programme start="20250310233700 +0200" stop="20250311003000 +0200" channel="6">
+    <title lang="ru">М/с "Сімпсони", 30 сезон, 21 с. "Чорт, Канада".</title>
+  </programme>
+  <programme start="20250311003000 +0200" stop="20250311012200 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 3 с. "Як помирити жінок".</title>
+  </programme>
+  <programme start="20250311012200 +0200" stop="20250311022200 +0200" channel="6">
+    <title lang="ru">Т/с "Коли ми вдома. Нова історія", 1 сезон, 4 с. "Пропажа коліс".</title>
   </programme>
   <programme start="20250303020300 +0200" stop="20250303025200 +0200" channel="7">
     <title lang="ru">Австралійські мисливці за золотом 7 сез., 5 еп.</title>
@@ -6354,8 +6447,230 @@
   <programme start="20250311041700 +0200" stop="20250311043500 +0200" channel="11">
     <title lang="ru">Річниця УНР. Частина 2</title>
   </programme>
-  <programme start="20250311043500 +0200" stop="20250311053500 +0200" channel="11">
+  <programme start="20250311043500 +0200" stop="20250311045400 +0200" channel="11">
     <title lang="ru">Денацифікація росії та Німеччини</title>
+  </programme>
+  <programme start="20250311045400 +0200" stop="20250311051300 +0200" channel="11">
+    <title lang="ru">Карабах</title>
+  </programme>
+  <programme start="20250311051300 +0200" stop="20250311053100 +0200" channel="11">
+    <title lang="ru">Дамба</title>
+  </programme>
+  <programme start="20250311053100 +0200" stop="20250311055100 +0200" channel="11">
+    <title lang="ru">Поразка росії. Частина 1</title>
+  </programme>
+  <programme start="20250311055100 +0200" stop="20250311061100 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 3</title>
+  </programme>
+  <programme start="20250311061100 +0200" stop="20250311063000 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 4</title>
+  </programme>
+  <programme start="20250311063000 +0200" stop="20250311064900 +0200" channel="11">
+    <title lang="ru">Арештована коляда</title>
+  </programme>
+  <programme start="20250311064900 +0200" stop="20250311070700 +0200" channel="11">
+    <title lang="ru">Кордон. Частина 1</title>
+  </programme>
+  <programme start="20250311070700 +0200" stop="20250311072900 +0200" channel="11">
+    <title lang="ru">Кордон. Частина 2</title>
+  </programme>
+  <programme start="20250311072900 +0200" stop="20250311074900 +0200" channel="11">
+    <title lang="ru">Степан Бандера. Частина 1</title>
+  </programme>
+  <programme start="20250311074900 +0200" stop="20250311080800 +0200" channel="11">
+    <title lang="ru">Крим та москалі</title>
+  </programme>
+  <programme start="20250311080800 +0200" stop="20250311082900 +0200" channel="11">
+    <title lang="ru">Херсон. Це УКРАЇНА</title>
+  </programme>
+  <programme start="20250311082900 +0200" stop="20250311084800 +0200" channel="11">
+    <title lang="ru">Про мову</title>
+  </programme>
+  <programme start="20250311084800 +0200" stop="20250311090000 +0200" channel="11">
+    <title lang="ru">Гітлер та Єва Браун. Частина 1</title>
+  </programme>
+  <programme start="20250311090000 +0200" stop="20250311090400 +0200" channel="11">
+    <title lang="ru">ХВИЛИНА МОВЧАННЯ</title>
+  </programme>
+  <programme start="20250311090400 +0200" stop="20250311092300 +0200" channel="11">
+    <title lang="ru">Гітлер та Єва Браун. Частина 2</title>
+  </programme>
+  <programme start="20250311092300 +0200" stop="20250311094100 +0200" channel="11">
+    <title lang="ru">Крим та москалі</title>
+  </programme>
+  <programme start="20250311094100 +0200" stop="20250311095300 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 10</title>
+  </programme>
+  <programme start="20250311095300 +0200" stop="20250311101400 +0200" channel="11">
+    <title lang="ru">Кордон. Частина 2</title>
+  </programme>
+  <programme start="20250311101400 +0200" stop="20250311103200 +0200" channel="11">
+    <title lang="ru">Кордон. Частина 1</title>
+  </programme>
+  <programme start="20250311103200 +0200" stop="20250311105200 +0200" channel="11">
+    <title lang="ru">Херсон. Це УКРАЇНА</title>
+  </programme>
+  <programme start="20250311105200 +0200" stop="20250311110800 +0200" channel="11">
+    <title lang="ru">Гітлер та Єва Браун. Частина 1</title>
+  </programme>
+  <programme start="20250311110800 +0200" stop="20250311112800 +0200" channel="11">
+    <title lang="ru">Гітлер та Єва Браун. Частина 2</title>
+  </programme>
+  <programme start="20250311112800 +0200" stop="20250311114500 +0200" channel="11">
+    <title lang="ru">Афганістан. Частина 1</title>
+  </programme>
+  <programme start="20250311114500 +0200" stop="20250311120400 +0200" channel="11">
+    <title lang="ru">Афганістан. Частина 2</title>
+  </programme>
+  <programme start="20250311120400 +0200" stop="20250311121500 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 10</title>
+  </programme>
+  <programme start="20250311121500 +0200" stop="20250311123700 +0200" channel="11">
+    <title lang="ru">Розпад СРСР</title>
+  </programme>
+  <programme start="20250311123700 +0200" stop="20250311125800 +0200" channel="11">
+    <title lang="ru">Василь Овсієнко</title>
+  </programme>
+  <programme start="20250311125800 +0200" stop="20250311132100 +0200" channel="11">
+    <title lang="ru">Мирослав Симчич</title>
+  </programme>
+  <programme start="20250311132100 +0200" stop="20250311134300 +0200" channel="11">
+    <title lang="ru">Створення ОУН. Частина 2</title>
+  </programme>
+  <programme start="20250311134300 +0200" stop="20250311140500 +0200" channel="11">
+    <title lang="ru">московська церква</title>
+  </programme>
+  <programme start="20250311140500 +0200" stop="20250311142500 +0200" channel="11">
+    <title lang="ru">Мюнхенська змова</title>
+  </programme>
+  <programme start="20250311142500 +0200" stop="20250311144600 +0200" channel="11">
+    <title lang="ru">Як ленін створив Україну</title>
+  </programme>
+  <programme start="20250311144600 +0200" stop="20250311150400 +0200" channel="11">
+    <title lang="ru">"вагнер" та сс дірлеванґер</title>
+  </programme>
+  <programme start="20250311150400 +0200" stop="20250311152300 +0200" channel="11">
+    <title lang="ru">Україна на картах</title>
+  </programme>
+  <programme start="20250311152300 +0200" stop="20250311154400 +0200" channel="11">
+    <title lang="ru">УПА проти третього рейху</title>
+  </programme>
+  <programme start="20250311154400 +0200" stop="20250311160300 +0200" channel="11">
+    <title lang="ru">"супер зброя" путіна</title>
+  </programme>
+  <programme start="20250311160300 +0200" stop="20250311162400 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 1</title>
+  </programme>
+  <programme start="20250311162400 +0200" stop="20250311164700 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 2</title>
+  </programme>
+  <programme start="20250311164700 +0200" stop="20250311170800 +0200" channel="11">
+    <title lang="ru">Слобожанщина</title>
+  </programme>
+  <programme start="20250311170800 +0200" stop="20250311172600 +0200" channel="11">
+    <title lang="ru">Річниця УНР. Частина 2</title>
+  </programme>
+  <programme start="20250311172600 +0200" stop="20250311174500 +0200" channel="11">
+    <title lang="ru">Денацифікація росії та Німеччини</title>
+  </programme>
+  <programme start="20250311174500 +0200" stop="20250311180300 +0200" channel="11">
+    <title lang="ru">Карабах</title>
+  </programme>
+  <programme start="20250311180300 +0200" stop="20250311182300 +0200" channel="11">
+    <title lang="ru">Поразка росії. Частина 1</title>
+  </programme>
+  <programme start="20250311182300 +0200" stop="20250311184300 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 3</title>
+  </programme>
+  <programme start="20250311184300 +0200" stop="20250311190200 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 4</title>
+  </programme>
+  <programme start="20250311190200 +0200" stop="20250311192000 +0200" channel="11">
+    <title lang="ru">Дамба</title>
+  </programme>
+  <programme start="20250311192000 +0200" stop="20250311194000 +0200" channel="11">
+    <title lang="ru">Арештована коляда</title>
+  </programme>
+  <programme start="20250311194000 +0200" stop="20250311200100 +0200" channel="11">
+    <title lang="ru">Степан Бандера. Частина 1</title>
+  </programme>
+  <programme start="20250311200100 +0200" stop="20250311201900 +0200" channel="11">
+    <title lang="ru">Крим та москалі</title>
+  </programme>
+  <programme start="20250311201900 +0200" stop="20250311203600 +0200" channel="11">
+    <title lang="ru">Кордон. Частина 1</title>
+  </programme>
+  <programme start="20250311203600 +0200" stop="20250311205800 +0200" channel="11">
+    <title lang="ru">Кордон. Частина 2</title>
+  </programme>
+  <programme start="20250311205800 +0200" stop="20250311211900 +0200" channel="11">
+    <title lang="ru">Херсон. Це УКРАЇНА</title>
+  </programme>
+  <programme start="20250311211900 +0200" stop="20250311213500 +0200" channel="11">
+    <title lang="ru">Гітлер та Єва Браун. Частина 1</title>
+  </programme>
+  <programme start="20250311213500 +0200" stop="20250311215400 +0200" channel="11">
+    <title lang="ru">Гітлер та Єва Браун. Частина 2</title>
+  </programme>
+  <programme start="20250311215400 +0200" stop="20250311221300 +0200" channel="11">
+    <title lang="ru">З'їзд поневолених народів росії</title>
+  </programme>
+  <programme start="20250311221300 +0200" stop="20250311222400 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 10</title>
+  </programme>
+  <programme start="20250311222400 +0200" stop="20250311224600 +0200" channel="11">
+    <title lang="ru">Поразка росії. Частина 2</title>
+  </programme>
+  <programme start="20250311224600 +0200" stop="20250311231100 +0200" channel="11">
+    <title lang="ru">Франко. Частина 1</title>
+  </programme>
+  <programme start="20250311231100 +0200" stop="20250311233100 +0200" channel="11">
+    <title lang="ru">Українські батальйони на Західному фронті</title>
+  </programme>
+  <programme start="20250311233100 +0200" stop="20250311235100 +0200" channel="11">
+    <title lang="ru">Василь Стефаник</title>
+  </programme>
+  <programme start="20250311235100 +0200" stop="20250312001100 +0200" channel="11">
+    <title lang="ru">Створення ОУН. Частина 4</title>
+  </programme>
+  <programme start="20250312001100 +0200" stop="20250312003400 +0200" channel="11">
+    <title lang="ru">Україна. Польща</title>
+  </programme>
+  <programme start="20250312003400 +0200" stop="20250312005400 +0200" channel="11">
+    <title lang="ru">Степан Бандера. Частина 1</title>
+  </programme>
+  <programme start="20250312005400 +0200" stop="20250312011600 +0200" channel="11">
+    <title lang="ru">Створення ОУН. Частина 3</title>
+  </programme>
+  <programme start="20250312011600 +0200" stop="20250312013900 +0200" channel="11">
+    <title lang="ru">Річниця УНР. Частина 1</title>
+  </programme>
+  <programme start="20250312013900 +0200" stop="20250312015800 +0200" channel="11">
+    <title lang="ru">Контрнаступ</title>
+  </programme>
+  <programme start="20250312015800 +0200" stop="20250312022200 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 7</title>
+  </programme>
+  <programme start="20250312022200 +0200" stop="20250312024100 +0200" channel="11">
+    <title lang="ru">Незалежність 30 років. Частина 9</title>
+  </programme>
+  <programme start="20250312024100 +0200" stop="20250312030300 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 6</title>
+  </programme>
+  <programme start="20250312030300 +0200" stop="20250312032400 +0200" channel="11">
+    <title lang="ru">Голокост</title>
+  </programme>
+  <programme start="20250312032400 +0200" stop="20250312034500 +0200" channel="11">
+    <title lang="ru">Народження УПА. Частина 5</title>
+  </programme>
+  <programme start="20250312034500 +0200" stop="20250312040700 +0200" channel="11">
+    <title lang="ru">Леся Українка. 152 роки від дня народження</title>
+  </programme>
+  <programme start="20250312040700 +0200" stop="20250312043100 +0200" channel="11">
+    <title lang="ru">Леонтович</title>
+  </programme>
+  <programme start="20250312043100 +0200" stop="20250312053100 +0200" channel="11">
+    <title lang="ru">Франко. Частина 2</title>
   </programme>
   <programme start="20250303021700 +0200" stop="20250303030900 +0200" channel="12">
     <title lang="ru">За вітриною 1 сез., 7 еп.</title>
@@ -8655,8 +8970,218 @@
   <programme start="20250311041400 +0200" stop="20250311043500 +0200" channel="13">
     <title lang="ru">15.05 Невигадані Історії. Миротворець</title>
   </programme>
-  <programme start="20250311043500 +0200" stop="20250311053500 +0200" channel="13">
+  <programme start="20250311043500 +0200" stop="20250311045600 +0200" channel="13">
     <title lang="ru">20.03 Невигадані Історії. Розмови з ворогом</title>
+  </programme>
+  <programme start="20250311045600 +0200" stop="20250311051300 +0200" channel="13">
+    <title lang="ru">27.11 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311051300 +0200" stop="20250311053000 +0200" channel="13">
+    <title lang="ru">24.04 Невигадані Історії. Слов'янськ</title>
+  </programme>
+  <programme start="20250311053000 +0200" stop="20250311054600 +0200" channel="13">
+    <title lang="ru">19.06 Невигадані Історії. Зброя та безпека</title>
+  </programme>
+  <programme start="20250311054600 +0200" stop="20250311060000 +0200" channel="13">
+    <title lang="ru">18.12 Невигадані Історії. AN для рятувальників</title>
+  </programme>
+  <programme start="20250311060000 +0200" stop="20250311061200 +0200" channel="13">
+    <title lang="ru">14.11 Невигадані Історії. Сержанти</title>
+  </programme>
+  <programme start="20250311061200 +0200" stop="20250311062700 +0200" channel="13">
+    <title lang="ru">05.06 Невигадані Історії. 75 ANTONOV</title>
+  </programme>
+  <programme start="20250311062700 +0200" stop="20250311064800 +0200" channel="13">
+    <title lang="ru">03.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311064800 +0200" stop="20250311070900 +0200" channel="13">
+    <title lang="ru">07.05 Невигадані Історії. Буча</title>
+  </programme>
+  <programme start="20250311070900 +0200" stop="20250311073200 +0200" channel="13">
+    <title lang="ru">10.12 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311073200 +0200" stop="20250311075400 +0200" channel="13">
+    <title lang="ru">27.05 Невигадані Історії. Cнайпери</title>
+  </programme>
+  <programme start="20250311075400 +0200" stop="20250311081600 +0200" channel="13">
+    <title lang="ru">26.08 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311081600 +0200" stop="20250311083700 +0200" channel="13">
+    <title lang="ru">23.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311083700 +0200" stop="20250311085800 +0200" channel="13">
+    <title lang="ru">22.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311085800 +0200" stop="20250311090000 +0200" channel="13">
+    <title lang="ru">18.03 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311090000 +0200" stop="20250311092200 +0200" channel="13">
+    <title lang="ru">ХВИЛИНА МОВЧАННЯ</title>
+  </programme>
+  <programme start="20250311092200 +0200" stop="20250311094000 +0200" channel="13">
+    <title lang="ru">16.01 Невигадані Історії. Сумрак</title>
+  </programme>
+  <programme start="20250311094000 +0200" stop="20250311100100 +0200" channel="13">
+    <title lang="ru">15.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311100100 +0200" stop="20250311102400 +0200" channel="13">
+    <title lang="ru">27.05 Невигадані Історії. Cнайпери</title>
+  </programme>
+  <programme start="20250311102400 +0200" stop="20250311104500 +0200" channel="13">
+    <title lang="ru">26.08 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311104500 +0200" stop="20250311110500 +0200" channel="13">
+    <title lang="ru">23.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311110500 +0200" stop="20250311112800 +0200" channel="13">
+    <title lang="ru">22.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311112800 +0200" stop="20250311114600 +0200" channel="13">
+    <title lang="ru">16.01 Невигадані Історії. Сумрак</title>
+  </programme>
+  <programme start="20250311114600 +0200" stop="20250311120700 +0200" channel="13">
+    <title lang="ru">17.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311120700 +0200" stop="20250311122900 +0200" channel="13">
+    <title lang="ru">15.05 Невигадані Історії. Миротворець</title>
+  </programme>
+  <programme start="20250311122900 +0200" stop="20250311125100 +0200" channel="13">
+    <title lang="ru">15.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311125100 +0200" stop="20250311131200 +0200" channel="13">
+    <title lang="ru">11.03 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311131200 +0200" stop="20250311133500 +0200" channel="13">
+    <title lang="ru">10.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311133500 +0200" stop="20250311135600 +0200" channel="13">
+    <title lang="ru">09.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311135600 +0200" stop="20250311141700 +0200" channel="13">
+    <title lang="ru">03.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311141700 +0200" stop="20250311144300 +0200" channel="13">
+    <title lang="ru">08.07 Невигадані Історії. OPFOR</title>
+  </programme>
+  <programme start="20250311144300 +0200" stop="20250311150000 +0200" channel="13">
+    <title lang="ru">17.04 Невигадані Історії. Війна. Початок</title>
+  </programme>
+  <programme start="20250311150000 +0200" stop="20250311152200 +0200" channel="13">
+    <title lang="ru">07.01 Невигадані Історії. Бахмут. Піхота</title>
+  </programme>
+  <programme start="20250311152200 +0200" stop="20250311154300 +0200" channel="13">
+    <title lang="ru">06.05 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311154300 +0200" stop="20250311160500 +0200" channel="13">
+    <title lang="ru">04.03 Невигадані Історії. Бахмут. Рекси</title>
+  </programme>
+  <programme start="20250311160500 +0200" stop="20250311162700 +0200" channel="13">
+    <title lang="ru">02.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311162700 +0200" stop="20250311164400 +0200" channel="13">
+    <title lang="ru">24.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311164400 +0200" stop="20250311170800 +0200" channel="13">
+    <title lang="ru">01.04 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311170800 +0200" stop="20250311172800 +0200" channel="13">
+    <title lang="ru">31.12 Невигадані Історії. Бахмут. Волонтери</title>
+  </programme>
+  <programme start="20250311172800 +0200" stop="20250311175400 +0200" channel="13">
+    <title lang="ru">30.04.2022 Невигадані Історії. Маріуполь</title>
+  </programme>
+  <programme start="20250311175400 +0200" stop="20250311181500 +0200" channel="13">
+    <title lang="ru">30.01 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311181500 +0200" stop="20250311183700 +0200" channel="13">
+    <title lang="ru">29.10 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311183700 +0200" stop="20250311190100 +0200" channel="13">
+    <title lang="ru">28.05 Невигадані Історії. Катюжанка</title>
+  </programme>
+  <programme start="20250311190100 +0200" stop="20250311192000 +0200" channel="13">
+    <title lang="ru">27.03 Невигадані Історії. Навчання Нацгвардії</title>
+  </programme>
+  <programme start="20250311192000 +0200" stop="20250311194100 +0200" channel="13">
+    <title lang="ru">26.11 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311194100 +0200" stop="20250311200400 +0200" channel="13">
+    <title lang="ru">25.06 Невигадані Історії. Андріївка</title>
+  </programme>
+  <programme start="20250311200400 +0200" stop="20250311202600 +0200" channel="13">
+    <title lang="ru">24.12 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311202600 +0200" stop="20250311204900 +0200" channel="13">
+    <title lang="ru">24.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311204900 +0200" stop="20250311211300 +0200" channel="13">
+    <title lang="ru">23.07 Невигадані Історії. SANTA</title>
+  </programme>
+  <programme start="20250311211300 +0200" stop="20250311213100 +0200" channel="13">
+    <title lang="ru">22.05 Невигадані Історії. Перший AN-178</title>
+  </programme>
+  <programme start="20250311213100 +0200" stop="20250311215300 +0200" channel="13">
+    <title lang="ru">22.10 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311215300 +0200" stop="20250311221500 +0200" channel="13">
+    <title lang="ru">21.05 Невигадані Історії. Херсонщина. Окупація</title>
+  </programme>
+  <programme start="20250311221500 +0200" stop="20250311223600 +0200" channel="13">
+    <title lang="ru">18.06 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311223600 +0200" stop="20250311225800 +0200" channel="13">
+    <title lang="ru">17.12 Невигадані Історії. Бахмут</title>
+  </programme>
+  <programme start="20250311225800 +0200" stop="20250311231900 +0200" channel="13">
+    <title lang="ru">15.10 Невигадані Історії</title>
+  </programme>
+  <programme start="20250311231900 +0200" stop="20250311233800 +0200" channel="13">
+    <title lang="ru">04.09 Невигадані Історії. Мрія і Богатирі</title>
+  </programme>
+  <programme start="20250311233800 +0200" stop="20250312000100 +0200" channel="13">
+    <title lang="ru">10.12 Невигадані Історії</title>
+  </programme>
+  <programme start="20250312000100 +0200" stop="20250312002300 +0200" channel="13">
+    <title lang="ru">10.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250312002300 +0200" stop="20250312004400 +0200" channel="13">
+    <title lang="ru">07.05 Невигадані Історії. Буча</title>
+  </programme>
+  <programme start="20250312004400 +0200" stop="20250312010600 +0200" channel="13">
+    <title lang="ru">06.08 Невигадані Історії</title>
+  </programme>
+  <programme start="20250312010600 +0200" stop="20250312012500 +0200" channel="13">
+    <title lang="ru">26.06 Невигадані Історії. Східний фронт</title>
+  </programme>
+  <programme start="20250312012500 +0200" stop="20250312014700 +0200" channel="13">
+    <title lang="ru">04.06 Невигадані Історії. Димер</title>
+  </programme>
+  <programme start="20250312014700 +0200" stop="20250312020900 +0200" channel="13">
+    <title lang="ru">02.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20250312020900 +0200" stop="20250312023000 +0200" channel="13">
+    <title lang="ru">03.09 Невигадані Історії</title>
+  </programme>
+  <programme start="20250312023000 +0200" stop="20250312025100 +0200" channel="13">
+    <title lang="ru">31.07 Невигадані Історії</title>
+  </programme>
+  <programme start="20250312025100 +0200" stop="20250312031400 +0200" channel="13">
+    <title lang="ru">30.10 Невигадані Історії. Передова. Танкісти</title>
+  </programme>
+  <programme start="20250312031400 +0200" stop="20250312033300 +0200" channel="13">
+    <title lang="ru">02.10 Невигадані Історії. Передова</title>
+  </programme>
+  <programme start="20250312033300 +0200" stop="20250312035300 +0200" channel="13">
+    <title lang="ru">30.01 Невигадані Історії. Захисники</title>
+  </programme>
+  <programme start="20250312035300 +0200" stop="20250312041400 +0200" channel="13">
+    <title lang="ru">29.05 Невигадані Історії. Миротворці. Іловайськ</title>
+  </programme>
+  <programme start="20250312041400 +0200" stop="20250312043500 +0200" channel="13">
+    <title lang="ru">27.08 Невигадані Історії. Пам'ять</title>
+  </programme>
+  <programme start="20250312043500 +0200" stop="20250312053500 +0200" channel="13">
+    <title lang="ru">20.02 Невигадані Історії. Дебальцеве</title>
   </programme>
   <programme start="20250303035500 +0200" stop="20250303090000 +0200" channel="17">
     <title lang="ru">К/ф "Порядна львівська пані".</title>
@@ -8856,14 +9381,8 @@
   <programme start="20250308044500 +0200" stop="20250308050000 +0200" channel="17">
     <title lang="ru">"Знають навіть діти".</title>
   </programme>
-  <programme start="20250308050000 +0200" stop="20250308052500 +0200" channel="17">
+  <programme start="20250308050000 +0200" stop="20250308084000 +0200" channel="17">
     <title lang="ru">К/ф "Порядна львівська пані".</title>
-  </programme>
-  <programme start="20250308052500 +0200" stop="20250308070500 +0200" channel="17">
-    <title lang="ru">Х/ф "Найкращі вихідні".</title>
-  </programme>
-  <programme start="20250308070500 +0200" stop="20250308084000 +0200" channel="17">
-    <title lang="ru">М/ф "Микита Кожум'яка".</title>
   </programme>
   <programme start="20250308084000 +0200" stop="20250308090000 +0200" channel="17">
     <title lang="ru">Х/ф "Почни спочатку", 1 ч.</title>
@@ -8943,8 +9462,44 @@
   <programme start="20250310021500 +0200" stop="20250310035000 +0200" channel="17">
     <title lang="ru">Х/ф "На висоті".</title>
   </programme>
-  <programme start="20250310035000 +0200" stop="20250310045000 +0200" channel="17">
+  <programme start="20250310035000 +0200" stop="20250310090000 +0200" channel="17">
     <title lang="ru">"Знають навіть діти".</title>
+  </programme>
+  <programme start="20250310090000 +0200" stop="20250310090200 +0200" channel="17">
+    <title lang="ru">Х/ф "Хороший, поганий, коп", 1 ч.</title>
+  </programme>
+  <programme start="20250310090200 +0200" stop="20250310091000 +0200" channel="17">
+    <title lang="ru">Загальнонаціональна хвилина мовчання.</title>
+  </programme>
+  <programme start="20250310091000 +0200" stop="20250310105500 +0200" channel="17">
+    <title lang="ru">Х/ф "Хороший, поганий, коп", 2 ч.</title>
+  </programme>
+  <programme start="20250310105500 +0200" stop="20250310123000 +0200" channel="17">
+    <title lang="ru">Х/ф "Призначення".</title>
+  </programme>
+  <programme start="20250310123000 +0200" stop="20250310143000 +0200" channel="17">
+    <title lang="ru">Х/ф "Генкок".</title>
+  </programme>
+  <programme start="20250310143000 +0200" stop="20250310164500 +0200" channel="17">
+    <title lang="ru">Х/ф "Двійник".</title>
+  </programme>
+  <programme start="20250310164500 +0200" stop="20250310190000 +0200" channel="17">
+    <title lang="ru">Х/ф "Індіана Джонс і останній хрестовий похід".</title>
+  </programme>
+  <programme start="20250310190000 +0200" stop="20250310213500 +0200" channel="17">
+    <title lang="ru">Х/ф "Індіана Джонс та королівство кришталевого черепа".</title>
+  </programme>
+  <programme start="20250310213500 +0200" stop="20250311000500 +0200" channel="17">
+    <title lang="ru">Х/ф "Код да Вінчі".</title>
+  </programme>
+  <programme start="20250311000500 +0200" stop="20250311021500 +0200" channel="17">
+    <title lang="ru">Х/ф "Ангели і демони".</title>
+  </programme>
+  <programme start="20250311021500 +0200" stop="20250311035000 +0200" channel="17">
+    <title lang="ru">Х/ф "Інферно".</title>
+  </programme>
+  <programme start="20250311035000 +0200" stop="20250311045000 +0200" channel="17">
+    <title lang="ru">Х/ф "На висоті".</title>
   </programme>
   <programme start="20250303034000 +0200" stop="20250303034500 +0200" channel="18">
     <title lang="ru">"Знають навіть діти".</title>
@@ -9165,14 +9720,8 @@
   <programme start="20250308024500 +0200" stop="20250308031000 +0200" channel="18">
     <title lang="ru">Д/ф "Олександр Довженко. Одеський світанок".</title>
   </programme>
-  <programme start="20250308031000 +0200" stop="20250308052500 +0200" channel="18">
+  <programme start="20250308031000 +0200" stop="20250308090000 +0200" channel="18">
     <title lang="ru">Д/ф "Експедиція".</title>
-  </programme>
-  <programme start="20250308052500 +0200" stop="20250308072000 +0200" channel="18">
-    <title lang="ru">Х/ф "Фатальна пристрасть".</title>
-  </programme>
-  <programme start="20250308072000 +0200" stop="20250308090000 +0200" channel="18">
-    <title lang="ru">Х/ф "Любов і пристрасть. Даліда", 1 ч.</title>
   </programme>
   <programme start="20250308090000 +0200" stop="20250308090200 +0200" channel="18">
     <title lang="ru">Загальнонаціональна хвилина мовчання.</title>
@@ -9252,8 +9801,47 @@
   <programme start="20250310030000 +0200" stop="20250310032500 +0200" channel="18">
     <title lang="ru">Д/ф "Кобзар. Історія однієї книги".</title>
   </programme>
-  <programme start="20250310032500 +0200" stop="20250310042500 +0200" channel="18">
+  <programme start="20250310032500 +0200" stop="20250310090000 +0200" channel="18">
     <title lang="ru">"Знають навіть діти".</title>
+  </programme>
+  <programme start="20250310090000 +0200" stop="20250310090200 +0200" channel="18">
+    <title lang="ru">Х/ф "Хто тобі доктор?".</title>
+  </programme>
+  <programme start="20250310090200 +0200" stop="20250310105000 +0200" channel="18">
+    <title lang="ru">Загальнонаціональна хвилина мовчання.</title>
+  </programme>
+  <programme start="20250310105000 +0200" stop="20250310123500 +0200" channel="18">
+    <title lang="ru">Х/ф "Ну що, приїхали?".</title>
+  </programme>
+  <programme start="20250310123500 +0200" stop="20250310144000 +0200" channel="18">
+    <title lang="ru">Х/ф "Дівчина мого найкращого друга".</title>
+  </programme>
+  <programme start="20250310144000 +0200" stop="20250310170000 +0200" channel="18">
+    <title lang="ru">Х/ф "Сутінки".</title>
+  </programme>
+  <programme start="20250310170000 +0200" stop="20250310190500 +0200" channel="18">
+    <title lang="ru">Х/ф "Сутінки. Сага. Новий місяць".</title>
+  </programme>
+  <programme start="20250310190500 +0200" stop="20250310211000 +0200" channel="18">
+    <title lang="ru">Х/ф "Сутінки. Сага. Затемнення".</title>
+  </programme>
+  <programme start="20250310211000 +0200" stop="20250310230500 +0200" channel="18">
+    <title lang="ru">Х/ф "Сутінки. Сага. Світанок: Частина 1".</title>
+  </programme>
+  <programme start="20250310230500 +0200" stop="20250311010500 +0200" channel="18">
+    <title lang="ru">Х/ф "Сутінки. Сага. Світанок: Частина 2".</title>
+  </programme>
+  <programme start="20250311010500 +0200" stop="20250311024500 +0200" channel="18">
+    <title lang="ru">Х/ф "Друзі по сексу".</title>
+  </programme>
+  <programme start="20250311024500 +0200" stop="20250311030000 +0200" channel="18">
+    <title lang="ru">Х/ф "Секс і нічого особистого".</title>
+  </programme>
+  <programme start="20250311030000 +0200" stop="20250311032500 +0200" channel="18">
+    <title lang="ru">К/ф "Mia Donna".</title>
+  </programme>
+  <programme start="20250311032500 +0200" stop="20250311042500 +0200" channel="18">
+    <title lang="ru">Д/ф "Кобзар. Історія однієї книги".</title>
   </programme>
   <programme start="20250303025500 +0200" stop="20250303030000 +0200" channel="19">
     <title lang="ru">"Знають навіть діти".</title>
@@ -9471,11 +10059,8 @@
   <programme start="20250308023000 +0200" stop="20250308035000 +0200" channel="19">
     <title lang="ru">Х/ф "Пульс".</title>
   </programme>
-  <programme start="20250308035000 +0200" stop="20250308062500 +0200" channel="19">
+  <programme start="20250308035000 +0200" stop="20250308082500 +0200" channel="19">
     <title lang="ru">Д/ф "Кобзар. Історія однієї книги".</title>
-  </programme>
-  <programme start="20250308062500 +0200" stop="20250308082500 +0200" channel="19">
-    <title lang="ru">Х/ф "Творець".</title>
   </programme>
   <programme start="20250308082500 +0200" stop="20250308090000 +0200" channel="19">
     <title lang="ru">Х/ф "Битва за Землю", 1 ч.</title>
@@ -9546,8 +10131,41 @@
   <programme start="20250310015500 +0200" stop="20250310033000 +0200" channel="19">
     <title lang="ru">Х/ф "Генделик".</title>
   </programme>
-  <programme start="20250310033000 +0200" stop="20250310043000 +0200" channel="19">
+  <programme start="20250310033000 +0200" stop="20250310074500 +0200" channel="19">
     <title lang="ru">Д/ф "Експедиція".</title>
+  </programme>
+  <programme start="20250310074500 +0200" stop="20250310090000 +0200" channel="19">
+    <title lang="ru">Х/ф "Скелелаз".</title>
+  </programme>
+  <programme start="20250310090000 +0200" stop="20250310090200 +0200" channel="19">
+    <title lang="ru">Х/ф "Два стволи", 1 ч.</title>
+  </programme>
+  <programme start="20250310090200 +0200" stop="20250310093500 +0200" channel="19">
+    <title lang="ru">Загальнонаціональна хвилина мовчання.</title>
+  </programme>
+  <programme start="20250310093500 +0200" stop="20250310114000 +0200" channel="19">
+    <title lang="ru">Х/ф "Два стволи", 2 ч.</title>
+  </programme>
+  <programme start="20250310114000 +0200" stop="20250310140000 +0200" channel="19">
+    <title lang="ru">Х/ф "На драйві".</title>
+  </programme>
+  <programme start="20250310140000 +0200" stop="20250310171500 +0200" channel="19">
+    <title lang="ru">Х/ф "Лють".</title>
+  </programme>
+  <programme start="20250310171500 +0200" stop="20250310205500 +0200" channel="19">
+    <title lang="ru">Х/ф "Хрещений батько".</title>
+  </programme>
+  <programme start="20250310205500 +0200" stop="20250310235500 +0200" channel="19">
+    <title lang="ru">Х/ф "Хрещений батько 2".</title>
+  </programme>
+  <programme start="20250310235500 +0200" stop="20250311015500 +0200" channel="19">
+    <title lang="ru">Х/ф "Хрещений батько 3".</title>
+  </programme>
+  <programme start="20250311015500 +0200" stop="20250311033000 +0200" channel="19">
+    <title lang="ru">Х/ф "Ейр Америка".</title>
+  </programme>
+  <programme start="20250311033000 +0200" stop="20250311043000 +0200" channel="19">
+    <title lang="ru">Х/ф "Генделик".</title>
   </programme>
   <programme start="20250303021600 +0200" stop="20250303024300 +0200" channel="20">
     <title lang="ru">Україна. 1921-1991, 45 еп.</title>
@@ -10197,23 +10815,8 @@
   <programme start="20250308034700 +0200" stop="20250308041300 +0200" channel="20">
     <title lang="ru">Культ Ура!, 20 еп.</title>
   </programme>
-  <programme start="20250308041300 +0200" stop="20250308050700 +0200" channel="20">
+  <programme start="20250308041300 +0200" stop="20250308082700 +0200" channel="20">
     <title lang="ru">Фіз Культ Ура!, 15 еп.</title>
-  </programme>
-  <programme start="20250308050700 +0200" stop="20250308053300 +0200" channel="20">
-    <title lang="ru">Фіз Культ Ура!, 17 еп.</title>
-  </programme>
-  <programme start="20250308053300 +0200" stop="20250308060100 +0200" channel="20">
-    <title lang="ru">Фіз Культ Ура!, 18 еп.</title>
-  </programme>
-  <programme start="20250308060100 +0200" stop="20250308064900 +0200" channel="20">
-    <title lang="ru">Апельсинова долька, 1 еп.</title>
-  </programme>
-  <programme start="20250308064900 +0200" stop="20250308073700 +0200" channel="20">
-    <title lang="ru">Апельсинова долька, 2 еп.</title>
-  </programme>
-  <programme start="20250308073700 +0200" stop="20250308082700 +0200" channel="20">
-    <title lang="ru">Апельсинова долька, 3 еп.</title>
   </programme>
   <programme start="20250308082700 +0200" stop="20250308085500 +0200" channel="20">
     <title lang="ru">Дзеркало історії, 1 еп.</title>
@@ -10461,7 +11064,1249 @@
   <programme start="20250309230200 +0200" stop="20250309233100 +0200" channel="20">
     <title lang="ru">Культ Ура!, 27 еп.</title>
   </programme>
-  <programme start="20250309233100 +0200" stop="20250310003100 +0200" channel="20">
+  <programme start="20250309233100 +0200" stop="20250309235900 +0200" channel="20">
     <title lang="ru">Культ Ура!, 28 еп.</title>
+  </programme>
+  <programme start="20250309235900 +0200" stop="20250310002800 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 29 еп.</title>
+  </programme>
+  <programme start="20250310002800 +0200" stop="20250310005300 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 30 еп.</title>
+  </programme>
+  <programme start="20250310005300 +0200" stop="20250310012000 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 31 еп.</title>
+  </programme>
+  <programme start="20250310012000 +0200" stop="20250310014800 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 43 еп.</title>
+  </programme>
+  <programme start="20250310014800 +0200" stop="20250310021600 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 44 еп.</title>
+  </programme>
+  <programme start="20250310021600 +0200" stop="20250310024300 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 45 еп.</title>
+  </programme>
+  <programme start="20250310024300 +0200" stop="20250310030900 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 46 еп.</title>
+  </programme>
+  <programme start="20250310030900 +0200" stop="20250310033600 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 47 еп.</title>
+  </programme>
+  <programme start="20250310033600 +0200" stop="20250310040400 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 48 еп.</title>
+  </programme>
+  <programme start="20250310040400 +0200" stop="20250310075000 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 49 еп.</title>
+  </programme>
+  <programme start="20250310075000 +0200" stop="20250310081900 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 18 еп.</title>
+  </programme>
+  <programme start="20250310081900 +0200" stop="20250310084500 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 19 еп.</title>
+  </programme>
+  <programme start="20250310084500 +0200" stop="20250310091300 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 20 еп.</title>
+  </programme>
+  <programme start="20250310091300 +0200" stop="20250310093800 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 21 еп.</title>
+  </programme>
+  <programme start="20250310093800 +0200" stop="20250310100500 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 22 еп.</title>
+  </programme>
+  <programme start="20250310100500 +0200" stop="20250310103100 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 23 еп.</title>
+  </programme>
+  <programme start="20250310103100 +0200" stop="20250310105900 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 24 еп.</title>
+  </programme>
+  <programme start="20250310105900 +0200" stop="20250310112100 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 25 еп.</title>
+  </programme>
+  <programme start="20250310112100 +0200" stop="20250310115000 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 27 еп.</title>
+  </programme>
+  <programme start="20250310115000 +0200" stop="20250310121600 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 28 еп.</title>
+  </programme>
+  <programme start="20250310121600 +0200" stop="20250310124100 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 29 еп.</title>
+  </programme>
+  <programme start="20250310124100 +0200" stop="20250310130700 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 30 еп.</title>
+  </programme>
+  <programme start="20250310130700 +0200" stop="20250310133400 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 31 еп.</title>
+  </programme>
+  <programme start="20250310133400 +0200" stop="20250310135800 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 32 еп.</title>
+  </programme>
+  <programme start="20250310135800 +0200" stop="20250310144500 +0200" channel="20">
+    <title lang="ru">Обережно, діти!, 30 еп.</title>
+  </programme>
+  <programme start="20250310144500 +0200" stop="20250310153300 +0200" channel="20">
+    <title lang="ru">Апельсинова долька, 1 еп.</title>
+  </programme>
+  <programme start="20250310153300 +0200" stop="20250310162400 +0200" channel="20">
+    <title lang="ru">Апельсинова долька, 2 еп.</title>
+  </programme>
+  <programme start="20250310162400 +0200" stop="20250310165300 +0200" channel="20">
+    <title lang="ru">Апельсинова долька, 3 еп.</title>
+  </programme>
+  <programme start="20250310165300 +0200" stop="20250310172200 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 73 еп.</title>
+  </programme>
+  <programme start="20250310172200 +0200" stop="20250310175200 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 74 еп.</title>
+  </programme>
+  <programme start="20250310175200 +0200" stop="20250310181900 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 75 еп.</title>
+  </programme>
+  <programme start="20250310181900 +0200" stop="20250310184900 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 76 еп.</title>
+  </programme>
+  <programme start="20250310184900 +0200" stop="20250310191900 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 77 еп.</title>
+  </programme>
+  <programme start="20250310191900 +0200" stop="20250310194600 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 78 еп.</title>
+  </programme>
+  <programme start="20250310194600 +0200" stop="20250310201400 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 79 еп.</title>
+  </programme>
+  <programme start="20250310201400 +0200" stop="20250310204200 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 80 еп.</title>
+  </programme>
+  <programme start="20250310204200 +0200" stop="20250310211000 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 81 еп.</title>
+  </programme>
+  <programme start="20250310211000 +0200" stop="20250310213600 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 82 еп.</title>
+  </programme>
+  <programme start="20250310213600 +0200" stop="20250310220300 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 83 еп.</title>
+  </programme>
+  <programme start="20250310220300 +0200" stop="20250310223300 +0200" channel="20">
+    <title lang="ru">Дзеркало історії, 84 еп.</title>
+  </programme>
+  <programme start="20250310223300 +0200" stop="20250310230200 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 25 еп.</title>
+  </programme>
+  <programme start="20250310230200 +0200" stop="20250310233100 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 26 еп.</title>
+  </programme>
+  <programme start="20250310233100 +0200" stop="20250310235900 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 27 еп.</title>
+  </programme>
+  <programme start="20250310235900 +0200" stop="20250311002800 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 28 еп.</title>
+  </programme>
+  <programme start="20250311002800 +0200" stop="20250311005300 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 29 еп.</title>
+  </programme>
+  <programme start="20250311005300 +0200" stop="20250311012000 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 30 еп.</title>
+  </programme>
+  <programme start="20250311012000 +0200" stop="20250311014800 +0200" channel="20">
+    <title lang="ru">Культ Ура!, 31 еп.</title>
+  </programme>
+  <programme start="20250311014800 +0200" stop="20250311021600 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 43 еп.</title>
+  </programme>
+  <programme start="20250311021600 +0200" stop="20250311024300 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 44 еп.</title>
+  </programme>
+  <programme start="20250311024300 +0200" stop="20250311030900 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 45 еп.</title>
+  </programme>
+  <programme start="20250311030900 +0200" stop="20250311033600 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 46 еп.</title>
+  </programme>
+  <programme start="20250311033600 +0200" stop="20250311040400 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 47 еп.</title>
+  </programme>
+  <programme start="20250311040400 +0200" stop="20250311050400 +0200" channel="20">
+    <title lang="ru">Україна. 1921-1991, 48 еп.</title>
+  </programme>
+  <programme start="20250303021600 +0200" stop="20250303024300 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250303024300 +0200" stop="20250303030700 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250303030700 +0200" stop="20250303033600 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 2 еп.5</title>
+  </programme>
+  <programme start="20250303033600 +0200" stop="20250303040600 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 17 еп.</title>
+  </programme>
+  <programme start="20250303040600 +0200" stop="20250303043700 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250303043700 +0200" stop="20250303050600 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 76 еп.</title>
+  </programme>
+  <programme start="20250303050600 +0200" stop="20250303053600 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 32 еп.</title>
+  </programme>
+  <programme start="20250303053600 +0200" stop="20250303060500 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250303060500 +0200" stop="20250303063200 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250303063200 +0200" stop="20250303065900 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 3 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250303065900 +0200" stop="20250303074600 +0200" channel="23">
+    <title lang="ru">Оновлені міста, 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250303074600 +0200" stop="20250303081500 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 86 еп.</title>
+  </programme>
+  <programme start="20250303081500 +0200" stop="20250303084200 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250303084200 +0200" stop="20250303090600 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250303090600 +0200" stop="20250303093500 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 2 еп.5</title>
+  </programme>
+  <programme start="20250303093500 +0200" stop="20250303100500 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 17 еп.</title>
+  </programme>
+  <programme start="20250303100500 +0200" stop="20250303103600 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250303103600 +0200" stop="20250303110500 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 76 еп.</title>
+  </programme>
+  <programme start="20250303110500 +0200" stop="20250303113500 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 32 еп.</title>
+  </programme>
+  <programme start="20250303113500 +0200" stop="20250303120400 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250303120400 +0200" stop="20250303123100 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250303123100 +0200" stop="20250303125800 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 3 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250303125800 +0200" stop="20250303134500 +0200" channel="23">
+    <title lang="ru">Оновлені міста, 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250303134500 +0200" stop="20250303141400 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 86 еп.</title>
+  </programme>
+  <programme start="20250303141400 +0200" stop="20250303144100 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250303144100 +0200" stop="20250303150500 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250303150500 +0200" stop="20250303153400 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 2 еп.5</title>
+  </programme>
+  <programme start="20250303153400 +0200" stop="20250303160500 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 17 еп.</title>
+  </programme>
+  <programme start="20250303160500 +0200" stop="20250303163500 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250303163500 +0200" stop="20250303170400 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 76 еп.</title>
+  </programme>
+  <programme start="20250303170400 +0200" stop="20250303173400 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 32 еп.</title>
+  </programme>
+  <programme start="20250303173400 +0200" stop="20250303180300 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250303180300 +0200" stop="20250303183000 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250303183000 +0200" stop="20250303185700 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 3 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250303185700 +0200" stop="20250303192200 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250303192200 +0200" stop="20250303194600 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250303194600 +0200" stop="20250303200900 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 22 еп.</title>
+  </programme>
+  <programme start="20250303200900 +0200" stop="20250303203800 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 2 еп.4</title>
+  </programme>
+  <programme start="20250303203800 +0200" stop="20250303210800 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 16 еп.</title>
+  </programme>
+  <programme start="20250303210800 +0200" stop="20250303213800 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250303213800 +0200" stop="20250303220700 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250303220700 +0200" stop="20250303223300 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 75 еп.</title>
+  </programme>
+  <programme start="20250303223300 +0200" stop="20250303230200 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 31 еп.</title>
+  </programme>
+  <programme start="20250303230200 +0200" stop="20250303233200 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250303233200 +0200" stop="20250303235800 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250303235800 +0200" stop="20250304002600 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250304002600 +0200" stop="20250304005600 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 85 еп.</title>
+  </programme>
+  <programme start="20250304005600 +0200" stop="20250304012100 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250304012100 +0200" stop="20250304014500 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250304014500 +0200" stop="20250304020800 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 22 еп.</title>
+  </programme>
+  <programme start="20250304020800 +0200" stop="20250304023800 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 2 еп.4</title>
+  </programme>
+  <programme start="20250304023800 +0200" stop="20250304030700 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 16 еп.</title>
+  </programme>
+  <programme start="20250304030700 +0200" stop="20250304033700 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250304033700 +0200" stop="20250304040600 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250304040600 +0200" stop="20250304043200 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 75 еп.</title>
+  </programme>
+  <programme start="20250304043200 +0200" stop="20250304050100 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 31 еп.</title>
+  </programme>
+  <programme start="20250304050100 +0200" stop="20250304053100 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250304053100 +0200" stop="20250304055800 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250304055800 +0200" stop="20250304062500 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250304062500 +0200" stop="20250304065500 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 85 еп.</title>
+  </programme>
+  <programme start="20250304065500 +0200" stop="20250304072000 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250304072000 +0200" stop="20250304074400 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250304074400 +0200" stop="20250304080800 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 22 еп.</title>
+  </programme>
+  <programme start="20250304080800 +0200" stop="20250304083700 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 2 еп.4</title>
+  </programme>
+  <programme start="20250304083700 +0200" stop="20250304090700 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 16 еп.</title>
+  </programme>
+  <programme start="20250304090700 +0200" stop="20250304093600 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250304093600 +0200" stop="20250304100500 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250304100500 +0200" stop="20250304103100 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 75 еп.</title>
+  </programme>
+  <programme start="20250304103100 +0200" stop="20250304110100 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 31 еп.</title>
+  </programme>
+  <programme start="20250304110100 +0200" stop="20250304113000 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250304113000 +0200" stop="20250304115700 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250304115700 +0200" stop="20250304122500 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250304122500 +0200" stop="20250304125500 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 85 еп.</title>
+  </programme>
+  <programme start="20250304125500 +0200" stop="20250304131900 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250304131900 +0200" stop="20250304134400 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250304134400 +0200" stop="20250304140700 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 22 еп.</title>
+  </programme>
+  <programme start="20250304140700 +0200" stop="20250304143600 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 2 еп.4</title>
+  </programme>
+  <programme start="20250304143600 +0200" stop="20250304150600 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 16 еп.</title>
+  </programme>
+  <programme start="20250304150600 +0200" stop="20250304153600 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250304153600 +0200" stop="20250304160500 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250304160500 +0200" stop="20250304163100 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 75 еп.</title>
+  </programme>
+  <programme start="20250304163100 +0200" stop="20250304170000 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 31 еп.</title>
+  </programme>
+  <programme start="20250304170000 +0200" stop="20250304173000 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250304173000 +0200" stop="20250304175600 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250304175600 +0200" stop="20250304182400 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250304182400 +0200" stop="20250304185300 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 23 еп.</title>
+  </programme>
+  <programme start="20250304185300 +0200" stop="20250304192200 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250304192200 +0200" stop="20250304195200 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 84 еп.</title>
+  </programme>
+  <programme start="20250304195200 +0200" stop="20250304201700 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250304201700 +0200" stop="20250304204100 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250304204100 +0200" stop="20250304210400 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 21 еп.</title>
+  </programme>
+  <programme start="20250304210400 +0200" stop="20250304213300 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 15 еп.</title>
+  </programme>
+  <programme start="20250304213300 +0200" stop="20250304220200 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250304220200 +0200" stop="20250304222900 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 74 еп.</title>
+  </programme>
+  <programme start="20250304222900 +0200" stop="20250304225700 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 29 еп.</title>
+  </programme>
+  <programme start="20250304225700 +0200" stop="20250304232700 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250304232700 +0200" stop="20250304235400 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250304235400 +0200" stop="20250305002200 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250305002200 +0200" stop="20250305005200 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 23 еп.</title>
+  </programme>
+  <programme start="20250305005200 +0200" stop="20250305012100 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250305012100 +0200" stop="20250305015100 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 84 еп.</title>
+  </programme>
+  <programme start="20250305015100 +0200" stop="20250305021600 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250305021600 +0200" stop="20250305024000 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250305024000 +0200" stop="20250305030200 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 21 еп.</title>
+  </programme>
+  <programme start="20250305030200 +0200" stop="20250305033100 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 15 еп.</title>
+  </programme>
+  <programme start="20250305033100 +0200" stop="20250305040000 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250305040000 +0200" stop="20250305042900 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 74 еп.</title>
+  </programme>
+  <programme start="20250305042900 +0200" stop="20250305045700 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 29 еп.</title>
+  </programme>
+  <programme start="20250305045700 +0200" stop="20250305052700 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250305052700 +0200" stop="20250305055400 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250305055400 +0200" stop="20250305062200 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250305062200 +0200" stop="20250305065100 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 23 еп.</title>
+  </programme>
+  <programme start="20250305065100 +0200" stop="20250305072000 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250305072000 +0200" stop="20250305075100 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 84 еп.</title>
+  </programme>
+  <programme start="20250305075100 +0200" stop="20250305081500 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250305081500 +0200" stop="20250305083900 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250305083900 +0200" stop="20250305090200 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 21 еп.</title>
+  </programme>
+  <programme start="20250305090200 +0200" stop="20250305093100 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 15 еп.</title>
+  </programme>
+  <programme start="20250305093100 +0200" stop="20250305100000 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250305100000 +0200" stop="20250305102900 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 74 еп.</title>
+  </programme>
+  <programme start="20250305102900 +0200" stop="20250305105700 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 29 еп.</title>
+  </programme>
+  <programme start="20250305105700 +0200" stop="20250305112700 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250305112700 +0200" stop="20250305115400 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250305115400 +0200" stop="20250305122200 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250305122200 +0200" stop="20250305125100 +0200" channel="23">
+    <title lang="ru">На власні очі, 1 сез., 23 еп.</title>
+  </programme>
+  <programme start="20250305125100 +0200" stop="20250305132000 +0200" channel="23">
+    <title lang="ru">Пошук ідеалу. Ісламський дизайн саду, 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250305132000 +0200" stop="20250305135000 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 84 еп.</title>
+  </programme>
+  <programme start="20250305135000 +0200" stop="20250305141500 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250305141500 +0200" stop="20250305143900 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250305143900 +0200" stop="20250305150200 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 21 еп.</title>
+  </programme>
+  <programme start="20250305150200 +0200" stop="20250305153000 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 15 еп.</title>
+  </programme>
+  <programme start="20250305153000 +0200" stop="20250305155900 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250305155900 +0200" stop="20250305162900 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 74 еп.</title>
+  </programme>
+  <programme start="20250305162900 +0200" stop="20250305165700 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 29 еп.</title>
+  </programme>
+  <programme start="20250305165700 +0200" stop="20250305172700 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250305172700 +0200" stop="20250305175300 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250305175300 +0200" stop="20250305182100 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250305182100 +0200" stop="20250305185100 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 83 еп.</title>
+  </programme>
+  <programme start="20250305185100 +0200" stop="20250305191700 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250305191700 +0200" stop="20250305194300 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250305194300 +0200" stop="20250305200500 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 20 еп.</title>
+  </programme>
+  <programme start="20250305200500 +0200" stop="20250305203400 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 14 еп.</title>
+  </programme>
+  <programme start="20250305203400 +0200" stop="20250305210400 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250305210400 +0200" stop="20250305213400 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 73 еп.</title>
+  </programme>
+  <programme start="20250305213400 +0200" stop="20250305220300 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 27 еп.</title>
+  </programme>
+  <programme start="20250305220300 +0200" stop="20250305223300 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250305223300 +0200" stop="20250305230300 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250305230300 +0200" stop="20250305232900 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250305232900 +0200" stop="20250305235600 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250305235600 +0200" stop="20250306002600 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 83 еп.</title>
+  </programme>
+  <programme start="20250306002600 +0200" stop="20250306005100 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250306005100 +0200" stop="20250306011700 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250306011700 +0200" stop="20250306013900 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 20 еп.</title>
+  </programme>
+  <programme start="20250306013900 +0200" stop="20250306020900 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 14 еп.</title>
+  </programme>
+  <programme start="20250306020900 +0200" stop="20250306023900 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250306023900 +0200" stop="20250306030800 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 73 еп.</title>
+  </programme>
+  <programme start="20250306030800 +0200" stop="20250306033800 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 27 еп.</title>
+  </programme>
+  <programme start="20250306033800 +0200" stop="20250306040800 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250306040800 +0200" stop="20250306043700 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250306043700 +0200" stop="20250306050400 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250306050400 +0200" stop="20250306053000 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250306053000 +0200" stop="20250306055800 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 72 еп.</title>
+  </programme>
+  <programme start="20250306055800 +0200" stop="20250306062800 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250306062800 +0200" stop="20250306065800 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 83 еп.</title>
+  </programme>
+  <programme start="20250306065800 +0200" stop="20250306072300 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250306072300 +0200" stop="20250306074900 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250306074900 +0200" stop="20250306081100 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 20 еп.</title>
+  </programme>
+  <programme start="20250306081100 +0200" stop="20250306084100 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 14 еп.</title>
+  </programme>
+  <programme start="20250306084100 +0200" stop="20250306091100 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250306091100 +0200" stop="20250306094000 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 73 еп.</title>
+  </programme>
+  <programme start="20250306094000 +0200" stop="20250306101000 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 27 еп.</title>
+  </programme>
+  <programme start="20250306101000 +0200" stop="20250306104000 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250306104000 +0200" stop="20250306110900 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250306110900 +0200" stop="20250306113600 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250306113600 +0200" stop="20250306120200 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250306120200 +0200" stop="20250306123200 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 83 еп.</title>
+  </programme>
+  <programme start="20250306123200 +0200" stop="20250306125800 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250306125800 +0200" stop="20250306132400 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250306132400 +0200" stop="20250306134500 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 20 еп.</title>
+  </programme>
+  <programme start="20250306134500 +0200" stop="20250306141500 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 14 еп.</title>
+  </programme>
+  <programme start="20250306141500 +0200" stop="20250306144500 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250306144500 +0200" stop="20250306151400 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 73 еп.</title>
+  </programme>
+  <programme start="20250306151400 +0200" stop="20250306154400 +0200" channel="23">
+    <title lang="ru">Подорож у минуле, 1 сез., 27 еп.</title>
+  </programme>
+  <programme start="20250306154400 +0200" stop="20250306161400 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250306161400 +0200" stop="20250306164300 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250306164300 +0200" stop="20250306171000 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250306171000 +0200" stop="20250306173600 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250306173600 +0200" stop="20250306180500 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250306180500 +0200" stop="20250306183300 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 82 еп.</title>
+  </programme>
+  <programme start="20250306183300 +0200" stop="20250306185900 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250306185900 +0200" stop="20250306192400 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250306192400 +0200" stop="20250306194700 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 19 еп.</title>
+  </programme>
+  <programme start="20250306194700 +0200" stop="20250306201600 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250306201600 +0200" stop="20250306204600 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250306204600 +0200" stop="20250306211400 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 72 еп.</title>
+  </programme>
+  <programme start="20250306211400 +0200" stop="20250306214400 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250306214400 +0200" stop="20250306221300 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250306221300 +0200" stop="20250306224000 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250306224000 +0200" stop="20250306230600 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250306230600 +0200" stop="20250306233400 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250306233400 +0200" stop="20250307000300 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250307000300 +0200" stop="20250307003100 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 82 еп.</title>
+  </programme>
+  <programme start="20250307003100 +0200" stop="20250307005700 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250307005700 +0200" stop="20250307012200 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250307012200 +0200" stop="20250307014500 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 19 еп.</title>
+  </programme>
+  <programme start="20250307014500 +0200" stop="20250307021400 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250307021400 +0200" stop="20250307024400 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250307024400 +0200" stop="20250307031200 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 72 еп.</title>
+  </programme>
+  <programme start="20250307031200 +0200" stop="20250307034100 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250307034100 +0200" stop="20250307041100 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250307041100 +0200" stop="20250307043800 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250307043800 +0200" stop="20250307050400 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250307050400 +0200" stop="20250307053200 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250307053200 +0200" stop="20250307060100 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250307060100 +0200" stop="20250307062900 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 82 еп.</title>
+  </programme>
+  <programme start="20250307062900 +0200" stop="20250307065500 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250307065500 +0200" stop="20250307072000 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250307072000 +0200" stop="20250307074300 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 19 еп.</title>
+  </programme>
+  <programme start="20250307074300 +0200" stop="20250307081200 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250307081200 +0200" stop="20250307084200 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250307084200 +0200" stop="20250307091100 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250307091100 +0200" stop="20250307094100 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250307094100 +0200" stop="20250307100800 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250307100800 +0200" stop="20250307103400 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250307103400 +0200" stop="20250307110200 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250307110200 +0200" stop="20250307113100 +0200" channel="23">
+    <title lang="ru">Таємниці людського мозку, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250307113100 +0200" stop="20250307115900 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 82 еп.</title>
+  </programme>
+  <programme start="20250307115900 +0200" stop="20250307122500 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250307122500 +0200" stop="20250307125000 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250307125000 +0200" stop="20250307131300 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 19 еп.</title>
+  </programme>
+  <programme start="20250307131300 +0200" stop="20250307134200 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250307134200 +0200" stop="20250307141200 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250307141200 +0200" stop="20250307144000 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 72 еп.</title>
+  </programme>
+  <programme start="20250307144000 +0200" stop="20250307150900 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250307150900 +0200" stop="20250307153900 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250307153900 +0200" stop="20250307160500 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250307160500 +0200" stop="20250307163200 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 13 еп.</title>
+  </programme>
+  <programme start="20250307163200 +0200" stop="20250307170000 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250307170000 +0200" stop="20250307172900 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 81 еп.</title>
+  </programme>
+  <programme start="20250307172900 +0200" stop="20250307175100 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250307175100 +0200" stop="20250307181500 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250307181500 +0200" stop="20250307184500 +0200" channel="23">
+    <title lang="ru">Просто неба. Національні парки, 1 сез., 18 еп.</title>
+  </programme>
+  <programme start="20250307184500 +0200" stop="20250307191400 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250307191400 +0200" stop="20250307194500 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250307194500 +0200" stop="20250307201400 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 71 еп.</title>
+  </programme>
+  <programme start="20250307201400 +0200" stop="20250307204400 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250307204400 +0200" stop="20250307211400 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250307211400 +0200" stop="20250307214000 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20250307214000 +0200" stop="20250307220700 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250307220700 +0200" stop="20250307223500 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250307223500 +0200" stop="20250307230400 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 81 еп.</title>
+  </programme>
+  <programme start="20250307230400 +0200" stop="20250307232600 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250307232600 +0200" stop="20250307235000 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250307235000 +0200" stop="20250308001300 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 18 еп.</title>
+  </programme>
+  <programme start="20250308001300 +0200" stop="20250308004300 +0200" channel="23">
+    <title lang="ru">Просто неба. Національні парки, 1 сез., 18 еп.</title>
+  </programme>
+  <programme start="20250308004300 +0200" stop="20250308011200 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250308011200 +0200" stop="20250308014200 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250308014200 +0200" stop="20250308021200 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 71 еп.</title>
+  </programme>
+  <programme start="20250308021200 +0200" stop="20250308024200 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250308024200 +0200" stop="20250308031100 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250308031100 +0200" stop="20250308033800 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20250308033800 +0200" stop="20250308040400 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250308040400 +0200" stop="20250308043200 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250308043200 +0200" stop="20250308050200 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 81 еп.</title>
+  </programme>
+  <programme start="20250308050200 +0200" stop="20250308052300 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250308052300 +0200" stop="20250308054800 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250308054800 +0200" stop="20250308061000 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 18 еп.</title>
+  </programme>
+  <programme start="20250308061000 +0200" stop="20250308064000 +0200" channel="23">
+    <title lang="ru">Просто неба. Національні парки, 1 сез., 18 еп.</title>
+  </programme>
+  <programme start="20250308064000 +0200" stop="20250308071000 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250308071000 +0200" stop="20250308074000 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250308074000 +0200" stop="20250308081000 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250308081000 +0200" stop="20250308084000 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250308084000 +0200" stop="20250308090600 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20250308090600 +0200" stop="20250308093300 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250308093300 +0200" stop="20250308100100 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250308100100 +0200" stop="20250308103000 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 81 еп.</title>
+  </programme>
+  <programme start="20250308103000 +0200" stop="20250308105200 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250308105200 +0200" stop="20250308111600 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250308111600 +0200" stop="20250308113900 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 18 еп.</title>
+  </programme>
+  <programme start="20250308113900 +0200" stop="20250308120900 +0200" channel="23">
+    <title lang="ru">Просто неба. Національні парки, 1 сез., 18 еп.</title>
+  </programme>
+  <programme start="20250308120900 +0200" stop="20250308123800 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250308123800 +0200" stop="20250308130800 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250308130800 +0200" stop="20250308133800 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 71 еп.</title>
+  </programme>
+  <programme start="20250308133800 +0200" stop="20250308140800 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250308140800 +0200" stop="20250308143700 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250308143700 +0200" stop="20250308150400 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20250308150400 +0200" stop="20250308153100 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 12 еп.</title>
+  </programme>
+  <programme start="20250308153100 +0200" stop="20250308155800 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250308155800 +0200" stop="20250308162300 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250308162300 +0200" stop="20250308164600 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 16 еп.</title>
+  </programme>
+  <programme start="20250308164600 +0200" stop="20250308171400 +0200" channel="23">
+    <title lang="ru">Просто неба. Національні парки, 1 сез., 17 еп.</title>
+  </programme>
+  <programme start="20250308171400 +0200" stop="20250308174400 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250308174400 +0200" stop="20250308181400 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250308181400 +0200" stop="20250308184200 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 70 еп.</title>
+  </programme>
+  <programme start="20250308184200 +0200" stop="20250308191200 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250308191200 +0200" stop="20250308194200 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250308194200 +0200" stop="20250308200800 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250308200800 +0200" stop="20250308203500 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250308203500 +0200" stop="20250308210300 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250308210300 +0200" stop="20250308213200 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 80 еп.</title>
+  </programme>
+  <programme start="20250308213200 +0200" stop="20250308220000 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250308220000 +0200" stop="20250308222500 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250308222500 +0200" stop="20250308224800 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 16 еп.</title>
+  </programme>
+  <programme start="20250308224800 +0200" stop="20250308231600 +0200" channel="23">
+    <title lang="ru">Просто неба. Національні парки, 1 сез., 17 еп.</title>
+  </programme>
+  <programme start="20250308231600 +0200" stop="20250308234600 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250308234600 +0200" stop="20250309001400 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 70 еп.</title>
+  </programme>
+  <programme start="20250309001400 +0200" stop="20250309004400 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250309004400 +0200" stop="20250309011400 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250309011400 +0200" stop="20250309014000 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250309014000 +0200" stop="20250309020700 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250309020700 +0200" stop="20250309023500 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250309023500 +0200" stop="20250309030400 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 80 еп.</title>
+  </programme>
+  <programme start="20250309030400 +0200" stop="20250309033100 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250309033100 +0200" stop="20250309035700 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250309035700 +0200" stop="20250309042000 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 16 еп.</title>
+  </programme>
+  <programme start="20250309042000 +0200" stop="20250309044800 +0200" channel="23">
+    <title lang="ru">Просто неба. Національні парки, 1 сез., 17 еп.</title>
+  </programme>
+  <programme start="20250309044800 +0200" stop="20250309051700 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250309051700 +0200" stop="20250309054700 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250309054700 +0200" stop="20250309061600 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 70 еп.</title>
+  </programme>
+  <programme start="20250309061600 +0200" stop="20250309064600 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250309064600 +0200" stop="20250309071500 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250309071500 +0200" stop="20250309074200 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250309074200 +0200" stop="20250309080800 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250309080800 +0200" stop="20250309083600 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250309083600 +0200" stop="20250309090600 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 80 еп.</title>
+  </programme>
+  <programme start="20250309090600 +0200" stop="20250309093300 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250309093300 +0200" stop="20250309095800 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250309095800 +0200" stop="20250309102100 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 16 еп.</title>
+  </programme>
+  <programme start="20250309102100 +0200" stop="20250309105000 +0200" channel="23">
+    <title lang="ru">Просто неба. Національні парки, 1 сез., 17 еп.</title>
+  </programme>
+  <programme start="20250309105000 +0200" stop="20250309111900 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250309111900 +0200" stop="20250309114900 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250309114900 +0200" stop="20250309121700 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 70 еп.</title>
+  </programme>
+  <programme start="20250309121700 +0200" stop="20250309124800 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250309124800 +0200" stop="20250309131700 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 4 еп.</title>
+  </programme>
+  <programme start="20250309131700 +0200" stop="20250309134400 +0200" channel="23">
+    <title lang="ru">Дивовижне поруч, 1 сез., 1 еп.</title>
+  </programme>
+  <programme start="20250309134400 +0200" stop="20250309141000 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 11 еп.</title>
+  </programme>
+  <programme start="20250309141000 +0200" stop="20250309143800 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 8 еп.</title>
+  </programme>
+  <programme start="20250309143800 +0200" stop="20250309150700 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 79 еп.</title>
+  </programme>
+  <programme start="20250309150700 +0200" stop="20250309153200 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20250309153200 +0200" stop="20250309155400 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 15 еп.</title>
+  </programme>
+  <programme start="20250309155400 +0200" stop="20250309162100 +0200" channel="23">
+    <title lang="ru">Поринь у мій світ, 1 сез., 40 еп.</title>
+  </programme>
+  <programme start="20250309162100 +0200" stop="20250309165000 +0200" channel="23">
+    <title lang="ru">Просто неба. Національні парки, 1 сез., 15 еп.</title>
+  </programme>
+  <programme start="20250309165000 +0200" stop="20250309171900 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250309171900 +0200" stop="20250309174900 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250309174900 +0200" stop="20250309181600 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 69 еп.</title>
+  </programme>
+  <programme start="20250309181600 +0200" stop="20250309184500 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250309184500 +0200" stop="20250309191500 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250309191500 +0200" stop="20250309194200 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 10 еп.</title>
+  </programme>
+  <programme start="20250309194200 +0200" stop="20250309200900 +0200" channel="23">
+    <title lang="ru">В ритмі танцю - навколо світу, 2 сез., 7 еп.</title>
+  </programme>
+  <programme start="20250309200900 +0200" stop="20250309203800 +0200" channel="23">
+    <title lang="ru">У пошуках знань, 1 сез., 79 еп.</title>
+  </programme>
+  <programme start="20250309203800 +0200" stop="20250309210300 +0200" channel="23">
+    <title lang="ru">З Найтом про мистецтво, 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20250309210300 +0200" stop="20250309212800 +0200" channel="23">
+    <title lang="ru">Дизайнерський Рай, 1 сез., 2 еп.</title>
+  </programme>
+  <programme start="20250309212800 +0200" stop="20250309215000 +0200" channel="23">
+    <title lang="ru">Варто Побувати, 1 сез., 15 еп.</title>
+  </programme>
+  <programme start="20250309215000 +0200" stop="20250309221700 +0200" channel="23">
+    <title lang="ru">Поринь у мій світ, 1 сез., 40 еп.</title>
+  </programme>
+  <programme start="20250309221700 +0200" stop="20250309224600 +0200" channel="23">
+    <title lang="ru">Просто неба. Національні парки, 1 сез., 15 еп.</title>
+  </programme>
+  <programme start="20250309224600 +0200" stop="20250309231500 +0200" channel="23">
+    <title lang="ru">Залізничні історії, 1 сез., 9 еп.</title>
+  </programme>
+  <programme start="20250309231500 +0200" stop="20250309234500 +0200" channel="23">
+    <title lang="ru">Дістатися до зірок, 1 сез., 6 еп.</title>
+  </programme>
+  <programme start="20250309234500 +0200" stop="20250310001200 +0200" channel="23">
+    <title lang="ru">Мистецтво простору, 1 сез., 69 еп.</title>
+  </programme>
+  <programme start="20250310001200 +0200" stop="20250310004100 +0200" channel="23">
+    <title lang="ru">Секретно. Холодна Війна, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250310004100 +0200" stop="20250310011100 +0200" channel="23">
+    <title lang="ru">Секретно. Друга Світова Війна, 1 сез., 3 еп.</title>
+  </programme>
+  <programme start="20250310011100 +0200" stop="20250310021100 +0200" channel="23">
+    <title lang="ru">Знамениті гурмани, 2 сез., 10 еп.</title>
   </programme>
 </tv>
