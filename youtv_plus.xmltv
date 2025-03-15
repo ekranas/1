@@ -106,7 +106,7 @@
     <display-name>Бардак HD</display-name>
   </channel>
   <channel id="36">
-    <display-name>Гумор HD</display-name>
+    <display-name>Гумор+ HD.</display-name>
   </channel>
   <channel id="37">
     <display-name>Драма HD</display-name>
@@ -8460,7 +8460,10 @@
   <programme start="20250313090200 +0200" stop="20250313101000 +0200" channel="19">
     <title lang="ru">Х/ф "Хрещений батько", 2 ч.</title>
   </programme>
-  <programme start="20250313101000 +0200" stop="20250313134500 +0200" channel="19">
+  <programme start="20250313101000 +0200" stop="20250313131000 +0200" channel="19">
+    <title lang="ru">Х/ф "Хрещений батько 2".</title>
+  </programme>
+  <programme start="20250313131000 +0200" stop="20250313134500 +0200" channel="19">
     <title lang="ru">Х/ф "Хрещений батько 2".</title>
   </programme>
   <programme start="20250313134500 +0200" stop="20250313164000 +0200" channel="19">
@@ -17396,6 +17399,2430 @@
   </programme>
   <programme start="20250316040000 +0200" stop="20250316050000 +0200" channel="34">
     <title lang="ru">Необъяснимое с Уильямом Шетнером, 67 эп. Нераскрытые тайны Земли.</title>
+  </programme>
+  <programme start="20250312231700 +0200" stop="20250312234000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 109 рос</title>
+  </programme>
+  <programme start="20250312234000 +0200" stop="20250313000200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 110 рос</title>
+  </programme>
+  <programme start="20250313000200 +0200" stop="20250313002500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 111 рос</title>
+  </programme>
+  <programme start="20250313002500 +0200" stop="20250313004800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 112 рос</title>
+  </programme>
+  <programme start="20250313004800 +0200" stop="20250313011100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 113 рос</title>
+  </programme>
+  <programme start="20250313011100 +0200" stop="20250313013400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 114 рос</title>
+  </programme>
+  <programme start="20250313013400 +0200" stop="20250313015700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 115 рос</title>
+  </programme>
+  <programme start="20250313015700 +0200" stop="20250313022000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 116 рос</title>
+  </programme>
+  <programme start="20250313022000 +0200" stop="20250313024600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 117 рос</title>
+  </programme>
+  <programme start="20250313024600 +0200" stop="20250313031000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 118 рос</title>
+  </programme>
+  <programme start="20250313031000 +0200" stop="20250313033600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 119 рос</title>
+  </programme>
+  <programme start="20250313033600 +0200" stop="20250313035800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 120 рос</title>
+  </programme>
+  <programme start="20250313035800 +0200" stop="20250313042100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 121 рос</title>
+  </programme>
+  <programme start="20250313042100 +0200" stop="20250313044500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 122 рос</title>
+  </programme>
+  <programme start="20250313044500 +0200" stop="20250313050600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 123 рос</title>
+  </programme>
+  <programme start="20250313050600 +0200" stop="20250313052800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 124 рос</title>
+  </programme>
+  <programme start="20250313052800 +0200" stop="20250313055100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 125 рос</title>
+  </programme>
+  <programme start="20250313055100 +0200" stop="20250313061400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 126 рос</title>
+  </programme>
+  <programme start="20250313061400 +0200" stop="20250313063600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 127 рос</title>
+  </programme>
+  <programme start="20250313063600 +0200" stop="20250313070000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 128 рос</title>
+  </programme>
+  <programme start="20250313070000 +0200" stop="20250313072300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 129 рос</title>
+  </programme>
+  <programme start="20250313072300 +0200" stop="20250313074500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 130 рос</title>
+  </programme>
+  <programme start="20250313074500 +0200" stop="20250313080800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 131 рос</title>
+  </programme>
+  <programme start="20250313080800 +0200" stop="20250313083100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 132 рос</title>
+  </programme>
+  <programme start="20250313083100 +0200" stop="20250313085300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 133 рос</title>
+  </programme>
+  <programme start="20250313085300 +0200" stop="20250313091600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 134 рос</title>
+  </programme>
+  <programme start="20250313091600 +0200" stop="20250313094000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 135 рос</title>
+  </programme>
+  <programme start="20250313094000 +0200" stop="20250313100400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 136 рос</title>
+  </programme>
+  <programme start="20250313100400 +0200" stop="20250313102700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 137 рос</title>
+  </programme>
+  <programme start="20250313102700 +0200" stop="20250313105000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 138 рос</title>
+  </programme>
+  <programme start="20250313105000 +0200" stop="20250313111300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 139 рос</title>
+  </programme>
+  <programme start="20250313111300 +0200" stop="20250313113600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 140 рос</title>
+  </programme>
+  <programme start="20250313113600 +0200" stop="20250313115900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 141 рос</title>
+  </programme>
+  <programme start="20250313115900 +0200" stop="20250313121900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 142 рос</title>
+  </programme>
+  <programme start="20250313121900 +0200" stop="20250313124100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 143 рос</title>
+  </programme>
+  <programme start="20250313124100 +0200" stop="20250313130400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 144 рос</title>
+  </programme>
+  <programme start="20250313130400 +0200" stop="20250313132700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 145 рос</title>
+  </programme>
+  <programme start="20250313132700 +0200" stop="20250313134900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 146 рос</title>
+  </programme>
+  <programme start="20250313134900 +0200" stop="20250313141100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 147 рос</title>
+  </programme>
+  <programme start="20250313141100 +0200" stop="20250313143300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 148 рос</title>
+  </programme>
+  <programme start="20250313143300 +0200" stop="20250313145500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 149 рос</title>
+  </programme>
+  <programme start="20250313145500 +0200" stop="20250313151700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 150 рос</title>
+  </programme>
+  <programme start="20250313151700 +0200" stop="20250313154000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 151 рос</title>
+  </programme>
+  <programme start="20250313154000 +0200" stop="20250313160300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 152 рос</title>
+  </programme>
+  <programme start="20250313160300 +0200" stop="20250313162700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 153 рос</title>
+  </programme>
+  <programme start="20250313162700 +0200" stop="20250313165000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 154 рос</title>
+  </programme>
+  <programme start="20250313165000 +0200" stop="20250313171300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 155 рос</title>
+  </programme>
+  <programme start="20250313171300 +0200" stop="20250313173300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 156 рос</title>
+  </programme>
+  <programme start="20250313173300 +0200" stop="20250313175700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 157 рос</title>
+  </programme>
+  <programme start="20250313175700 +0200" stop="20250313182000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 158 рос</title>
+  </programme>
+  <programme start="20250313182000 +0200" stop="20250313184200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 159 рос</title>
+  </programme>
+  <programme start="20250313184200 +0200" stop="20250313190500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 160 рос</title>
+  </programme>
+  <programme start="20250313190500 +0200" stop="20250313192900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 1 (рос)</title>
+  </programme>
+  <programme start="20250313192900 +0200" stop="20250313195400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 2 (рос)</title>
+  </programme>
+  <programme start="20250313195400 +0200" stop="20250313201800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 3 (рос)</title>
+  </programme>
+  <programme start="20250313201800 +0200" stop="20250313204300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 5 (рос)</title>
+  </programme>
+  <programme start="20250313204300 +0200" stop="20250313210700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 6 (рос)</title>
+  </programme>
+  <programme start="20250313210700 +0200" stop="20250313213100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 7 (рос)</title>
+  </programme>
+  <programme start="20250313213100 +0200" stop="20250313215500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 8 (рос)</title>
+  </programme>
+  <programme start="20250313215500 +0200" stop="20250313221900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 9 (рос)</title>
+  </programme>
+  <programme start="20250313221900 +0200" stop="20250313224300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 10 (рос)</title>
+  </programme>
+  <programme start="20250313224300 +0200" stop="20250313230600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 11 (рос)</title>
+  </programme>
+  <programme start="20250313230600 +0200" stop="20250313232900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 13 (рос)</title>
+  </programme>
+  <programme start="20250313232900 +0200" stop="20250313235200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 14 (рос)</title>
+  </programme>
+  <programme start="20250313235200 +0200" stop="20250314001500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 15 (рос)</title>
+  </programme>
+  <programme start="20250314001500 +0200" stop="20250314003800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 16 (рос)</title>
+  </programme>
+  <programme start="20250314003800 +0200" stop="20250314010100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 17 (рос)</title>
+  </programme>
+  <programme start="20250314010100 +0200" stop="20250314012400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 19 (рос)</title>
+  </programme>
+  <programme start="20250314012400 +0200" stop="20250314014900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 20 (рос)</title>
+  </programme>
+  <programme start="20250314014900 +0200" stop="20250314021300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 21 (рос)</title>
+  </programme>
+  <programme start="20250314021300 +0200" stop="20250314023700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 22 (рос)</title>
+  </programme>
+  <programme start="20250314023700 +0200" stop="20250314030100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 23 (рос)</title>
+  </programme>
+  <programme start="20250314030100 +0200" stop="20250314032500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 24 (рос)</title>
+  </programme>
+  <programme start="20250314032500 +0200" stop="20250314034900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 25 (рос)</title>
+  </programme>
+  <programme start="20250314034900 +0200" stop="20250314041200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 26 (рос)</title>
+  </programme>
+  <programme start="20250314041200 +0200" stop="20250314043500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 27 (рос)</title>
+  </programme>
+  <programme start="20250314043500 +0200" stop="20250314045900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 28 (рос)</title>
+  </programme>
+  <programme start="20250314045900 +0200" stop="20250314052400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 29 (рос)</title>
+  </programme>
+  <programme start="20250314052400 +0200" stop="20250314054700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 31 (рос)</title>
+  </programme>
+  <programme start="20250314054700 +0200" stop="20250314061100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 32 (рос)</title>
+  </programme>
+  <programme start="20250314061100 +0200" stop="20250314063500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 33 (рос)</title>
+  </programme>
+  <programme start="20250314063500 +0200" stop="20250314065800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 34 (рос)</title>
+  </programme>
+  <programme start="20250314065800 +0200" stop="20250314072300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 35 (рос)</title>
+  </programme>
+  <programme start="20250314072300 +0200" stop="20250314074700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 36 (рос)</title>
+  </programme>
+  <programme start="20250314074700 +0200" stop="20250314081000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 37 (рос)</title>
+  </programme>
+  <programme start="20250314081000 +0200" stop="20250314083500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 38 (рос)</title>
+  </programme>
+  <programme start="20250314083500 +0200" stop="20250314090000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 39 (рос)</title>
+  </programme>
+  <programme start="20250314090000 +0200" stop="20250314092300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 40 (рос)</title>
+  </programme>
+  <programme start="20250314092300 +0200" stop="20250314094800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 41 (рос)</title>
+  </programme>
+  <programme start="20250314094800 +0200" stop="20250314101300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 42 (рос)</title>
+  </programme>
+  <programme start="20250314101300 +0200" stop="20250314103600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 43 (рос)</title>
+  </programme>
+  <programme start="20250314103600 +0200" stop="20250314110000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 44 (рос)</title>
+  </programme>
+  <programme start="20250314110000 +0200" stop="20250314112500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 45 (рос)</title>
+  </programme>
+  <programme start="20250314112500 +0200" stop="20250314114800 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 46 рос</title>
+  </programme>
+  <programme start="20250314114800 +0200" stop="20250314121200 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 47 рос</title>
+  </programme>
+  <programme start="20250314121200 +0200" stop="20250314123700 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 48 рос</title>
+  </programme>
+  <programme start="20250314123700 +0200" stop="20250314130100 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 49 рос</title>
+  </programme>
+  <programme start="20250314130100 +0200" stop="20250314132600 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 50 рос</title>
+  </programme>
+  <programme start="20250314132600 +0200" stop="20250314134800 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 51 рос</title>
+  </programme>
+  <programme start="20250314134800 +0200" stop="20250314141200 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 52 рос</title>
+  </programme>
+  <programme start="20250314141200 +0200" stop="20250314143400 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 53 рос</title>
+  </programme>
+  <programme start="20250314143400 +0200" stop="20250314145800 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 54 рос</title>
+  </programme>
+  <programme start="20250314145800 +0200" stop="20250314152300 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 55 рос</title>
+  </programme>
+  <programme start="20250314152300 +0200" stop="20250314154600 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 56 рос</title>
+  </programme>
+  <programme start="20250314154600 +0200" stop="20250314161000 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 57 рос</title>
+  </programme>
+  <programme start="20250314161000 +0200" stop="20250314163500 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 58 рос</title>
+  </programme>
+  <programme start="20250314163500 +0200" stop="20250314170100 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 59 рос</title>
+  </programme>
+  <programme start="20250314170100 +0200" stop="20250314172700 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 60 рос</title>
+  </programme>
+  <programme start="20250314172700 +0200" stop="20250314175200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 61 рос</title>
+  </programme>
+  <programme start="20250314175200 +0200" stop="20250314181400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 62 рос</title>
+  </programme>
+  <programme start="20250314181400 +0200" stop="20250314183800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 63 рос</title>
+  </programme>
+  <programme start="20250314183800 +0200" stop="20250314190200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 64 рос</title>
+  </programme>
+  <programme start="20250314190200 +0200" stop="20250314192700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 65 рос</title>
+  </programme>
+  <programme start="20250314192700 +0200" stop="20250314194900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 66 рос</title>
+  </programme>
+  <programme start="20250314194900 +0200" stop="20250314201400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 67 рос</title>
+  </programme>
+  <programme start="20250314201400 +0200" stop="20250314203700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 68 рос</title>
+  </programme>
+  <programme start="20250314203700 +0200" stop="20250314210200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 69 рос</title>
+  </programme>
+  <programme start="20250314210200 +0200" stop="20250314212700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 70 рос</title>
+  </programme>
+  <programme start="20250314212700 +0200" stop="20250314215300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 71 рос</title>
+  </programme>
+  <programme start="20250314215300 +0200" stop="20250314221800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 72 рос</title>
+  </programme>
+  <programme start="20250314221800 +0200" stop="20250314224200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 73 рос</title>
+  </programme>
+  <programme start="20250314224200 +0200" stop="20250314230400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 74 рос</title>
+  </programme>
+  <programme start="20250314230400 +0200" stop="20250314232700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 75 рос</title>
+  </programme>
+  <programme start="20250314232700 +0200" stop="20250314235200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 76 рос</title>
+  </programme>
+  <programme start="20250314235200 +0200" stop="20250315001600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 77 рос</title>
+  </programme>
+  <programme start="20250315001600 +0200" stop="20250315004000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 78 рос</title>
+  </programme>
+  <programme start="20250315004000 +0200" stop="20250315010500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 79 рос</title>
+  </programme>
+  <programme start="20250315010500 +0200" stop="20250315012800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 80 рос</title>
+  </programme>
+  <programme start="20250315012800 +0200" stop="20250315015300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 81 рос</title>
+  </programme>
+  <programme start="20250315015300 +0200" stop="20250315021600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 82 рос</title>
+  </programme>
+  <programme start="20250315021600 +0200" stop="20250315024000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 83 рос</title>
+  </programme>
+  <programme start="20250315024000 +0200" stop="20250315030600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 84 рос</title>
+  </programme>
+  <programme start="20250315030600 +0200" stop="20250315033000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 85 рос</title>
+  </programme>
+  <programme start="20250315033000 +0200" stop="20250315035300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 86 рос</title>
+  </programme>
+  <programme start="20250315035300 +0200" stop="20250315041700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 87 рос</title>
+  </programme>
+  <programme start="20250315041700 +0200" stop="20250315044200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 88 рос</title>
+  </programme>
+  <programme start="20250315044200 +0200" stop="20250315050400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 89 рос</title>
+  </programme>
+  <programme start="20250315050400 +0200" stop="20250315052700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 90 рос</title>
+  </programme>
+  <programme start="20250315052700 +0200" stop="20250315055100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 91 рос</title>
+  </programme>
+  <programme start="20250315055100 +0200" stop="20250315061700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 92 рос</title>
+  </programme>
+  <programme start="20250315061700 +0200" stop="20250315064200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 93 рос</title>
+  </programme>
+  <programme start="20250315064200 +0200" stop="20250315070600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 94 рос</title>
+  </programme>
+  <programme start="20250315070600 +0200" stop="20250315073000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 95 рос</title>
+  </programme>
+  <programme start="20250315073000 +0200" stop="20250315075400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 96 рос</title>
+  </programme>
+  <programme start="20250315075400 +0200" stop="20250315081800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 97 рос</title>
+  </programme>
+  <programme start="20250315081800 +0200" stop="20250315084000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 98 рос</title>
+  </programme>
+  <programme start="20250315084000 +0200" stop="20250315090400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 99 рос</title>
+  </programme>
+  <programme start="20250315090400 +0200" stop="20250315092600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 100 рос</title>
+  </programme>
+  <programme start="20250315092600 +0200" stop="20250315095000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 101 рос</title>
+  </programme>
+  <programme start="20250315095000 +0200" stop="20250315101300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 102 рос</title>
+  </programme>
+  <programme start="20250315101300 +0200" stop="20250315103700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 104 рос</title>
+  </programme>
+  <programme start="20250315103700 +0200" stop="20250315110200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 105 рос</title>
+  </programme>
+  <programme start="20250315110200 +0200" stop="20250315112700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 106 рос</title>
+  </programme>
+  <programme start="20250315112700 +0200" stop="20250315115200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 107 рос</title>
+  </programme>
+  <programme start="20250315115200 +0200" stop="20250315121800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 108 рос</title>
+  </programme>
+  <programme start="20250315121800 +0200" stop="20250315124100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 109 рос</title>
+  </programme>
+  <programme start="20250315124100 +0200" stop="20250315130300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 110 рос</title>
+  </programme>
+  <programme start="20250315130300 +0200" stop="20250315132600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 111 рос</title>
+  </programme>
+  <programme start="20250315132600 +0200" stop="20250315134900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 112 рос</title>
+  </programme>
+  <programme start="20250315134900 +0200" stop="20250315141200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 113 рос</title>
+  </programme>
+  <programme start="20250315141200 +0200" stop="20250315143500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 114 рос</title>
+  </programme>
+  <programme start="20250315143500 +0200" stop="20250315145800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 115 рос</title>
+  </programme>
+  <programme start="20250315145800 +0200" stop="20250315152200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 116 рос</title>
+  </programme>
+  <programme start="20250315152200 +0200" stop="20250315154800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 117 рос</title>
+  </programme>
+  <programme start="20250315154800 +0200" stop="20250315161100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 118 рос</title>
+  </programme>
+  <programme start="20250315161100 +0200" stop="20250315163700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 119 рос</title>
+  </programme>
+  <programme start="20250315163700 +0200" stop="20250315170000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 2. Серія 120 рос</title>
+  </programme>
+  <programme start="20250315170000 +0200" stop="20250315172300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 121 рос</title>
+  </programme>
+  <programme start="20250315172300 +0200" stop="20250315174600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 122 рос</title>
+  </programme>
+  <programme start="20250315174600 +0200" stop="20250315180700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 123 рос</title>
+  </programme>
+  <programme start="20250315180700 +0200" stop="20250315182900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 124 рос</title>
+  </programme>
+  <programme start="20250315182900 +0200" stop="20250315185200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 125 рос</title>
+  </programme>
+  <programme start="20250315185200 +0200" stop="20250315191500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 126 рос</title>
+  </programme>
+  <programme start="20250315191500 +0200" stop="20250315193800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 127 рос</title>
+  </programme>
+  <programme start="20250315193800 +0200" stop="20250315200100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 128 рос</title>
+  </programme>
+  <programme start="20250315200100 +0200" stop="20250315202400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 129 рос</title>
+  </programme>
+  <programme start="20250315202400 +0200" stop="20250315204700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 130 рос</title>
+  </programme>
+  <programme start="20250315204700 +0200" stop="20250315211000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 131 рос</title>
+  </programme>
+  <programme start="20250315211000 +0200" stop="20250315213300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 132 рос</title>
+  </programme>
+  <programme start="20250315213300 +0200" stop="20250315215400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 133 рос</title>
+  </programme>
+  <programme start="20250315215400 +0200" stop="20250315221800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 134 рос</title>
+  </programme>
+  <programme start="20250315221800 +0200" stop="20250315224100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 135 рос</title>
+  </programme>
+  <programme start="20250315224100 +0200" stop="20250315230500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 136 рос</title>
+  </programme>
+  <programme start="20250315230500 +0200" stop="20250315232800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 137 рос</title>
+  </programme>
+  <programme start="20250315232800 +0200" stop="20250315235200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 138 рос</title>
+  </programme>
+  <programme start="20250315235200 +0200" stop="20250316001400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 139 рос</title>
+  </programme>
+  <programme start="20250316001400 +0200" stop="20250316003700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 140 рос</title>
+  </programme>
+  <programme start="20250316003700 +0200" stop="20250316010000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 141 рос</title>
+  </programme>
+  <programme start="20250316010000 +0200" stop="20250316012000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 142 рос</title>
+  </programme>
+  <programme start="20250316012000 +0200" stop="20250316014300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 143 рос</title>
+  </programme>
+  <programme start="20250316014300 +0200" stop="20250316020600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 144 рос</title>
+  </programme>
+  <programme start="20250316020600 +0200" stop="20250316022800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 145 рос</title>
+  </programme>
+  <programme start="20250316022800 +0200" stop="20250316025100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 146 рос</title>
+  </programme>
+  <programme start="20250316025100 +0200" stop="20250316031200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 147 рос</title>
+  </programme>
+  <programme start="20250316031200 +0200" stop="20250316033400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 148 рос</title>
+  </programme>
+  <programme start="20250316033400 +0200" stop="20250316035700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 149 рос</title>
+  </programme>
+  <programme start="20250316035700 +0200" stop="20250316041800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 150 рос</title>
+  </programme>
+  <programme start="20250316041800 +0200" stop="20250316044200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 151 рос</title>
+  </programme>
+  <programme start="20250316044200 +0200" stop="20250316050500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 152 рос</title>
+  </programme>
+  <programme start="20250316050500 +0200" stop="20250316052800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 153 рос</title>
+  </programme>
+  <programme start="20250316052800 +0200" stop="20250316055100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 154 рос</title>
+  </programme>
+  <programme start="20250316055100 +0200" stop="20250316061400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 155 рос</title>
+  </programme>
+  <programme start="20250316061400 +0200" stop="20250316063400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 156 рос</title>
+  </programme>
+  <programme start="20250316063400 +0200" stop="20250316065800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 157 рос</title>
+  </programme>
+  <programme start="20250316065800 +0200" stop="20250316072100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 158 рос</title>
+  </programme>
+  <programme start="20250316072100 +0200" stop="20250316074300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 159 рос</title>
+  </programme>
+  <programme start="20250316074300 +0200" stop="20250316080600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 3. Серія 160 рос</title>
+  </programme>
+  <programme start="20250316080600 +0200" stop="20250316083100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 1 (рос)</title>
+  </programme>
+  <programme start="20250316083100 +0200" stop="20250316085500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 2 (рос)</title>
+  </programme>
+  <programme start="20250316085500 +0200" stop="20250316092000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 3 (рос)</title>
+  </programme>
+  <programme start="20250316092000 +0200" stop="20250316094400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 5 (рос)</title>
+  </programme>
+  <programme start="20250316094400 +0200" stop="20250316100800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 6 (рос)</title>
+  </programme>
+  <programme start="20250316100800 +0200" stop="20250316103200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 7 (рос)</title>
+  </programme>
+  <programme start="20250316103200 +0200" stop="20250316105600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 8 (рос)</title>
+  </programme>
+  <programme start="20250316105600 +0200" stop="20250316112100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 9 (рос)</title>
+  </programme>
+  <programme start="20250316112100 +0200" stop="20250316114500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 10 (рос)</title>
+  </programme>
+  <programme start="20250316114500 +0200" stop="20250316120800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 11 (рос)</title>
+  </programme>
+  <programme start="20250316120800 +0200" stop="20250316123000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 13 (рос)</title>
+  </programme>
+  <programme start="20250316123000 +0200" stop="20250316125300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 14 (рос)</title>
+  </programme>
+  <programme start="20250316125300 +0200" stop="20250316131600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 15 (рос)</title>
+  </programme>
+  <programme start="20250316131600 +0200" stop="20250316134000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 16 (рос)</title>
+  </programme>
+  <programme start="20250316134000 +0200" stop="20250316140300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 17 (рос)</title>
+  </programme>
+  <programme start="20250316140300 +0200" stop="20250316142600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 19 (рос)</title>
+  </programme>
+  <programme start="20250316142600 +0200" stop="20250316145000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 20 (рос)</title>
+  </programme>
+  <programme start="20250316145000 +0200" stop="20250316151400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 21 (рос)</title>
+  </programme>
+  <programme start="20250316151400 +0200" stop="20250316153900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 22 (рос)</title>
+  </programme>
+  <programme start="20250316153900 +0200" stop="20250316160200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 23 (рос)</title>
+  </programme>
+  <programme start="20250316160200 +0200" stop="20250316162600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 24 (рос)</title>
+  </programme>
+  <programme start="20250316162600 +0200" stop="20250316165100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 25 (рос)</title>
+  </programme>
+  <programme start="20250316165100 +0200" stop="20250316171300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 26 (рос)</title>
+  </programme>
+  <programme start="20250316171300 +0200" stop="20250316173700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 27 (рос)</title>
+  </programme>
+  <programme start="20250316173700 +0200" stop="20250316180100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 28 (рос)</title>
+  </programme>
+  <programme start="20250316180100 +0200" stop="20250316182500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 29 (рос)</title>
+  </programme>
+  <programme start="20250316182500 +0200" stop="20250316184900 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 31 (рос)</title>
+  </programme>
+  <programme start="20250316184900 +0200" stop="20250316191300 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 32 (рос)</title>
+  </programme>
+  <programme start="20250316191300 +0200" stop="20250316193700 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 33 (рос)</title>
+  </programme>
+  <programme start="20250316193700 +0200" stop="20250316200000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 34 (рос)</title>
+  </programme>
+  <programme start="20250316200000 +0200" stop="20250316202400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 35 (рос)</title>
+  </programme>
+  <programme start="20250316202400 +0200" stop="20250316204800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 36 (рос)</title>
+  </programme>
+  <programme start="20250316204800 +0200" stop="20250316211200 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 37 (рос)</title>
+  </programme>
+  <programme start="20250316211200 +0200" stop="20250316213600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 38 (рос)</title>
+  </programme>
+  <programme start="20250316213600 +0200" stop="20250316220100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 39 (рос)</title>
+  </programme>
+  <programme start="20250316220100 +0200" stop="20250316222500 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 40 (рос)</title>
+  </programme>
+  <programme start="20250316222500 +0200" stop="20250316225000 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 41 (рос)</title>
+  </programme>
+  <programme start="20250316225000 +0200" stop="20250316231400 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 42 (рос)</title>
+  </programme>
+  <programme start="20250316231400 +0200" stop="20250316233800 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 43 (рос)</title>
+  </programme>
+  <programme start="20250316233800 +0200" stop="20250317000100 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 44 (рос)</title>
+  </programme>
+  <programme start="20250317000100 +0200" stop="20250317002600 +0200" channel="35">
+    <title lang="ru">Бар Дак. Сезон 1. Серія 45 (рос)</title>
+  </programme>
+  <programme start="20250317002600 +0200" stop="20250317004900 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 46 рос</title>
+  </programme>
+  <programme start="20250317004900 +0200" stop="20250317011300 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 47 рос</title>
+  </programme>
+  <programme start="20250317011300 +0200" stop="20250317013900 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 48 рос</title>
+  </programme>
+  <programme start="20250317013900 +0200" stop="20250317020200 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 49 рос</title>
+  </programme>
+  <programme start="20250317020200 +0200" stop="20250317022700 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 50 рос</title>
+  </programme>
+  <programme start="20250317022700 +0200" stop="20250317024900 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 51 рос</title>
+  </programme>
+  <programme start="20250317024900 +0200" stop="20250317031300 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 52 рос</title>
+  </programme>
+  <programme start="20250317031300 +0200" stop="20250317033600 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 53 рос</title>
+  </programme>
+  <programme start="20250317033600 +0200" stop="20250317040000 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 54 рос</title>
+  </programme>
+  <programme start="20250317040000 +0200" stop="20250317042400 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 55 рос</title>
+  </programme>
+  <programme start="20250317042400 +0200" stop="20250317052400 +0200" channel="35">
+    <title lang="ru">Бар Дак Сезон 1 Серія 56 рос</title>
+  </programme>
+  <programme start="20250312234200 +0200" stop="20250313002500 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250313002500 +0200" stop="20250313011100 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250313011100 +0200" stop="20250313015500 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250313015500 +0200" stop="20250313024100 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250313024100 +0200" stop="20250313033500 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250313033500 +0200" stop="20250313043300 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250313043300 +0200" stop="20250313052600 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250313052600 +0200" stop="20250313061600 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250313061600 +0200" stop="20250313070000 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250313070000 +0200" stop="20250313074200 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250313074200 +0200" stop="20250313082300 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250313082300 +0200" stop="20250313090900 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250313090900 +0200" stop="20250313095500 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250313095500 +0200" stop="20250313104100 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250313104100 +0200" stop="20250313112700 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250313112700 +0200" stop="20250313121300 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250313121300 +0200" stop="20250313130100 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250313130100 +0200" stop="20250313134900 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250313134900 +0200" stop="20250313143800 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250313143800 +0200" stop="20250313152500 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250313152500 +0200" stop="20250313161300 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250313161300 +0200" stop="20250313165900 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250313165900 +0200" stop="20250313174500 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250313174500 +0200" stop="20250313183300 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250313183300 +0200" stop="20250313192000 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250313192000 +0200" stop="20250313200400 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250313200400 +0200" stop="20250313204900 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250313204900 +0200" stop="20250313213300 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250313213300 +0200" stop="20250313222300 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250313222300 +0200" stop="20250313231300 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250313231300 +0200" stop="20250314000600 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250314000600 +0200" stop="20250314005900 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250314005900 +0200" stop="20250314014500 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250314014500 +0200" stop="20250314023100 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250314023100 +0200" stop="20250314031800 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250314031800 +0200" stop="20250314040200 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250314040200 +0200" stop="20250314044600 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250314044600 +0200" stop="20250314053200 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250314053200 +0200" stop="20250314061500 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250314061500 +0200" stop="20250314070200 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250314070200 +0200" stop="20250314075500 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250314075500 +0200" stop="20250314085300 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250314085300 +0200" stop="20250314094600 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250314094600 +0200" stop="20250314103700 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250314103700 +0200" stop="20250314112000 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250314112000 +0200" stop="20250314120300 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250314120300 +0200" stop="20250314124300 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250314124300 +0200" stop="20250314133000 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250314133000 +0200" stop="20250314141600 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250314141600 +0200" stop="20250314150200 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250314150200 +0200" stop="20250314154700 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250314154700 +0200" stop="20250314163400 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250314163400 +0200" stop="20250314172200 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250314172200 +0200" stop="20250314181000 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250314181000 +0200" stop="20250314185900 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250314185900 +0200" stop="20250314194600 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250314194600 +0200" stop="20250314203300 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250314203300 +0200" stop="20250314211900 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250314211900 +0200" stop="20250314220500 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250314220500 +0200" stop="20250314225300 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250314225300 +0200" stop="20250314234000 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250314234000 +0200" stop="20250315002500 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250315002500 +0200" stop="20250315010900 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250315010900 +0200" stop="20250315015400 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250315015400 +0200" stop="20250315024300 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250315024300 +0200" stop="20250315033300 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250315033300 +0200" stop="20250315042600 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250315042600 +0200" stop="20250315052000 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250315052000 +0200" stop="20250315060500 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250315060500 +0200" stop="20250315065200 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250315065200 +0200" stop="20250315073800 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250315073800 +0200" stop="20250315082300 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250315082300 +0200" stop="20250315090600 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250315090600 +0200" stop="20250315095200 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250315095200 +0200" stop="20250315103500 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250315103500 +0200" stop="20250315112200 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250315112200 +0200" stop="20250315121600 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250315121600 +0200" stop="20250315131400 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250315131400 +0200" stop="20250315140700 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250315140700 +0200" stop="20250315145700 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250315145700 +0200" stop="20250315154000 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250315154000 +0200" stop="20250315162300 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250315162300 +0200" stop="20250315170300 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250315170300 +0200" stop="20250315175000 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250315175000 +0200" stop="20250315183600 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250315183600 +0200" stop="20250315192200 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250315192200 +0200" stop="20250315200800 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250315200800 +0200" stop="20250315205400 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250315205400 +0200" stop="20250315214200 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250315214200 +0200" stop="20250315223000 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250315223000 +0200" stop="20250315231900 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250315231900 +0200" stop="20250316000600 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250316000600 +0200" stop="20250316005300 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250316005300 +0200" stop="20250316014000 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250316014000 +0200" stop="20250316022600 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250316022600 +0200" stop="20250316031400 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250316031400 +0200" stop="20250316040100 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250316040100 +0200" stop="20250316044500 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250316044500 +0200" stop="20250316053000 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250316053000 +0200" stop="20250316061400 +0200" channel="37">
+    <title lang="ru">Катерина. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250316061400 +0200" stop="20250316070300 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250316070300 +0200" stop="20250316075400 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250316075400 +0200" stop="20250316084700 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250316084700 +0200" stop="20250316094000 +0200" channel="37">
+    <title lang="ru">Біженка. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250316094000 +0200" stop="20250316102600 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250316102600 +0200" stop="20250316111200 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250316111200 +0200" stop="20250316115900 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250316115900 +0200" stop="20250316124300 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250316124300 +0200" stop="20250316132600 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250316132600 +0200" stop="20250316141200 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250316141200 +0200" stop="20250316145600 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250316145600 +0200" stop="20250316154200 +0200" channel="37">
+    <title lang="ru">Подаруй мені щастя. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250316154200 +0200" stop="20250316163600 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250316163600 +0200" stop="20250316173400 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250316173400 +0200" stop="20250316182700 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250316182700 +0200" stop="20250316191800 +0200" channel="37">
+    <title lang="ru">Украдене щастя. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250316191800 +0200" stop="20250316200100 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250316200100 +0200" stop="20250316204400 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250316204400 +0200" stop="20250316212400 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250316212400 +0200" stop="20250316221000 +0200" channel="37">
+    <title lang="ru">Артистка. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250316221000 +0200" stop="20250316225600 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250316225600 +0200" stop="20250316234200 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250316234200 +0200" stop="20250317002800 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250317002800 +0200" stop="20250317011400 +0200" channel="37">
+    <title lang="ru">Чудо за розкладом. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250317011400 +0200" stop="20250317020200 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250317020200 +0200" stop="20250317025000 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250317025000 +0200" stop="20250317034000 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250317034000 +0200" stop="20250317044000 +0200" channel="37">
+    <title lang="ru">По праву любові. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250312234400 +0200" stop="20250313004200 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250313004200 +0200" stop="20250313013100 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250313013100 +0200" stop="20250313022600 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250313022600 +0200" stop="20250313031600 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250313031600 +0200" stop="20250313041000 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250313041000 +0200" stop="20250313050200 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250313050200 +0200" stop="20250313055200 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250313055200 +0200" stop="20250313065500 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250313065500 +0200" stop="20250313074400 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250313074400 +0200" stop="20250313083700 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250313083700 +0200" stop="20250313093100 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250313093100 +0200" stop="20250313102000 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250313102000 +0200" stop="20250313111100 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250313111100 +0200" stop="20250313120000 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250313120000 +0200" stop="20250313122100 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх смерті. Серія 1</title>
+  </programme>
+  <programme start="20250313122100 +0200" stop="20250313124200 +0200" channel="38">
+    <title lang="ru">Я боюся. Cтрах самотності. Серія 2</title>
+  </programme>
+  <programme start="20250313124200 +0200" stop="20250313130200 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх бідності. Серія 3</title>
+  </programme>
+  <programme start="20250313130200 +0200" stop="20250313132300 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх невизначеності. Серія 4</title>
+  </programme>
+  <programme start="20250313132300 +0200" stop="20250313134300 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх інтимної близькості. Серія 5</title>
+  </programme>
+  <programme start="20250313134300 +0200" stop="20250313140200 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх відповідальності. Серія 6</title>
+  </programme>
+  <programme start="20250313140200 +0200" stop="20250313142300 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх невдачі. Серія 7</title>
+  </programme>
+  <programme start="20250313142300 +0200" stop="20250313144300 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх успіху. Серія 8</title>
+  </programme>
+  <programme start="20250313144300 +0200" stop="20250313150100 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх нового. Серія 9</title>
+  </programme>
+  <programme start="20250313150100 +0200" stop="20250313152100 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх старості. Серія 10</title>
+  </programme>
+  <programme start="20250313152100 +0200" stop="20250313153900 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх води. висоти. Серія 11</title>
+  </programme>
+  <programme start="20250313153900 +0200" stop="20250313160000 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх темряви. пекла. Серія 12</title>
+  </programme>
+  <programme start="20250313160000 +0200" stop="20250313161800 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх змій. Серія 13</title>
+  </programme>
+  <programme start="20250313161800 +0200" stop="20250313163700 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх народжувати. Серія 14</title>
+  </programme>
+  <programme start="20250313163700 +0200" stop="20250313165600 +0200" channel="38">
+    <title lang="ru">Я боюся. Тривожність. Панічні атаки. Серія 15</title>
+  </programme>
+  <programme start="20250313165600 +0200" stop="20250313171200 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх публічних виступів. Серія 16</title>
+  </programme>
+  <programme start="20250313171200 +0200" stop="20250313173000 +0200" channel="38">
+    <title lang="ru">Я боюся. Аерофобія. Серія 17</title>
+  </programme>
+  <programme start="20250313173000 +0200" stop="20250313174400 +0200" channel="38">
+    <title lang="ru">Я боюся. Соціофобія. Серія 18</title>
+  </programme>
+  <programme start="20250313174400 +0200" stop="20250313180000 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх лікарів. Серія 19</title>
+  </programme>
+  <programme start="20250313180000 +0200" stop="20250313181900 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх хвороб. Серія 20</title>
+  </programme>
+  <programme start="20250313181900 +0200" stop="20250313190400 +0200" channel="38">
+    <title lang="ru">Метелики. Серія 1</title>
+  </programme>
+  <programme start="20250313190400 +0200" stop="20250313195500 +0200" channel="38">
+    <title lang="ru">Метелики. Серія 2</title>
+  </programme>
+  <programme start="20250313195500 +0200" stop="20250313204600 +0200" channel="38">
+    <title lang="ru">Метелики. Серія 3</title>
+  </programme>
+  <programme start="20250313204600 +0200" stop="20250313213400 +0200" channel="38">
+    <title lang="ru">Метелики. Серія 4</title>
+  </programme>
+  <programme start="20250313213400 +0200" stop="20250313221900 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250313221900 +0200" stop="20250313230300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250313230300 +0200" stop="20250313234800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250313234800 +0200" stop="20250314003300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250314003300 +0200" stop="20250314011800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250314011800 +0200" stop="20250314020100 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250314020100 +0200" stop="20250314024500 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250314024500 +0200" stop="20250314033000 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250314033000 +0200" stop="20250314041600 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250314041600 +0200" stop="20250314050100 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250314050100 +0200" stop="20250314054500 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250314054500 +0200" stop="20250314062900 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250314062900 +0200" stop="20250314071300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250314071300 +0200" stop="20250314075800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250314075800 +0200" stop="20250314084400 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250314084400 +0200" stop="20250314092800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250314092800 +0200" stop="20250314101300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 17 (укр. рос)</title>
+  </programme>
+  <programme start="20250314101300 +0200" stop="20250314105800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 18 (укр. рос)</title>
+  </programme>
+  <programme start="20250314105800 +0200" stop="20250314114300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 19 (укр. рос)</title>
+  </programme>
+  <programme start="20250314114300 +0200" stop="20250314122800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 20 (укр. рос)</title>
+  </programme>
+  <programme start="20250314122800 +0200" stop="20250314131300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 21 (укр. рос)</title>
+  </programme>
+  <programme start="20250314131300 +0200" stop="20250314135800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 22 (укр. рос)</title>
+  </programme>
+  <programme start="20250314135800 +0200" stop="20250314144300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 23 (укр. рос)</title>
+  </programme>
+  <programme start="20250314144300 +0200" stop="20250314152800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 24 (укр. рос)</title>
+  </programme>
+  <programme start="20250314152800 +0200" stop="20250314161300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 25 (укр. рос)</title>
+  </programme>
+  <programme start="20250314161300 +0200" stop="20250314165800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 26 (укр. рос)</title>
+  </programme>
+  <programme start="20250314165800 +0200" stop="20250314174300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 27 (укр. рос)</title>
+  </programme>
+  <programme start="20250314174300 +0200" stop="20250314182800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 28 (укр. рос)</title>
+  </programme>
+  <programme start="20250314182800 +0200" stop="20250314191300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 29 (укр. рос)</title>
+  </programme>
+  <programme start="20250314191300 +0200" stop="20250314195900 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 30 (укр. рос)</title>
+  </programme>
+  <programme start="20250314195900 +0200" stop="20250314204400 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 31 (укр. рос)</title>
+  </programme>
+  <programme start="20250314204400 +0200" stop="20250314212900 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 32 (укр. рос)</title>
+  </programme>
+  <programme start="20250314212900 +0200" stop="20250314221400 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 33 (укр. рос)</title>
+  </programme>
+  <programme start="20250314221400 +0200" stop="20250314230000 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 34 (укр. рос)</title>
+  </programme>
+  <programme start="20250314230000 +0200" stop="20250314234500 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 35 (укр. рос)</title>
+  </programme>
+  <programme start="20250314234500 +0200" stop="20250315003000 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 36 (укр. рос)</title>
+  </programme>
+  <programme start="20250315003000 +0200" stop="20250315011600 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 37 (укр. рос)</title>
+  </programme>
+  <programme start="20250315011600 +0200" stop="20250315020000 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 38 (укр. рос)</title>
+  </programme>
+  <programme start="20250315020000 +0200" stop="20250315024600 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 39 (укр. рос)</title>
+  </programme>
+  <programme start="20250315024600 +0200" stop="20250315033100 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 40 (укр. рос)</title>
+  </programme>
+  <programme start="20250315033100 +0200" stop="20250315041500 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 41 (укр. рос)</title>
+  </programme>
+  <programme start="20250315041500 +0200" stop="20250315050000 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 42 (укр. рос)</title>
+  </programme>
+  <programme start="20250315050000 +0200" stop="20250315054400 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 43 (укр. рос)</title>
+  </programme>
+  <programme start="20250315054400 +0200" stop="20250315062800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 44 (укр. рос)</title>
+  </programme>
+  <programme start="20250315062800 +0200" stop="20250315071300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 45 (укр. рос)</title>
+  </programme>
+  <programme start="20250315071300 +0200" stop="20250315075700 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 46 (укр. рос)</title>
+  </programme>
+  <programme start="20250315075700 +0200" stop="20250315084200 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 47 (укр. рос)</title>
+  </programme>
+  <programme start="20250315084200 +0200" stop="20250315092500 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 48 (укр. рос)</title>
+  </programme>
+  <programme start="20250315092500 +0200" stop="20250315100900 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 49 (укр. рос)</title>
+  </programme>
+  <programme start="20250315100900 +0200" stop="20250315105300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 50 (укр. рос)</title>
+  </programme>
+  <programme start="20250315105300 +0200" stop="20250315113600 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 51 (укр. рос)</title>
+  </programme>
+  <programme start="20250315113600 +0200" stop="20250315122000 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 52 (укр. рос)</title>
+  </programme>
+  <programme start="20250315122000 +0200" stop="20250315130300 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 53 (укр. рос)</title>
+  </programme>
+  <programme start="20250315130300 +0200" stop="20250315134700 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 54 (укр. рос)</title>
+  </programme>
+  <programme start="20250315134700 +0200" stop="20250315143200 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 55 (укр. рос)</title>
+  </programme>
+  <programme start="20250315143200 +0200" stop="20250315151700 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 56 (укр. рос)</title>
+  </programme>
+  <programme start="20250315151700 +0200" stop="20250315160000 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 57 (укр. рос)</title>
+  </programme>
+  <programme start="20250315160000 +0200" stop="20250315164400 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 58 (укр. рос)</title>
+  </programme>
+  <programme start="20250315164400 +0200" stop="20250315172800 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 59 (укр. рос)</title>
+  </programme>
+  <programme start="20250315172800 +0200" stop="20250315181400 +0200" channel="38">
+    <title lang="ru">Гречанка. Серія 60 (укр. рос)</title>
+  </programme>
+  <programme start="20250315181400 +0200" stop="20250315183500 +0200" channel="38">
+    <title lang="ru">Інсайдери. Серія 1</title>
+  </programme>
+  <programme start="20250315183500 +0200" stop="20250315190200 +0200" channel="38">
+    <title lang="ru">Інсайдери. Серія 2</title>
+  </programme>
+  <programme start="20250315190200 +0200" stop="20250315192800 +0200" channel="38">
+    <title lang="ru">Інсайдери. Серія 3</title>
+  </programme>
+  <programme start="20250315192800 +0200" stop="20250315195500 +0200" channel="38">
+    <title lang="ru">Інсайдери. Серія 4</title>
+  </programme>
+  <programme start="20250315195500 +0200" stop="20250315202400 +0200" channel="38">
+    <title lang="ru">Інсайдери. Серія 5</title>
+  </programme>
+  <programme start="20250315202400 +0200" stop="20250315205200 +0200" channel="38">
+    <title lang="ru">Інсайдери. Серія 6</title>
+  </programme>
+  <programme start="20250315205200 +0200" stop="20250315212000 +0200" channel="38">
+    <title lang="ru">Інсайдери. Серія 7</title>
+  </programme>
+  <programme start="20250315212000 +0200" stop="20250315214900 +0200" channel="38">
+    <title lang="ru">Інсайдери. Серія 8</title>
+  </programme>
+  <programme start="20250315214900 +0200" stop="20250315221600 +0200" channel="38">
+    <title lang="ru">Інсайдери. Серія 9</title>
+  </programme>
+  <programme start="20250315221600 +0200" stop="20250315224500 +0200" channel="38">
+    <title lang="ru">Інсайдери. Серія 10</title>
+  </programme>
+  <programme start="20250315224500 +0200" stop="20250315233300 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250315233300 +0200" stop="20250316002000 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250316002000 +0200" stop="20250316010800 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250316010800 +0200" stop="20250316015500 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250316015500 +0200" stop="20250316024200 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250316024200 +0200" stop="20250316032900 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250316032900 +0200" stop="20250316041500 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250316041500 +0200" stop="20250316050400 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250316050400 +0200" stop="20250316055200 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250316055200 +0200" stop="20250316063900 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250316063900 +0200" stop="20250316072600 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250316072600 +0200" stop="20250316081400 +0200" channel="38">
+    <title lang="ru">І будуть люди. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250316081400 +0200" stop="20250316090200 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 1. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250316090200 +0200" stop="20250316094800 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 1. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250316094800 +0200" stop="20250316103800 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 1. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250316103800 +0200" stop="20250316112600 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 1. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250316112600 +0200" stop="20250316121300 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 1. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250316121300 +0200" stop="20250316130400 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 1. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250316130400 +0200" stop="20250316135700 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 1. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250316135700 +0200" stop="20250316144600 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 1. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250316144600 +0200" stop="20250316154500 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250316154500 +0200" stop="20250316163300 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250316163300 +0200" stop="20250316172800 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250316172800 +0200" stop="20250316181800 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250316181800 +0200" stop="20250316191200 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250316191200 +0200" stop="20250316200500 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250316200500 +0200" stop="20250316205500 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250316205500 +0200" stop="20250316215700 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 2. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250316215700 +0200" stop="20250316224700 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250316224700 +0200" stop="20250316234000 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250316234000 +0200" stop="20250317003300 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250317003300 +0200" stop="20250317012200 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250317012200 +0200" stop="20250317021400 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250317021400 +0200" stop="20250317030200 +0200" channel="38">
+    <title lang="ru">Нюхач. Сезон 3. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250317030200 +0200" stop="20250317032400 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх смерті. Серія 1</title>
+  </programme>
+  <programme start="20250317032400 +0200" stop="20250317034400 +0200" channel="38">
+    <title lang="ru">Я боюся. Cтрах самотності. Серія 2</title>
+  </programme>
+  <programme start="20250317034400 +0200" stop="20250317040500 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх бідності. Серія 3</title>
+  </programme>
+  <programme start="20250317040500 +0200" stop="20250317042500 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх невизначеності. Серія 4</title>
+  </programme>
+  <programme start="20250317042500 +0200" stop="20250317052500 +0200" channel="38">
+    <title lang="ru">Я боюся. Страх інтимної близькості. Серія 5</title>
+  </programme>
+  <programme start="20250312230500 +0200" stop="20250312235000 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 9</title>
+  </programme>
+  <programme start="20250312235000 +0200" stop="20250313003500 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 10</title>
+  </programme>
+  <programme start="20250313003500 +0200" stop="20250313012000 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 11</title>
+  </programme>
+  <programme start="20250313012000 +0200" stop="20250313020600 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 12</title>
+  </programme>
+  <programme start="20250313020600 +0200" stop="20250313025100 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 13</title>
+  </programme>
+  <programme start="20250313025100 +0200" stop="20250313033700 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 14</title>
+  </programme>
+  <programme start="20250313033700 +0200" stop="20250313042300 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 15</title>
+  </programme>
+  <programme start="20250313042300 +0200" stop="20250313050900 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 16</title>
+  </programme>
+  <programme start="20250313050900 +0200" stop="20250313055500 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 17</title>
+  </programme>
+  <programme start="20250313055500 +0200" stop="20250313064100 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 18</title>
+  </programme>
+  <programme start="20250313064100 +0200" stop="20250313072600 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 19</title>
+  </programme>
+  <programme start="20250313072600 +0200" stop="20250313081200 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 20</title>
+  </programme>
+  <programme start="20250313081200 +0200" stop="20250313085800 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 21</title>
+  </programme>
+  <programme start="20250313085800 +0200" stop="20250313094400 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 22</title>
+  </programme>
+  <programme start="20250313094400 +0200" stop="20250313102900 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 23</title>
+  </programme>
+  <programme start="20250313102900 +0200" stop="20250313111500 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 24</title>
+  </programme>
+  <programme start="20250313111500 +0200" stop="20250313120000 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 25</title>
+  </programme>
+  <programme start="20250313120000 +0200" stop="20250313124600 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 26</title>
+  </programme>
+  <programme start="20250313124600 +0200" stop="20250313133100 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 27</title>
+  </programme>
+  <programme start="20250313133100 +0200" stop="20250313141600 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 28</title>
+  </programme>
+  <programme start="20250313141600 +0200" stop="20250313150100 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 29</title>
+  </programme>
+  <programme start="20250313150100 +0200" stop="20250313154600 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 30</title>
+  </programme>
+  <programme start="20250313154600 +0200" stop="20250313163100 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 31</title>
+  </programme>
+  <programme start="20250313163100 +0200" stop="20250313171700 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 32</title>
+  </programme>
+  <programme start="20250313171700 +0200" stop="20250313180100 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 33</title>
+  </programme>
+  <programme start="20250313180100 +0200" stop="20250313184600 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 34</title>
+  </programme>
+  <programme start="20250313184600 +0200" stop="20250313193100 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 35</title>
+  </programme>
+  <programme start="20250313193100 +0200" stop="20250313201700 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 36</title>
+  </programme>
+  <programme start="20250313201700 +0200" stop="20250313210300 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 37</title>
+  </programme>
+  <programme start="20250313210300 +0200" stop="20250313214900 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 38</title>
+  </programme>
+  <programme start="20250313214900 +0200" stop="20250313223500 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 39</title>
+  </programme>
+  <programme start="20250313223500 +0200" stop="20250313232100 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 40</title>
+  </programme>
+  <programme start="20250313232100 +0200" stop="20250314000900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 1</title>
+  </programme>
+  <programme start="20250314000900 +0200" stop="20250314005400 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 2</title>
+  </programme>
+  <programme start="20250314005400 +0200" stop="20250314013800 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 3</title>
+  </programme>
+  <programme start="20250314013800 +0200" stop="20250314022400 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 4</title>
+  </programme>
+  <programme start="20250314022400 +0200" stop="20250314030900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 5</title>
+  </programme>
+  <programme start="20250314030900 +0200" stop="20250314035300 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 6</title>
+  </programme>
+  <programme start="20250314035300 +0200" stop="20250314043700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 7</title>
+  </programme>
+  <programme start="20250314043700 +0200" stop="20250314052200 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 8</title>
+  </programme>
+  <programme start="20250314052200 +0200" stop="20250314060700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 9</title>
+  </programme>
+  <programme start="20250314060700 +0200" stop="20250314065200 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 10</title>
+  </programme>
+  <programme start="20250314065200 +0200" stop="20250314073700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 11</title>
+  </programme>
+  <programme start="20250314073700 +0200" stop="20250314082100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 12</title>
+  </programme>
+  <programme start="20250314082100 +0200" stop="20250314090700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 13</title>
+  </programme>
+  <programme start="20250314090700 +0200" stop="20250314095100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 14</title>
+  </programme>
+  <programme start="20250314095100 +0200" stop="20250314103500 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 15</title>
+  </programme>
+  <programme start="20250314103500 +0200" stop="20250314112000 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 16</title>
+  </programme>
+  <programme start="20250314112000 +0200" stop="20250314120500 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 17</title>
+  </programme>
+  <programme start="20250314120500 +0200" stop="20250314125100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 18</title>
+  </programme>
+  <programme start="20250314125100 +0200" stop="20250314133500 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 19</title>
+  </programme>
+  <programme start="20250314133500 +0200" stop="20250314142000 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 20</title>
+  </programme>
+  <programme start="20250314142000 +0200" stop="20250314150500 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 21</title>
+  </programme>
+  <programme start="20250314150500 +0200" stop="20250314154900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 22</title>
+  </programme>
+  <programme start="20250314154900 +0200" stop="20250314163400 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 23</title>
+  </programme>
+  <programme start="20250314163400 +0200" stop="20250314171900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 24</title>
+  </programme>
+  <programme start="20250314171900 +0200" stop="20250314180400 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 25</title>
+  </programme>
+  <programme start="20250314180400 +0200" stop="20250314184900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 26</title>
+  </programme>
+  <programme start="20250314184900 +0200" stop="20250314193400 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 27</title>
+  </programme>
+  <programme start="20250314193400 +0200" stop="20250314201800 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 28</title>
+  </programme>
+  <programme start="20250314201800 +0200" stop="20250314210200 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 29</title>
+  </programme>
+  <programme start="20250314210200 +0200" stop="20250314214600 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 30</title>
+  </programme>
+  <programme start="20250314214600 +0200" stop="20250314223100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 31</title>
+  </programme>
+  <programme start="20250314223100 +0200" stop="20250314231600 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 32</title>
+  </programme>
+  <programme start="20250314231600 +0200" stop="20250315000000 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 33</title>
+  </programme>
+  <programme start="20250315000000 +0200" stop="20250315004500 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 34</title>
+  </programme>
+  <programme start="20250315004500 +0200" stop="20250315012900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 35</title>
+  </programme>
+  <programme start="20250315012900 +0200" stop="20250315021300 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 36</title>
+  </programme>
+  <programme start="20250315021300 +0200" stop="20250315025700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 37</title>
+  </programme>
+  <programme start="20250315025700 +0200" stop="20250315034100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 38</title>
+  </programme>
+  <programme start="20250315034100 +0200" stop="20250315042600 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 39</title>
+  </programme>
+  <programme start="20250315042600 +0200" stop="20250315051000 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Серія 40</title>
+  </programme>
+  <programme start="20250315051000 +0200" stop="20250315055500 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250315055500 +0200" stop="20250315063900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250315063900 +0200" stop="20250315072300 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250315072300 +0200" stop="20250315080700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250315080700 +0200" stop="20250315085100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250315085100 +0200" stop="20250315093500 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250315093500 +0200" stop="20250315101900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250315101900 +0200" stop="20250315110300 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250315110300 +0200" stop="20250315114700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250315114700 +0200" stop="20250315123100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250315123100 +0200" stop="20250315131500 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250315131500 +0200" stop="20250315135800 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250315135800 +0200" stop="20250315144200 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250315144200 +0200" stop="20250315152600 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250315152600 +0200" stop="20250315161100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250315161100 +0200" stop="20250315165400 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250315165400 +0200" stop="20250315173800 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 17 (укр. рос)</title>
+  </programme>
+  <programme start="20250315173800 +0200" stop="20250315182300 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 18 (укр. рос)</title>
+  </programme>
+  <programme start="20250315182300 +0200" stop="20250315190700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 19 (укр. рос)</title>
+  </programme>
+  <programme start="20250315190700 +0200" stop="20250315195100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 20 (укр. рос)</title>
+  </programme>
+  <programme start="20250315195100 +0200" stop="20250315203600 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 21 (укр. рос)</title>
+  </programme>
+  <programme start="20250315203600 +0200" stop="20250315211900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 22 (укр. рос)</title>
+  </programme>
+  <programme start="20250315211900 +0200" stop="20250315220400 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 23 (укр. рос)</title>
+  </programme>
+  <programme start="20250315220400 +0200" stop="20250315224800 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 24 (укр. рос)</title>
+  </programme>
+  <programme start="20250315224800 +0200" stop="20250315233300 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 25 (укр. рос)</title>
+  </programme>
+  <programme start="20250315233300 +0200" stop="20250316001700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 26 (укр. рос)</title>
+  </programme>
+  <programme start="20250316001700 +0200" stop="20250316010100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 27 (укр. рос)</title>
+  </programme>
+  <programme start="20250316010100 +0200" stop="20250316014500 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 28 (укр. рос)</title>
+  </programme>
+  <programme start="20250316014500 +0200" stop="20250316022900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 29 (укр. рос)</title>
+  </programme>
+  <programme start="20250316022900 +0200" stop="20250316031300 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 30 (укр. рос)</title>
+  </programme>
+  <programme start="20250316031300 +0200" stop="20250316035700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 31 (укр. рос)</title>
+  </programme>
+  <programme start="20250316035700 +0200" stop="20250316044200 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 32 (укр. рос)</title>
+  </programme>
+  <programme start="20250316044200 +0200" stop="20250316052600 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 33 (укр. рос)</title>
+  </programme>
+  <programme start="20250316052600 +0200" stop="20250316061100 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 34 (укр. рос)</title>
+  </programme>
+  <programme start="20250316061100 +0200" stop="20250316065500 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 35 (укр. рос)</title>
+  </programme>
+  <programme start="20250316065500 +0200" stop="20250316073900 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 36 (укр. рос)</title>
+  </programme>
+  <programme start="20250316073900 +0200" stop="20250316082400 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 37 (укр. рос)</title>
+  </programme>
+  <programme start="20250316082400 +0200" stop="20250316090800 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 38 (укр. рос)</title>
+  </programme>
+  <programme start="20250316090800 +0200" stop="20250316095200 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 39 (укр. рос)</title>
+  </programme>
+  <programme start="20250316095200 +0200" stop="20250316103700 +0200" channel="39">
+    <title lang="ru">Черговий лікар. Сезон 3. Серія 40 (укр. рос)</title>
+  </programme>
+  <programme start="20250316103700 +0200" stop="20250316112300 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 1</title>
+  </programme>
+  <programme start="20250316112300 +0200" stop="20250316120800 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 2</title>
+  </programme>
+  <programme start="20250316120800 +0200" stop="20250316125300 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 3</title>
+  </programme>
+  <programme start="20250316125300 +0200" stop="20250316133800 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 4</title>
+  </programme>
+  <programme start="20250316133800 +0200" stop="20250316142400 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 5</title>
+  </programme>
+  <programme start="20250316142400 +0200" stop="20250316150900 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 6</title>
+  </programme>
+  <programme start="20250316150900 +0200" stop="20250316155400 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 7</title>
+  </programme>
+  <programme start="20250316155400 +0200" stop="20250316163900 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 8</title>
+  </programme>
+  <programme start="20250316163900 +0200" stop="20250316172400 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 9</title>
+  </programme>
+  <programme start="20250316172400 +0200" stop="20250316180900 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 10</title>
+  </programme>
+  <programme start="20250316180900 +0200" stop="20250316185400 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 11</title>
+  </programme>
+  <programme start="20250316185400 +0200" stop="20250316194000 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 12</title>
+  </programme>
+  <programme start="20250316194000 +0200" stop="20250316202600 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 13</title>
+  </programme>
+  <programme start="20250316202600 +0200" stop="20250316211100 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 14</title>
+  </programme>
+  <programme start="20250316211100 +0200" stop="20250316215700 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 15</title>
+  </programme>
+  <programme start="20250316215700 +0200" stop="20250316224300 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 16</title>
+  </programme>
+  <programme start="20250316224300 +0200" stop="20250316232900 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 17</title>
+  </programme>
+  <programme start="20250316232900 +0200" stop="20250317001500 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 18</title>
+  </programme>
+  <programme start="20250317001500 +0200" stop="20250317010000 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 19</title>
+  </programme>
+  <programme start="20250317010000 +0200" stop="20250317014600 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 20</title>
+  </programme>
+  <programme start="20250317014600 +0200" stop="20250317023200 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 21</title>
+  </programme>
+  <programme start="20250317023200 +0200" stop="20250317031800 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 22</title>
+  </programme>
+  <programme start="20250317031800 +0200" stop="20250317040300 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 23</title>
+  </programme>
+  <programme start="20250317040300 +0200" stop="20250317050300 +0200" channel="39">
+    <title lang="ru">Жіночий лікар. Нове життя. Серія 24</title>
+  </programme>
+  <programme start="20250312230800 +0200" stop="20250312235200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250312235200 +0200" stop="20250313003600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250313003600 +0200" stop="20250313012000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250313012000 +0200" stop="20250313020500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250313020500 +0200" stop="20250313024900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250313024900 +0200" stop="20250313033300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250313033300 +0200" stop="20250313041700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250313041700 +0200" stop="20250313050100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250313050100 +0200" stop="20250313054500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250313054500 +0200" stop="20250313062900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250313062900 +0200" stop="20250313071300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250313071300 +0200" stop="20250313075700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250313075700 +0200" stop="20250313084100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250313084100 +0200" stop="20250313092600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250313092600 +0200" stop="20250313101000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250313101000 +0200" stop="20250313105400 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250313105400 +0200" stop="20250313113700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250313113700 +0200" stop="20250313122100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250313122100 +0200" stop="20250313130400 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250313130400 +0200" stop="20250313134900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250313134900 +0200" stop="20250313143200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250313143200 +0200" stop="20250313151700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250313151700 +0200" stop="20250313160100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250313160100 +0200" stop="20250313164500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250313164500 +0200" stop="20250313172900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250313172900 +0200" stop="20250313181300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250313181300 +0200" stop="20250313185800 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250313185800 +0200" stop="20250313194100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250313194100 +0200" stop="20250313202500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250313202500 +0200" stop="20250313210900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250313210900 +0200" stop="20250313215300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250313215300 +0200" stop="20250313223700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250313223700 +0200" stop="20250313232000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250313232000 +0200" stop="20250314000400 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250314000400 +0200" stop="20250314004800 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250314004800 +0200" stop="20250314013100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250314013100 +0200" stop="20250314021500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250314021500 +0200" stop="20250314025900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250314025900 +0200" stop="20250314034200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250314034200 +0200" stop="20250314042600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250314042600 +0200" stop="20250314051000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250314051000 +0200" stop="20250314055300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250314055300 +0200" stop="20250314063700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250314063700 +0200" stop="20250314072000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250314072000 +0200" stop="20250314080400 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250314080400 +0200" stop="20250314084800 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 17 (укр. рос)</title>
+  </programme>
+  <programme start="20250314084800 +0200" stop="20250314093200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 18 (укр. рос)</title>
+  </programme>
+  <programme start="20250314093200 +0200" stop="20250314101600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 19 (укр. рос)</title>
+  </programme>
+  <programme start="20250314101600 +0200" stop="20250314110100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 20 (укр. рос)</title>
+  </programme>
+  <programme start="20250314110100 +0200" stop="20250314114500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250314114500 +0200" stop="20250314122900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250314122900 +0200" stop="20250314131300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250314131300 +0200" stop="20250314135700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250314135700 +0200" stop="20250314144200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250314144200 +0200" stop="20250314152600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250314152600 +0200" stop="20250314161000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250314161000 +0200" stop="20250314165500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250314165500 +0200" stop="20250314173900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250314173900 +0200" stop="20250314182300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250314182300 +0200" stop="20250314190700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250314190700 +0200" stop="20250314195100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250314195100 +0200" stop="20250314203500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250314203500 +0200" stop="20250314211900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250314211900 +0200" stop="20250314220500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250314220500 +0200" stop="20250314224900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250314224900 +0200" stop="20250314233400 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250314233400 +0200" stop="20250315001800 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250315001800 +0200" stop="20250315010200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250315010200 +0200" stop="20250315014600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250315014600 +0200" stop="20250315023000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250315023000 +0200" stop="20250315031400 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250315031400 +0200" stop="20250315035800 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250315035800 +0200" stop="20250315044200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250315044200 +0200" stop="20250315052700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250315052700 +0200" stop="20250315061100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250315061100 +0200" stop="20250315065500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250315065500 +0200" stop="20250315073900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250315073900 +0200" stop="20250315082300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250315082300 +0200" stop="20250315090700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250315090700 +0200" stop="20250315095200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250315095200 +0200" stop="20250315103500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250315103500 +0200" stop="20250315111900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250315111900 +0200" stop="20250315120200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250315120200 +0200" stop="20250315124600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250315124600 +0200" stop="20250315133000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250315133000 +0200" stop="20250315141400 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250315141400 +0200" stop="20250315145800 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250315145800 +0200" stop="20250315154200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250315154200 +0200" stop="20250315162700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250315162700 +0200" stop="20250315171100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250315171100 +0200" stop="20250315175500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250315175500 +0200" stop="20250315183900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250315183900 +0200" stop="20250315192200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250315192200 +0200" stop="20250315200700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 3. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250315200700 +0200" stop="20250315205000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250315205000 +0200" stop="20250315213400 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250315213400 +0200" stop="20250315221800 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250315221800 +0200" stop="20250315230200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250315230200 +0200" stop="20250315234500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250315234500 +0200" stop="20250316002900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250316002900 +0200" stop="20250316011300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250316011300 +0200" stop="20250316015600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250316015600 +0200" stop="20250316024000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250316024000 +0200" stop="20250316032300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250316032300 +0200" stop="20250316040700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250316040700 +0200" stop="20250316045100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250316045100 +0200" stop="20250316053500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250316053500 +0200" stop="20250316061800 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250316061800 +0200" stop="20250316070200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250316070200 +0200" stop="20250316074500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250316074500 +0200" stop="20250316083000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 17 (укр. рос)</title>
+  </programme>
+  <programme start="20250316083000 +0200" stop="20250316091300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 18 (укр. рос)</title>
+  </programme>
+  <programme start="20250316091300 +0200" stop="20250316095700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 19 (укр. рос)</title>
+  </programme>
+  <programme start="20250316095700 +0200" stop="20250316104200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 4. Серія 20 (укр. рос)</title>
+  </programme>
+  <programme start="20250316104200 +0200" stop="20250316112600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250316112600 +0200" stop="20250316121100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250316121100 +0200" stop="20250316125500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250316125500 +0200" stop="20250316133900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250316133900 +0200" stop="20250316142300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250316142300 +0200" stop="20250316150700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250316150700 +0200" stop="20250316155200 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250316155200 +0200" stop="20250316163600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250316163600 +0200" stop="20250316172000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250316172000 +0200" stop="20250316180400 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250316180400 +0200" stop="20250316184900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250316184900 +0200" stop="20250316193300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250316193300 +0200" stop="20250316201700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 1. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250316201700 +0200" stop="20250316210100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250316210100 +0200" stop="20250316214600 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250316214600 +0200" stop="20250316223100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250316223100 +0200" stop="20250316231500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250316231500 +0200" stop="20250316235900 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250316235900 +0200" stop="20250317004300 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250317004300 +0200" stop="20250317012700 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250317012700 +0200" stop="20250317021100 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250317021100 +0200" stop="20250317025500 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250317025500 +0200" stop="20250317034000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250317034000 +0200" stop="20250317044000 +0200" channel="40">
+    <title lang="ru">Містичні історії. Сезон 2. Серія 11 (укр. рос)</title>
   </programme>
   <programme start="20250311200500 +0200" stop="20250311202400 +0200" channel="43">
     <title lang="ru">Орел і Решка. Дайджест 100$ Серія 21. Туніс</title>
