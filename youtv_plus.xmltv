@@ -28,7 +28,7 @@
     <display-name>Viasat Nature+ HD</display-name>
   </channel>
   <channel id="10">
-    <display-name>Гумор+ HD</display-name>
+    <display-name>Гумор HD</display-name>
   </channel>
   <channel id="11">
     <display-name>Машина часу HD</display-name>
@@ -142,12 +142,9 @@
     <display-name>Світ навиворіт+ HD</display-name>
   </channel>
   <channel id="48">
-    <display-name>Світ навиворіт+ HD.</display-name>
-  </channel>
-  <channel id="49">
     <display-name>Хащі HD</display-name>
   </channel>
-  <channel id="50">
+  <channel id="49">
     <display-name>Хто Зна Шоу HD</display-name>
   </channel>
   <programme start="20250310030000 +0200" stop="20250310045000 +0200" channel="1">
@@ -4154,6 +4151,696 @@
   </programme>
   <programme start="20250317010900 +0200" stop="20250317020900 +0200" channel="9">
     <title lang="ru">Великі інженерні помилки 4 сез., 5 еп.</title>
+  </programme>
+  <programme start="20250312233200 +0200" stop="20250313002100 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 9</title>
+  </programme>
+  <programme start="20250313002100 +0200" stop="20250313010800 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 10</title>
+  </programme>
+  <programme start="20250313010800 +0200" stop="20250313013500 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250313013500 +0200" stop="20250313015700 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250313015700 +0200" stop="20250313022200 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250313022200 +0200" stop="20250313024600 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250313024600 +0200" stop="20250313031000 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250313031000 +0200" stop="20250313033500 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250313033500 +0200" stop="20250313035800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250313035800 +0200" stop="20250313042100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250313042100 +0200" stop="20250313044400 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250313044400 +0200" stop="20250313050900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250313050900 +0200" stop="20250313053500 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250313053500 +0200" stop="20250313055900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250313055900 +0200" stop="20250313062300 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250313062300 +0200" stop="20250313064800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250313064800 +0200" stop="20250313071100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250313071100 +0200" stop="20250313073800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250313073800 +0200" stop="20250313075900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250313075900 +0200" stop="20250313082600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250313082600 +0200" stop="20250313085200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250313085200 +0200" stop="20250313091300 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250313091300 +0200" stop="20250313093500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250313093500 +0200" stop="20250313100000 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250313100000 +0200" stop="20250313102300 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250313102300 +0200" stop="20250313104800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250313104800 +0200" stop="20250313111200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 9</title>
+  </programme>
+  <programme start="20250313111200 +0200" stop="20250313113600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 10</title>
+  </programme>
+  <programme start="20250313113600 +0200" stop="20250313120100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 11</title>
+  </programme>
+  <programme start="20250313120100 +0200" stop="20250313122400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 12</title>
+  </programme>
+  <programme start="20250313122400 +0200" stop="20250313124600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 1</title>
+  </programme>
+  <programme start="20250313124600 +0200" stop="20250313131300 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 2</title>
+  </programme>
+  <programme start="20250313131300 +0200" stop="20250313133800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 3</title>
+  </programme>
+  <programme start="20250313133800 +0200" stop="20250313140500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 4</title>
+  </programme>
+  <programme start="20250313140500 +0200" stop="20250313143000 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 5</title>
+  </programme>
+  <programme start="20250313143000 +0200" stop="20250313145300 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 6</title>
+  </programme>
+  <programme start="20250313145300 +0200" stop="20250313151900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 7</title>
+  </programme>
+  <programme start="20250313151900 +0200" stop="20250313154500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 8</title>
+  </programme>
+  <programme start="20250313154500 +0200" stop="20250313160900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 9</title>
+  </programme>
+  <programme start="20250313160900 +0200" stop="20250313163300 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 10</title>
+  </programme>
+  <programme start="20250313163300 +0200" stop="20250313165500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 11</title>
+  </programme>
+  <programme start="20250313165500 +0200" stop="20250313172100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 12</title>
+  </programme>
+  <programme start="20250313172100 +0200" stop="20250313174400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 13</title>
+  </programme>
+  <programme start="20250313174400 +0200" stop="20250313180700 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 14</title>
+  </programme>
+  <programme start="20250313180700 +0200" stop="20250313183200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 15</title>
+  </programme>
+  <programme start="20250313183200 +0200" stop="20250313185800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 16</title>
+  </programme>
+  <programme start="20250313185800 +0200" stop="20250313192300 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 17</title>
+  </programme>
+  <programme start="20250313192300 +0200" stop="20250313194700 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 18</title>
+  </programme>
+  <programme start="20250313194700 +0200" stop="20250313201100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 19</title>
+  </programme>
+  <programme start="20250313201100 +0200" stop="20250313203900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 20</title>
+  </programme>
+  <programme start="20250313203900 +0200" stop="20250313210300 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 1</title>
+  </programme>
+  <programme start="20250313210300 +0200" stop="20250313212600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 2</title>
+  </programme>
+  <programme start="20250313212600 +0200" stop="20250313214800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 3</title>
+  </programme>
+  <programme start="20250313214800 +0200" stop="20250313221200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 4</title>
+  </programme>
+  <programme start="20250313221200 +0200" stop="20250313223600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 5</title>
+  </programme>
+  <programme start="20250313223600 +0200" stop="20250313230000 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 6</title>
+  </programme>
+  <programme start="20250313230000 +0200" stop="20250313232400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 7</title>
+  </programme>
+  <programme start="20250313232400 +0200" stop="20250313234600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 8</title>
+  </programme>
+  <programme start="20250313234600 +0200" stop="20250314001200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 9</title>
+  </programme>
+  <programme start="20250314001200 +0200" stop="20250314003700 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 10</title>
+  </programme>
+  <programme start="20250314003700 +0200" stop="20250314005900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 11</title>
+  </programme>
+  <programme start="20250314005900 +0200" stop="20250314012200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 12</title>
+  </programme>
+  <programme start="20250314012200 +0200" stop="20250314014600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 13</title>
+  </programme>
+  <programme start="20250314014600 +0200" stop="20250314021100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 14</title>
+  </programme>
+  <programme start="20250314021100 +0200" stop="20250314023500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 15</title>
+  </programme>
+  <programme start="20250314023500 +0200" stop="20250314025800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 16</title>
+  </programme>
+  <programme start="20250314025800 +0200" stop="20250314032000 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 17</title>
+  </programme>
+  <programme start="20250314032000 +0200" stop="20250314034400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 18</title>
+  </programme>
+  <programme start="20250314034400 +0200" stop="20250314040600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 19</title>
+  </programme>
+  <programme start="20250314040600 +0200" stop="20250314042800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 20</title>
+  </programme>
+  <programme start="20250314042800 +0200" stop="20250314045800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250314045800 +0200" stop="20250314052000 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250314052000 +0200" stop="20250314054500 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250314054500 +0200" stop="20250314060900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250314060900 +0200" stop="20250314063500 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250314063500 +0200" stop="20250314065900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250314065900 +0200" stop="20250314072400 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250314072400 +0200" stop="20250314074800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250314074800 +0200" stop="20250314081400 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 9</title>
+  </programme>
+  <programme start="20250314081400 +0200" stop="20250314083900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 10</title>
+  </programme>
+  <programme start="20250314083900 +0200" stop="20250314090400 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 11</title>
+  </programme>
+  <programme start="20250314090400 +0200" stop="20250314092900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 12</title>
+  </programme>
+  <programme start="20250314092900 +0200" stop="20250314095400 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 13</title>
+  </programme>
+  <programme start="20250314095400 +0200" stop="20250314101900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 14</title>
+  </programme>
+  <programme start="20250314101900 +0200" stop="20250314104600 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 15</title>
+  </programme>
+  <programme start="20250314104600 +0200" stop="20250314111100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 16</title>
+  </programme>
+  <programme start="20250314111100 +0200" stop="20250314115500 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250314115500 +0200" stop="20250314124000 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250314124000 +0200" stop="20250314132600 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250314132600 +0200" stop="20250314141000 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250314141000 +0200" stop="20250314145800 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250314145800 +0200" stop="20250314154300 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250314154300 +0200" stop="20250314163100 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250314163100 +0200" stop="20250314171500 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250314171500 +0200" stop="20250314180400 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 9</title>
+  </programme>
+  <programme start="20250314180400 +0200" stop="20250314185100 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 10</title>
+  </programme>
+  <programme start="20250314185100 +0200" stop="20250314191800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250314191800 +0200" stop="20250314194000 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250314194000 +0200" stop="20250314200500 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250314200500 +0200" stop="20250314202900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250314202900 +0200" stop="20250314205300 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250314205300 +0200" stop="20250314211800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250314211800 +0200" stop="20250314214000 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250314214000 +0200" stop="20250314220400 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250314220400 +0200" stop="20250314222700 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250314222700 +0200" stop="20250314225100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250314225100 +0200" stop="20250314231800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250314231800 +0200" stop="20250314234200 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250314234200 +0200" stop="20250315000600 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250315000600 +0200" stop="20250315003100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250315003100 +0200" stop="20250315005400 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250315005400 +0200" stop="20250315012100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250315012100 +0200" stop="20250315014200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250315014200 +0200" stop="20250315020800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250315020800 +0200" stop="20250315023500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250315023500 +0200" stop="20250315025600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250315025600 +0200" stop="20250315031800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250315031800 +0200" stop="20250315034300 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250315034300 +0200" stop="20250315040600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250315040600 +0200" stop="20250315043100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250315043100 +0200" stop="20250315045500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 9</title>
+  </programme>
+  <programme start="20250315045500 +0200" stop="20250315051900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 10</title>
+  </programme>
+  <programme start="20250315051900 +0200" stop="20250315054400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 11</title>
+  </programme>
+  <programme start="20250315054400 +0200" stop="20250315060700 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 12</title>
+  </programme>
+  <programme start="20250315060700 +0200" stop="20250315062900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 1</title>
+  </programme>
+  <programme start="20250315062900 +0200" stop="20250315065600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 2</title>
+  </programme>
+  <programme start="20250315065600 +0200" stop="20250315072100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 3</title>
+  </programme>
+  <programme start="20250315072100 +0200" stop="20250315074800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 4</title>
+  </programme>
+  <programme start="20250315074800 +0200" stop="20250315081200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 5</title>
+  </programme>
+  <programme start="20250315081200 +0200" stop="20250315083500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 6</title>
+  </programme>
+  <programme start="20250315083500 +0200" stop="20250315090200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 7</title>
+  </programme>
+  <programme start="20250315090200 +0200" stop="20250315092700 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 8</title>
+  </programme>
+  <programme start="20250315092700 +0200" stop="20250315095200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 9</title>
+  </programme>
+  <programme start="20250315095200 +0200" stop="20250315101600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 10</title>
+  </programme>
+  <programme start="20250315101600 +0200" stop="20250315103800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 11</title>
+  </programme>
+  <programme start="20250315103800 +0200" stop="20250315110400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 12</title>
+  </programme>
+  <programme start="20250315110400 +0200" stop="20250315112700 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 13</title>
+  </programme>
+  <programme start="20250315112700 +0200" stop="20250315115000 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 14</title>
+  </programme>
+  <programme start="20250315115000 +0200" stop="20250315121500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 15</title>
+  </programme>
+  <programme start="20250315121500 +0200" stop="20250315124000 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 16</title>
+  </programme>
+  <programme start="20250315124000 +0200" stop="20250315130600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 17</title>
+  </programme>
+  <programme start="20250315130600 +0200" stop="20250315133000 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 18</title>
+  </programme>
+  <programme start="20250315133000 +0200" stop="20250315135400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 19</title>
+  </programme>
+  <programme start="20250315135400 +0200" stop="20250315142200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 20</title>
+  </programme>
+  <programme start="20250315142200 +0200" stop="20250315144600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 1</title>
+  </programme>
+  <programme start="20250315144600 +0200" stop="20250315150900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 2</title>
+  </programme>
+  <programme start="20250315150900 +0200" stop="20250315153100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 3</title>
+  </programme>
+  <programme start="20250315153100 +0200" stop="20250315155500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 4</title>
+  </programme>
+  <programme start="20250315155500 +0200" stop="20250315161900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 5</title>
+  </programme>
+  <programme start="20250315161900 +0200" stop="20250315164300 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 6</title>
+  </programme>
+  <programme start="20250315164300 +0200" stop="20250315170700 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 7</title>
+  </programme>
+  <programme start="20250315170700 +0200" stop="20250315172900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 8</title>
+  </programme>
+  <programme start="20250315172900 +0200" stop="20250315175500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 9</title>
+  </programme>
+  <programme start="20250315175500 +0200" stop="20250315181900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 10</title>
+  </programme>
+  <programme start="20250315181900 +0200" stop="20250315184200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 11</title>
+  </programme>
+  <programme start="20250315184200 +0200" stop="20250315190500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 12</title>
+  </programme>
+  <programme start="20250315190500 +0200" stop="20250315192900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 13</title>
+  </programme>
+  <programme start="20250315192900 +0200" stop="20250315195400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 14</title>
+  </programme>
+  <programme start="20250315195400 +0200" stop="20250315201800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 15</title>
+  </programme>
+  <programme start="20250315201800 +0200" stop="20250315204100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 16</title>
+  </programme>
+  <programme start="20250315204100 +0200" stop="20250315210300 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 17</title>
+  </programme>
+  <programme start="20250315210300 +0200" stop="20250315212700 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 18</title>
+  </programme>
+  <programme start="20250315212700 +0200" stop="20250315214900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 19</title>
+  </programme>
+  <programme start="20250315214900 +0200" stop="20250315221100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 3. Серія 20</title>
+  </programme>
+  <programme start="20250315221100 +0200" stop="20250315224100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250315224100 +0200" stop="20250315230300 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250315230300 +0200" stop="20250315232800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250315232800 +0200" stop="20250315235200 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250315235200 +0200" stop="20250316001800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250316001800 +0200" stop="20250316004100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250316004100 +0200" stop="20250316010700 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250316010700 +0200" stop="20250316013100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250316013100 +0200" stop="20250316015700 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 9</title>
+  </programme>
+  <programme start="20250316015700 +0200" stop="20250316022200 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 10</title>
+  </programme>
+  <programme start="20250316022200 +0200" stop="20250316024700 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 11</title>
+  </programme>
+  <programme start="20250316024700 +0200" stop="20250316031200 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 12</title>
+  </programme>
+  <programme start="20250316031200 +0200" stop="20250316033600 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 13</title>
+  </programme>
+  <programme start="20250316033600 +0200" stop="20250316040200 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 14</title>
+  </programme>
+  <programme start="20250316040200 +0200" stop="20250316042900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 15</title>
+  </programme>
+  <programme start="20250316042900 +0200" stop="20250316045400 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 1. Серія 16</title>
+  </programme>
+  <programme start="20250316045400 +0200" stop="20250316053800 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250316053800 +0200" stop="20250316062300 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250316062300 +0200" stop="20250316070900 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250316070900 +0200" stop="20250316075300 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250316075300 +0200" stop="20250316084100 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250316084100 +0200" stop="20250316092600 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250316092600 +0200" stop="20250316101400 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250316101400 +0200" stop="20250316105800 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250316105800 +0200" stop="20250316114700 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 9</title>
+  </programme>
+  <programme start="20250316114700 +0200" stop="20250316123300 +0200" channel="10">
+    <title lang="ru">Догори дриґом. Сезон 1. Серія 10</title>
+  </programme>
+  <programme start="20250316123300 +0200" stop="20250316130100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 1 (укр. рос)</title>
+  </programme>
+  <programme start="20250316130100 +0200" stop="20250316132300 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 2 (укр. рос)</title>
+  </programme>
+  <programme start="20250316132300 +0200" stop="20250316134800 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 3 (укр. рос)</title>
+  </programme>
+  <programme start="20250316134800 +0200" stop="20250316141200 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 4 (укр. рос)</title>
+  </programme>
+  <programme start="20250316141200 +0200" stop="20250316143600 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 5 (укр. рос)</title>
+  </programme>
+  <programme start="20250316143600 +0200" stop="20250316150100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 6 (укр. рос)</title>
+  </programme>
+  <programme start="20250316150100 +0200" stop="20250316152300 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 7 (укр. рос)</title>
+  </programme>
+  <programme start="20250316152300 +0200" stop="20250316154700 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 8 (укр. рос)</title>
+  </programme>
+  <programme start="20250316154700 +0200" stop="20250316160900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 9 (укр. рос)</title>
+  </programme>
+  <programme start="20250316160900 +0200" stop="20250316163400 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 10 (укр. рос)</title>
+  </programme>
+  <programme start="20250316163400 +0200" stop="20250316170100 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 11 (укр. рос)</title>
+  </programme>
+  <programme start="20250316170100 +0200" stop="20250316172500 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 12 (укр. рос)</title>
+  </programme>
+  <programme start="20250316172500 +0200" stop="20250316174900 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 13 (укр. рос)</title>
+  </programme>
+  <programme start="20250316174900 +0200" stop="20250316181400 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 14 (укр. рос)</title>
+  </programme>
+  <programme start="20250316181400 +0200" stop="20250316183700 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 15 (укр. рос)</title>
+  </programme>
+  <programme start="20250316183700 +0200" stop="20250316190300 +0200" channel="10">
+    <title lang="ru">Великі вуйки. Сезон 2. Серія 16 (укр. рос)</title>
+  </programme>
+  <programme start="20250316190300 +0200" stop="20250316192500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 1</title>
+  </programme>
+  <programme start="20250316192500 +0200" stop="20250316195100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 2</title>
+  </programme>
+  <programme start="20250316195100 +0200" stop="20250316201800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 3</title>
+  </programme>
+  <programme start="20250316201800 +0200" stop="20250316203800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 4</title>
+  </programme>
+  <programme start="20250316203800 +0200" stop="20250316210100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 5</title>
+  </programme>
+  <programme start="20250316210100 +0200" stop="20250316212600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 6</title>
+  </programme>
+  <programme start="20250316212600 +0200" stop="20250316214900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 7</title>
+  </programme>
+  <programme start="20250316214900 +0200" stop="20250316221400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 8</title>
+  </programme>
+  <programme start="20250316221400 +0200" stop="20250316223800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 9</title>
+  </programme>
+  <programme start="20250316223800 +0200" stop="20250316230200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 10</title>
+  </programme>
+  <programme start="20250316230200 +0200" stop="20250316232600 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 11</title>
+  </programme>
+  <programme start="20250316232600 +0200" stop="20250316235000 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 1. Серія 12</title>
+  </programme>
+  <programme start="20250316235000 +0200" stop="20250317001200 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 1</title>
+  </programme>
+  <programme start="20250317001200 +0200" stop="20250317003900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 2</title>
+  </programme>
+  <programme start="20250317003900 +0200" stop="20250317010400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 3</title>
+  </programme>
+  <programme start="20250317010400 +0200" stop="20250317013100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 4</title>
+  </programme>
+  <programme start="20250317013100 +0200" stop="20250317015500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 5</title>
+  </programme>
+  <programme start="20250317015500 +0200" stop="20250317021800 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 6</title>
+  </programme>
+  <programme start="20250317021800 +0200" stop="20250317024400 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 7</title>
+  </programme>
+  <programme start="20250317024400 +0200" stop="20250317031000 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 8</title>
+  </programme>
+  <programme start="20250317031000 +0200" stop="20250317033500 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 9</title>
+  </programme>
+  <programme start="20250317033500 +0200" stop="20250317035900 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 10</title>
+  </programme>
+  <programme start="20250317035900 +0200" stop="20250317042100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 11</title>
+  </programme>
+  <programme start="20250317042100 +0200" stop="20250317052100 +0200" channel="10">
+    <title lang="ru">Вечірка. Сезон 2. Серія 12</title>
   </programme>
   <programme start="20250310021700 +0200" stop="20250310023600 +0200" channel="11">
     <title lang="ru">Річниця УНР. Частина 2</title>
@@ -22335,868 +23022,868 @@
   <programme start="20250317015000 +0200" stop="20250317025000 +0200" channel="46">
     <title lang="ru">Речдок, 11 сезон, 24 випуск: Непростий хлопець</title>
   </programme>
-  <programme start="20250311172700 +0200" stop="20250311182200 +0200" channel="49">
+  <programme start="20250311172700 +0200" stop="20250311182200 +0200" channel="48">
     <title lang="ru">Житомирщина. Базар. Радіація та вовки. Села без людей. Церква-пустка. Тунель кохання. КП частина 2</title>
   </programme>
-  <programme start="20250311182200 +0200" stop="20250311190700 +0200" channel="49">
+  <programme start="20250311182200 +0200" stop="20250311190700 +0200" channel="48">
     <title lang="ru">Жодної цілої хати. Танковий бій. Снаряди. Міни. Село опинилося на лінії фронту</title>
   </programme>
-  <programme start="20250311190700 +0200" stop="20250311191900 +0200" channel="49">
+  <programme start="20250311190700 +0200" stop="20250311191900 +0200" channel="48">
     <title lang="ru">Закинуті села України. Гамарня. Грабарка. Малий Олександрів. Марусин Камінь</title>
   </programme>
-  <programme start="20250311191900 +0200" stop="20250311194000 +0200" channel="49">
+  <programme start="20250311191900 +0200" stop="20250311194000 +0200" channel="48">
     <title lang="ru">Закинуті та вимираючі села України. Кропивниччина Новоархангельський район</title>
   </programme>
-  <programme start="20250311194000 +0200" stop="20250311205100 +0200" channel="49">
+  <programme start="20250311194000 +0200" stop="20250311205100 +0200" channel="48">
     <title lang="ru">Зникаючи Чернивці. Покинуте єврейське місто. Мурафа. Букатинка. Місце щасливих людей</title>
   </programme>
-  <programme start="20250311205100 +0200" stop="20250311213100 +0200" channel="49">
+  <programme start="20250311205100 +0200" stop="20250311213100 +0200" channel="48">
     <title lang="ru">Зникаючі села Чернігівщини. Блакитні озера. Нашестя білих грибів та древній колорит Сіверщини</title>
   </programme>
-  <programme start="20250311213100 +0200" stop="20250311221700 +0200" channel="49">
+  <programme start="20250311213100 +0200" stop="20250311221700 +0200" channel="48">
     <title lang="ru">Знищена Україна. Сіверськ. Серебрянка. На межі життя і смерті</title>
   </programme>
-  <programme start="20250311221700 +0200" stop="20250311233400 +0200" channel="49">
+  <programme start="20250311221700 +0200" stop="20250311233400 +0200" channel="48">
     <title lang="ru">Золото Вінничини. Невідома Україна. Місце яке вразило хащі. Біла смерть</title>
   </programme>
-  <programme start="20250311233400 +0200" stop="20250312001300 +0200" channel="49">
+  <programme start="20250311233400 +0200" stop="20250312001300 +0200" channel="48">
     <title lang="ru">Казали. Що місто зруйноване на 90%. Це ми і бачимо. Ізюм. Ключ до українського Донбасу</title>
   </programme>
-  <programme start="20250312001300 +0200" stop="20250312010600 +0200" channel="49">
+  <programme start="20250312001300 +0200" stop="20250312010600 +0200" channel="48">
     <title lang="ru">Київщина. Чеські села Житомирщини і їхні останні жителі. Кінний похід. Частина 1</title>
   </programme>
-  <programme start="20250312010600 +0200" stop="20250312014700 +0200" channel="49">
+  <programme start="20250312010600 +0200" stop="20250312014700 +0200" channel="48">
     <title lang="ru">Корисні в тилу. Феномен українського волонтерства</title>
   </programme>
-  <programme start="20250312014700 +0200" stop="20250312030000 +0200" channel="49">
+  <programme start="20250312014700 +0200" stop="20250312030000 +0200" channel="48">
     <title lang="ru">Кінець світу. Рівненщина. Нобель. Прип'ять. Стохід</title>
   </programme>
-  <programme start="20250312030000 +0200" stop="20250312040900 +0200" channel="49">
+  <programme start="20250312030000 +0200" stop="20250312040900 +0200" channel="48">
     <title lang="ru">Майдан. Росіяни старообрядці. Ядерний щит СРСР</title>
   </programme>
-  <programme start="20250312040900 +0200" stop="20250312042600 +0200" channel="49">
+  <programme start="20250312040900 +0200" stop="20250312042600 +0200" channel="48">
     <title lang="ru">Маріуполь. Втеча з пекла</title>
   </programme>
-  <programme start="20250312042600 +0200" stop="20250312051900 +0200" channel="49">
+  <programme start="20250312042600 +0200" stop="20250312051900 +0200" channel="48">
     <title lang="ru">Миколаїв. Південний форпост України</title>
   </programme>
-  <programme start="20250312051900 +0200" stop="20250312055400 +0200" channel="49">
+  <programme start="20250312051900 +0200" stop="20250312055400 +0200" channel="48">
     <title lang="ru">Миколаївщина. Лупареве. Козацьке село. Грецька Ольвія. Південний фронт</title>
   </programme>
-  <programme start="20250312055400 +0200" stop="20250312061400 +0200" channel="49">
+  <programme start="20250312055400 +0200" stop="20250312061400 +0200" channel="48">
     <title lang="ru">Миньковецька держава. Мертве місто Сокілець. Водоспад Бурбун. Велохащі серія 1</title>
   </programme>
-  <programme start="20250312061400 +0200" stop="20250312072800 +0200" channel="49">
+  <programme start="20250312061400 +0200" stop="20250312072800 +0200" channel="48">
     <title lang="ru">Наймоторошніше місце України. Сокілець. Миньковецька держава. Зникаюча Україна</title>
   </programme>
-  <programme start="20250312072800 +0200" stop="20250312080500 +0200" channel="49">
+  <programme start="20250312072800 +0200" stop="20250312080500 +0200" channel="48">
     <title lang="ru">Невідома Хмельниччина. Втрачений рай. Дністер. Нова Ушиця. Хребтіїв</title>
   </programme>
-  <programme start="20250312080500 +0200" stop="20250312083100 +0200" channel="49">
+  <programme start="20250312080500 +0200" stop="20250312083100 +0200" channel="48">
     <title lang="ru">Нирків. Урочище Червоне. Джуринський водоспад. Кашкетники. Заліщики та закинутий табір. Серія 4</title>
   </programme>
-  <programme start="20250312083100 +0200" stop="20250312094900 +0200" channel="49">
+  <programme start="20250312083100 +0200" stop="20250312094900 +0200" channel="48">
     <title lang="ru">Нью -Йорк під російськими обстрілами. Десять років війни. Історія та сьогодення</title>
   </programme>
-  <programme start="20250312094900 +0200" stop="20250312103900 +0200" channel="49">
+  <programme start="20250312094900 +0200" stop="20250312103900 +0200" channel="48">
     <title lang="ru">Нікополь. Велична козацька історія і жахливе сьогодення під обстрілами та ядерним шантажем</title>
   </programme>
-  <programme start="20250312103900 +0200" stop="20250312114800 +0200" channel="49">
+  <programme start="20250312103900 +0200" stop="20250312114800 +0200" channel="48">
     <title lang="ru">Одеса. Німецькі колоністи Причорномор'я. Найдовші катакомби світу. Величні руїни минулого</title>
   </programme>
-  <programme start="20250312114800 +0200" stop="20250312123800 +0200" channel="49">
+  <programme start="20250312114800 +0200" stop="20250312123800 +0200" channel="48">
     <title lang="ru">Одещина.Такого більше ніде не зустрінеш. Унікальний край з сотнями хат під стріхою</title>
   </programme>
-  <programme start="20250312123800 +0200" stop="20250312131200 +0200" channel="49">
+  <programme start="20250312123800 +0200" stop="20250312131200 +0200" channel="48">
     <title lang="ru">Оріхів. Запоріжжя. Чергове знищене місто та робота наших бійців у цьому пеклі</title>
   </programme>
-  <programme start="20250312131200 +0200" stop="20250312133800 +0200" channel="49">
+  <programme start="20250312131200 +0200" stop="20250312133800 +0200" channel="48">
     <title lang="ru">Повернення у зруйноване село</title>
   </programme>
-  <programme start="20250312133800 +0200" stop="20250312145300 +0200" channel="49">
+  <programme start="20250312133800 +0200" stop="20250312145300 +0200" channel="48">
     <title lang="ru">Повісті дикого степу. Кропивниччина. Миколаївщина. Як ми попали у в'язницю. Лев Троцький</title>
   </programme>
-  <programme start="20250312145300 +0200" stop="20250312155500 +0200" channel="49">
+  <programme start="20250312145300 +0200" stop="20250312155500 +0200" channel="48">
     <title lang="ru">Поділля. Зіньків. Єврейське місто на золоті. Шлях Якова. Старовинна пивоварня. Козацька церква</title>
   </programme>
-  <programme start="20250312155500 +0200" stop="20250312171200 +0200" channel="49">
+  <programme start="20250312155500 +0200" stop="20250312171200 +0200" channel="48">
     <title lang="ru">Полтавщина. Потрапили наче в 19 століття. Хати під соломою. Легенди й міфи. Слов'янські забави</title>
   </programme>
-  <programme start="20250312171200 +0200" stop="20250312172800 +0200" channel="49">
+  <programme start="20250312171200 +0200" stop="20250312172800 +0200" channel="48">
     <title lang="ru">Працівник Гостомельського аеропорту про 16 днів в полоні війни</title>
   </programme>
-  <programme start="20250312172800 +0200" stop="20250312182300 +0200" channel="49">
+  <programme start="20250312172800 +0200" stop="20250312182300 +0200" channel="48">
     <title lang="ru">Рівненщина. Край бурштину. Дикого меду. Відьомства та старовинних пісень. Кінний похід остання серія</title>
   </programme>
-  <programme start="20250312182300 +0200" stop="20250312185400 +0200" channel="49">
+  <programme start="20250312182300 +0200" stop="20250312185400 +0200" channel="48">
     <title lang="ru">Спецпідрозділ Kraken. В російському селі. Руська Лозова. Звільнене село на Харківщині</title>
   </programme>
-  <programme start="20250312185400 +0200" stop="20250312191000 +0200" channel="49">
+  <programme start="20250312185400 +0200" stop="20250312191000 +0200" channel="48">
     <title lang="ru">Справжня Україна. Похід річкою Рось. Клочки. Бирюки. Пугачівка</title>
   </programme>
-  <programme start="20250312191000 +0200" stop="20250312202900 +0200" channel="49">
+  <programme start="20250312191000 +0200" stop="20250312202900 +0200" channel="48">
     <title lang="ru">Справжні хащі. Мертві села. Змії на снігу. Радянські міфи. Маленька Польща</title>
   </programme>
-  <programme start="20250312202900 +0200" stop="20250312210000 +0200" channel="49">
+  <programme start="20250312202900 +0200" stop="20250312210000 +0200" channel="48">
     <title lang="ru">Стара хата в українському селі. Зникаюча Вінниччина. Степанки. Палац у Митках</title>
   </programme>
-  <programme start="20250312210000 +0200" stop="20250312220100 +0200" channel="49">
+  <programme start="20250312210000 +0200" stop="20250312220100 +0200" channel="48">
     <title lang="ru">Сумщина. Життя на кордоні з Росією</title>
   </programme>
-  <programme start="20250312220100 +0200" stop="20250312222700 +0200" channel="49">
+  <programme start="20250312220100 +0200" stop="20250312222700 +0200" channel="48">
     <title lang="ru">Танки у дворах. Нацисти у хлівах. Російські солдати в погребах. Село знищене війною</title>
   </programme>
-  <programme start="20250312222700 +0200" stop="20250312232300 +0200" channel="49">
+  <programme start="20250312222700 +0200" stop="20250312232300 +0200" channel="48">
     <title lang="ru">Тернопільщина. Забутий замок. Незникаючі села. Повстанці 70-х років. Безкінечні печери</title>
   </programme>
-  <programme start="20250312232300 +0200" stop="20250312235400 +0200" channel="49">
+  <programme start="20250312232300 +0200" stop="20250312235400 +0200" channel="48">
     <title lang="ru">Тетерів. Українська провінція. Електричка. Озера біля Києва</title>
   </programme>
-  <programme start="20250312235400 +0200" stop="20250313002500 +0200" channel="49">
+  <programme start="20250312235400 +0200" stop="20250313002500 +0200" channel="48">
     <title lang="ru">Трупи людей та тварин. Спалена техніка. Розстріляні авто. Кадри звільненої Київщини. Фільм Додому</title>
   </programme>
-  <programme start="20250313002500 +0200" stop="20250313005600 +0200" channel="49">
+  <programme start="20250313002500 +0200" stop="20250313005600 +0200" channel="48">
     <title lang="ru">Тут під завалами дочка моя з внучкою. Мешканці Бородянки про російську окупацію</title>
   </programme>
-  <programme start="20250313005600 +0200" stop="20250313021000 +0200" channel="49">
+  <programme start="20250313005600 +0200" stop="20250313021000 +0200" channel="48">
     <title lang="ru">Українська Німеччина що зникла. Лінія Сталіна. Ukrainian Germany that disappeared. Stalin line</title>
   </programme>
-  <programme start="20250313021000 +0200" stop="20250313022700 +0200" channel="49">
+  <programme start="20250313021000 +0200" stop="20250313022700 +0200" channel="48">
     <title lang="ru">Український версаль. Сатанів. Петро Болбочан та непролазні Медобори. Велохащі серія 2</title>
   </programme>
-  <programme start="20250313022700 +0200" stop="20250313030700 +0200" channel="49">
+  <programme start="20250313022700 +0200" stop="20250313030700 +0200" channel="48">
     <title lang="ru">Харків. Обстріли. Руїна. Пусті вулиці. Місто. Що першим зустріло ворога</title>
   </programme>
-  <programme start="20250313030700 +0200" stop="20250313035000 +0200" channel="49">
+  <programme start="20250313030700 +0200" stop="20250313035000 +0200" channel="48">
     <title lang="ru">Херсонщина. Партизанський рух. Катівні. Погрози та зрадники</title>
   </programme>
-  <programme start="20250313035000 +0200" stop="20250313050600 +0200" channel="49">
+  <programme start="20250313035000 +0200" stop="20250313050600 +0200" channel="48">
     <title lang="ru">Химерний край. Єдинороги живуть в Україні. Масони та філософський камінь</title>
   </programme>
-  <programme start="20250313050600 +0200" stop="20250313055000 +0200" channel="49">
+  <programme start="20250313050600 +0200" stop="20250313055000 +0200" channel="48">
     <title lang="ru">Хмельниччина. Село Говори. Кінець географії</title>
   </programme>
-  <programme start="20250313055000 +0200" stop="20250313065800 +0200" channel="49">
+  <programme start="20250313055000 +0200" stop="20250313065800 +0200" channel="48">
     <title lang="ru">Черкащина.Чи зникає Шевченкова Україна. Медвин і його повстання</title>
   </programme>
-  <programme start="20250313065800 +0200" stop="20250313074300 +0200" channel="49">
+  <programme start="20250313065800 +0200" stop="20250313074300 +0200" channel="48">
     <title lang="ru">Чернігів. Історії блокади міста</title>
   </programme>
-  <programme start="20250313074300 +0200" stop="20250313085000 +0200" channel="49">
+  <programme start="20250313074300 +0200" stop="20250313085000 +0200" channel="48">
     <title lang="ru">Чорнобильська зона відчуження. Chornobyl exclusion zone</title>
   </programme>
-  <programme start="20250313085000 +0200" stop="20250313093500 +0200" channel="49">
+  <programme start="20250313085000 +0200" stop="20250313093500 +0200" channel="48">
     <title lang="ru">757 років на розмінування. Україна. Найзамінованіша країна світу</title>
   </programme>
-  <programme start="20250313093500 +0200" stop="20250313102800 +0200" channel="49">
+  <programme start="20250313093500 +0200" stop="20250313102800 +0200" channel="48">
     <title lang="ru">Бахмут. Сьогодення та історія</title>
   </programme>
-  <programme start="20250313102800 +0200" stop="20250313105500 +0200" channel="49">
+  <programme start="20250313102800 +0200" stop="20250313105500 +0200" channel="48">
     <title lang="ru">Битва за Харків. Діти обікрали російський БТР. Мужики розібрали танки й гелікоптер на металолом</title>
   </programme>
-  <programme start="20250313105500 +0200" stop="20250313115400 +0200" channel="49">
+  <programme start="20250313105500 +0200" stop="20250313115400 +0200" channel="48">
     <title lang="ru">Вимираюча Сумщина та її хутори. Кладовища. Палац-психлікарня для Катерини Другої. 2</title>
   </programme>
-  <programme start="20250313115400 +0200" stop="20250313130400 +0200" channel="49">
+  <programme start="20250313115400 +0200" stop="20250313130400 +0200" channel="48">
     <title lang="ru">Волинь. Столиця відьом. Ріка життя та смерті Стохід</title>
   </programme>
-  <programme start="20250313130400 +0200" stop="20250313142100 +0200" channel="49">
+  <programme start="20250313130400 +0200" stop="20250313142100 +0200" channel="48">
     <title lang="ru">Галичина. Колорит та автентика краю. Набожність та розриті могили. Багаті й вимираючі села</title>
   </programme>
-  <programme start="20250313142100 +0200" stop="20250313144200 +0200" channel="49">
+  <programme start="20250313142100 +0200" stop="20250313144200 +0200" channel="48">
     <title lang="ru">Голод. Розстріли. Обстріли. Стихійні пожежі. Лиха. Що припали одному селу на Миколаївщині</title>
   </programme>
-  <programme start="20250313144200 +0200" stop="20250313152200 +0200" channel="49">
+  <programme start="20250313144200 +0200" stop="20250313152200 +0200" channel="48">
     <title lang="ru">Гуляйполе. Батьківщина. Махна та анархії. Рік на лінії фронту</title>
   </programme>
-  <programme start="20250313152200 +0200" stop="20250313162300 +0200" channel="49">
+  <programme start="20250313152200 +0200" stop="20250313162300 +0200" channel="48">
     <title lang="ru">Дикий захід. Самогон. Слід Бога. Білі гриби та найбагатший регіон України. Вторгнення Росії. КП ч3</title>
   </programme>
-  <programme start="20250313162300 +0200" stop="20250313165100 +0200" channel="49">
+  <programme start="20250313162300 +0200" stop="20250313165100 +0200" channel="48">
     <title lang="ru">Донбас. Богородичне. Село 14 разів переходило з рук у руки. Тепер села нема</title>
   </programme>
-  <programme start="20250313165100 +0200" stop="20250313180100 +0200" channel="49">
+  <programme start="20250313165100 +0200" stop="20250313180100 +0200" channel="48">
     <title lang="ru">Донеччина. Чия це земля. Її міфи. Історія. Сьогодення та майбутнє</title>
   </programme>
-  <programme start="20250313180100 +0200" stop="20250313183000 +0200" channel="49">
+  <programme start="20250313180100 +0200" stop="20250313183000 +0200" channel="48">
     <title lang="ru">Елітне село під Харковом. Наслідки російського вторгнення</title>
   </programme>
-  <programme start="20250313183000 +0200" stop="20250313192500 +0200" channel="49">
+  <programme start="20250313183000 +0200" stop="20250313192500 +0200" channel="48">
     <title lang="ru">Житомирщина. Базар. Радіація та вовки. Села без людей. Церква-пустка. Тунель кохання. КП частина 2</title>
   </programme>
-  <programme start="20250313192500 +0200" stop="20250313201000 +0200" channel="49">
+  <programme start="20250313192500 +0200" stop="20250313201000 +0200" channel="48">
     <title lang="ru">Жодної цілої хати. Танковий бій. Снаряди. Міни. Село опинилося на лінії фронту</title>
   </programme>
-  <programme start="20250313201000 +0200" stop="20250313202200 +0200" channel="49">
+  <programme start="20250313201000 +0200" stop="20250313202200 +0200" channel="48">
     <title lang="ru">Закинуті села України. Гамарня. Грабарка. Малий Олександрів. Марусин Камінь</title>
   </programme>
-  <programme start="20250313202200 +0200" stop="20250313204300 +0200" channel="49">
+  <programme start="20250313202200 +0200" stop="20250313204300 +0200" channel="48">
     <title lang="ru">Закинуті та вимираючі села України. Кропивниччина Новоархангельський район</title>
   </programme>
-  <programme start="20250313204300 +0200" stop="20250313215400 +0200" channel="49">
+  <programme start="20250313204300 +0200" stop="20250313215400 +0200" channel="48">
     <title lang="ru">Зникаючи Чернивці. Покинуте єврейське місто. Мурафа. Букатинка. Місце щасливих людей</title>
   </programme>
-  <programme start="20250313215400 +0200" stop="20250313223400 +0200" channel="49">
+  <programme start="20250313215400 +0200" stop="20250313223400 +0200" channel="48">
     <title lang="ru">Зникаючі села Чернігівщини. Блакитні озера. Нашестя білих грибів та древній колорит Сіверщини</title>
   </programme>
-  <programme start="20250313223400 +0200" stop="20250313232000 +0200" channel="49">
+  <programme start="20250313223400 +0200" stop="20250313232000 +0200" channel="48">
     <title lang="ru">Знищена Україна. Сіверськ. Серебрянка. На межі життя і смерті</title>
   </programme>
-  <programme start="20250313232000 +0200" stop="20250314003700 +0200" channel="49">
+  <programme start="20250313232000 +0200" stop="20250314003700 +0200" channel="48">
     <title lang="ru">Золото Вінничини. Невідома Україна. Місце яке вразило хащі. Біла смерть</title>
   </programme>
-  <programme start="20250314003700 +0200" stop="20250314011600 +0200" channel="49">
+  <programme start="20250314003700 +0200" stop="20250314011600 +0200" channel="48">
     <title lang="ru">Казали. Що місто зруйноване на 90%. Це ми і бачимо. Ізюм. Ключ до українського Донбасу</title>
   </programme>
-  <programme start="20250314011600 +0200" stop="20250314020900 +0200" channel="49">
+  <programme start="20250314011600 +0200" stop="20250314020900 +0200" channel="48">
     <title lang="ru">Київщина. Чеські села Житомирщини і їхні останні жителі. Кінний похід. Частина 1</title>
   </programme>
-  <programme start="20250314020900 +0200" stop="20250314025000 +0200" channel="49">
+  <programme start="20250314020900 +0200" stop="20250314025000 +0200" channel="48">
     <title lang="ru">Корисні в тилу. Феномен українського волонтерства</title>
   </programme>
-  <programme start="20250314025000 +0200" stop="20250314040300 +0200" channel="49">
+  <programme start="20250314025000 +0200" stop="20250314040300 +0200" channel="48">
     <title lang="ru">Кінець світу. Рівненщина. Нобель. Прип'ять. Стохід</title>
   </programme>
-  <programme start="20250314040300 +0200" stop="20250314051200 +0200" channel="49">
+  <programme start="20250314040300 +0200" stop="20250314051200 +0200" channel="48">
     <title lang="ru">Майдан. Росіяни старообрядці. Ядерний щит СРСР</title>
   </programme>
-  <programme start="20250314051200 +0200" stop="20250314052900 +0200" channel="49">
+  <programme start="20250314051200 +0200" stop="20250314052900 +0200" channel="48">
     <title lang="ru">Маріуполь. Втеча з пекла</title>
   </programme>
-  <programme start="20250314052900 +0200" stop="20250314062200 +0200" channel="49">
+  <programme start="20250314052900 +0200" stop="20250314062200 +0200" channel="48">
     <title lang="ru">Миколаїв. Південний форпост України</title>
   </programme>
-  <programme start="20250314062200 +0200" stop="20250314065700 +0200" channel="49">
+  <programme start="20250314062200 +0200" stop="20250314065700 +0200" channel="48">
     <title lang="ru">Миколаївщина. Лупареве. Козацьке село. Грецька Ольвія. Південний фронт</title>
   </programme>
-  <programme start="20250314065700 +0200" stop="20250314071700 +0200" channel="49">
+  <programme start="20250314065700 +0200" stop="20250314071700 +0200" channel="48">
     <title lang="ru">Миньковецька держава. Мертве місто Сокілець. Водоспад Бурбун. Велохащі серія 1</title>
   </programme>
-  <programme start="20250314071700 +0200" stop="20250314083100 +0200" channel="49">
+  <programme start="20250314071700 +0200" stop="20250314083100 +0200" channel="48">
     <title lang="ru">Наймоторошніше місце України. Сокілець. Миньковецька держава. Зникаюча Україна</title>
   </programme>
-  <programme start="20250314083100 +0200" stop="20250314090800 +0200" channel="49">
+  <programme start="20250314083100 +0200" stop="20250314090800 +0200" channel="48">
     <title lang="ru">Невідома Хмельниччина. Втрачений рай. Дністер. Нова Ушиця. Хребтіїв</title>
   </programme>
-  <programme start="20250314090800 +0200" stop="20250314093400 +0200" channel="49">
+  <programme start="20250314090800 +0200" stop="20250314093400 +0200" channel="48">
     <title lang="ru">Нирків. Урочище Червоне. Джуринський водоспад. Кашкетники. Заліщики та закинутий табір. Серія 4</title>
   </programme>
-  <programme start="20250314093400 +0200" stop="20250314105200 +0200" channel="49">
+  <programme start="20250314093400 +0200" stop="20250314105200 +0200" channel="48">
     <title lang="ru">Нью -Йорк під російськими обстрілами. Десять років війни. Історія та сьогодення</title>
   </programme>
-  <programme start="20250314105200 +0200" stop="20250314114200 +0200" channel="49">
+  <programme start="20250314105200 +0200" stop="20250314114200 +0200" channel="48">
     <title lang="ru">Нікополь. Велична козацька історія і жахливе сьогодення під обстрілами та ядерним шантажем</title>
   </programme>
-  <programme start="20250314114200 +0200" stop="20250314125100 +0200" channel="49">
+  <programme start="20250314114200 +0200" stop="20250314125100 +0200" channel="48">
     <title lang="ru">Одеса. Німецькі колоністи Причорномор'я. Найдовші катакомби світу. Величні руїни минулого</title>
   </programme>
-  <programme start="20250314125100 +0200" stop="20250314134100 +0200" channel="49">
+  <programme start="20250314125100 +0200" stop="20250314134100 +0200" channel="48">
     <title lang="ru">Одещина.Такого більше ніде не зустрінеш. Унікальний край з сотнями хат під стріхою</title>
   </programme>
-  <programme start="20250314134100 +0200" stop="20250314141500 +0200" channel="49">
+  <programme start="20250314134100 +0200" stop="20250314141500 +0200" channel="48">
     <title lang="ru">Оріхів. Запоріжжя. Чергове знищене місто та робота наших бійців у цьому пеклі</title>
   </programme>
-  <programme start="20250314141500 +0200" stop="20250314144100 +0200" channel="49">
+  <programme start="20250314141500 +0200" stop="20250314144100 +0200" channel="48">
     <title lang="ru">Повернення у зруйноване село</title>
   </programme>
-  <programme start="20250314144100 +0200" stop="20250314155600 +0200" channel="49">
+  <programme start="20250314144100 +0200" stop="20250314155600 +0200" channel="48">
     <title lang="ru">Повісті дикого степу. Кропивниччина. Миколаївщина. Як ми попали у в'язницю. Лев Троцький</title>
   </programme>
-  <programme start="20250314155600 +0200" stop="20250314165800 +0200" channel="49">
+  <programme start="20250314155600 +0200" stop="20250314165800 +0200" channel="48">
     <title lang="ru">Поділля. Зіньків. Єврейське місто на золоті. Шлях Якова. Старовинна пивоварня. Козацька церква</title>
   </programme>
-  <programme start="20250314165800 +0200" stop="20250314181500 +0200" channel="49">
+  <programme start="20250314165800 +0200" stop="20250314181500 +0200" channel="48">
     <title lang="ru">Полтавщина. Потрапили наче в 19 століття. Хати під соломою. Легенди й міфи. Слов'янські забави</title>
   </programme>
-  <programme start="20250314181500 +0200" stop="20250314183100 +0200" channel="49">
+  <programme start="20250314181500 +0200" stop="20250314183100 +0200" channel="48">
     <title lang="ru">Працівник Гостомельського аеропорту про 16 днів в полоні війни</title>
   </programme>
-  <programme start="20250314183100 +0200" stop="20250314192600 +0200" channel="49">
+  <programme start="20250314183100 +0200" stop="20250314192600 +0200" channel="48">
     <title lang="ru">Рівненщина. Край бурштину. Дикого меду. Відьомства та старовинних пісень. Кінний похід остання серія</title>
   </programme>
-  <programme start="20250314192600 +0200" stop="20250314195700 +0200" channel="49">
+  <programme start="20250314192600 +0200" stop="20250314195700 +0200" channel="48">
     <title lang="ru">Спецпідрозділ Kraken. В російському селі. Руська Лозова. Звільнене село на Харківщині</title>
   </programme>
-  <programme start="20250314195700 +0200" stop="20250314201300 +0200" channel="49">
+  <programme start="20250314195700 +0200" stop="20250314201300 +0200" channel="48">
     <title lang="ru">Справжня Україна. Похід річкою Рось. Клочки. Бирюки. Пугачівка</title>
   </programme>
-  <programme start="20250314201300 +0200" stop="20250314213200 +0200" channel="49">
+  <programme start="20250314201300 +0200" stop="20250314213200 +0200" channel="48">
     <title lang="ru">Справжні хащі. Мертві села. Змії на снігу. Радянські міфи. Маленька Польща</title>
   </programme>
-  <programme start="20250314213200 +0200" stop="20250314220300 +0200" channel="49">
+  <programme start="20250314213200 +0200" stop="20250314220300 +0200" channel="48">
     <title lang="ru">Стара хата в українському селі. Зникаюча Вінниччина. Степанки. Палац у Митках</title>
   </programme>
-  <programme start="20250314220300 +0200" stop="20250314230400 +0200" channel="49">
+  <programme start="20250314220300 +0200" stop="20250314230400 +0200" channel="48">
     <title lang="ru">Сумщина. Життя на кордоні з Росією</title>
   </programme>
-  <programme start="20250314230400 +0200" stop="20250314233000 +0200" channel="49">
+  <programme start="20250314230400 +0200" stop="20250314233000 +0200" channel="48">
     <title lang="ru">Танки у дворах. Нацисти у хлівах. Російські солдати в погребах. Село знищене війною</title>
   </programme>
-  <programme start="20250314233000 +0200" stop="20250315002600 +0200" channel="49">
+  <programme start="20250314233000 +0200" stop="20250315002600 +0200" channel="48">
     <title lang="ru">Тернопільщина. Забутий замок. Незникаючі села. Повстанці 70-х років. Безкінечні печери</title>
   </programme>
-  <programme start="20250315002600 +0200" stop="20250315005700 +0200" channel="49">
+  <programme start="20250315002600 +0200" stop="20250315005700 +0200" channel="48">
     <title lang="ru">Тетерів. Українська провінція. Електричка. Озера біля Києва</title>
   </programme>
-  <programme start="20250315005700 +0200" stop="20250315012800 +0200" channel="49">
+  <programme start="20250315005700 +0200" stop="20250315012800 +0200" channel="48">
     <title lang="ru">Трупи людей та тварин. Спалена техніка. Розстріляні авто. Кадри звільненої Київщини. Фільм Додому</title>
   </programme>
-  <programme start="20250315012800 +0200" stop="20250315015900 +0200" channel="49">
+  <programme start="20250315012800 +0200" stop="20250315015900 +0200" channel="48">
     <title lang="ru">Тут під завалами дочка моя з внучкою. Мешканці Бородянки про російську окупацію</title>
   </programme>
-  <programme start="20250315015900 +0200" stop="20250315031300 +0200" channel="49">
+  <programme start="20250315015900 +0200" stop="20250315031300 +0200" channel="48">
     <title lang="ru">Українська Німеччина що зникла. Лінія Сталіна. Ukrainian Germany that disappeared. Stalin line</title>
   </programme>
-  <programme start="20250315031300 +0200" stop="20250315033000 +0200" channel="49">
+  <programme start="20250315031300 +0200" stop="20250315033000 +0200" channel="48">
     <title lang="ru">Український версаль. Сатанів. Петро Болбочан та непролазні Медобори. Велохащі серія 2</title>
   </programme>
-  <programme start="20250315033000 +0200" stop="20250315041000 +0200" channel="49">
+  <programme start="20250315033000 +0200" stop="20250315041000 +0200" channel="48">
     <title lang="ru">Харків. Обстріли. Руїна. Пусті вулиці. Місто. Що першим зустріло ворога</title>
   </programme>
-  <programme start="20250315041000 +0200" stop="20250315045300 +0200" channel="49">
+  <programme start="20250315041000 +0200" stop="20250315045300 +0200" channel="48">
     <title lang="ru">Херсонщина. Партизанський рух. Катівні. Погрози та зрадники</title>
   </programme>
-  <programme start="20250315045300 +0200" stop="20250315060900 +0200" channel="49">
+  <programme start="20250315045300 +0200" stop="20250315060900 +0200" channel="48">
     <title lang="ru">Химерний край. Єдинороги живуть в Україні. Масони та філософський камінь</title>
   </programme>
-  <programme start="20250315060900 +0200" stop="20250315065300 +0200" channel="49">
+  <programme start="20250315060900 +0200" stop="20250315065300 +0200" channel="48">
     <title lang="ru">Хмельниччина. Село Говори. Кінець географії</title>
   </programme>
-  <programme start="20250315065300 +0200" stop="20250315080100 +0200" channel="49">
+  <programme start="20250315065300 +0200" stop="20250315080100 +0200" channel="48">
     <title lang="ru">Черкащина.Чи зникає Шевченкова Україна. Медвин і його повстання</title>
   </programme>
-  <programme start="20250315080100 +0200" stop="20250315084600 +0200" channel="49">
+  <programme start="20250315080100 +0200" stop="20250315084600 +0200" channel="48">
     <title lang="ru">Чернігів. Історії блокади міста</title>
   </programme>
-  <programme start="20250315084600 +0200" stop="20250315095300 +0200" channel="49">
+  <programme start="20250315084600 +0200" stop="20250315095300 +0200" channel="48">
     <title lang="ru">Чорнобильська зона відчуження. Chornobyl exclusion zone</title>
   </programme>
-  <programme start="20250315095300 +0200" stop="20250315103800 +0200" channel="49">
+  <programme start="20250315095300 +0200" stop="20250315103800 +0200" channel="48">
     <title lang="ru">757 років на розмінування. Україна. Найзамінованіша країна світу</title>
   </programme>
-  <programme start="20250315103800 +0200" stop="20250315113100 +0200" channel="49">
+  <programme start="20250315103800 +0200" stop="20250315113100 +0200" channel="48">
     <title lang="ru">Бахмут. Сьогодення та історія</title>
   </programme>
-  <programme start="20250315113100 +0200" stop="20250315115800 +0200" channel="49">
+  <programme start="20250315113100 +0200" stop="20250315115800 +0200" channel="48">
     <title lang="ru">Битва за Харків. Діти обікрали російський БТР. Мужики розібрали танки й гелікоптер на металолом</title>
   </programme>
-  <programme start="20250315115800 +0200" stop="20250315125700 +0200" channel="49">
+  <programme start="20250315115800 +0200" stop="20250315125700 +0200" channel="48">
     <title lang="ru">Вимираюча Сумщина та її хутори. Кладовища. Палац-психлікарня для Катерини Другої. 2</title>
   </programme>
-  <programme start="20250315125700 +0200" stop="20250315140700 +0200" channel="49">
+  <programme start="20250315125700 +0200" stop="20250315140700 +0200" channel="48">
     <title lang="ru">Волинь. Столиця відьом. Ріка життя та смерті Стохід</title>
   </programme>
-  <programme start="20250315140700 +0200" stop="20250315152400 +0200" channel="49">
+  <programme start="20250315140700 +0200" stop="20250315152400 +0200" channel="48">
     <title lang="ru">Галичина. Колорит та автентика краю. Набожність та розриті могили. Багаті й вимираючі села</title>
   </programme>
-  <programme start="20250315152400 +0200" stop="20250315154500 +0200" channel="49">
+  <programme start="20250315152400 +0200" stop="20250315154500 +0200" channel="48">
     <title lang="ru">Голод. Розстріли. Обстріли. Стихійні пожежі. Лиха. Що припали одному селу на Миколаївщині</title>
   </programme>
-  <programme start="20250315154500 +0200" stop="20250315162500 +0200" channel="49">
+  <programme start="20250315154500 +0200" stop="20250315162500 +0200" channel="48">
     <title lang="ru">Гуляйполе. Батьківщина. Махна та анархії. Рік на лінії фронту</title>
   </programme>
-  <programme start="20250315162500 +0200" stop="20250315172600 +0200" channel="49">
+  <programme start="20250315162500 +0200" stop="20250315172600 +0200" channel="48">
     <title lang="ru">Дикий захід. Самогон. Слід Бога. Білі гриби та найбагатший регіон України. Вторгнення Росії. КП ч3</title>
   </programme>
-  <programme start="20250315172600 +0200" stop="20250315175400 +0200" channel="49">
+  <programme start="20250315172600 +0200" stop="20250315175400 +0200" channel="48">
     <title lang="ru">Донбас. Богородичне. Село 14 разів переходило з рук у руки. Тепер села нема</title>
   </programme>
-  <programme start="20250315175400 +0200" stop="20250315190400 +0200" channel="49">
+  <programme start="20250315175400 +0200" stop="20250315190400 +0200" channel="48">
     <title lang="ru">Донеччина. Чия це земля. Її міфи. Історія. Сьогодення та майбутнє</title>
   </programme>
-  <programme start="20250315190400 +0200" stop="20250315193300 +0200" channel="49">
+  <programme start="20250315190400 +0200" stop="20250315193300 +0200" channel="48">
     <title lang="ru">Елітне село під Харковом. Наслідки російського вторгнення</title>
   </programme>
-  <programme start="20250315193300 +0200" stop="20250315202800 +0200" channel="49">
+  <programme start="20250315193300 +0200" stop="20250315202800 +0200" channel="48">
     <title lang="ru">Житомирщина. Базар. Радіація та вовки. Села без людей. Церква-пустка. Тунель кохання. КП частина 2</title>
   </programme>
-  <programme start="20250315202800 +0200" stop="20250315211300 +0200" channel="49">
+  <programme start="20250315202800 +0200" stop="20250315211300 +0200" channel="48">
     <title lang="ru">Жодної цілої хати. Танковий бій. Снаряди. Міни. Село опинилося на лінії фронту</title>
   </programme>
-  <programme start="20250315211300 +0200" stop="20250315212500 +0200" channel="49">
+  <programme start="20250315211300 +0200" stop="20250315212500 +0200" channel="48">
     <title lang="ru">Закинуті села України. Гамарня. Грабарка. Малий Олександрів. Марусин Камінь</title>
   </programme>
-  <programme start="20250315212500 +0200" stop="20250315214600 +0200" channel="49">
+  <programme start="20250315212500 +0200" stop="20250315214600 +0200" channel="48">
     <title lang="ru">Закинуті та вимираючі села України. Кропивниччина Новоархангельський район</title>
   </programme>
-  <programme start="20250315214600 +0200" stop="20250315225700 +0200" channel="49">
+  <programme start="20250315214600 +0200" stop="20250315225700 +0200" channel="48">
     <title lang="ru">Зникаючи Чернивці. Покинуте єврейське місто. Мурафа. Букатинка. Місце щасливих людей</title>
   </programme>
-  <programme start="20250315225700 +0200" stop="20250315233700 +0200" channel="49">
+  <programme start="20250315225700 +0200" stop="20250315233700 +0200" channel="48">
     <title lang="ru">Зникаючі села Чернігівщини. Блакитні озера. Нашестя білих грибів та древній колорит Сіверщини</title>
   </programme>
-  <programme start="20250315233700 +0200" stop="20250316002300 +0200" channel="49">
+  <programme start="20250315233700 +0200" stop="20250316002300 +0200" channel="48">
     <title lang="ru">Знищена Україна. Сіверськ. Серебрянка. На межі життя і смерті</title>
   </programme>
-  <programme start="20250316002300 +0200" stop="20250316014000 +0200" channel="49">
+  <programme start="20250316002300 +0200" stop="20250316014000 +0200" channel="48">
     <title lang="ru">Золото Вінничини. Невідома Україна. Місце яке вразило хащі. Біла смерть</title>
   </programme>
-  <programme start="20250316014000 +0200" stop="20250316021900 +0200" channel="49">
+  <programme start="20250316014000 +0200" stop="20250316021900 +0200" channel="48">
     <title lang="ru">Казали. Що місто зруйноване на 90%. Це ми і бачимо. Ізюм. Ключ до українського Донбасу</title>
   </programme>
-  <programme start="20250316021900 +0200" stop="20250316031200 +0200" channel="49">
+  <programme start="20250316021900 +0200" stop="20250316031200 +0200" channel="48">
     <title lang="ru">Київщина. Чеські села Житомирщини і їхні останні жителі. Кінний похід. Частина 1</title>
   </programme>
-  <programme start="20250316031200 +0200" stop="20250316035300 +0200" channel="49">
+  <programme start="20250316031200 +0200" stop="20250316035300 +0200" channel="48">
     <title lang="ru">Корисні в тилу. Феномен українського волонтерства</title>
   </programme>
-  <programme start="20250316035300 +0200" stop="20250316050600 +0200" channel="49">
+  <programme start="20250316035300 +0200" stop="20250316050600 +0200" channel="48">
     <title lang="ru">Кінець світу. Рівненщина. Нобель. Прип'ять. Стохід</title>
   </programme>
-  <programme start="20250316050600 +0200" stop="20250316061500 +0200" channel="49">
+  <programme start="20250316050600 +0200" stop="20250316061500 +0200" channel="48">
     <title lang="ru">Майдан. Росіяни старообрядці. Ядерний щит СРСР</title>
   </programme>
-  <programme start="20250316061500 +0200" stop="20250316063200 +0200" channel="49">
+  <programme start="20250316061500 +0200" stop="20250316063200 +0200" channel="48">
     <title lang="ru">Маріуполь. Втеча з пекла</title>
   </programme>
-  <programme start="20250316063200 +0200" stop="20250316072500 +0200" channel="49">
+  <programme start="20250316063200 +0200" stop="20250316072500 +0200" channel="48">
     <title lang="ru">Миколаїв. Південний форпост України</title>
   </programme>
-  <programme start="20250316072500 +0200" stop="20250316080000 +0200" channel="49">
+  <programme start="20250316072500 +0200" stop="20250316080000 +0200" channel="48">
     <title lang="ru">Миколаївщина. Лупареве. Козацьке село. Грецька Ольвія. Південний фронт</title>
   </programme>
-  <programme start="20250316080000 +0200" stop="20250316082000 +0200" channel="49">
+  <programme start="20250316080000 +0200" stop="20250316082000 +0200" channel="48">
     <title lang="ru">Миньковецька держава. Мертве місто Сокілець. Водоспад Бурбун. Велохащі серія 1</title>
   </programme>
-  <programme start="20250316082000 +0200" stop="20250316093400 +0200" channel="49">
+  <programme start="20250316082000 +0200" stop="20250316093400 +0200" channel="48">
     <title lang="ru">Наймоторошніше місце України. Сокілець. Миньковецька держава. Зникаюча Україна</title>
   </programme>
-  <programme start="20250316093400 +0200" stop="20250316101100 +0200" channel="49">
+  <programme start="20250316093400 +0200" stop="20250316101100 +0200" channel="48">
     <title lang="ru">Невідома Хмельниччина. Втрачений рай. Дністер. Нова Ушиця. Хребтіїв</title>
   </programme>
-  <programme start="20250316101100 +0200" stop="20250316103700 +0200" channel="49">
+  <programme start="20250316101100 +0200" stop="20250316103700 +0200" channel="48">
     <title lang="ru">Нирків. Урочище Червоне. Джуринський водоспад. Кашкетники. Заліщики та закинутий табір. Серія 4</title>
   </programme>
-  <programme start="20250316103700 +0200" stop="20250316115500 +0200" channel="49">
+  <programme start="20250316103700 +0200" stop="20250316115500 +0200" channel="48">
     <title lang="ru">Нью -Йорк під російськими обстрілами. Десять років війни. Історія та сьогодення</title>
   </programme>
-  <programme start="20250316115500 +0200" stop="20250316124500 +0200" channel="49">
+  <programme start="20250316115500 +0200" stop="20250316124500 +0200" channel="48">
     <title lang="ru">Нікополь. Велична козацька історія і жахливе сьогодення під обстрілами та ядерним шантажем</title>
   </programme>
-  <programme start="20250316124500 +0200" stop="20250316135400 +0200" channel="49">
+  <programme start="20250316124500 +0200" stop="20250316135400 +0200" channel="48">
     <title lang="ru">Одеса. Німецькі колоністи Причорномор'я. Найдовші катакомби світу. Величні руїни минулого</title>
   </programme>
-  <programme start="20250316135400 +0200" stop="20250316144400 +0200" channel="49">
+  <programme start="20250316135400 +0200" stop="20250316144400 +0200" channel="48">
     <title lang="ru">Одещина.Такого більше ніде не зустрінеш. Унікальний край з сотнями хат під стріхою</title>
   </programme>
-  <programme start="20250316144400 +0200" stop="20250316151800 +0200" channel="49">
+  <programme start="20250316144400 +0200" stop="20250316151800 +0200" channel="48">
     <title lang="ru">Оріхів. Запоріжжя. Чергове знищене місто та робота наших бійців у цьому пеклі</title>
   </programme>
-  <programme start="20250316151800 +0200" stop="20250316154400 +0200" channel="49">
+  <programme start="20250316151800 +0200" stop="20250316154400 +0200" channel="48">
     <title lang="ru">Повернення у зруйноване село</title>
   </programme>
-  <programme start="20250316154400 +0200" stop="20250316165900 +0200" channel="49">
+  <programme start="20250316154400 +0200" stop="20250316165900 +0200" channel="48">
     <title lang="ru">Повісті дикого степу. Кропивниччина. Миколаївщина. Як ми попали у в'язницю. Лев Троцький</title>
   </programme>
-  <programme start="20250316165900 +0200" stop="20250316180100 +0200" channel="49">
+  <programme start="20250316165900 +0200" stop="20250316180100 +0200" channel="48">
     <title lang="ru">Поділля. Зіньків. Єврейське місто на золоті. Шлях Якова. Старовинна пивоварня. Козацька церква</title>
   </programme>
-  <programme start="20250316180100 +0200" stop="20250316191800 +0200" channel="49">
+  <programme start="20250316180100 +0200" stop="20250316191800 +0200" channel="48">
     <title lang="ru">Полтавщина. Потрапили наче в 19 століття. Хати під соломою. Легенди й міфи. Слов'янські забави</title>
   </programme>
-  <programme start="20250316191800 +0200" stop="20250316193400 +0200" channel="49">
+  <programme start="20250316191800 +0200" stop="20250316193400 +0200" channel="48">
     <title lang="ru">Працівник Гостомельського аеропорту про 16 днів в полоні війни</title>
   </programme>
-  <programme start="20250316193400 +0200" stop="20250316202900 +0200" channel="49">
+  <programme start="20250316193400 +0200" stop="20250316202900 +0200" channel="48">
     <title lang="ru">Рівненщина. Край бурштину. Дикого меду. Відьомства та старовинних пісень. Кінний похід остання серія</title>
   </programme>
-  <programme start="20250316202900 +0200" stop="20250316210000 +0200" channel="49">
+  <programme start="20250316202900 +0200" stop="20250316210000 +0200" channel="48">
     <title lang="ru">Спецпідрозділ Kraken. В російському селі. Руська Лозова. Звільнене село на Харківщині</title>
   </programme>
-  <programme start="20250316210000 +0200" stop="20250316211600 +0200" channel="49">
+  <programme start="20250316210000 +0200" stop="20250316211600 +0200" channel="48">
     <title lang="ru">Справжня Україна. Похід річкою Рось. Клочки. Бирюки. Пугачівка</title>
   </programme>
-  <programme start="20250316211600 +0200" stop="20250316223500 +0200" channel="49">
+  <programme start="20250316211600 +0200" stop="20250316223500 +0200" channel="48">
     <title lang="ru">Справжні хащі. Мертві села. Змії на снігу. Радянські міфи. Маленька Польща</title>
   </programme>
-  <programme start="20250316223500 +0200" stop="20250316230600 +0200" channel="49">
+  <programme start="20250316223500 +0200" stop="20250316230600 +0200" channel="48">
     <title lang="ru">Стара хата в українському селі. Зникаюча Вінниччина. Степанки. Палац у Митках</title>
   </programme>
-  <programme start="20250316230600 +0200" stop="20250317000700 +0200" channel="49">
+  <programme start="20250316230600 +0200" stop="20250317000700 +0200" channel="48">
     <title lang="ru">Сумщина. Життя на кордоні з Росією</title>
   </programme>
-  <programme start="20250317000700 +0200" stop="20250317003300 +0200" channel="49">
+  <programme start="20250317000700 +0200" stop="20250317003300 +0200" channel="48">
     <title lang="ru">Танки у дворах. Нацисти у хлівах. Російські солдати в погребах. Село знищене війною</title>
   </programme>
-  <programme start="20250317003300 +0200" stop="20250317012900 +0200" channel="49">
+  <programme start="20250317003300 +0200" stop="20250317012900 +0200" channel="48">
     <title lang="ru">Тернопільщина. Забутий замок. Незникаючі села. Повстанці 70-х років. Безкінечні печери</title>
   </programme>
-  <programme start="20250317012900 +0200" stop="20250317020100 +0200" channel="49">
+  <programme start="20250317012900 +0200" stop="20250317020100 +0200" channel="48">
     <title lang="ru">Тетерів. Українська провінція. Електричка. Озера біля Києва</title>
   </programme>
-  <programme start="20250317020100 +0200" stop="20250317023100 +0200" channel="49">
+  <programme start="20250317020100 +0200" stop="20250317023100 +0200" channel="48">
     <title lang="ru">Трупи людей та тварин. Спалена техніка. Розстріляні авто. Кадри звільненої Київщини. Фільм Додому</title>
   </programme>
-  <programme start="20250317023100 +0200" stop="20250317030200 +0200" channel="49">
+  <programme start="20250317023100 +0200" stop="20250317030200 +0200" channel="48">
     <title lang="ru">Тут під завалами дочка моя з внучкою. Мешканці Бородянки про російську окупацію</title>
   </programme>
-  <programme start="20250317030200 +0200" stop="20250317041600 +0200" channel="49">
+  <programme start="20250317030200 +0200" stop="20250317041600 +0200" channel="48">
     <title lang="ru">Українська Німеччина що зникла. Лінія Сталіна. Ukrainian Germany that disappeared. Stalin line</title>
   </programme>
-  <programme start="20250317041600 +0200" stop="20250317051600 +0200" channel="49">
+  <programme start="20250317041600 +0200" stop="20250317051600 +0200" channel="48">
     <title lang="ru">Український версаль. Сатанів. Петро Болбочан та непролазні Медобори. Велохащі серія 2</title>
   </programme>
-  <programme start="20250312143000 +0200" stop="20250312155500 +0200" channel="50">
+  <programme start="20250312143000 +0200" stop="20250312155500 +0200" channel="49">
     <title lang="ru">Байдак. Трембовецький. Немонежина та Бігус</title>
   </programme>
-  <programme start="20250312155500 +0200" stop="20250312164100 +0200" channel="50">
+  <programme start="20250312155500 +0200" stop="20250312164100 +0200" channel="49">
     <title lang="ru">Бампер і Сус. Афонський та Барбул. Новорічний випуск</title>
   </programme>
-  <programme start="20250312164100 +0200" stop="20250312172400 +0200" channel="50">
+  <programme start="20250312164100 +0200" stop="20250312172400 +0200" channel="49">
     <title lang="ru">Брензей. Кідрук. Щербина та Романцова. Літературний фестиваль “Фронтера”</title>
   </programme>
-  <programme start="20250312172400 +0200" stop="20250312180600 +0200" channel="50">
+  <programme start="20250312172400 +0200" stop="20250312180600 +0200" channel="49">
     <title lang="ru">Білий. Лалаян. Френк та Вишинський</title>
   </programme>
-  <programme start="20250312180600 +0200" stop="20250312184100 +0200" channel="50">
+  <programme start="20250312180600 +0200" stop="20250312184100 +0200" channel="49">
     <title lang="ru">Вася Байдак. Чирков. Сас. Глущенко</title>
   </programme>
-  <programme start="20250312184100 +0200" stop="20250312190400 +0200" channel="50">
+  <programme start="20250312184100 +0200" stop="20250312190400 +0200" channel="49">
     <title lang="ru">Вулична вікторина у Львові. Денис Шмигаль. Пилип Орлик та черепашки-ніндзя</title>
   </programme>
-  <programme start="20250312190400 +0200" stop="20250312195500 +0200" channel="50">
+  <programme start="20250312190400 +0200" stop="20250312195500 +0200" channel="49">
     <title lang="ru">Вікторина про тварин. Макс Албул. Єгор Славуцький. Марк Зеневич. Влад Свідерськй та Мус</title>
   </programme>
-  <programme start="20250312195500 +0200" stop="20250312204900 +0200" channel="50">
+  <programme start="20250312195500 +0200" stop="20250312204900 +0200" channel="49">
     <title lang="ru">Гаріпова та Френк. Чирков та Сас</title>
   </programme>
-  <programme start="20250312204900 +0200" stop="20250312215300 +0200" channel="50">
+  <programme start="20250312204900 +0200" stop="20250312215300 +0200" channel="49">
     <title lang="ru">Дамницький. Рибак. Узол і Манько</title>
   </programme>
-  <programme start="20250312215300 +0200" stop="20250312224000 +0200" channel="50">
+  <programme start="20250312215300 +0200" stop="20250312224000 +0200" channel="49">
     <title lang="ru">Де українці шукають любов. Туча. Макс Безодня. Ницо Потворно. Вадим Кириленко</title>
   </programme>
-  <programme start="20250312224000 +0200" stop="20250312231800 +0200" channel="50">
+  <programme start="20250312224000 +0200" stop="20250312231800 +0200" channel="49">
     <title lang="ru">Емма Антонюк. Поліна Майко. Клятий раціоналіст та Андрій Безлад</title>
   </programme>
-  <programme start="20250312231800 +0200" stop="20250313001400 +0200" channel="50">
+  <programme start="20250312231800 +0200" stop="20250313001400 +0200" channel="49">
     <title lang="ru">Женя Синельников вперше на каналі. Чирков. Сас та Лущик</title>
   </programme>
-  <programme start="20250313001400 +0200" stop="20250313012800 +0200" channel="50">
+  <programme start="20250313001400 +0200" stop="20250313012800 +0200" channel="49">
     <title lang="ru">Заборонити російську та воскресити Бандеру. Байдак. Міщеряков. Стадницький та Білий</title>
   </programme>
-  <programme start="20250313012800 +0200" stop="20250313022000 +0200" channel="50">
+  <programme start="20250313012800 +0200" stop="20250313022000 +0200" channel="49">
     <title lang="ru">Загін Кіноманів. Ницо Потворно. Роксана Тимків. Віктор Перунський</title>
   </programme>
-  <programme start="20250313022000 +0200" stop="20250313031900 +0200" channel="50">
+  <programme start="20250313022000 +0200" stop="20250313031900 +0200" channel="49">
     <title lang="ru">Зухвала. Загайкевич. Коломієць. Білоус. Підпільний стендап на вікторині. Соціологіка</title>
   </programme>
-  <programme start="20250313031900 +0200" stop="20250313041900 +0200" channel="50">
+  <programme start="20250313031900 +0200" stop="20250313041900 +0200" channel="49">
     <title lang="ru">Клопотенко. Степан ЧУШ. Гаріпова і Лалаян обговорюють їжу</title>
   </programme>
-  <programme start="20250313041900 +0200" stop="20250313052900 +0200" channel="50">
+  <programme start="20250313041900 +0200" stop="20250313052900 +0200" channel="49">
     <title lang="ru">Клятий раціоналіст вже не той. Гордієнко. Шевчук. Чирков. Мус.</title>
   </programme>
-  <programme start="20250313052900 +0200" stop="20250313063200 +0200" channel="50">
+  <programme start="20250313052900 +0200" stop="20250313063200 +0200" channel="49">
     <title lang="ru">Клятий раціоналіст та Машлятіна про флот та портянки. Синельников. Вишинський</title>
   </programme>
-  <programme start="20250313063200 +0200" stop="20250313072900 +0200" channel="50">
+  <programme start="20250313063200 +0200" stop="20250313072900 +0200" channel="49">
     <title lang="ru">Клятий раціоналіст. Євген Синельников. Сергій Чирков та Сашко Сас. Старий випуск</title>
   </programme>
-  <programme start="20250313072900 +0200" stop="20250313083400 +0200" channel="50">
+  <programme start="20250313072900 +0200" stop="20250313083400 +0200" channel="49">
     <title lang="ru">Клятий раціоналіст. Останній капіталіст. Фарід говорить та Ярема Дух. Соціологіка</title>
   </programme>
-  <programme start="20250313083400 +0200" stop="20250313093900 +0200" channel="50">
+  <programme start="20250313083400 +0200" stop="20250313093900 +0200" channel="49">
     <title lang="ru">Кого боїться клятий раціоналіст. Емма Антонюк не вміє програвати. Соціологіка</title>
   </programme>
-  <programme start="20250313093900 +0200" stop="20250313104100 +0200" channel="50">
+  <programme start="20250313093900 +0200" stop="20250313104100 +0200" channel="49">
     <title lang="ru">Коля Капішон. Дмитро Тютюн. Альберт Лалаян. Іван Барбул</title>
   </programme>
-  <programme start="20250313104100 +0200" stop="20250313114300 +0200" channel="50">
+  <programme start="20250313104100 +0200" stop="20250313114300 +0200" channel="49">
     <title lang="ru">Коротков. Новіков. Крилевський. Степанисько</title>
   </programme>
-  <programme start="20250313114300 +0200" stop="20250313123700 +0200" channel="50">
+  <programme start="20250313114300 +0200" stop="20250313123700 +0200" channel="49">
     <title lang="ru">Костя Трембовецький та Міша Рудь з ХПЗП</title>
   </programme>
-  <programme start="20250313123700 +0200" stop="20250313134700 +0200" channel="50">
+  <programme start="20250313123700 +0200" stop="20250313134700 +0200" channel="49">
     <title lang="ru">Куди люди витрачають гроші. Психологія українців VS ебаут. Яся. Наті. Мотричка та Болсун</title>
   </programme>
-  <programme start="20250313134700 +0200" stop="20250313144700 +0200" channel="50">
+  <programme start="20250313134700 +0200" stop="20250313144700 +0200" channel="49">
     <title lang="ru">Люленов. КИЛИММЕН. Станіславська. Нерівний</title>
   </programme>
-  <programme start="20250313144700 +0200" stop="20250313153500 +0200" channel="50">
+  <programme start="20250313144700 +0200" stop="20250313153500 +0200" channel="49">
     <title lang="ru">Лєра Мандзюк та Даня Білий. Чирков та Сас</title>
   </programme>
-  <programme start="20250313153500 +0200" stop="20250313155700 +0200" channel="50">
+  <programme start="20250313153500 +0200" stop="20250313155700 +0200" channel="49">
     <title lang="ru">Майкл Щур. Еритрея та Секс і місто. Вулична вікторина</title>
   </programme>
-  <programme start="20250313155700 +0200" stop="20250313164400 +0200" channel="50">
+  <programme start="20250313155700 +0200" stop="20250313164400 +0200" channel="49">
     <title lang="ru">Макс Щербина та Наріман Алієв. Френк та Даня Білий</title>
   </programme>
-  <programme start="20250313164400 +0200" stop="20250313174300 +0200" channel="50">
+  <programme start="20250313164400 +0200" stop="20250313174300 +0200" channel="49">
     <title lang="ru">Макс Щербина. Єгор Шатайло та Сергій Чирков</title>
   </programme>
-  <programme start="20250313174300 +0200" stop="20250313184200 +0200" channel="50">
+  <programme start="20250313174300 +0200" stop="20250313184200 +0200" channel="49">
     <title lang="ru">Маша Себова. Євген Синельников. Tember Blanche. Соціологіка</title>
   </programme>
-  <programme start="20250313184200 +0200" stop="20250313194100 +0200" channel="50">
+  <programme start="20250313184200 +0200" stop="20250313194100 +0200" channel="49">
     <title lang="ru">Мурафа. Албул та Синельников розслідують злочини</title>
   </programme>
-  <programme start="20250313194100 +0200" stop="20250313202600 +0200" channel="50">
+  <programme start="20250313194100 +0200" stop="20250313202600 +0200" channel="49">
     <title lang="ru">Новий сезон - нові правила. Немонежина. Свищ. Лалаян. Петров</title>
   </programme>
-  <programme start="20250313202600 +0200" stop="20250313211200 +0200" channel="50">
+  <programme start="20250313202600 +0200" stop="20250313211200 +0200" channel="49">
     <title lang="ru">Олег Маслюк. Сергій Чирков та Денис Дума. Останній випуск з Сасом.</title>
   </programme>
-  <programme start="20250313211200 +0200" stop="20250313221000 +0200" channel="50">
+  <programme start="20250313211200 +0200" stop="20250313221000 +0200" channel="49">
     <title lang="ru">Педан смішний чи розумний. Шоу повернулось. Блажкевич. Лалаян. Барбул</title>
   </programme>
-  <programme start="20250313221000 +0200" stop="20250313225100 +0200" channel="50">
+  <programme start="20250313221000 +0200" stop="20250313225100 +0200" channel="49">
     <title lang="ru">Питання про Україну. Депутат проти коміків</title>
   </programme>
-  <programme start="20250313225100 +0200" stop="20250313234700 +0200" channel="50">
+  <programme start="20250313225100 +0200" stop="20250313234700 +0200" channel="49">
     <title lang="ru">Притула - давня українська розвага. Середа. Бігус і Бережко з Мінус Перший. Лалаян</title>
   </programme>
-  <programme start="20250313234700 +0200" stop="20250314004400 +0200" channel="50">
+  <programme start="20250313234700 +0200" stop="20250314004400 +0200" channel="49">
     <title lang="ru">Пташиний секс. Мишаче кіно та яблучна шкірка. Степан ЧУШ та Сергій Чирков</title>
   </programme>
-  <programme start="20250314004400 +0200" stop="20250314020300 +0200" channel="50">
+  <programme start="20250314004400 +0200" stop="20250314020300 +0200" channel="49">
     <title lang="ru">Підпільна соціологіка. Качура. Кочегура. Латарія і Дядя Женя</title>
   </programme>
-  <programme start="20250314020300 +0200" stop="20250314031200 +0200" channel="50">
+  <programme start="20250314020300 +0200" stop="20250314031200 +0200" channel="49">
     <title lang="ru">Підпільний стендап. Коломієц. Чубаха. Кочегура та Стенюк</title>
   </programme>
-  <programme start="20250314031200 +0200" stop="20250314042900 +0200" channel="50">
+  <programme start="20250314031200 +0200" stop="20250314042900 +0200" channel="49">
     <title lang="ru">Розмова з Черепахою. Лиховида. Сенч. Лопушанський. Лалаян</title>
   </programme>
-  <programme start="20250314042900 +0200" stop="20250314051600 +0200" channel="50">
+  <programme start="20250314042900 +0200" stop="20250314051600 +0200" channel="49">
     <title lang="ru">Саша Гонтар не їсть голубці. А Толік Остапенко любить гандбол. Соціологіка</title>
   </programme>
-  <programme start="20250314051600 +0200" stop="20250314060500 +0200" channel="50">
+  <programme start="20250314051600 +0200" stop="20250314060500 +0200" channel="49">
     <title lang="ru">Саша Гонтар та Влад Капиця. Сракадупа проти Телебачення Торонто</title>
   </programme>
-  <programme start="20250314060500 +0200" stop="20250314070200 +0200" channel="50">
+  <programme start="20250314060500 +0200" stop="20250314070200 +0200" channel="49">
     <title lang="ru">Святковий випуск. Педан. Лиховида. Лопушанський та Сенч з каналу Черепаха</title>
   </programme>
-  <programme start="20250314070200 +0200" stop="20250314071700 +0200" channel="50">
+  <programme start="20250314070200 +0200" stop="20250314071700 +0200" channel="49">
     <title lang="ru">Синельников роздає гроші за правильні відповіді</title>
   </programme>
-  <programme start="20250314071700 +0200" stop="20250314083300 +0200" channel="50">
+  <programme start="20250314071700 +0200" stop="20250314083300 +0200" channel="49">
     <title lang="ru">Скасувати урок праці. Безлад. Вишинський. Чубаха. Сафаров. Мус. Соціологіка</title>
   </programme>
-  <programme start="20250314083300 +0200" stop="20250314092600 +0200" channel="50">
+  <programme start="20250314083300 +0200" stop="20250314092600 +0200" channel="49">
     <title lang="ru">Соски - це гроші. Гурт Tember Blanche. Саша Шабаліна. Дмитро Тютюн</title>
   </programme>
-  <programme start="20250314092600 +0200" stop="20250314102300 +0200" channel="50">
+  <programme start="20250314092600 +0200" stop="20250314102300 +0200" channel="49">
     <title lang="ru">Соціологіка. Підпільний стендап. Поплава. Закрутка</title>
   </programme>
-  <programme start="20250314102300 +0200" stop="20250314111300 +0200" channel="50">
+  <programme start="20250314102300 +0200" stop="20250314111300 +0200" channel="49">
     <title lang="ru">Спартак Суббота-вампір. Що цілував Марадона. Поліна Майко та Безлад</title>
   </programme>
-  <programme start="20250314111300 +0200" stop="20250314122700 +0200" channel="50">
+  <programme start="20250314111300 +0200" stop="20250314122700 +0200" channel="49">
     <title lang="ru">Сракадупа. Щегель. Капиця. Романенко та Синельников</title>
   </programme>
-  <programme start="20250314122700 +0200" stop="20250314132000 +0200" channel="50">
+  <programme start="20250314122700 +0200" stop="20250314132000 +0200" channel="49">
     <title lang="ru">Стерненко жартує про Коломойського і не тільки. Романенко. Чирков. Сас</title>
   </programme>
-  <programme start="20250314132000 +0200" stop="20250314141400 +0200" channel="50">
+  <programme start="20250314132000 +0200" stop="20250314141400 +0200" channel="49">
     <title lang="ru">Тимошенко проти Клопотенка. Чи вміє шеф-кухар жартувати. Чирков та Сас</title>
   </programme>
-  <programme start="20250314141400 +0200" stop="20250314143400 +0200" channel="50">
+  <programme start="20250314141400 +0200" stop="20250314143400 +0200" channel="49">
     <title lang="ru">Тисяча гривень за правильні відповіді. Вулична вікторина</title>
   </programme>
-  <programme start="20250314143400 +0200" stop="20250314153900 +0200" channel="50">
+  <programme start="20250314143400 +0200" stop="20250314153900 +0200" channel="49">
     <title lang="ru">Толік з Телебачення Торонто та Сергій Чирков в гумористичній вікторині</title>
   </programme>
-  <programme start="20250314153900 +0200" stop="20250314165500 +0200" channel="50">
+  <programme start="20250314153900 +0200" stop="20250314165500 +0200" channel="49">
     <title lang="ru">Трембовецький. Білоус. Афонський. Лалаян</title>
   </programme>
-  <programme start="20250314165500 +0200" stop="20250314174800 +0200" channel="50">
+  <programme start="20250314165500 +0200" stop="20250314174800 +0200" channel="49">
     <title lang="ru">Фагот та Настя Зухвала. Чирков та Сас</title>
   </programme>
-  <programme start="20250314174800 +0200" stop="20250314183400 +0200" channel="50">
+  <programme start="20250314174800 +0200" stop="20250314183400 +0200" channel="49">
     <title lang="ru">Фоззі та Ліпко</title>
   </programme>
-  <programme start="20250314183400 +0200" stop="20250314185500 +0200" channel="50">
+  <programme start="20250314183400 +0200" stop="20250314185500 +0200" channel="49">
     <title lang="ru">Хто у Вінниці найрозумніший. Даруємо гроші за знання</title>
   </programme>
-  <programme start="20250314185500 +0200" stop="20250314190800 +0200" channel="50">
+  <programme start="20250314185500 +0200" stop="20250314190800 +0200" channel="49">
     <title lang="ru">Чи знають українці такі прості речі. Вулична вікторина</title>
   </programme>
-  <programme start="20250314190800 +0200" stop="20250314200200 +0200" channel="50">
+  <programme start="20250314190800 +0200" stop="20250314200200 +0200" channel="49">
     <title lang="ru">Чоткий Паца vs Жабагадюка. Вова Шумко. Костя Клепка. Діма Сидоров. Альберт Лалаян</title>
   </programme>
-  <programme start="20250314200200 +0200" stop="20250314210900 +0200" channel="50">
+  <programme start="20250314200200 +0200" stop="20250314210900 +0200" channel="49">
     <title lang="ru">Що спільного у чоловіка та огірка. Дмитро Тютюн. Макс Албул та Тріо Різні</title>
   </programme>
-  <programme start="20250314210900 +0200" stop="20250314220100 +0200" channel="50">
+  <programme start="20250314210900 +0200" stop="20250314220100 +0200" channel="49">
     <title lang="ru">Яна Брензей. Аня Кочегура. Макс Албул та Альберт Лалаян проти Муса</title>
   </programme>
-  <programme start="20250314220100 +0200" stop="20250314231300 +0200" channel="50">
+  <programme start="20250314220100 +0200" stop="20250314231300 +0200" channel="49">
     <title lang="ru">Янович та Міщеряков. Різдвяний випуск</title>
   </programme>
-  <programme start="20250314231300 +0200" stop="20250315001200 +0200" channel="50">
+  <programme start="20250314231300 +0200" stop="20250315001200 +0200" channel="49">
     <title lang="ru">Янович. Маслюк. Мелашенко. Тункевич. Мамахихотала</title>
   </programme>
-  <programme start="20250315001200 +0200" stop="20250315010700 +0200" channel="50">
+  <programme start="20250315001200 +0200" stop="20250315010700 +0200" channel="49">
     <title lang="ru">Geek Journal та Скарадупа.Чирков та Сас</title>
   </programme>
-  <programme start="20250315010700 +0200" stop="20250315015500 +0200" channel="50">
+  <programme start="20250315010700 +0200" stop="20250315015500 +0200" channel="49">
     <title lang="ru">Iнтимні змазки. Новий кліп Дантеса. Назаренко. Чубаха. TUMAZAR</title>
   </programme>
-  <programme start="20250315015500 +0200" stop="20250315024700 +0200" channel="50">
+  <programme start="20250315015500 +0200" stop="20250315024700 +0200" channel="49">
     <title lang="ru">Ірина Гіль та Ніна Україна</title>
   </programme>
-  <programme start="20250315024700 +0200" stop="20250315034700 +0200" channel="50">
+  <programme start="20250315024700 +0200" stop="20250315034700 +0200" channel="49">
     <title lang="ru">Історія без міфів vs Bezodnya Music. Уля Станіславська та Альберт Лалаян</title>
   </programme>
-  <programme start="20250315034700 +0200" stop="20250315044300 +0200" channel="50">
+  <programme start="20250315034700 +0200" stop="20250315044300 +0200" channel="49">
     <title lang="ru">Абсурдний випуск. Василь Байдак та Ростик з каналу ТА</title>
   </programme>
-  <programme start="20250315044300 +0200" stop="20250315052600 +0200" channel="50">
+  <programme start="20250315044300 +0200" stop="20250315052600 +0200" channel="49">
     <title lang="ru">Анатолій Анатоліч. Шевчук. Сас. Чирков</title>
   </programme>
-  <programme start="20250315052600 +0200" stop="20250315065100 +0200" channel="50">
+  <programme start="20250315052600 +0200" stop="20250315065100 +0200" channel="49">
     <title lang="ru">Байдак. Трембовецький. Немонежина та Бігус</title>
   </programme>
-  <programme start="20250315065100 +0200" stop="20250315073600 +0200" channel="50">
+  <programme start="20250315065100 +0200" stop="20250315073600 +0200" channel="49">
     <title lang="ru">Бампер і Сус. Афонський та Барбул. Новорічний випуск</title>
   </programme>
-  <programme start="20250315073600 +0200" stop="20250315082000 +0200" channel="50">
+  <programme start="20250315073600 +0200" stop="20250315082000 +0200" channel="49">
     <title lang="ru">Брензей. Кідрук. Щербина та Романцова. Літературний фестиваль “Фронтера”</title>
   </programme>
-  <programme start="20250315082000 +0200" stop="20250315090200 +0200" channel="50">
+  <programme start="20250315082000 +0200" stop="20250315090200 +0200" channel="49">
     <title lang="ru">Білий. Лалаян. Френк та Вишинський</title>
   </programme>
-  <programme start="20250315090200 +0200" stop="20250315093700 +0200" channel="50">
+  <programme start="20250315090200 +0200" stop="20250315093700 +0200" channel="49">
     <title lang="ru">Вася Байдак. Чирков. Сас. Глущенко</title>
   </programme>
-  <programme start="20250315093700 +0200" stop="20250315095900 +0200" channel="50">
+  <programme start="20250315093700 +0200" stop="20250315095900 +0200" channel="49">
     <title lang="ru">Вулична вікторина у Львові. Денис Шмигаль. Пилип Орлик та черепашки-ніндзя</title>
   </programme>
-  <programme start="20250315095900 +0200" stop="20250315105100 +0200" channel="50">
+  <programme start="20250315095900 +0200" stop="20250315105100 +0200" channel="49">
     <title lang="ru">Вікторина про тварин. Макс Албул. Єгор Славуцький. Марк Зеневич. Влад Свідерськй та Мус</title>
   </programme>
-  <programme start="20250315105100 +0200" stop="20250315114400 +0200" channel="50">
+  <programme start="20250315105100 +0200" stop="20250315114400 +0200" channel="49">
     <title lang="ru">Гаріпова та Френк. Чирков та Сас</title>
   </programme>
-  <programme start="20250315114400 +0200" stop="20250315124900 +0200" channel="50">
+  <programme start="20250315114400 +0200" stop="20250315124900 +0200" channel="49">
     <title lang="ru">Дамницький. Рибак. Узол і Манько</title>
   </programme>
-  <programme start="20250315124900 +0200" stop="20250315133500 +0200" channel="50">
+  <programme start="20250315124900 +0200" stop="20250315133500 +0200" channel="49">
     <title lang="ru">Де українці шукають любов. Туча. Макс Безодня. Ницо Потворно. Вадим Кириленко</title>
   </programme>
-  <programme start="20250315133500 +0200" stop="20250315141400 +0200" channel="50">
+  <programme start="20250315133500 +0200" stop="20250315141400 +0200" channel="49">
     <title lang="ru">Емма Антонюк. Поліна Майко. Клятий раціоналіст та Андрій Безлад</title>
   </programme>
-  <programme start="20250315141400 +0200" stop="20250315151000 +0200" channel="50">
+  <programme start="20250315141400 +0200" stop="20250315151000 +0200" channel="49">
     <title lang="ru">Женя Синельников вперше на каналі. Чирков. Сас та Лущик</title>
   </programme>
-  <programme start="20250315151000 +0200" stop="20250315162400 +0200" channel="50">
+  <programme start="20250315151000 +0200" stop="20250315162400 +0200" channel="49">
     <title lang="ru">Заборонити російську та воскресити Бандеру. Байдак. Міщеряков. Стадницький та Білий</title>
   </programme>
-  <programme start="20250315162400 +0200" stop="20250315171600 +0200" channel="50">
+  <programme start="20250315162400 +0200" stop="20250315171600 +0200" channel="49">
     <title lang="ru">Загін Кіноманів. Ницо Потворно. Роксана Тимків. Віктор Перунський</title>
   </programme>
-  <programme start="20250315171600 +0200" stop="20250315181400 +0200" channel="50">
+  <programme start="20250315171600 +0200" stop="20250315181400 +0200" channel="49">
     <title lang="ru">Зухвала. Загайкевич. Коломієць. Білоус. Підпільний стендап на вікторині. Соціологіка</title>
   </programme>
-  <programme start="20250315181400 +0200" stop="20250315191500 +0200" channel="50">
+  <programme start="20250315181400 +0200" stop="20250315191500 +0200" channel="49">
     <title lang="ru">Клопотенко. Степан ЧУШ. Гаріпова і Лалаян обговорюють їжу</title>
   </programme>
-  <programme start="20250315191500 +0200" stop="20250315202400 +0200" channel="50">
+  <programme start="20250315191500 +0200" stop="20250315202400 +0200" channel="49">
     <title lang="ru">Клятий раціоналіст вже не той. Гордієнко. Шевчук. Чирков. Мус.</title>
   </programme>
-  <programme start="20250315202400 +0200" stop="20250315212800 +0200" channel="50">
+  <programme start="20250315202400 +0200" stop="20250315212800 +0200" channel="49">
     <title lang="ru">Клятий раціоналіст та Машлятіна про флот та портянки. Синельников. Вишинський</title>
   </programme>
-  <programme start="20250315212800 +0200" stop="20250315222400 +0200" channel="50">
+  <programme start="20250315212800 +0200" stop="20250315222400 +0200" channel="49">
     <title lang="ru">Клятий раціоналіст. Євген Синельников. Сергій Чирков та Сашко Сас. Старий випуск</title>
   </programme>
-  <programme start="20250315222400 +0200" stop="20250315232900 +0200" channel="50">
+  <programme start="20250315222400 +0200" stop="20250315232900 +0200" channel="49">
     <title lang="ru">Клятий раціоналіст. Останній капіталіст. Фарід говорить та Ярема Дух. Соціологіка</title>
   </programme>
-  <programme start="20250315232900 +0200" stop="20250316003400 +0200" channel="50">
+  <programme start="20250315232900 +0200" stop="20250316003400 +0200" channel="49">
     <title lang="ru">Кого боїться клятий раціоналіст. Емма Антонюк не вміє програвати. Соціологіка</title>
   </programme>
-  <programme start="20250316003400 +0200" stop="20250316013600 +0200" channel="50">
+  <programme start="20250316003400 +0200" stop="20250316013600 +0200" channel="49">
     <title lang="ru">Коля Капішон. Дмитро Тютюн. Альберт Лалаян. Іван Барбул</title>
   </programme>
-  <programme start="20250316013600 +0200" stop="20250316023800 +0200" channel="50">
+  <programme start="20250316013600 +0200" stop="20250316023800 +0200" channel="49">
     <title lang="ru">Коротков. Новіков. Крилевський. Степанисько</title>
   </programme>
-  <programme start="20250316023800 +0200" stop="20250316033300 +0200" channel="50">
+  <programme start="20250316023800 +0200" stop="20250316033300 +0200" channel="49">
     <title lang="ru">Костя Трембовецький та Міша Рудь з ХПЗП</title>
   </programme>
-  <programme start="20250316033300 +0200" stop="20250316044300 +0200" channel="50">
+  <programme start="20250316033300 +0200" stop="20250316044300 +0200" channel="49">
     <title lang="ru">Куди люди витрачають гроші. Психологія українців VS ебаут. Яся. Наті. Мотричка та Болсун</title>
   </programme>
-  <programme start="20250316044300 +0200" stop="20250316054200 +0200" channel="50">
+  <programme start="20250316044300 +0200" stop="20250316054200 +0200" channel="49">
     <title lang="ru">Люленов. КИЛИММЕН. Станіславська. Нерівний</title>
   </programme>
-  <programme start="20250316054200 +0200" stop="20250316063000 +0200" channel="50">
+  <programme start="20250316054200 +0200" stop="20250316063000 +0200" channel="49">
     <title lang="ru">Лєра Мандзюк та Даня Білий. Чирков та Сас</title>
   </programme>
-  <programme start="20250316063000 +0200" stop="20250316065200 +0200" channel="50">
+  <programme start="20250316063000 +0200" stop="20250316065200 +0200" channel="49">
     <title lang="ru">Майкл Щур. Еритрея та Секс і місто. Вулична вікторина</title>
   </programme>
-  <programme start="20250316065200 +0200" stop="20250316073900 +0200" channel="50">
+  <programme start="20250316065200 +0200" stop="20250316073900 +0200" channel="49">
     <title lang="ru">Макс Щербина та Наріман Алієв. Френк та Даня Білий</title>
   </programme>
-  <programme start="20250316073900 +0200" stop="20250316083900 +0200" channel="50">
+  <programme start="20250316073900 +0200" stop="20250316083900 +0200" channel="49">
     <title lang="ru">Макс Щербина. Єгор Шатайло та Сергій Чирков</title>
   </programme>
-  <programme start="20250316083900 +0200" stop="20250316093700 +0200" channel="50">
+  <programme start="20250316083900 +0200" stop="20250316093700 +0200" channel="49">
     <title lang="ru">Маша Себова. Євген Синельников. Tember Blanche. Соціологіка</title>
   </programme>
-  <programme start="20250316093700 +0200" stop="20250316103700 +0200" channel="50">
+  <programme start="20250316093700 +0200" stop="20250316103700 +0200" channel="49">
     <title lang="ru">Мурафа. Албул та Синельников розслідують злочини</title>
   </programme>
-  <programme start="20250316103700 +0200" stop="20250316112100 +0200" channel="50">
+  <programme start="20250316103700 +0200" stop="20250316112100 +0200" channel="49">
     <title lang="ru">Новий сезон - нові правила. Немонежина. Свищ. Лалаян. Петров</title>
   </programme>
-  <programme start="20250316112100 +0200" stop="20250316120700 +0200" channel="50">
+  <programme start="20250316112100 +0200" stop="20250316120700 +0200" channel="49">
     <title lang="ru">Олег Маслюк. Сергій Чирков та Денис Дума. Останній випуск з Сасом.</title>
   </programme>
-  <programme start="20250316120700 +0200" stop="20250316130600 +0200" channel="50">
+  <programme start="20250316120700 +0200" stop="20250316130600 +0200" channel="49">
     <title lang="ru">Педан смішний чи розумний. Шоу повернулось. Блажкевич. Лалаян. Барбул</title>
   </programme>
-  <programme start="20250316130600 +0200" stop="20250316134700 +0200" channel="50">
+  <programme start="20250316130600 +0200" stop="20250316134700 +0200" channel="49">
     <title lang="ru">Питання про Україну. Депутат проти коміків</title>
   </programme>
-  <programme start="20250316134700 +0200" stop="20250316144300 +0200" channel="50">
+  <programme start="20250316134700 +0200" stop="20250316144300 +0200" channel="49">
     <title lang="ru">Притула - давня українська розвага. Середа. Бігус і Бережко з Мінус Перший. Лалаян</title>
   </programme>
-  <programme start="20250316144300 +0200" stop="20250316154000 +0200" channel="50">
+  <programme start="20250316144300 +0200" stop="20250316154000 +0200" channel="49">
     <title lang="ru">Пташиний секс. Мишаче кіно та яблучна шкірка. Степан ЧУШ та Сергій Чирков</title>
   </programme>
-  <programme start="20250316154000 +0200" stop="20250316165800 +0200" channel="50">
+  <programme start="20250316154000 +0200" stop="20250316165800 +0200" channel="49">
     <title lang="ru">Підпільна соціологіка. Качура. Кочегура. Латарія і Дядя Женя</title>
   </programme>
-  <programme start="20250316165800 +0200" stop="20250316180700 +0200" channel="50">
+  <programme start="20250316165800 +0200" stop="20250316180700 +0200" channel="49">
     <title lang="ru">Підпільний стендап. Коломієц. Чубаха. Кочегура та Стенюк</title>
   </programme>
-  <programme start="20250316180700 +0200" stop="20250316192500 +0200" channel="50">
+  <programme start="20250316180700 +0200" stop="20250316192500 +0200" channel="49">
     <title lang="ru">Розмова з Черепахою. Лиховида. Сенч. Лопушанський. Лалаян</title>
   </programme>
-  <programme start="20250316192500 +0200" stop="20250316201100 +0200" channel="50">
+  <programme start="20250316192500 +0200" stop="20250316201100 +0200" channel="49">
     <title lang="ru">Саша Гонтар не їсть голубці. А Толік Остапенко любить гандбол. Соціологіка</title>
   </programme>
-  <programme start="20250316201100 +0200" stop="20250316210100 +0200" channel="50">
+  <programme start="20250316201100 +0200" stop="20250316210100 +0200" channel="49">
     <title lang="ru">Саша Гонтар та Влад Капиця. Сракадупа проти Телебачення Торонто</title>
   </programme>
-  <programme start="20250316210100 +0200" stop="20250316215800 +0200" channel="50">
+  <programme start="20250316210100 +0200" stop="20250316215800 +0200" channel="49">
     <title lang="ru">Святковий випуск. Педан. Лиховида. Лопушанський та Сенч з каналу Черепаха</title>
   </programme>
-  <programme start="20250316215800 +0200" stop="20250316221200 +0200" channel="50">
+  <programme start="20250316215800 +0200" stop="20250316221200 +0200" channel="49">
     <title lang="ru">Синельников роздає гроші за правильні відповіді</title>
   </programme>
-  <programme start="20250316221200 +0200" stop="20250316232900 +0200" channel="50">
+  <programme start="20250316221200 +0200" stop="20250316232900 +0200" channel="49">
     <title lang="ru">Скасувати урок праці. Безлад. Вишинський. Чубаха. Сафаров. Мус. Соціологіка</title>
   </programme>
-  <programme start="20250316232900 +0200" stop="20250317002100 +0200" channel="50">
+  <programme start="20250316232900 +0200" stop="20250317002100 +0200" channel="49">
     <title lang="ru">Соски - це гроші. Гурт Tember Blanche. Саша Шабаліна. Дмитро Тютюн</title>
   </programme>
-  <programme start="20250317002100 +0200" stop="20250317011900 +0200" channel="50">
+  <programme start="20250317002100 +0200" stop="20250317011900 +0200" channel="49">
     <title lang="ru">Соціологіка. Підпільний стендап. Поплава. Закрутка</title>
   </programme>
-  <programme start="20250317011900 +0200" stop="20250317020800 +0200" channel="50">
+  <programme start="20250317011900 +0200" stop="20250317020800 +0200" channel="49">
     <title lang="ru">Спартак Суббота-вампір. Що цілував Марадона. Поліна Майко та Безлад</title>
   </programme>
-  <programme start="20250317020800 +0200" stop="20250317032300 +0200" channel="50">
+  <programme start="20250317020800 +0200" stop="20250317032300 +0200" channel="49">
     <title lang="ru">Сракадупа. Щегель. Капиця. Романенко та Синельников</title>
   </programme>
-  <programme start="20250317032300 +0200" stop="20250317042300 +0200" channel="50">
+  <programme start="20250317032300 +0200" stop="20250317042300 +0200" channel="49">
     <title lang="ru">Стерненко жартує про Коломойського і не тільки. Романенко. Чирков. Сас</title>
   </programme>
 </tv>
