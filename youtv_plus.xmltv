@@ -9,6 +9,237 @@
   <channel id="3">
     <display-name>Гра долі HD</display-name>
   </channel>
+  <channel id="4">
+    <display-name>Eurosport 1</display-name>
+  </channel>
+  <channel id="5">
+    <display-name>Eurosport 2</display-name>
+  </channel>
+  <programme start="20250825040000 +0300" stop="20250825060000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250825060000 +0300" stop="20250825070000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 2. Альба - Лимоне-Пьемонте.</title>
+  </programme>
+  <programme start="20250825070000 +0300" stop="20250825093000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250825093000 +0300" stop="20250825103000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 2. Альба - Лимоне-Пьемонте.</title>
+  </programme>
+  <programme start="20250825103000 +0300" stop="20250825110000 +0300" channel="5">
+    <title lang="ru">Велоспорт. Renewi Tour. Этап 5.</title>
+  </programme>
+  <programme start="20250825110000 +0300" stop="20250825113000 +0300" channel="5">
+    <title lang="ru">Мотоспорт. Мотокросс. Чемпионат мира. Этап 17 в Арнеме, Нидерланды. Класс MX2. Гонка 1.</title>
+  </programme>
+  <programme start="20250825113000 +0300" stop="20250825120000 +0300" channel="5">
+    <title lang="ru">Мотоспорт. Мотокросс. Чемпионат мира. Этап 17 в Арнеме, Нидерланды. Класс MXGP. Гонка 1.</title>
+  </programme>
+  <programme start="20250825120000 +0300" stop="20250825130000 +0300" channel="5">
+    <title lang="ru">Мотоспорт. Мотокросс. Чемпионат мира. Этап 17 в Арнеме, Нидерланды. Класс MX2. Гонка 2.</title>
+  </programme>
+  <programme start="20250825130000 +0300" stop="20250825140000 +0300" channel="5">
+    <title lang="ru">Мотоспорт. Мотокросс. Чемпионат мира. Этап 17 в Арнеме, Нидерланды. Класс MXGP. Гонка 2.</title>
+  </programme>
+  <programme start="20250825140000 +0300" stop="20250825150000 +0300" channel="5">
+    <title lang="ru">Триатлон. supertri League. Этап 2 в Чикаго, США.</title>
+  </programme>
+  <programme start="20250825150000 +0300" stop="20250825160000 +0300" channel="5">
+    <title lang="ru">Конный спорт. Longines Global Champions Tour. Этап 10 в Валкенсварде, Нидерланды.</title>
+  </programme>
+  <programme start="20250825160000 +0300" stop="20250825173000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250825173000 +0300" stop="20250825203000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250825203000 +0300" stop="20250825230000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250825230000 +0300" stop="20250826020000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826020000 +0300" stop="20250826050000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826050000 +0300" stop="20250826053000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826053000 +0300" stop="20250826070000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 3. Сан-Маурицио-Канавезе - Черес.</title>
+  </programme>
+  <programme start="20250826070000 +0300" stop="20250826093000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250826093000 +0300" stop="20250826110000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 3. Сан-Маурицио-Канавезе - Черес.</title>
+  </programme>
+  <programme start="20250826110000 +0300" stop="20250826130000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250826130000 +0300" stop="20250826143000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 3. Сан-Маурицио-Канавезе - Черес.</title>
+  </programme>
+  <programme start="20250826143000 +0300" stop="20250826160000 +0300" channel="5">
+    <title lang="ru">Конный спорт. Longines Global Champions Tour. Этап 10 в Валкенсварде, Нидерланды.</title>
+  </programme>
+  <programme start="20250826160000 +0300" stop="20250826173000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250826173000 +0300" stop="20250826203000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826203000 +0300" stop="20250826230000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826230000 +0300" stop="20250827020000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827020000 +0300" stop="20250827050000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827050000 +0300" stop="20250827060000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827060000 +0300" stop="20250827070000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 4. Суза - Вуарон.</title>
+  </programme>
+  <programme start="20250827070000 +0300" stop="20250827093000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250827093000 +0300" stop="20250827110000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 4. Суза - Вуарон.</title>
+  </programme>
+  <programme start="20250827110000 +0300" stop="20250827130000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250827130000 +0300" stop="20250827140000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 4. Суза - Вуарон.</title>
+  </programme>
+  <programme start="20250827140000 +0300" stop="20250827150000 +0300" channel="5">
+    <title lang="ru">Американский футбол. "Полоса испытаний", 3 эп.</title>
+  </programme>
+  <programme start="20250827150000 +0300" stop="20250827153000 +0300" channel="5">
+    <title lang="ru">Гольф. Тележурнал "Discovery Golf".</title>
+  </programme>
+  <programme start="20250827153000 +0300" stop="20250827173000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250827173000 +0300" stop="20250827203000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827203000 +0300" stop="20250827230000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827230000 +0300" stop="20250828020000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250828020000 +0300" stop="20250828050000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250828050000 +0300" stop="20250828060000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250828060000 +0300" stop="20250828070000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 5. Фигерас. Командная гонка с раздельным стартом.</title>
+  </programme>
+  <programme start="20250828070000 +0300" stop="20250828093000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2.</title>
+  </programme>
+  <programme start="20250828093000 +0300" stop="20250828110000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 5. Фигерас. Командная гонка с раздельным стартом.</title>
+  </programme>
+  <programme start="20250828110000 +0300" stop="20250828130000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2.</title>
+  </programme>
+  <programme start="20250828130000 +0300" stop="20250828150000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 5. Фигерас. Командная гонка с раздельным стартом.</title>
+  </programme>
+  <programme start="20250828150000 +0300" stop="20250828173000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2.</title>
+  </programme>
+  <programme start="20250828173000 +0300" stop="20250828230000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250828230000 +0300" stop="20250829060000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250829060000 +0300" stop="20250829070000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 6. Олот - Паль.</title>
+  </programme>
+  <programme start="20250829070000 +0300" stop="20250829093000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2.</title>
+  </programme>
+  <programme start="20250829093000 +0300" stop="20250829110000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 6. Олот - Паль.</title>
+  </programme>
+  <programme start="20250829110000 +0300" stop="20250829140000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2.</title>
+  </programme>
+  <programme start="20250829140000 +0300" stop="20250829143000 +0300" channel="5">
+    <title lang="ru">Мотоспорт. Мотокросс. Чемпионат мира. Этап 17 в Арнеме, Нидерланды. Класс MXGP. Гонка 1.</title>
+  </programme>
+  <programme start="20250829143000 +0300" stop="20250829150000 +0300" channel="5">
+    <title lang="ru">Мотоспорт. Мотокросс. Чемпионат мира. Этап 17 в Арнеме, Нидерланды. Класс MXGP. Гонка 2.</title>
+  </programme>
+  <programme start="20250829150000 +0300" stop="20250829173000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 2.</title>
+  </programme>
+  <programme start="20250829173000 +0300" stop="20250829230000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250829230000 +0300" stop="20250830020000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830020000 +0300" stop="20250830050000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830050000 +0300" stop="20250830060000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830060000 +0300" stop="20250830070000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 7. Андорра-ла-Велья - Серлер.</title>
+  </programme>
+  <programme start="20250830070000 +0300" stop="20250830093000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3.</title>
+  </programme>
+  <programme start="20250830093000 +0300" stop="20250830103000 +0300" channel="5">
+    <title lang="ru">Велоспорт. Тур Германии. Обзор.</title>
+  </programme>
+  <programme start="20250830103000 +0300" stop="20250830113000 +0300" channel="5">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 7. Андорра-ла-Велья - Серлер.</title>
+  </programme>
+  <programme start="20250830113000 +0300" stop="20250830120000 +0300" channel="5">
+    <title lang="ru">Маунтинбайк. Кубок мира. Этап в Верхней Савойе, Франция. Женщины. Шорт-трек кросс-кантри.</title>
+  </programme>
+  <programme start="20250830120000 +0300" stop="20250830123000 +0300" channel="5">
+    <title lang="ru">Маунтинбайк. Кубок мира. Этап в Верхней Савойе, Франция. Мужчины. Шорт-трек кросс-кантри.</title>
+  </programme>
+  <programme start="20250830123000 +0300" stop="20250830130000 +0300" channel="5">
+    <title lang="ru">Парусный спорт. The Ocean Race Europe. "На борту", 6 эп.</title>
+  </programme>
+  <programme start="20250830130000 +0300" stop="20250830140000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3.</title>
+  </programme>
+  <programme start="20250830140000 +0300" stop="20250830150000 +0300" channel="5">
+    <title lang="ru">Триатлон. T100 Triathlon World Tour. Этап 5 во Фрежюсе и Сен-Рафаэле, Франция. Женщины, мужчины.</title>
+  </programme>
+  <programme start="20250830150000 +0300" stop="20250830173000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3.</title>
+  </programme>
+  <programme start="20250830173000 +0300" stop="20250830203000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830203000 +0300" stop="20250830233000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830233000 +0300" stop="20250831023000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250831023000 +0300" stop="20250831033000 +0300" channel="5">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
   <programme start="20250825034600 +0300" stop="20250825052900 +0300" channel="2">
     <title lang="ru">Коломбіана</title>
   </programme>
@@ -219,8 +450,95 @@
   <programme start="20250829223200 +0300" stop="20250830000200 +0300" channel="2">
     <title lang="ru">Страшилки 2: Привиди Хелловіна</title>
   </programme>
-  <programme start="20250830000200 +0300" stop="20250830010200 +0300" channel="2">
+  <programme start="20250830000200 +0300" stop="20250830020500 +0300" channel="2">
     <title lang="ru">Інферно</title>
+  </programme>
+  <programme start="20250830020500 +0300" stop="20250830040300 +0300" channel="2">
+    <title lang="ru">Веном</title>
+  </programme>
+  <programme start="20250830040300 +0300" stop="20250830053600 +0300" channel="2">
+    <title lang="ru">Механік</title>
+  </programme>
+  <programme start="20250830053600 +0300" stop="20250830070600 +0300" channel="2">
+    <title lang="ru">Непрохані</title>
+  </programme>
+  <programme start="20250830070600 +0300" stop="20250830085200 +0300" channel="2">
+    <title lang="ru">Жага смерті</title>
+  </programme>
+  <programme start="20250830085200 +0300" stop="20250830111000 +0300" channel="2">
+    <title lang="ru">Острів проклятих</title>
+  </programme>
+  <programme start="20250830111000 +0300" stop="20250830125300 +0300" channel="2">
+    <title lang="ru">Коломбіана</title>
+  </programme>
+  <programme start="20250830125300 +0300" stop="20250830145400 +0300" channel="2">
+    <title lang="ru">Лінкольн для адвоката</title>
+  </programme>
+  <programme start="20250830145400 +0300" stop="20250830162100 +0300" channel="2">
+    <title lang="ru">Мілина</title>
+  </programme>
+  <programme start="20250830162100 +0300" stop="20250830181100 +0300" channel="2">
+    <title lang="ru">Дзвінок 2</title>
+  </programme>
+  <programme start="20250830181100 +0300" stop="20250830200400 +0300" channel="2">
+    <title lang="ru">Дзвінок</title>
+  </programme>
+  <programme start="20250830200400 +0300" stop="20250830213400 +0300" channel="2">
+    <title lang="ru">Інший світ: Кровна помста</title>
+  </programme>
+  <programme start="20250830213400 +0300" stop="20250830231900 +0300" channel="2">
+    <title lang="ru">Інший світ 2: Еволюція</title>
+  </programme>
+  <programme start="20250830231900 +0300" stop="20250831012000 +0300" channel="2">
+    <title lang="ru">Інший світ</title>
+  </programme>
+  <programme start="20250831012000 +0300" stop="20250831024700 +0300" channel="2">
+    <title lang="ru">Останнє вигнання диявола</title>
+  </programme>
+  <programme start="20250831024700 +0300" stop="20250831041300 +0300" channel="2">
+    <title lang="ru">Паранормальне явище: Фатальна мітка</title>
+  </programme>
+  <programme start="20250831041300 +0300" stop="20250831054200 +0300" channel="2">
+    <title lang="ru">Паранормальне явище 4</title>
+  </programme>
+  <programme start="20250831054200 +0300" stop="20250831070800 +0300" channel="2">
+    <title lang="ru">Паранормальне явище 3</title>
+  </programme>
+  <programme start="20250831070800 +0300" stop="20250831083900 +0300" channel="2">
+    <title lang="ru">Паранормальне явище 2</title>
+  </programme>
+  <programme start="20250831083900 +0300" stop="20250831102300 +0300" channel="2">
+    <title lang="ru">Кладовище домашніх тварин</title>
+  </programme>
+  <programme start="20250831102300 +0300" stop="20250831120900 +0300" channel="2">
+    <title lang="ru">Сонна лощина</title>
+  </programme>
+  <programme start="20250831120900 +0300" stop="20250831134800 +0300" channel="2">
+    <title lang="ru">Викидайло</title>
+  </programme>
+  <programme start="20250831134800 +0300" stop="20250831151600 +0300" channel="2">
+    <title lang="ru">Жах Амітивілля</title>
+  </programme>
+  <programme start="20250831151600 +0300" stop="20250831165700 +0300" channel="2">
+    <title lang="ru">Зомбі на ім’я Шон</title>
+  </programme>
+  <programme start="20250831165700 +0300" stop="20250831183500 +0300" channel="2">
+    <title lang="ru">Син Рембо</title>
+  </programme>
+  <programme start="20250831183500 +0300" stop="20250831200900 +0300" channel="2">
+    <title lang="ru">Степфордські дружини</title>
+  </programme>
+  <programme start="20250831200900 +0300" stop="20250831213500 +0300" channel="2">
+    <title lang="ru">Дуже страшне кіно</title>
+  </programme>
+  <programme start="20250831213500 +0300" stop="20250831225700 +0300" channel="2">
+    <title lang="ru">Дуже страшне кіно 2</title>
+  </programme>
+  <programme start="20250831225700 +0300" stop="20250901001900 +0300" channel="2">
+    <title lang="ru">Дуже страшне кіно 3</title>
+  </programme>
+  <programme start="20250901001900 +0300" stop="20250901011900 +0300" channel="2">
+    <title lang="ru">Потяг до Пусана</title>
   </programme>
   <programme start="20250825033100 +0300" stop="20250825050600 +0300" channel="1">
     <title lang="ru">Далекий схил</title>
@@ -450,7 +768,100 @@
   <programme start="20250829233900 +0300" stop="20250830010800 +0300" channel="1">
     <title lang="ru">Чужі проти Титаніка</title>
   </programme>
-  <programme start="20250830010800 +0300" stop="20250830020800 +0300" channel="1">
+  <programme start="20250830010800 +0300" stop="20250830024000 +0300" channel="1">
     <title lang="ru">Астероїдогеддон</title>
+  </programme>
+  <programme start="20250830024000 +0300" stop="20250830041800 +0300" channel="1">
+    <title lang="ru">Виконавець</title>
+  </programme>
+  <programme start="20250830041800 +0300" stop="20250830054600 +0300" channel="1">
+    <title lang="ru">Колайдер</title>
+  </programme>
+  <programme start="20250830054600 +0300" stop="20250830072400 +0300" channel="1">
+    <title lang="ru">Підозрюваний</title>
+  </programme>
+  <programme start="20250830072400 +0300" stop="20250830090300 +0300" channel="1">
+    <title lang="ru">Містерія</title>
+  </programme>
+  <programme start="20250830090300 +0300" stop="20250830102900 +0300" channel="1">
+    <title lang="ru">Зрада</title>
+  </programme>
+  <programme start="20250830102900 +0300" stop="20250830115700 +0300" channel="1">
+    <title lang="ru">Небезпечне небо</title>
+  </programme>
+  <programme start="20250830115700 +0300" stop="20250830131600 +0300" channel="1">
+    <title lang="ru">Морський змій</title>
+  </programme>
+  <programme start="20250830131600 +0300" stop="20250830144300 +0300" channel="1">
+    <title lang="ru">Мегалодон: Відродження</title>
+  </programme>
+  <programme start="20250830144300 +0300" stop="20250830161500 +0300" channel="1">
+    <title lang="ru">Інопланетний хижак</title>
+  </programme>
+  <programme start="20250830161500 +0300" stop="20250830175700 +0300" channel="1">
+    <title lang="ru">Зрадник</title>
+  </programme>
+  <programme start="20250830175700 +0300" stop="20250830194500 +0300" channel="1">
+    <title lang="ru">Кривава весна</title>
+  </programme>
+  <programme start="20250830194500 +0300" stop="20250830210700 +0300" channel="1">
+    <title lang="ru">Відстрочка</title>
+  </programme>
+  <programme start="20250830210700 +0300" stop="20250830224100 +0300" channel="1">
+    <title lang="ru">Номад: Початок</title>
+  </programme>
+  <programme start="20250830224100 +0300" stop="20250831000100 +0300" channel="1">
+    <title lang="ru">Світ предків</title>
+  </programme>
+  <programme start="20250831000100 +0300" stop="20250831013700 +0300" channel="1">
+    <title lang="ru">Далекий схил</title>
+  </programme>
+  <programme start="20250831013700 +0300" stop="20250831030500 +0300" channel="1">
+    <title lang="ru">Спокутування гріхів</title>
+  </programme>
+  <programme start="20250831030500 +0300" stop="20250831043200 +0300" channel="1">
+    <title lang="ru">Брудна брехня</title>
+  </programme>
+  <programme start="20250831043200 +0300" stop="20250831060200 +0300" channel="1">
+    <title lang="ru">Подорож у джунглях</title>
+  </programme>
+  <programme start="20250831060200 +0300" stop="20250831072900 +0300" channel="1">
+    <title lang="ru">Прикордонний картель</title>
+  </programme>
+  <programme start="20250831072900 +0300" stop="20250831091300 +0300" channel="1">
+    <title lang="ru">Боротися до кінця</title>
+  </programme>
+  <programme start="20250831091300 +0300" stop="20250831104400 +0300" channel="1">
+    <title lang="ru">Тор: Бог грому</title>
+  </programme>
+  <programme start="20250831104400 +0300" stop="20250831121600 +0300" channel="1">
+    <title lang="ru">Кінець світу</title>
+  </programme>
+  <programme start="20250831121600 +0300" stop="20250831134800 +0300" channel="1">
+    <title lang="ru">Дьявольский треугольник</title>
+  </programme>
+  <programme start="20250831134800 +0300" stop="20250831152000 +0300" channel="1">
+    <title lang="ru">Помпеи: Апокалипсис Помпеї: Апокаліпсис</title>
+  </programme>
+  <programme start="20250831152000 +0300" stop="20250831165800 +0300" channel="1">
+    <title lang="ru">Бугай</title>
+  </programme>
+  <programme start="20250831165800 +0300" stop="20250831182800 +0300" channel="1">
+    <title lang="ru">Небезпечне небо: Мертва зона</title>
+  </programme>
+  <programme start="20250831182800 +0300" stop="20250831195800 +0300" channel="1">
+    <title lang="ru">Акваріум мерців</title>
+  </programme>
+  <programme start="20250831195800 +0300" stop="20250831212900 +0300" channel="1">
+    <title lang="ru">Сезон акул</title>
+  </programme>
+  <programme start="20250831212900 +0300" stop="20250831234700 +0300" channel="1">
+    <title lang="ru">2025: Прелюдія до Інфуско</title>
+  </programme>
+  <programme start="20250831234700 +0300" stop="20250901011900 +0300" channel="1">
+    <title lang="ru">Мавпа проти монстра</title>
+  </programme>
+  <programme start="20250901011900 +0300" stop="20250901021900 +0300" channel="1">
+    <title lang="ru">Не попадись</title>
   </programme>
 </tv>
