@@ -9,6 +9,9 @@
   <channel id="3">
     <display-name>Гра долі HD</display-name>
   </channel>
+  <channel id="4">
+    <display-name>Eurosport 1 HD</display-name>
+  </channel>
   <programme start="20250825034600 +0300" stop="20250825052900 +0300" channel="2">
     <title lang="ru">Коломбіана</title>
   </programme>
@@ -306,8 +309,263 @@
   <programme start="20250831225700 +0300" stop="20250901001900 +0300" channel="2">
     <title lang="ru">Дуже страшне кіно 3</title>
   </programme>
-  <programme start="20250901001900 +0300" stop="20250901011900 +0300" channel="2">
+  <programme start="20250901001900 +0300" stop="20250901022000 +0300" channel="2">
     <title lang="ru">Потяг до Пусана</title>
+  </programme>
+  <programme start="20250901022000 +0300" stop="20250901032000 +0300" channel="2">
+    <title lang="ru">Дещо</title>
+  </programme>
+  <programme start="20250825040000 +0300" stop="20250825070000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250825070000 +0300" stop="20250825090000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 2. Альба - Лимоне-Пьемонте.</title>
+  </programme>
+  <programme start="20250825090000 +0300" stop="20250825093000 +0300" channel="4">
+    <title lang="ru">Велоспорт. Renewi Tour. Этап 5.</title>
+  </programme>
+  <programme start="20250825093000 +0300" stop="20250825110000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250825110000 +0300" stop="20250825123000 +0300" channel="4">
+    <title lang="ru">Конный спорт. Longines Global Champions Tour. Этап 10 в Валкенсварде, Нидерланды.</title>
+  </programme>
+  <programme start="20250825123000 +0300" stop="20250825143000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250825143000 +0300" stop="20250825150000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 2. Альба - Лимоне-Пьемонте.</title>
+  </programme>
+  <programme start="20250825150000 +0300" stop="20250825180000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 3. Сан-Маурицио-Канавезе - Черес. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250825180000 +0300" stop="20250825184500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 3. Сан-Маурицио-Канавезе - Черес. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250825184500 +0300" stop="20250825214500 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250825214500 +0300" stop="20250826000000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826000000 +0300" stop="20250826030000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826030000 +0300" stop="20250826060000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826060000 +0300" stop="20250826071000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826071000 +0300" stop="20250826093000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 3. Сан-Маурицио-Канавезе - Черес.</title>
+  </programme>
+  <programme start="20250826093000 +0300" stop="20250826103000 +0300" channel="4">
+    <title lang="ru">Американский футбол. "Полоса испытаний", 3 эп.</title>
+  </programme>
+  <programme start="20250826103000 +0300" stop="20250826112000 +0300" channel="4">
+    <title lang="ru">Триатлон. supertri League. Этап 2 в Чикаго, США.</title>
+  </programme>
+  <programme start="20250826112000 +0300" stop="20250826130000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 3. Сан-Маурицио-Канавезе - Черес.</title>
+  </programme>
+  <programme start="20250826130000 +0300" stop="20250826140000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250826140000 +0300" stop="20250826143000 +0300" channel="4">
+    <title lang="ru">Парусный спорт. "Дух парусного спорта".</title>
+  </programme>
+  <programme start="20250826143000 +0300" stop="20250826150000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 3. Сан-Маурицио-Канавезе - Черес.</title>
+  </programme>
+  <programme start="20250826150000 +0300" stop="20250826180000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 4. Суза - Вуарон. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826180000 +0300" stop="20250826181500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 4. Суза - Вуарон. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826181500 +0300" stop="20250826183000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250826183000 +0300" stop="20250826213000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250826213000 +0300" stop="20250827000000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827000000 +0300" stop="20250827030000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827030000 +0300" stop="20250827060000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827060000 +0300" stop="20250827070000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827070000 +0300" stop="20250827093000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 4. Суза - Вуарон.</title>
+  </programme>
+  <programme start="20250827093000 +0300" stop="20250827100000 +0300" channel="4">
+    <title lang="ru">Парусный спорт. The Ocean Race Europe. "На борту", 5 эп.</title>
+  </programme>
+  <programme start="20250827100000 +0300" stop="20250827110000 +0300" channel="4">
+    <title lang="ru">Конный спорт. Longines Global Champions Tour. Этап 10 в Валкенсварде, Нидерланды.</title>
+  </programme>
+  <programme start="20250827110000 +0300" stop="20250827123000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 4. Суза - Вуарон.</title>
+  </programme>
+  <programme start="20250827123000 +0300" stop="20250827130000 +0300" channel="4">
+    <title lang="ru">Парусный спорт. "Дух парусного спорта".</title>
+  </programme>
+  <programme start="20250827130000 +0300" stop="20250827150000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 1.</title>
+  </programme>
+  <programme start="20250827150000 +0300" stop="20250827153000 +0300" channel="4">
+    <title lang="ru">Парусный спорт. The Ocean Race Europe. "На борту", 5 эп.</title>
+  </programme>
+  <programme start="20250827153000 +0300" stop="20250827171500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 4. Суза - Вуарон.</title>
+  </programme>
+  <programme start="20250827171500 +0300" stop="20250827194500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 5. Фигерас. Командная гонка с раздельным стартом. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827194500 +0300" stop="20250827224500 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250827224500 +0300" stop="20250828014500 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250828014500 +0300" stop="20250828044500 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250828044500 +0300" stop="20250828070000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250828070000 +0300" stop="20250828093000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 5. Фигерас. Командная гонка с раздельным стартом.</title>
+  </programme>
+  <programme start="20250828093000 +0300" stop="20250828100000 +0300" channel="4">
+    <title lang="ru">Гольф. Тележурнал "Discovery Golf".</title>
+  </programme>
+  <programme start="20250828100000 +0300" stop="20250828110000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 2.</title>
+  </programme>
+  <programme start="20250828110000 +0300" stop="20250828130000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 5. Фигерас. Командная гонка с раздельным стартом.</title>
+  </programme>
+  <programme start="20250828130000 +0300" stop="20250828150000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 2.</title>
+  </programme>
+  <programme start="20250828150000 +0300" stop="20250828154500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 5. Фигерас. Командная гонка с раздельным стартом.</title>
+  </programme>
+  <programme start="20250828154500 +0300" stop="20250828184500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 6. Олот - Паль. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250828184500 +0300" stop="20250828214500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 6. Олот - Паль. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250828214500 +0300" stop="20250829000000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 6. Олот - Паль. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250829000000 +0300" stop="20250829030000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250829030000 +0300" stop="20250829060000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250829060000 +0300" stop="20250829070000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 2. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250829070000 +0300" stop="20250829093000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 6. Олот - Паль.</title>
+  </programme>
+  <programme start="20250829093000 +0300" stop="20250829110000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 2.</title>
+  </programme>
+  <programme start="20250829110000 +0300" stop="20250829114500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 6. Олот - Паль.</title>
+  </programme>
+  <programme start="20250829114500 +0300" stop="20250829124500 +0300" channel="4">
+    <title lang="ru">Велоспорт. Тур Германии. Обзор.</title>
+  </programme>
+  <programme start="20250829124500 +0300" stop="20250829154500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 7. Андорра-ла-Велья - Серлер. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250829154500 +0300" stop="20250829184500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 7. Андорра-ла-Велья - Серлер. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250829184500 +0300" stop="20250829214500 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250829214500 +0300" stop="20250830000000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830000000 +0300" stop="20250830030000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830030000 +0300" stop="20250830060000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830060000 +0300" stop="20250830070000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830070000 +0300" stop="20250830074500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 7. Андорра-ла-Велья - Серлер.</title>
+  </programme>
+  <programme start="20250830074500 +0300" stop="20250830123000 +0300" channel="4">
+    <title lang="ru">Триатлон. T100 Triathlon World Tour. Этап 5 во Фрежюсе и Сен-Рафаэле, Франция. Женщины, мужчины. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830123000 +0300" stop="20250830125500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 7. Андорра-ла-Велья - Серлер.</title>
+  </programme>
+  <programme start="20250830125500 +0300" stop="20250830141000 +0300" channel="4">
+    <title lang="ru">Маунтинбайк. Кубок мира. Этап в Верхней Савойе, Франция. Женщины. Даунхилл. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830141000 +0300" stop="20250830160000 +0300" channel="4">
+    <title lang="ru">Маунтинбайк. Кубок мира. Этап в Верхней Савойе, Франция. Мужчины. Даунхилл. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830160000 +0300" stop="20250830184500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 8. Замок Монсон - Сарагоса. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250830184500 +0300" stop="20250831000000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250831000000 +0300" stop="20250831030000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250831030000 +0300" stop="20250831060000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250831060000 +0300" stop="20250831070000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 3. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250831070000 +0300" stop="20250831093000 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 8. Замок Монсон - Сарагоса.</title>
+  </programme>
+  <programme start="20250831093000 +0300" stop="20250831100000 +0300" channel="4">
+    <title lang="ru">Парусный спорт. The Ocean Race Europe. "На борту", 6 эп.</title>
+  </programme>
+  <programme start="20250831100000 +0300" stop="20250831113000 +0300" channel="4">
+    <title lang="ru">Легкая атлетика. Сиднейский марафон в Австралии.</title>
+  </programme>
+  <programme start="20250831113000 +0300" stop="20250831124000 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 3.</title>
+  </programme>
+  <programme start="20250831124000 +0300" stop="20250831134500 +0300" channel="4">
+    <title lang="ru">Автоспорт. Суперкубок "Порше". Этап 7 на трассе Зандворт, Нидерланды. Гонка. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250831134500 +0300" stop="20250831154500 +0300" channel="4">
+    <title lang="ru">Маунтинбайк. Кубок мира. Этап в Верхней Савойе, Франция. Женщины. Олимпийский кросс-кантри. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250831154500 +0300" stop="20250831184500 +0300" channel="4">
+    <title lang="ru">Велоспорт. "Вуэльта". Этап 9. Альфаро - Вальдескарай. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250831184500 +0300" stop="20250831214500 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 4. Прямая трансляция.</title>
+  </programme>
+  <programme start="20250831214500 +0300" stop="20250831224500 +0300" channel="4">
+    <title lang="ru">Теннис. US Open. Раунд 4. Прямая трансляция.</title>
   </programme>
   <programme start="20250825033100 +0300" stop="20250825050600 +0300" channel="1">
     <title lang="ru">Далекий схил</title>
@@ -630,7 +888,10 @@
   <programme start="20250831234700 +0300" stop="20250901011900 +0300" channel="1">
     <title lang="ru">Мавпа проти монстра</title>
   </programme>
-  <programme start="20250901011900 +0300" stop="20250901021900 +0300" channel="1">
+  <programme start="20250901011900 +0300" stop="20250901024200 +0300" channel="1">
     <title lang="ru">Не попадись</title>
+  </programme>
+  <programme start="20250901024200 +0300" stop="20250901034200 +0300" channel="1">
+    <title lang="ru">Смертельні перегони</title>
   </programme>
 </tv>
