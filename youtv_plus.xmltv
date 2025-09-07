@@ -303,8 +303,11 @@
   <programme start="20250908000400 +0300" stop="20250908013100 +0300" channel="2">
     <title lang="ru">Останнє вигнання диявола</title>
   </programme>
-  <programme start="20250908013100 +0300" stop="20250908023100 +0300" channel="2">
+  <programme start="20250908013100 +0300" stop="20250908025700 +0300" channel="2">
     <title lang="ru">Паранормальне явище: Фатальна мітка</title>
+  </programme>
+  <programme start="20250908025700 +0300" stop="20250908035700 +0300" channel="2">
+    <title lang="ru">Паранормальне явище 4</title>
   </programme>
   <programme start="20250901041100 +0300" stop="20250901055000 +0300" channel="1">
     <title lang="ru">Мистецтво обману</title>
@@ -627,7 +630,10 @@
   <programme start="20250907235200 +0300" stop="20250908012000 +0300" channel="1">
     <title lang="ru">Колайдер</title>
   </programme>
-  <programme start="20250908012000 +0300" stop="20250908022000 +0300" channel="1">
+  <programme start="20250908012000 +0300" stop="20250908025900 +0300" channel="1">
     <title lang="ru">Підозрюваний</title>
+  </programme>
+  <programme start="20250908025900 +0300" stop="20250908035900 +0300" channel="1">
+    <title lang="ru">Містерія</title>
   </programme>
 </tv>
