@@ -6,9 +6,6 @@
   <channel id="2">
     <display-name>Cinema Horrors HD</display-name>
   </channel>
-  <channel id="3">
-    <display-name>Гра долі HD</display-name>
-  </channel>
   <programme start="20250908042600 +0300" stop="20250908055200 +0300" channel="2">
     <title lang="ru">Паранормальне явище 3</title>
   </programme>
