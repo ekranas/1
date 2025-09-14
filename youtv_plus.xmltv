@@ -300,8 +300,11 @@
   <programme start="20250914215200 +0300" stop="20250914235500 +0300" channel="2">
     <title lang="ru">Інферно</title>
   </programme>
-  <programme start="20250914235500 +0300" stop="20250915005500 +0300" channel="2">
+  <programme start="20250914235500 +0300" stop="20250915015300 +0300" channel="2">
     <title lang="ru">Веном</title>
+  </programme>
+  <programme start="20250915015300 +0300" stop="20250915025300 +0300" channel="2">
+    <title lang="ru">Механік</title>
   </programme>
   <programme start="20250908043700 +0300" stop="20250908060300 +0300" channel="1">
     <title lang="ru">Зрада</title>
@@ -624,7 +627,10 @@
   <programme start="20250914233100 +0300" stop="20250915010600 +0300" channel="1">
     <title lang="ru">Далекий схил</title>
   </programme>
-  <programme start="20250915010600 +0300" stop="20250915020600 +0300" channel="1">
+  <programme start="20250915010600 +0300" stop="20250915023400 +0300" channel="1">
     <title lang="ru">Спокутування гріхів</title>
+  </programme>
+  <programme start="20250915023400 +0300" stop="20250915033400 +0300" channel="1">
+    <title lang="ru">Брудна брехня</title>
   </programme>
 </tv>
