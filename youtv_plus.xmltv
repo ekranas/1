@@ -9,9 +9,219 @@
   <channel id="3">
     <display-name>Гра долі HD</display-name>
   </channel>
-  <channel id="4">
-    <display-name>Кримінальні історії HD</display-name>
-  </channel>
+  <programme start="20250915032600 +0300" stop="20250915045600 +0300" channel="2">
+    <title lang="ru">Непрохані</title>
+  </programme>
+  <programme start="20250915045600 +0300" stop="20250915064200 +0300" channel="2">
+    <title lang="ru">Жага смерті</title>
+  </programme>
+  <programme start="20250915064200 +0300" stop="20250915090000 +0300" channel="2">
+    <title lang="ru">Острів проклятих</title>
+  </programme>
+  <programme start="20250915090000 +0300" stop="20250915104300 +0300" channel="2">
+    <title lang="ru">Коломбіана</title>
+  </programme>
+  <programme start="20250915104300 +0300" stop="20250915124400 +0300" channel="2">
+    <title lang="ru">Лінкольн для адвоката</title>
+  </programme>
+  <programme start="20250915124400 +0300" stop="20250915141100 +0300" channel="2">
+    <title lang="ru">Мілина</title>
+  </programme>
+  <programme start="20250915141100 +0300" stop="20250915160100 +0300" channel="2">
+    <title lang="ru">Дзвінок 2</title>
+  </programme>
+  <programme start="20250915160100 +0300" stop="20250915175400 +0300" channel="2">
+    <title lang="ru">Дзвінок</title>
+  </programme>
+  <programme start="20250915175400 +0300" stop="20250915192400 +0300" channel="2">
+    <title lang="ru">Інший світ: Кровна помста</title>
+  </programme>
+  <programme start="20250915192400 +0300" stop="20250915210900 +0300" channel="2">
+    <title lang="ru">Інший світ 2: Еволюція</title>
+  </programme>
+  <programme start="20250915210900 +0300" stop="20250915231000 +0300" channel="2">
+    <title lang="ru">Інший світ</title>
+  </programme>
+  <programme start="20250915231000 +0300" stop="20250916003700 +0300" channel="2">
+    <title lang="ru">Останнє вигнання диявола</title>
+  </programme>
+  <programme start="20250916003700 +0300" stop="20250916020300 +0300" channel="2">
+    <title lang="ru">Паранормальне явище: Фатальна мітка</title>
+  </programme>
+  <programme start="20250916020300 +0300" stop="20250916033200 +0300" channel="2">
+    <title lang="ru">Паранормальне явище 4</title>
+  </programme>
+  <programme start="20250916033200 +0300" stop="20250916045800 +0300" channel="2">
+    <title lang="ru">Паранормальне явище 3</title>
+  </programme>
+  <programme start="20250916045800 +0300" stop="20250916062900 +0300" channel="2">
+    <title lang="ru">Паранормальне явище 2</title>
+  </programme>
+  <programme start="20250916062900 +0300" stop="20250916081300 +0300" channel="2">
+    <title lang="ru">Кладовище домашніх тварин</title>
+  </programme>
+  <programme start="20250916081300 +0300" stop="20250916095900 +0300" channel="2">
+    <title lang="ru">Сонна лощина</title>
+  </programme>
+  <programme start="20250916095900 +0300" stop="20250916113800 +0300" channel="2">
+    <title lang="ru">Викидайло</title>
+  </programme>
+  <programme start="20250916113800 +0300" stop="20250916130600 +0300" channel="2">
+    <title lang="ru">Жах Амітивілля</title>
+  </programme>
+  <programme start="20250916130600 +0300" stop="20250916144700 +0300" channel="2">
+    <title lang="ru">Зомбі на ім’я Шон</title>
+  </programme>
+  <programme start="20250916144700 +0300" stop="20250916162500 +0300" channel="2">
+    <title lang="ru">Син Рембо</title>
+  </programme>
+  <programme start="20250916162500 +0300" stop="20250916175900 +0300" channel="2">
+    <title lang="ru">Степфордські дружини</title>
+  </programme>
+  <programme start="20250916175900 +0300" stop="20250916192500 +0300" channel="2">
+    <title lang="ru">Дуже страшне кіно</title>
+  </programme>
+  <programme start="20250916192500 +0300" stop="20250916204700 +0300" channel="2">
+    <title lang="ru">Дуже страшне кіно 2</title>
+  </programme>
+  <programme start="20250916204700 +0300" stop="20250916220900 +0300" channel="2">
+    <title lang="ru">Дуже страшне кіно 3</title>
+  </programme>
+  <programme start="20250916220900 +0300" stop="20250917001000 +0300" channel="2">
+    <title lang="ru">Потяг до Пусана</title>
+  </programme>
+  <programme start="20250917001000 +0300" stop="20250917015400 +0300" channel="2">
+    <title lang="ru">Дещо</title>
+  </programme>
+  <programme start="20250917015400 +0300" stop="20250917031500 +0300" channel="2">
+    <title lang="ru">Монстро</title>
+  </programme>
+  <programme start="20250917031500 +0300" stop="20250917050000 +0300" channel="2">
+    <title lang="ru">1408</title>
+  </programme>
+  <programme start="20250917050000 +0300" stop="20250917064400 +0300" channel="2">
+    <title lang="ru">Полтергейст</title>
+  </programme>
+  <programme start="20250917064400 +0300" stop="20250917084800 +0300" channel="2">
+    <title lang="ru">Імла</title>
+  </programme>
+  <programme start="20250917084800 +0300" stop="20250917102300 +0300" channel="2">
+    <title lang="ru">Примарний патруль</title>
+  </programme>
+  <programme start="20250917102300 +0300" stop="20250917120400 +0300" channel="2">
+    <title lang="ru">Життя</title>
+  </programme>
+  <programme start="20250917120400 +0300" stop="20250917133400 +0300" channel="2">
+    <title lang="ru">Страшилки 2: Привиди Хелловіна</title>
+  </programme>
+  <programme start="20250917133400 +0300" stop="20250917153700 +0300" channel="2">
+    <title lang="ru">Інферно</title>
+  </programme>
+  <programme start="20250917153700 +0300" stop="20250917173500 +0300" channel="2">
+    <title lang="ru">Веном</title>
+  </programme>
+  <programme start="20250917173500 +0300" stop="20250917190800 +0300" channel="2">
+    <title lang="ru">Механік</title>
+  </programme>
+  <programme start="20250917190800 +0300" stop="20250917203800 +0300" channel="2">
+    <title lang="ru">Непрохані</title>
+  </programme>
+  <programme start="20250917203800 +0300" stop="20250917222400 +0300" channel="2">
+    <title lang="ru">Жага смерті</title>
+  </programme>
+  <programme start="20250917222400 +0300" stop="20250918004200 +0300" channel="2">
+    <title lang="ru">Острів проклятих</title>
+  </programme>
+  <programme start="20250918004200 +0300" stop="20250918022500 +0300" channel="2">
+    <title lang="ru">Коломбіана</title>
+  </programme>
+  <programme start="20250918022500 +0300" stop="20250918042600 +0300" channel="2">
+    <title lang="ru">Лінкольн для адвоката</title>
+  </programme>
+  <programme start="20250918042600 +0300" stop="20250918055300 +0300" channel="2">
+    <title lang="ru">Мілина</title>
+  </programme>
+  <programme start="20250918055300 +0300" stop="20250918074300 +0300" channel="2">
+    <title lang="ru">Дзвінок 2</title>
+  </programme>
+  <programme start="20250918074300 +0300" stop="20250918093600 +0300" channel="2">
+    <title lang="ru">Дзвінок</title>
+  </programme>
+  <programme start="20250918093600 +0300" stop="20250918110600 +0300" channel="2">
+    <title lang="ru">Інший світ: Кровна помста</title>
+  </programme>
+  <programme start="20250918110600 +0300" stop="20250918125100 +0300" channel="2">
+    <title lang="ru">Інший світ 2: Еволюція</title>
+  </programme>
+  <programme start="20250918125100 +0300" stop="20250918145200 +0300" channel="2">
+    <title lang="ru">Інший світ</title>
+  </programme>
+  <programme start="20250918145200 +0300" stop="20250918161900 +0300" channel="2">
+    <title lang="ru">Останнє вигнання диявола</title>
+  </programme>
+  <programme start="20250918161900 +0300" stop="20250918174500 +0300" channel="2">
+    <title lang="ru">Паранормальне явище: Фатальна мітка</title>
+  </programme>
+  <programme start="20250918174500 +0300" stop="20250918191400 +0300" channel="2">
+    <title lang="ru">Паранормальне явище 4</title>
+  </programme>
+  <programme start="20250918191400 +0300" stop="20250918204000 +0300" channel="2">
+    <title lang="ru">Паранормальне явище 3</title>
+  </programme>
+  <programme start="20250918204000 +0300" stop="20250918221100 +0300" channel="2">
+    <title lang="ru">Паранормальне явище 2</title>
+  </programme>
+  <programme start="20250918221100 +0300" stop="20250918235500 +0300" channel="2">
+    <title lang="ru">Кладовище домашніх тварин</title>
+  </programme>
+  <programme start="20250918235500 +0300" stop="20250919014100 +0300" channel="2">
+    <title lang="ru">Сонна лощина</title>
+  </programme>
+  <programme start="20250919014100 +0300" stop="20250919032000 +0300" channel="2">
+    <title lang="ru">Викидайло</title>
+  </programme>
+  <programme start="20250919032000 +0300" stop="20250919044800 +0300" channel="2">
+    <title lang="ru">Жах Амітивілля</title>
+  </programme>
+  <programme start="20250919044800 +0300" stop="20250919062900 +0300" channel="2">
+    <title lang="ru">Зомбі на ім’я Шон</title>
+  </programme>
+  <programme start="20250919062900 +0300" stop="20250919080700 +0300" channel="2">
+    <title lang="ru">Син Рембо</title>
+  </programme>
+  <programme start="20250919080700 +0300" stop="20250919094100 +0300" channel="2">
+    <title lang="ru">Степфордські дружини</title>
+  </programme>
+  <programme start="20250919094100 +0300" stop="20250919110700 +0300" channel="2">
+    <title lang="ru">Дуже страшне кіно</title>
+  </programme>
+  <programme start="20250919110700 +0300" stop="20250919122900 +0300" channel="2">
+    <title lang="ru">Дуже страшне кіно 2</title>
+  </programme>
+  <programme start="20250919122900 +0300" stop="20250919135100 +0300" channel="2">
+    <title lang="ru">Дуже страшне кіно 3</title>
+  </programme>
+  <programme start="20250919135100 +0300" stop="20250919155200 +0300" channel="2">
+    <title lang="ru">Потяг до Пусана</title>
+  </programme>
+  <programme start="20250919155200 +0300" stop="20250919173600 +0300" channel="2">
+    <title lang="ru">Дещо</title>
+  </programme>
+  <programme start="20250919173600 +0300" stop="20250919185700 +0300" channel="2">
+    <title lang="ru">Монстро</title>
+  </programme>
+  <programme start="20250919185700 +0300" stop="20250919204200 +0300" channel="2">
+    <title lang="ru">1408</title>
+  </programme>
+  <programme start="20250919204200 +0300" stop="20250919222600 +0300" channel="2">
+    <title lang="ru">Полтергейст</title>
+  </programme>
+  <programme start="20250919222600 +0300" stop="20250920003000 +0300" channel="2">
+    <title lang="ru">Імла</title>
+  </programme>
+  <programme start="20250920003000 +0300" stop="20250920013000 +0300" channel="2">
+    <title lang="ru">Примарний патруль</title>
+  </programme>
   <programme start="20250915040100 +0300" stop="20250915053100 +0300" channel="1">
     <title lang="ru">Подорож у джунглях</title>
   </programme>
@@ -239,1010 +449,5 @@
   </programme>
   <programme start="20250920000800 +0300" stop="20250920010800 +0300" channel="1">
     <title lang="ru">Виконавець</title>
-  </programme>
-  <programme start="20250915032600 +0300" stop="20250915045600 +0300" channel="2">
-    <title lang="ru">Непрохані</title>
-  </programme>
-  <programme start="20250915045600 +0300" stop="20250915064200 +0300" channel="2">
-    <title lang="ru">Жага смерті</title>
-  </programme>
-  <programme start="20250915064200 +0300" stop="20250915090000 +0300" channel="2">
-    <title lang="ru">Острів проклятих</title>
-  </programme>
-  <programme start="20250915090000 +0300" stop="20250915104300 +0300" channel="2">
-    <title lang="ru">Коломбіана</title>
-  </programme>
-  <programme start="20250915104300 +0300" stop="20250915124400 +0300" channel="2">
-    <title lang="ru">Лінкольн для адвоката</title>
-  </programme>
-  <programme start="20250915124400 +0300" stop="20250915141100 +0300" channel="2">
-    <title lang="ru">Мілина</title>
-  </programme>
-  <programme start="20250915141100 +0300" stop="20250915160100 +0300" channel="2">
-    <title lang="ru">Дзвінок 2</title>
-  </programme>
-  <programme start="20250915160100 +0300" stop="20250915175400 +0300" channel="2">
-    <title lang="ru">Дзвінок</title>
-  </programme>
-  <programme start="20250915175400 +0300" stop="20250915192400 +0300" channel="2">
-    <title lang="ru">Інший світ: Кровна помста</title>
-  </programme>
-  <programme start="20250915192400 +0300" stop="20250915210900 +0300" channel="2">
-    <title lang="ru">Інший світ 2: Еволюція</title>
-  </programme>
-  <programme start="20250915210900 +0300" stop="20250915231000 +0300" channel="2">
-    <title lang="ru">Інший світ</title>
-  </programme>
-  <programme start="20250915231000 +0300" stop="20250916003700 +0300" channel="2">
-    <title lang="ru">Останнє вигнання диявола</title>
-  </programme>
-  <programme start="20250916003700 +0300" stop="20250916020300 +0300" channel="2">
-    <title lang="ru">Паранормальне явище: Фатальна мітка</title>
-  </programme>
-  <programme start="20250916020300 +0300" stop="20250916033200 +0300" channel="2">
-    <title lang="ru">Паранормальне явище 4</title>
-  </programme>
-  <programme start="20250916033200 +0300" stop="20250916045800 +0300" channel="2">
-    <title lang="ru">Паранормальне явище 3</title>
-  </programme>
-  <programme start="20250916045800 +0300" stop="20250916062900 +0300" channel="2">
-    <title lang="ru">Паранормальне явище 2</title>
-  </programme>
-  <programme start="20250916062900 +0300" stop="20250916081300 +0300" channel="2">
-    <title lang="ru">Кладовище домашніх тварин</title>
-  </programme>
-  <programme start="20250916081300 +0300" stop="20250916095900 +0300" channel="2">
-    <title lang="ru">Сонна лощина</title>
-  </programme>
-  <programme start="20250916095900 +0300" stop="20250916113800 +0300" channel="2">
-    <title lang="ru">Викидайло</title>
-  </programme>
-  <programme start="20250916113800 +0300" stop="20250916130600 +0300" channel="2">
-    <title lang="ru">Жах Амітивілля</title>
-  </programme>
-  <programme start="20250916130600 +0300" stop="20250916144700 +0300" channel="2">
-    <title lang="ru">Зомбі на ім’я Шон</title>
-  </programme>
-  <programme start="20250916144700 +0300" stop="20250916162500 +0300" channel="2">
-    <title lang="ru">Син Рембо</title>
-  </programme>
-  <programme start="20250916162500 +0300" stop="20250916175900 +0300" channel="2">
-    <title lang="ru">Степфордські дружини</title>
-  </programme>
-  <programme start="20250916175900 +0300" stop="20250916192500 +0300" channel="2">
-    <title lang="ru">Дуже страшне кіно</title>
-  </programme>
-  <programme start="20250916192500 +0300" stop="20250916204700 +0300" channel="2">
-    <title lang="ru">Дуже страшне кіно 2</title>
-  </programme>
-  <programme start="20250916204700 +0300" stop="20250916220900 +0300" channel="2">
-    <title lang="ru">Дуже страшне кіно 3</title>
-  </programme>
-  <programme start="20250916220900 +0300" stop="20250917001000 +0300" channel="2">
-    <title lang="ru">Потяг до Пусана</title>
-  </programme>
-  <programme start="20250917001000 +0300" stop="20250917015400 +0300" channel="2">
-    <title lang="ru">Дещо</title>
-  </programme>
-  <programme start="20250917015400 +0300" stop="20250917031500 +0300" channel="2">
-    <title lang="ru">Монстро</title>
-  </programme>
-  <programme start="20250917031500 +0300" stop="20250917050000 +0300" channel="2">
-    <title lang="ru">1408</title>
-  </programme>
-  <programme start="20250917050000 +0300" stop="20250917064400 +0300" channel="2">
-    <title lang="ru">Полтергейст</title>
-  </programme>
-  <programme start="20250917064400 +0300" stop="20250917084800 +0300" channel="2">
-    <title lang="ru">Імла</title>
-  </programme>
-  <programme start="20250917084800 +0300" stop="20250917102300 +0300" channel="2">
-    <title lang="ru">Примарний патруль</title>
-  </programme>
-  <programme start="20250917102300 +0300" stop="20250917120400 +0300" channel="2">
-    <title lang="ru">Життя</title>
-  </programme>
-  <programme start="20250917120400 +0300" stop="20250917133400 +0300" channel="2">
-    <title lang="ru">Страшилки 2: Привиди Хелловіна</title>
-  </programme>
-  <programme start="20250917133400 +0300" stop="20250917153700 +0300" channel="2">
-    <title lang="ru">Інферно</title>
-  </programme>
-  <programme start="20250917153700 +0300" stop="20250917173500 +0300" channel="2">
-    <title lang="ru">Веном</title>
-  </programme>
-  <programme start="20250917173500 +0300" stop="20250917190800 +0300" channel="2">
-    <title lang="ru">Механік</title>
-  </programme>
-  <programme start="20250917190800 +0300" stop="20250917203800 +0300" channel="2">
-    <title lang="ru">Непрохані</title>
-  </programme>
-  <programme start="20250917203800 +0300" stop="20250917222400 +0300" channel="2">
-    <title lang="ru">Жага смерті</title>
-  </programme>
-  <programme start="20250917222400 +0300" stop="20250918004200 +0300" channel="2">
-    <title lang="ru">Острів проклятих</title>
-  </programme>
-  <programme start="20250918004200 +0300" stop="20250918022500 +0300" channel="2">
-    <title lang="ru">Коломбіана</title>
-  </programme>
-  <programme start="20250918022500 +0300" stop="20250918042600 +0300" channel="2">
-    <title lang="ru">Лінкольн для адвоката</title>
-  </programme>
-  <programme start="20250918042600 +0300" stop="20250918055300 +0300" channel="2">
-    <title lang="ru">Мілина</title>
-  </programme>
-  <programme start="20250918055300 +0300" stop="20250918074300 +0300" channel="2">
-    <title lang="ru">Дзвінок 2</title>
-  </programme>
-  <programme start="20250918074300 +0300" stop="20250918093600 +0300" channel="2">
-    <title lang="ru">Дзвінок</title>
-  </programme>
-  <programme start="20250918093600 +0300" stop="20250918110600 +0300" channel="2">
-    <title lang="ru">Інший світ: Кровна помста</title>
-  </programme>
-  <programme start="20250918110600 +0300" stop="20250918125100 +0300" channel="2">
-    <title lang="ru">Інший світ 2: Еволюція</title>
-  </programme>
-  <programme start="20250918125100 +0300" stop="20250918145200 +0300" channel="2">
-    <title lang="ru">Інший світ</title>
-  </programme>
-  <programme start="20250918145200 +0300" stop="20250918161900 +0300" channel="2">
-    <title lang="ru">Останнє вигнання диявола</title>
-  </programme>
-  <programme start="20250918161900 +0300" stop="20250918174500 +0300" channel="2">
-    <title lang="ru">Паранормальне явище: Фатальна мітка</title>
-  </programme>
-  <programme start="20250918174500 +0300" stop="20250918191400 +0300" channel="2">
-    <title lang="ru">Паранормальне явище 4</title>
-  </programme>
-  <programme start="20250918191400 +0300" stop="20250918204000 +0300" channel="2">
-    <title lang="ru">Паранормальне явище 3</title>
-  </programme>
-  <programme start="20250918204000 +0300" stop="20250918221100 +0300" channel="2">
-    <title lang="ru">Паранормальне явище 2</title>
-  </programme>
-  <programme start="20250918221100 +0300" stop="20250918235500 +0300" channel="2">
-    <title lang="ru">Кладовище домашніх тварин</title>
-  </programme>
-  <programme start="20250918235500 +0300" stop="20250919014100 +0300" channel="2">
-    <title lang="ru">Сонна лощина</title>
-  </programme>
-  <programme start="20250919014100 +0300" stop="20250919032000 +0300" channel="2">
-    <title lang="ru">Викидайло</title>
-  </programme>
-  <programme start="20250919032000 +0300" stop="20250919044800 +0300" channel="2">
-    <title lang="ru">Жах Амітивілля</title>
-  </programme>
-  <programme start="20250919044800 +0300" stop="20250919062900 +0300" channel="2">
-    <title lang="ru">Зомбі на ім’я Шон</title>
-  </programme>
-  <programme start="20250919062900 +0300" stop="20250919080700 +0300" channel="2">
-    <title lang="ru">Син Рембо</title>
-  </programme>
-  <programme start="20250919080700 +0300" stop="20250919094100 +0300" channel="2">
-    <title lang="ru">Степфордські дружини</title>
-  </programme>
-  <programme start="20250919094100 +0300" stop="20250919110700 +0300" channel="2">
-    <title lang="ru">Дуже страшне кіно</title>
-  </programme>
-  <programme start="20250919110700 +0300" stop="20250919122900 +0300" channel="2">
-    <title lang="ru">Дуже страшне кіно 2</title>
-  </programme>
-  <programme start="20250919122900 +0300" stop="20250919135100 +0300" channel="2">
-    <title lang="ru">Дуже страшне кіно 3</title>
-  </programme>
-  <programme start="20250919135100 +0300" stop="20250919155200 +0300" channel="2">
-    <title lang="ru">Потяг до Пусана</title>
-  </programme>
-  <programme start="20250919155200 +0300" stop="20250919173600 +0300" channel="2">
-    <title lang="ru">Дещо</title>
-  </programme>
-  <programme start="20250919173600 +0300" stop="20250919185700 +0300" channel="2">
-    <title lang="ru">Монстро</title>
-  </programme>
-  <programme start="20250919185700 +0300" stop="20250919204200 +0300" channel="2">
-    <title lang="ru">1408</title>
-  </programme>
-  <programme start="20250919204200 +0300" stop="20250919222600 +0300" channel="2">
-    <title lang="ru">Полтергейст</title>
-  </programme>
-  <programme start="20250919222600 +0300" stop="20250920003000 +0300" channel="2">
-    <title lang="ru">Імла</title>
-  </programme>
-  <programme start="20250920003000 +0300" stop="20250920013000 +0300" channel="2">
-    <title lang="ru">Примарний патруль</title>
-  </programme>
-  <programme start="20250915031200 +0300" stop="20250915035700 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1988</title>
-  </programme>
-  <programme start="20250915035700 +0300" stop="20250915044400 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1986</title>
-  </programme>
-  <programme start="20250915044400 +0300" stop="20250915052700 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1981</title>
-  </programme>
-  <programme start="20250915052700 +0300" stop="20250915061200 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1982</title>
-  </programme>
-  <programme start="20250915061200 +0300" stop="20250915065800 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1985</title>
-  </programme>
-  <programme start="20250915065800 +0300" stop="20250915074200 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1984</title>
-  </programme>
-  <programme start="20250915074200 +0300" stop="20250915082500 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1983</title>
-  </programme>
-  <programme start="20250915082500 +0300" stop="20250915085200 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_04_Grabizhnyky_Bankiv</title>
-  </programme>
-  <programme start="20250915085200 +0300" stop="20250915092100 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_11_Domushnyky</title>
-  </programme>
-  <programme start="20250915092100 +0300" stop="20250915094700 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_09_Klukvennyky</title>
-  </programme>
-  <programme start="20250915094700 +0300" stop="20250915101300 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_28_Prostytuciya</title>
-  </programme>
-  <programme start="20250915101300 +0300" stop="20250915104300 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_23_Kolschyk</title>
-  </programme>
-  <programme start="20250915104300 +0300" stop="20250915111000 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_10_Sutenery</title>
-  </programme>
-  <programme start="20250915111000 +0300" stop="20250915113600 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_17_Likvidatory</title>
-  </programme>
-  <programme start="20250915113600 +0300" stop="20250915120200 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_19_Chorni_Rieltory</title>
-  </programme>
-  <programme start="20250915120200 +0300" stop="20250915123200 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_27_Vorozhky</title>
-  </programme>
-  <programme start="20250915123200 +0300" stop="20250915125800 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_18_Falshyvomonetnyky</title>
-  </programme>
-  <programme start="20250915125800 +0300" stop="20250915132800 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_01_Smotryaschy</title>
-  </programme>
-  <programme start="20250915132800 +0300" stop="20250915135500 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_06_Morski_Kontrabandysty</title>
-  </programme>
-  <programme start="20250915135500 +0300" stop="20250915142400 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_08_Turemni_Svyaschennyky</title>
-  </programme>
-  <programme start="20250915142400 +0300" stop="20250915145000 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_14_Shlyubni_Aferysty</title>
-  </programme>
-  <programme start="20250915145000 +0300" stop="20250915151700 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_21_Vedmezhatnyky</title>
-  </programme>
-  <programme start="20250915151700 +0300" stop="20250915154700 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_16_Kiberzlochynci</title>
-  </programme>
-  <programme start="20250915154700 +0300" stop="20250915161200 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_12_Kaminnya</title>
-  </programme>
-  <programme start="20250915161200 +0300" stop="20250915163900 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_26_Chorni_Transplantology</title>
-  </programme>
-  <programme start="20250915163900 +0300" stop="20250915170100 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_24_Fenya</title>
-  </programme>
-  <programme start="20250915170100 +0300" stop="20250915172800 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_13_Telefonni_Shahrayi</title>
-  </programme>
-  <programme start="20250915172800 +0300" stop="20250915175400 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_20_Grimovidvid</title>
-  </programme>
-  <programme start="20250915175400 +0300" stop="20250915182100 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_15_Gipnoteror</title>
-  </programme>
-  <programme start="20250915182100 +0300" stop="20250915184700 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_05_Profesiya_Zhebrak</title>
-  </programme>
-  <programme start="20250915184700 +0300" stop="20250915191200 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_02_Otrycalovo</title>
-  </programme>
-  <programme start="20250915191200 +0300" stop="20250915194000 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_03_Vor_V_Zakoni</title>
-  </programme>
-  <programme start="20250915194000 +0300" stop="20250915200700 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_25_Chorni_Arheology</title>
-  </programme>
-  <programme start="20250915200700 +0300" stop="20250915203300 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_22_Profesiya_Narkofermer</title>
-  </programme>
-  <programme start="20250915203300 +0300" stop="20250915210000 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_07_Autokradiyi</title>
-  </programme>
-  <programme start="20250915210000 +0300" stop="20250915215100 +0300" channel="4">
-    <title lang="ru">Adzhimushkay_Podzemele_smerti</title>
-  </programme>
-  <programme start="20250915215100 +0300" stop="20250915223500 +0300" channel="4">
-    <title lang="ru">Misto_yake_zradyly_Kyevy_chasiv_okupatsii_prysviachuetsia</title>
-  </programme>
-  <programme start="20250915223500 +0300" stop="20250915232600 +0300" channel="4">
-    <title lang="ru">5_Smertey_Akademika_Korolyova</title>
-  </programme>
-  <programme start="20250915232600 +0300" stop="20250915234400 +0300" channel="4">
-    <title lang="ru">DICTATORS_32s_2023_KVISLING_UKR</title>
-  </programme>
-  <programme start="20250915234400 +0300" stop="20250916000000 +0300" channel="4">
-    <title lang="ru">DICTATORS_14s_2023_TRUHILIOS_UKR</title>
-  </programme>
-  <programme start="20250916000000 +0300" stop="20250916001700 +0300" channel="4">
-    <title lang="ru">DICTATORS_46s_2023_SAMOSA_UKR</title>
-  </programme>
-  <programme start="20250916001700 +0300" stop="20250916004100 +0300" channel="4">
-    <title lang="ru">DICTATORS_22s_2023_ANDROPOV_UKR</title>
-  </programme>
-  <programme start="20250916004100 +0300" stop="20250916005800 +0300" channel="4">
-    <title lang="ru">DICTATORS_35s_2023_GALTYERI_UKR</title>
-  </programme>
-  <programme start="20250916005800 +0300" stop="20250916011500 +0300" channel="4">
-    <title lang="ru">DICTATORS_42s_2023_MUSHARRAF_UKR</title>
-  </programme>
-  <programme start="20250916011500 +0300" stop="20250916013200 +0300" channel="4">
-    <title lang="ru">DICTATORS_01s_2023_PINOCHET_UKR</title>
-  </programme>
-  <programme start="20250916013200 +0300" stop="20250916020200 +0300" channel="4">
-    <title lang="ru">DICTATORS_50s_2023_PRISPESHNIKI_GITLERA_UKR</title>
-  </programme>
-  <programme start="20250916020200 +0300" stop="20250916022800 +0300" channel="4">
-    <title lang="ru">DICTATORS_13s_2023_LENIN_UKR</title>
-  </programme>
-  <programme start="20250916022800 +0300" stop="20250916025800 +0300" channel="4">
-    <title lang="ru">DICTATORS_51s_2023_LATINS_UKR</title>
-  </programme>
-  <programme start="20250916025800 +0300" stop="20250916031800 +0300" channel="4">
-    <title lang="ru">DICTATORS_31s_2023_KADAR_UKR</title>
-  </programme>
-  <programme start="20250916031800 +0300" stop="20250916033400 +0300" channel="4">
-    <title lang="ru">DICTATORS_02s_2023_TITO_UKR</title>
-  </programme>
-  <programme start="20250916033400 +0300" stop="20250916035000 +0300" channel="4">
-    <title lang="ru">DICTATORS_12s_2023_STRESSNER_UKR</title>
-  </programme>
-  <programme start="20250916035000 +0300" stop="20250916040500 +0300" channel="4">
-    <title lang="ru">DICTATORS_44s_2023_KEREKU_UKR</title>
-  </programme>
-  <programme start="20250916040500 +0300" stop="20250916042600 +0300" channel="4">
-    <title lang="ru">DICTATORS_09s_2023_HODZHA_UKR</title>
-  </programme>
-  <programme start="20250916042600 +0300" stop="20250916045000 +0300" channel="4">
-    <title lang="ru">DICTATORS_20s_2023_BREZHNEV_UKR</title>
-  </programme>
-  <programme start="20250916045000 +0300" stop="20250916050600 +0300" channel="4">
-    <title lang="ru">DICTATORS_30s_2023_SALASHI_UKR</title>
-  </programme>
-  <programme start="20250916050600 +0300" stop="20250916052200 +0300" channel="4">
-    <title lang="ru">DICTATORS_48s_2023_KAD_HUS_UKR</title>
-  </programme>
-  <programme start="20250916052200 +0300" stop="20250916053700 +0300" channel="4">
-    <title lang="ru">DICTATORS_23s_2023_HABRE_UKR</title>
-  </programme>
-  <programme start="20250916053700 +0300" stop="20250916060100 +0300" channel="4">
-    <title lang="ru">DICTATORS_24s_2023_CHAVEZ_UKR</title>
-  </programme>
-  <programme start="20250916060100 +0300" stop="20250916062000 +0300" channel="4">
-    <title lang="ru">DICTATORS_41s_2023_VARGAS_UKR</title>
-  </programme>
-  <programme start="20250916062000 +0300" stop="20250916063600 +0300" channel="4">
-    <title lang="ru">DICTATORS_25s_2023_EYADEMA_UKR</title>
-  </programme>
-  <programme start="20250916063600 +0300" stop="20250916065100 +0300" channel="4">
-    <title lang="ru">DICTATORS_26s_2023_ZHYVKOV_UKR</title>
-  </programme>
-  <programme start="20250916065100 +0300" stop="20250916071100 +0300" channel="4">
-    <title lang="ru">DICTATORS_36s_2023_ASAD_HAFEZ_UKR</title>
-  </programme>
-  <programme start="20250916071100 +0300" stop="20250916073300 +0300" channel="4">
-    <title lang="ru">DICTATORS_38s_2023_PETEN_UKR</title>
-  </programme>
-  <programme start="20250916073300 +0300" stop="20250916074800 +0300" channel="4">
-    <title lang="ru">DICTATORS_33s_2023_IDRIS_UKR</title>
-  </programme>
-  <programme start="20250916074800 +0300" stop="20250916080800 +0300" channel="4">
-    <title lang="ru">DICTATORS_21s_2023_NORYEGA_UKR</title>
-  </programme>
-  <programme start="20250916080800 +0300" stop="20250916082600 +0300" channel="4">
-    <title lang="ru">DICTATORS_04s_2023_MUBARAK_UKR</title>
-  </programme>
-  <programme start="20250916082600 +0300" stop="20250916084500 +0300" channel="4">
-    <title lang="ru">DICTATORS_29s_2023_BATISTA_UKR</title>
-  </programme>
-  <programme start="20250916084500 +0300" stop="20250916090100 +0300" channel="4">
-    <title lang="ru">DICTATORS_28s_2023_LIQUANYU_UKR</title>
-  </programme>
-  <programme start="20250916090100 +0300" stop="20250916093000 +0300" channel="4">
-    <title lang="ru">DICTATORS_49s_2023_COMUNISM_UKR</title>
-  </programme>
-  <programme start="20250916093000 +0300" stop="20250916094900 +0300" channel="4">
-    <title lang="ru">DICTATORS_27s_2023_GUSAK_UKR</title>
-  </programme>
-  <programme start="20250916094900 +0300" stop="20250916101000 +0300" channel="4">
-    <title lang="ru">DICTATORS_34s_2023_BANZER_UKR</title>
-  </programme>
-  <programme start="20250916101000 +0300" stop="20250916102600 +0300" channel="4">
-    <title lang="ru">DICTATORS_37s_2023_POPA_UKR</title>
-  </programme>
-  <programme start="20250916102600 +0300" stop="20250916104300 +0300" channel="4">
-    <title lang="ru">DICTATORS_19s_2023_VIDELA_UKR</title>
-  </programme>
-  <programme start="20250916104300 +0300" stop="20250916105900 +0300" channel="4">
-    <title lang="ru">DICTATORS_11s_2023_CHANKAISHI_UKR</title>
-  </programme>
-  <programme start="20250916105900 +0300" stop="20250916112300 +0300" channel="4">
-    <title lang="ru">DICTATORS_43s_2023_CANIBALS_UKR</title>
-  </programme>
-  <programme start="20250916112300 +0300" stop="20250916113800 +0300" channel="4">
-    <title lang="ru">DICTATORS_03s_2023_FERDINAND_UKR</title>
-  </programme>
-  <programme start="20250916113800 +0300" stop="20250916115400 +0300" channel="4">
-    <title lang="ru">DICTATORS_40s_2023_ABACHI_UKR</title>
-  </programme>
-  <programme start="20250916115400 +0300" stop="20250916121300 +0300" channel="4">
-    <title lang="ru">DICTATORS_05s_2023_MUGABE_UKR</title>
-  </programme>
-  <programme start="20250916121300 +0300" stop="20250916123800 +0300" channel="4">
-    <title lang="ru">DICTATORS_18s_2023_HRUSHEV_UKR</title>
-  </programme>
-  <programme start="20250916123800 +0300" stop="20250916125300 +0300" channel="4">
-    <title lang="ru">DICTATORS_06s_2023_DUVALIE_UKR</title>
-  </programme>
-  <programme start="20250916125300 +0300" stop="20250916131600 +0300" channel="4">
-    <title lang="ru">DICTATORS_07s_2023_STALIN_UKR</title>
-  </programme>
-  <programme start="20250916131600 +0300" stop="20250916133400 +0300" channel="4">
-    <title lang="ru">DICTATORS_39s_2023_NEDIC_UKR</title>
-  </programme>
-  <programme start="20250916133400 +0300" stop="20250916134900 +0300" channel="4">
-    <title lang="ru">DICTATORS_16s_2023_SELLASIE_UKR</title>
-  </programme>
-  <programme start="20250916134900 +0300" stop="20250916140400 +0300" channel="4">
-    <title lang="ru">DICTATORS_17s_2023_SALAZAR_UKR</title>
-  </programme>
-  <programme start="20250916140400 +0300" stop="20250916142000 +0300" channel="4">
-    <title lang="ru">DICTATORS_10s_2023_SUHARTO_UKR</title>
-  </programme>
-  <programme start="20250916142000 +0300" stop="20250916145000 +0300" channel="4">
-    <title lang="ru">DICTATORS_52s_2023_GENSEKI_UKR</title>
-  </programme>
-  <programme start="20250916145000 +0300" stop="20250916150900 +0300" channel="4">
-    <title lang="ru">DICTATORS_15s_2023_NIYAZOV_UKR</title>
-  </programme>
-  <programme start="20250916150900 +0300" stop="20250916152500 +0300" channel="4">
-    <title lang="ru">DICTATORS_08s_2023_SEKO_UKR</title>
-  </programme>
-  <programme start="20250916152500 +0300" stop="20250916154100 +0300" channel="4">
-    <title lang="ru">DICTATORS_47s_2023_SHAMANS_UKR</title>
-  </programme>
-  <programme start="20250916154100 +0300" stop="20250916160000 +0300" channel="4">
-    <title lang="ru">DICTATORS_45s_2023_FASHNAZI_UKR</title>
-  </programme>
-  <programme start="20250916160000 +0300" stop="20250916165100 +0300" channel="4">
-    <title lang="ru">1377_Spalenyh_Zazhivo</title>
-  </programme>
-  <programme start="20250916165100 +0300" stop="20250916173700 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep05</title>
-  </programme>
-  <programme start="20250916173700 +0300" stop="20250916182200 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep02</title>
-  </programme>
-  <programme start="20250916182200 +0300" stop="20250916190800 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep03</title>
-  </programme>
-  <programme start="20250916190800 +0300" stop="20250916195300 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep04</title>
-  </programme>
-  <programme start="20250916195300 +0300" stop="20250916203700 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep07</title>
-  </programme>
-  <programme start="20250916203700 +0300" stop="20250916212000 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep09</title>
-  </programme>
-  <programme start="20250916212000 +0300" stop="20250916220400 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep08</title>
-  </programme>
-  <programme start="20250916220400 +0300" stop="20250916225000 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep01</title>
-  </programme>
-  <programme start="20250916225000 +0300" stop="20250916233300 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep06</title>
-  </programme>
-  <programme start="20250916233300 +0300" stop="20250916234900 +0300" channel="4">
-    <title lang="ru">DICTATORS_3s_2022_CHAUSHESKU_UKR</title>
-  </programme>
-  <programme start="20250916234900 +0300" stop="20250917000800 +0300" channel="4">
-    <title lang="ru">DICTATORS_11s_2022_BOKASSA_UKR</title>
-  </programme>
-  <programme start="20250917000800 +0300" stop="20250917002300 +0300" channel="4">
-    <title lang="ru">DICTATORS_2s_2022_SADDAM_UKR</title>
-  </programme>
-  <programme start="20250917002300 +0300" stop="20250917003800 +0300" channel="4">
-    <title lang="ru">DICTATORS_6s_2022_MUSSOILINI_UKR</title>
-  </programme>
-  <programme start="20250917003800 +0300" stop="20250917005400 +0300" channel="4">
-    <title lang="ru">DICTATORS_1s_2022_DINASTIAKIM_UKR</title>
-  </programme>
-  <programme start="20250917005400 +0300" stop="20250917010900 +0300" channel="4">
-    <title lang="ru">DICTATORS_5s_2022_MILOSHEVICH_UKR</title>
-  </programme>
-  <programme start="20250917010900 +0300" stop="20250917012600 +0300" channel="4">
-    <title lang="ru">DICTATORS_7s_2022_AMIN_UKR</title>
-  </programme>
-  <programme start="20250917012600 +0300" stop="20250917014100 +0300" channel="4">
-    <title lang="ru">DICTATORS_9s_2022_POLPOT_UKR</title>
-  </programme>
-  <programme start="20250917014100 +0300" stop="20250917015800 +0300" channel="4">
-    <title lang="ru">DICTATORS_8s_2022_GITLER_UKR</title>
-  </programme>
-  <programme start="20250917015800 +0300" stop="20250917021700 +0300" channel="4">
-    <title lang="ru">DICTATORS_10s_2022_FRANKO_UKR</title>
-  </programme>
-  <programme start="20250917021700 +0300" stop="20250917023200 +0300" channel="4">
-    <title lang="ru">DICTATORS_4s_2022_KADDAFI_UKR</title>
-  </programme>
-  <programme start="20250917023200 +0300" stop="20250917031700 +0300" channel="4">
-    <title lang="ru">OBKhSS_Bezhzalostnoe_pravosudie</title>
-  </programme>
-  <programme start="20250917031700 +0300" stop="20250917041400 +0300" channel="4">
-    <title lang="ru">Zamenitel_smerti</title>
-  </programme>
-  <programme start="20250917041400 +0300" stop="20250917045900 +0300" channel="4">
-    <title lang="ru">Lysty_Z_Afganu</title>
-  </programme>
-  <programme start="20250917045900 +0300" stop="20250917054900 +0300" channel="4">
-    <title lang="ru">Tyuremna_Kazka</title>
-  </programme>
-  <programme start="20250917054900 +0300" stop="20250917064400 +0300" channel="4">
-    <title lang="ru">Gen_zhestokosti</title>
-  </programme>
-  <programme start="20250917064400 +0300" stop="20250917071600 +0300" channel="4">
-    <title lang="ru">Vtecha_Realni_Istorii_01</title>
-  </programme>
-  <programme start="20250917071600 +0300" stop="20250917080400 +0300" channel="4">
-    <title lang="ru">Profesiya_Alfons</title>
-  </programme>
-  <programme start="20250917080400 +0300" stop="20250917084800 +0300" channel="4">
-    <title lang="ru">Nedetskie_igry</title>
-  </programme>
-  <programme start="20250917084800 +0300" stop="20250917093300 +0300" channel="4">
-    <title lang="ru">Okhota_na_monstrov</title>
-  </programme>
-  <programme start="20250917093300 +0300" stop="20250917101200 +0300" channel="4">
-    <title lang="ru">Vtecha_Realni_Istorii_02</title>
-  </programme>
-  <programme start="20250917101200 +0300" stop="20250917110300 +0300" channel="4">
-    <title lang="ru">Ispoved_palacha</title>
-  </programme>
-  <programme start="20250917110300 +0300" stop="20250917113900 +0300" channel="4">
-    <title lang="ru">Hronika_Pograbuvan</title>
-  </programme>
-  <programme start="20250917113900 +0300" stop="20250917121200 +0300" channel="4">
-    <title lang="ru">Vtecha_Realni_Istorii_04</title>
-  </programme>
-  <programme start="20250917121200 +0300" stop="20250917130600 +0300" channel="4">
-    <title lang="ru">Chorna_Pihota</title>
-  </programme>
-  <programme start="20250917130600 +0300" stop="20250917134600 +0300" channel="4">
-    <title lang="ru">Vtecha_Realni_Istorii_03</title>
-  </programme>
-  <programme start="20250917134600 +0300" stop="20250917143800 +0300" channel="4">
-    <title lang="ru">Volodymyr_Ivasiuk_idealne_vbyvstvo_ukr_rus+</title>
-  </programme>
-  <programme start="20250917143800 +0300" stop="20250917152400 +0300" channel="4">
-    <title lang="ru">No_ussr_2</title>
-  </programme>
-  <programme start="20250917152400 +0300" stop="20250917160600 +0300" channel="4">
-    <title lang="ru">No_ussr_5 Шулера+</title>
-  </programme>
-  <programme start="20250917160600 +0300" stop="20250917165300 +0300" channel="4">
-    <title lang="ru">No_ussr_3</title>
-  </programme>
-  <programme start="20250917165300 +0300" stop="20250917174100 +0300" channel="4">
-    <title lang="ru">No_ussr_4</title>
-  </programme>
-  <programme start="20250917174100 +0300" stop="20250917183000 +0300" channel="4">
-    <title lang="ru">No_ussr_1</title>
-  </programme>
-  <programme start="20250917183000 +0300" stop="20250917184500 +0300" channel="4">
-    <title lang="ru">DICTATORS_4s_2024_BONGO_UKR</title>
-  </programme>
-  <programme start="20250917184500 +0300" stop="20250917190300 +0300" channel="4">
-    <title lang="ru">DICTATORS_1s_2024_GARCIA_UKR</title>
-  </programme>
-  <programme start="20250917190300 +0300" stop="20250917192700 +0300" channel="4">
-    <title lang="ru">DICTATORS_3s_2024_DINAS_UKR</title>
-  </programme>
-  <programme start="20250917192700 +0300" stop="20250917194900 +0300" channel="4">
-    <title lang="ru">DICTATORS_2s_2024_SUKARNO_UKR</title>
-  </programme>
-  <programme start="20250917194900 +0300" stop="20250917201500 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep12</title>
-  </programme>
-  <programme start="20250917201500 +0300" stop="20250917204200 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep04</title>
-  </programme>
-  <programme start="20250917204200 +0300" stop="20250917210800 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep03</title>
-  </programme>
-  <programme start="20250917210800 +0300" stop="20250917213500 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep02</title>
-  </programme>
-  <programme start="20250917213500 +0300" stop="20250917220300 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep05</title>
-  </programme>
-  <programme start="20250917220300 +0300" stop="20250917223000 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep08</title>
-  </programme>
-  <programme start="20250917223000 +0300" stop="20250917225600 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep06</title>
-  </programme>
-  <programme start="20250917225600 +0300" stop="20250917232200 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep01</title>
-  </programme>
-  <programme start="20250917232200 +0300" stop="20250917235100 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep10</title>
-  </programme>
-  <programme start="20250917235100 +0300" stop="20250918001800 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep07</title>
-  </programme>
-  <programme start="20250918001800 +0300" stop="20250918004500 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep09</title>
-  </programme>
-  <programme start="20250918004500 +0300" stop="20250918011100 +0300" channel="4">
-    <title lang="ru">Realnie_prestupniki_Ep11</title>
-  </programme>
-  <programme start="20250918011100 +0300" stop="20250918020500 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Radyanskogo_Deficitu_1_Shirpotreb</title>
-  </programme>
-  <programme start="20250918020500 +0300" stop="20250918025800 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Radyanskogo_Deficitu_2_Smachna_Zdorova_Yizha</title>
-  </programme>
-  <programme start="20250918025800 +0300" stop="20250918034900 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Radyanskogo_Deficitu_3_Dayte_Knygu_Skarg</title>
-  </programme>
-  <programme start="20250918034900 +0300" stop="20250918043200 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1980</title>
-  </programme>
-  <programme start="20250918043200 +0300" stop="20250918051800 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1987</title>
-  </programme>
-  <programme start="20250918051800 +0300" stop="20250918060500 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1989</title>
-  </programme>
-  <programme start="20250918060500 +0300" stop="20250918065100 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1988</title>
-  </programme>
-  <programme start="20250918065100 +0300" stop="20250918073800 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1986</title>
-  </programme>
-  <programme start="20250918073800 +0300" stop="20250918082100 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1981</title>
-  </programme>
-  <programme start="20250918082100 +0300" stop="20250918090500 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1982</title>
-  </programme>
-  <programme start="20250918090500 +0300" stop="20250918095200 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1985</title>
-  </programme>
-  <programme start="20250918095200 +0300" stop="20250918103500 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1984</title>
-  </programme>
-  <programme start="20250918103500 +0300" stop="20250918111800 +0300" channel="4">
-    <title lang="ru">Perelomni_80-i_1983</title>
-  </programme>
-  <programme start="20250918111800 +0300" stop="20250918114600 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_04_Grabizhnyky_Bankiv</title>
-  </programme>
-  <programme start="20250918114600 +0300" stop="20250918121400 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_11_Domushnyky</title>
-  </programme>
-  <programme start="20250918121400 +0300" stop="20250918124000 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_09_Klukvennyky</title>
-  </programme>
-  <programme start="20250918124000 +0300" stop="20250918130700 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_28_Prostytuciya</title>
-  </programme>
-  <programme start="20250918130700 +0300" stop="20250918133700 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_23_Kolschyk</title>
-  </programme>
-  <programme start="20250918133700 +0300" stop="20250918140300 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_10_Sutenery</title>
-  </programme>
-  <programme start="20250918140300 +0300" stop="20250918143000 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_17_Likvidatory</title>
-  </programme>
-  <programme start="20250918143000 +0300" stop="20250918145500 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_19_Chorni_Rieltory</title>
-  </programme>
-  <programme start="20250918145500 +0300" stop="20250918152500 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_27_Vorozhky</title>
-  </programme>
-  <programme start="20250918152500 +0300" stop="20250918155200 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_18_Falshyvomonetnyky</title>
-  </programme>
-  <programme start="20250918155200 +0300" stop="20250918162200 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_01_Smotryaschy</title>
-  </programme>
-  <programme start="20250918162200 +0300" stop="20250918164900 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_06_Morski_Kontrabandysty</title>
-  </programme>
-  <programme start="20250918164900 +0300" stop="20250918171800 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_08_Turemni_Svyaschennyky</title>
-  </programme>
-  <programme start="20250918171800 +0300" stop="20250918174400 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_14_Shlyubni_Aferysty</title>
-  </programme>
-  <programme start="20250918174400 +0300" stop="20250918181000 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_21_Vedmezhatnyky</title>
-  </programme>
-  <programme start="20250918181000 +0300" stop="20250918184000 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_16_Kiberzlochynci</title>
-  </programme>
-  <programme start="20250918184000 +0300" stop="20250918190600 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_12_Kaminnya</title>
-  </programme>
-  <programme start="20250918190600 +0300" stop="20250918193200 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_26_Chorni_Transplantology</title>
-  </programme>
-  <programme start="20250918193200 +0300" stop="20250918195500 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_24_Fenya</title>
-  </programme>
-  <programme start="20250918195500 +0300" stop="20250918202100 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_13_Telefonni_Shahrayi</title>
-  </programme>
-  <programme start="20250918202100 +0300" stop="20250918204800 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_20_Grimovidvid</title>
-  </programme>
-  <programme start="20250918204800 +0300" stop="20250918211400 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_15_Gipnoteror</title>
-  </programme>
-  <programme start="20250918211400 +0300" stop="20250918214100 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_05_Profesiya_Zhebrak</title>
-  </programme>
-  <programme start="20250918214100 +0300" stop="20250918220500 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_02_Otrycalovo</title>
-  </programme>
-  <programme start="20250918220500 +0300" stop="20250918223400 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_03_Vor_V_Zakoni</title>
-  </programme>
-  <programme start="20250918223400 +0300" stop="20250918230100 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_25_Chorni_Arheology</title>
-  </programme>
-  <programme start="20250918230100 +0300" stop="20250918232700 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_22_Profesiya_Narkofermer</title>
-  </programme>
-  <programme start="20250918232700 +0300" stop="20250918235400 +0300" channel="4">
-    <title lang="ru">Taemnytsi_Kryminalnogo_Svitu_07_Autokradiyi</title>
-  </programme>
-  <programme start="20250918235400 +0300" stop="20250919004400 +0300" channel="4">
-    <title lang="ru">Adzhimushkay_Podzemele_smerti</title>
-  </programme>
-  <programme start="20250919004400 +0300" stop="20250919012900 +0300" channel="4">
-    <title lang="ru">Misto_yake_zradyly_Kyevy_chasiv_okupatsii_prysviachuetsia</title>
-  </programme>
-  <programme start="20250919012900 +0300" stop="20250919021900 +0300" channel="4">
-    <title lang="ru">5_Smertey_Akademika_Korolyova</title>
-  </programme>
-  <programme start="20250919021900 +0300" stop="20250919023800 +0300" channel="4">
-    <title lang="ru">DICTATORS_32s_2023_KVISLING_UKR</title>
-  </programme>
-  <programme start="20250919023800 +0300" stop="20250919025400 +0300" channel="4">
-    <title lang="ru">DICTATORS_14s_2023_TRUHILIOS_UKR</title>
-  </programme>
-  <programme start="20250919025400 +0300" stop="20250919031100 +0300" channel="4">
-    <title lang="ru">DICTATORS_46s_2023_SAMOSA_UKR</title>
-  </programme>
-  <programme start="20250919031100 +0300" stop="20250919033400 +0300" channel="4">
-    <title lang="ru">DICTATORS_22s_2023_ANDROPOV_UKR</title>
-  </programme>
-  <programme start="20250919033400 +0300" stop="20250919035200 +0300" channel="4">
-    <title lang="ru">DICTATORS_35s_2023_GALTYERI_UKR</title>
-  </programme>
-  <programme start="20250919035200 +0300" stop="20250919040800 +0300" channel="4">
-    <title lang="ru">DICTATORS_42s_2023_MUSHARRAF_UKR</title>
-  </programme>
-  <programme start="20250919040800 +0300" stop="20250919042500 +0300" channel="4">
-    <title lang="ru">DICTATORS_01s_2023_PINOCHET_UKR</title>
-  </programme>
-  <programme start="20250919042500 +0300" stop="20250919045500 +0300" channel="4">
-    <title lang="ru">DICTATORS_50s_2023_PRISPESHNIKI_GITLERA_UKR</title>
-  </programme>
-  <programme start="20250919045500 +0300" stop="20250919052100 +0300" channel="4">
-    <title lang="ru">DICTATORS_13s_2023_LENIN_UKR</title>
-  </programme>
-  <programme start="20250919052100 +0300" stop="20250919055100 +0300" channel="4">
-    <title lang="ru">DICTATORS_51s_2023_LATINS_UKR</title>
-  </programme>
-  <programme start="20250919055100 +0300" stop="20250919061100 +0300" channel="4">
-    <title lang="ru">DICTATORS_31s_2023_KADAR_UKR</title>
-  </programme>
-  <programme start="20250919061100 +0300" stop="20250919062700 +0300" channel="4">
-    <title lang="ru">DICTATORS_02s_2023_TITO_UKR</title>
-  </programme>
-  <programme start="20250919062700 +0300" stop="20250919064300 +0300" channel="4">
-    <title lang="ru">DICTATORS_12s_2023_STRESSNER_UKR</title>
-  </programme>
-  <programme start="20250919064300 +0300" stop="20250919065800 +0300" channel="4">
-    <title lang="ru">DICTATORS_44s_2023_KEREKU_UKR</title>
-  </programme>
-  <programme start="20250919065800 +0300" stop="20250919072000 +0300" channel="4">
-    <title lang="ru">DICTATORS_09s_2023_HODZHA_UKR</title>
-  </programme>
-  <programme start="20250919072000 +0300" stop="20250919074300 +0300" channel="4">
-    <title lang="ru">DICTATORS_20s_2023_BREZHNEV_UKR</title>
-  </programme>
-  <programme start="20250919074300 +0300" stop="20250919080000 +0300" channel="4">
-    <title lang="ru">DICTATORS_30s_2023_SALASHI_UKR</title>
-  </programme>
-  <programme start="20250919080000 +0300" stop="20250919081500 +0300" channel="4">
-    <title lang="ru">DICTATORS_48s_2023_KAD_HUS_UKR</title>
-  </programme>
-  <programme start="20250919081500 +0300" stop="20250919083100 +0300" channel="4">
-    <title lang="ru">DICTATORS_23s_2023_HABRE_UKR</title>
-  </programme>
-  <programme start="20250919083100 +0300" stop="20250919085400 +0300" channel="4">
-    <title lang="ru">DICTATORS_24s_2023_CHAVEZ_UKR</title>
-  </programme>
-  <programme start="20250919085400 +0300" stop="20250919091400 +0300" channel="4">
-    <title lang="ru">DICTATORS_41s_2023_VARGAS_UKR</title>
-  </programme>
-  <programme start="20250919091400 +0300" stop="20250919092900 +0300" channel="4">
-    <title lang="ru">DICTATORS_25s_2023_EYADEMA_UKR</title>
-  </programme>
-  <programme start="20250919092900 +0300" stop="20250919094500 +0300" channel="4">
-    <title lang="ru">DICTATORS_26s_2023_ZHYVKOV_UKR</title>
-  </programme>
-  <programme start="20250919094500 +0300" stop="20250919100400 +0300" channel="4">
-    <title lang="ru">DICTATORS_36s_2023_ASAD_HAFEZ_UKR</title>
-  </programme>
-  <programme start="20250919100400 +0300" stop="20250919102700 +0300" channel="4">
-    <title lang="ru">DICTATORS_38s_2023_PETEN_UKR</title>
-  </programme>
-  <programme start="20250919102700 +0300" stop="20250919104200 +0300" channel="4">
-    <title lang="ru">DICTATORS_33s_2023_IDRIS_UKR</title>
-  </programme>
-  <programme start="20250919104200 +0300" stop="20250919110200 +0300" channel="4">
-    <title lang="ru">DICTATORS_21s_2023_NORYEGA_UKR</title>
-  </programme>
-  <programme start="20250919110200 +0300" stop="20250919111900 +0300" channel="4">
-    <title lang="ru">DICTATORS_04s_2023_MUBARAK_UKR</title>
-  </programme>
-  <programme start="20250919111900 +0300" stop="20250919113900 +0300" channel="4">
-    <title lang="ru">DICTATORS_29s_2023_BATISTA_UKR</title>
-  </programme>
-  <programme start="20250919113900 +0300" stop="20250919115500 +0300" channel="4">
-    <title lang="ru">DICTATORS_28s_2023_LIQUANYU_UKR</title>
-  </programme>
-  <programme start="20250919115500 +0300" stop="20250919122400 +0300" channel="4">
-    <title lang="ru">DICTATORS_49s_2023_COMUNISM_UKR</title>
-  </programme>
-  <programme start="20250919122400 +0300" stop="20250919124200 +0300" channel="4">
-    <title lang="ru">DICTATORS_27s_2023_GUSAK_UKR</title>
-  </programme>
-  <programme start="20250919124200 +0300" stop="20250919130300 +0300" channel="4">
-    <title lang="ru">DICTATORS_34s_2023_BANZER_UKR</title>
-  </programme>
-  <programme start="20250919130300 +0300" stop="20250919131900 +0300" channel="4">
-    <title lang="ru">DICTATORS_37s_2023_POPA_UKR</title>
-  </programme>
-  <programme start="20250919131900 +0300" stop="20250919133700 +0300" channel="4">
-    <title lang="ru">DICTATORS_19s_2023_VIDELA_UKR</title>
-  </programme>
-  <programme start="20250919133700 +0300" stop="20250919135200 +0300" channel="4">
-    <title lang="ru">DICTATORS_11s_2023_CHANKAISHI_UKR</title>
-  </programme>
-  <programme start="20250919135200 +0300" stop="20250919141700 +0300" channel="4">
-    <title lang="ru">DICTATORS_43s_2023_CANIBALS_UKR</title>
-  </programme>
-  <programme start="20250919141700 +0300" stop="20250919143200 +0300" channel="4">
-    <title lang="ru">DICTATORS_03s_2023_FERDINAND_UKR</title>
-  </programme>
-  <programme start="20250919143200 +0300" stop="20250919144700 +0300" channel="4">
-    <title lang="ru">DICTATORS_40s_2023_ABACHI_UKR</title>
-  </programme>
-  <programme start="20250919144700 +0300" stop="20250919150600 +0300" channel="4">
-    <title lang="ru">DICTATORS_05s_2023_MUGABE_UKR</title>
-  </programme>
-  <programme start="20250919150600 +0300" stop="20250919153200 +0300" channel="4">
-    <title lang="ru">DICTATORS_18s_2023_HRUSHEV_UKR</title>
-  </programme>
-  <programme start="20250919153200 +0300" stop="20250919154700 +0300" channel="4">
-    <title lang="ru">DICTATORS_06s_2023_DUVALIE_UKR</title>
-  </programme>
-  <programme start="20250919154700 +0300" stop="20250919161000 +0300" channel="4">
-    <title lang="ru">DICTATORS_07s_2023_STALIN_UKR</title>
-  </programme>
-  <programme start="20250919161000 +0300" stop="20250919162700 +0300" channel="4">
-    <title lang="ru">DICTATORS_39s_2023_NEDIC_UKR</title>
-  </programme>
-  <programme start="20250919162700 +0300" stop="20250919164300 +0300" channel="4">
-    <title lang="ru">DICTATORS_16s_2023_SELLASIE_UKR</title>
-  </programme>
-  <programme start="20250919164300 +0300" stop="20250919165800 +0300" channel="4">
-    <title lang="ru">DICTATORS_17s_2023_SALAZAR_UKR</title>
-  </programme>
-  <programme start="20250919165800 +0300" stop="20250919171300 +0300" channel="4">
-    <title lang="ru">DICTATORS_10s_2023_SUHARTO_UKR</title>
-  </programme>
-  <programme start="20250919171300 +0300" stop="20250919174400 +0300" channel="4">
-    <title lang="ru">DICTATORS_52s_2023_GENSEKI_UKR</title>
-  </programme>
-  <programme start="20250919174400 +0300" stop="20250919180300 +0300" channel="4">
-    <title lang="ru">DICTATORS_15s_2023_NIYAZOV_UKR</title>
-  </programme>
-  <programme start="20250919180300 +0300" stop="20250919181800 +0300" channel="4">
-    <title lang="ru">DICTATORS_08s_2023_SEKO_UKR</title>
-  </programme>
-  <programme start="20250919181800 +0300" stop="20250919183500 +0300" channel="4">
-    <title lang="ru">DICTATORS_47s_2023_SHAMANS_UKR</title>
-  </programme>
-  <programme start="20250919183500 +0300" stop="20250919185300 +0300" channel="4">
-    <title lang="ru">DICTATORS_45s_2023_FASHNAZI_UKR</title>
-  </programme>
-  <programme start="20250919185300 +0300" stop="20250919194500 +0300" channel="4">
-    <title lang="ru">1377_Spalenyh_Zazhivo</title>
-  </programme>
-  <programme start="20250919194500 +0300" stop="20250919203000 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep05</title>
-  </programme>
-  <programme start="20250919203000 +0300" stop="20250919211600 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep02</title>
-  </programme>
-  <programme start="20250919211600 +0300" stop="20250919220100 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep03</title>
-  </programme>
-  <programme start="20250919220100 +0300" stop="20250919224700 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep04</title>
-  </programme>
-  <programme start="20250919224700 +0300" stop="20250919233100 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep07</title>
-  </programme>
-  <programme start="20250919233100 +0300" stop="20250920001300 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep09</title>
-  </programme>
-  <programme start="20250920001300 +0300" stop="20250920005800 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep08</title>
-  </programme>
-  <programme start="20250920005800 +0300" stop="20250920014300 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep01</title>
-  </programme>
-  <programme start="20250920014300 +0300" stop="20250920022700 +0300" channel="4">
-    <title lang="ru">Kruti_90_Ep06</title>
-  </programme>
-  <programme start="20250920022700 +0300" stop="20250920024200 +0300" channel="4">
-    <title lang="ru">DICTATORS_3s_2022_CHAUSHESKU_UKR</title>
-  </programme>
-  <programme start="20250920024200 +0300" stop="20250920030200 +0300" channel="4">
-    <title lang="ru">DICTATORS_11s_2022_BOKASSA_UKR</title>
-  </programme>
-  <programme start="20250920030200 +0300" stop="20250920031700 +0300" channel="4">
-    <title lang="ru">DICTATORS_2s_2022_SADDAM_UKR</title>
-  </programme>
-  <programme start="20250920031700 +0300" stop="20250920033200 +0300" channel="4">
-    <title lang="ru">DICTATORS_6s_2022_MUSSOILINI_UKR</title>
-  </programme>
-  <programme start="20250920033200 +0300" stop="20250920034800 +0300" channel="4">
-    <title lang="ru">DICTATORS_1s_2022_DINASTIAKIM_UKR</title>
-  </programme>
-  <programme start="20250920034800 +0300" stop="20250920040300 +0300" channel="4">
-    <title lang="ru">DICTATORS_5s_2022_MILOSHEVICH_UKR</title>
-  </programme>
-  <programme start="20250920040300 +0300" stop="20250920042000 +0300" channel="4">
-    <title lang="ru">DICTATORS_7s_2022_AMIN_UKR</title>
-  </programme>
-  <programme start="20250920042000 +0300" stop="20250920043500 +0300" channel="4">
-    <title lang="ru">DICTATORS_9s_2022_POLPOT_UKR</title>
-  </programme>
-  <programme start="20250920043500 +0300" stop="20250920045100 +0300" channel="4">
-    <title lang="ru">DICTATORS_8s_2022_GITLER_UKR</title>
-  </programme>
-  <programme start="20250920045100 +0300" stop="20250920055100 +0300" channel="4">
-    <title lang="ru">DICTATORS_10s_2022_FRANKO_UKR</title>
   </programme>
 </tv>
