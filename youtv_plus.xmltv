@@ -324,8 +324,11 @@
   <programme start="20250921215600 +0300" stop="20250922001300 +0300" channel="1">
     <title lang="ru">2025: Прелюдія до Інфуско</title>
   </programme>
-  <programme start="20250922001300 +0300" stop="20250922011300 +0300" channel="1">
+  <programme start="20250922001300 +0300" stop="20250922014500 +0300" channel="1">
     <title lang="ru">Мавпа проти монстра</title>
+  </programme>
+  <programme start="20250922014500 +0300" stop="20250922024500 +0300" channel="1">
+    <title lang="ru">Не попадись</title>
   </programme>
   <programme start="20250915032600 +0300" stop="20250915045600 +0300" channel="2">
     <title lang="ru">Непрохані</title>
@@ -624,7 +627,10 @@
   <programme start="20250921234900 +0300" stop="20250922012300 +0300" channel="2">
     <title lang="ru">Степфордські дружини</title>
   </programme>
-  <programme start="20250922012300 +0300" stop="20250922022300 +0300" channel="2">
+  <programme start="20250922012300 +0300" stop="20250922024900 +0300" channel="2">
     <title lang="ru">Дуже страшне кіно</title>
+  </programme>
+  <programme start="20250922024900 +0300" stop="20250922034900 +0300" channel="2">
+    <title lang="ru">Дуже страшне кіно 2</title>
   </programme>
 </tv>
