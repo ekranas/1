@@ -300,8 +300,11 @@
   <programme start="20251102225800 +0200" stop="20251103002900 +0200" channel="2">
     <title lang="ru">Паранормальне явище 2</title>
   </programme>
-  <programme start="20251103002900 +0200" stop="20251103012900 +0200" channel="2">
+  <programme start="20251103002900 +0200" stop="20251103015500 +0200" channel="2">
     <title lang="ru">Паранормальне явище 3</title>
+  </programme>
+  <programme start="20251103015500 +0200" stop="20251103025500 +0200" channel="2">
+    <title lang="ru">Паранормальне явище 4</title>
   </programme>
   <programme start="20251027020200 +0200" stop="20251027041900 +0200" channel="1">
     <title lang="ru">2025: Прелюдія до Інфуско</title>
