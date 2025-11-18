@@ -6,361 +6,271 @@
   <channel id="2">
     <display-name>Cinema Horrors HD</display-name>
   </channel>
-  <programme start="20251110023900 +0200" stop="20251110045700 +0200" channel="2">
-    <title lang="ru">Острів проклятих</title>
-  </programme>
-  <programme start="20251110045700 +0200" stop="20251110064000 +0200" channel="2">
-    <title lang="ru">Коломбіана</title>
-  </programme>
-  <programme start="20251110064000 +0200" stop="20251110084100 +0200" channel="2">
-    <title lang="ru">Лінкольн для адвоката</title>
-  </programme>
-  <programme start="20251110084100 +0200" stop="20251110100800 +0200" channel="2">
-    <title lang="ru">Мілина</title>
-  </programme>
-  <programme start="20251110100800 +0200" stop="20251110120200 +0200" channel="2">
-    <title lang="ru">Дзвінок</title>
-  </programme>
-  <programme start="20251110120200 +0200" stop="20251110135100 +0200" channel="2">
-    <title lang="ru">Дзвінок 2</title>
-  </programme>
-  <programme start="20251110135100 +0200" stop="20251110155200 +0200" channel="2">
-    <title lang="ru">Інший світ</title>
-  </programme>
-  <programme start="20251110155200 +0200" stop="20251110173700 +0200" channel="2">
-    <title lang="ru">Інший світ 2: Еволюція</title>
-  </programme>
-  <programme start="20251110173700 +0200" stop="20251110190700 +0200" channel="2">
-    <title lang="ru">Інший світ: Кровна помста</title>
-  </programme>
-  <programme start="20251110190700 +0200" stop="20251110203400 +0200" channel="2">
-    <title lang="ru">Останнє вигнання диявола</title>
-  </programme>
-  <programme start="20251110203400 +0200" stop="20251110220600 +0200" channel="2">
-    <title lang="ru">Паранормальне явище 2</title>
-  </programme>
-  <programme start="20251110220600 +0200" stop="20251110233100 +0200" channel="2">
-    <title lang="ru">Паранормальне явище 3</title>
-  </programme>
-  <programme start="20251110233100 +0200" stop="20251111010100 +0200" channel="2">
-    <title lang="ru">Паранормальне явище 4</title>
-  </programme>
-  <programme start="20251111010100 +0200" stop="20251111022600 +0200" channel="2">
-    <title lang="ru">Паранормальне явище: Фатальна мітка</title>
-  </programme>
-  <programme start="20251111022600 +0200" stop="20251111041000 +0200" channel="2">
-    <title lang="ru">Кладовище домашніх тварин</title>
-  </programme>
-  <programme start="20251111041000 +0200" stop="20251111055600 +0200" channel="2">
-    <title lang="ru">Сонна лощина</title>
-  </programme>
-  <programme start="20251111055600 +0200" stop="20251111073500 +0200" channel="2">
-    <title lang="ru">Викидайло</title>
-  </programme>
-  <programme start="20251111073500 +0200" stop="20251111090300 +0200" channel="2">
-    <title lang="ru">Жах Амітивілля</title>
-  </programme>
-  <programme start="20251111090300 +0200" stop="20251111104400 +0200" channel="2">
-    <title lang="ru">Зомбі на ім’я Шон</title>
-  </programme>
-  <programme start="20251111104400 +0200" stop="20251111122200 +0200" channel="2">
-    <title lang="ru">Син Рембо</title>
-  </programme>
-  <programme start="20251111122200 +0200" stop="20251111135600 +0200" channel="2">
-    <title lang="ru">Степфордські дружини</title>
-  </programme>
-  <programme start="20251111135600 +0200" stop="20251111152200 +0200" channel="2">
-    <title lang="ru">Дуже страшне кіно</title>
-  </programme>
-  <programme start="20251111152200 +0200" stop="20251111164400 +0200" channel="2">
-    <title lang="ru">Дуже страшне кіно 2</title>
-  </programme>
-  <programme start="20251111164400 +0200" stop="20251111180600 +0200" channel="2">
-    <title lang="ru">Дуже страшне кіно 3</title>
-  </programme>
-  <programme start="20251111180600 +0200" stop="20251111200700 +0200" channel="2">
-    <title lang="ru">Потяг до Пусана</title>
-  </programme>
-  <programme start="20251111200700 +0200" stop="20251111215100 +0200" channel="2">
-    <title lang="ru">Дещо</title>
-  </programme>
-  <programme start="20251111215100 +0200" stop="20251111231200 +0200" channel="2">
-    <title lang="ru">Монстро</title>
-  </programme>
-  <programme start="20251111231200 +0200" stop="20251112005700 +0200" channel="2">
-    <title lang="ru">1408</title>
-  </programme>
-  <programme start="20251112005700 +0200" stop="20251112024100 +0200" channel="2">
-    <title lang="ru">Полтергейст</title>
-  </programme>
-  <programme start="20251112024100 +0200" stop="20251112044500 +0200" channel="2">
-    <title lang="ru">Імла</title>
-  </programme>
-  <programme start="20251112044500 +0200" stop="20251112062000 +0200" channel="2">
-    <title lang="ru">Примарний патруль</title>
-  </programme>
-  <programme start="20251112062000 +0200" stop="20251112080100 +0200" channel="2">
-    <title lang="ru">Життя</title>
-  </programme>
-  <programme start="20251112080100 +0200" stop="20251112093100 +0200" channel="2">
-    <title lang="ru">Страшилки 2: Привиди Хелловіна</title>
-  </programme>
-  <programme start="20251112093100 +0200" stop="20251112113400 +0200" channel="2">
-    <title lang="ru">Інферно</title>
-  </programme>
-  <programme start="20251112113400 +0200" stop="20251112133200 +0200" channel="2">
-    <title lang="ru">Веном</title>
-  </programme>
-  <programme start="20251112133200 +0200" stop="20251112150500 +0200" channel="2">
-    <title lang="ru">Механік</title>
-  </programme>
-  <programme start="20251112150500 +0200" stop="20251112163500 +0200" channel="2">
-    <title lang="ru">Непрохані</title>
-  </programme>
-  <programme start="20251112163500 +0200" stop="20251112182100 +0200" channel="2">
-    <title lang="ru">Жага смерті</title>
-  </programme>
-  <programme start="20251112182100 +0200" stop="20251112203900 +0200" channel="2">
-    <title lang="ru">Острів проклятих</title>
-  </programme>
-  <programme start="20251112203900 +0200" stop="20251112222200 +0200" channel="2">
-    <title lang="ru">Коломбіана</title>
-  </programme>
-  <programme start="20251112222200 +0200" stop="20251113002300 +0200" channel="2">
-    <title lang="ru">Лінкольн для адвоката</title>
-  </programme>
-  <programme start="20251113002300 +0200" stop="20251113015000 +0200" channel="2">
-    <title lang="ru">Мілина</title>
-  </programme>
-  <programme start="20251113015000 +0200" stop="20251113034400 +0200" channel="2">
-    <title lang="ru">Дзвінок</title>
-  </programme>
-  <programme start="20251113034400 +0200" stop="20251113053300 +0200" channel="2">
-    <title lang="ru">Дзвінок 2</title>
-  </programme>
-  <programme start="20251113053300 +0200" stop="20251113073400 +0200" channel="2">
-    <title lang="ru">Інший світ</title>
-  </programme>
-  <programme start="20251113073400 +0200" stop="20251113091900 +0200" channel="2">
-    <title lang="ru">Інший світ 2: Еволюція</title>
-  </programme>
-  <programme start="20251113091900 +0200" stop="20251113104900 +0200" channel="2">
-    <title lang="ru">Інший світ: Кровна помста</title>
-  </programme>
-  <programme start="20251113104900 +0200" stop="20251113121600 +0200" channel="2">
-    <title lang="ru">Останнє вигнання диявола</title>
-  </programme>
-  <programme start="20251113121600 +0200" stop="20251113134800 +0200" channel="2">
-    <title lang="ru">Паранормальне явище 2</title>
-  </programme>
-  <programme start="20251113134800 +0200" stop="20251113151300 +0200" channel="2">
-    <title lang="ru">Паранормальне явище 3</title>
-  </programme>
-  <programme start="20251113151300 +0200" stop="20251113164300 +0200" channel="2">
-    <title lang="ru">Паранормальне явище 4</title>
-  </programme>
-  <programme start="20251113164300 +0200" stop="20251113180800 +0200" channel="2">
-    <title lang="ru">Паранормальне явище: Фатальна мітка</title>
-  </programme>
-  <programme start="20251113180800 +0200" stop="20251113195200 +0200" channel="2">
-    <title lang="ru">Кладовище домашніх тварин</title>
-  </programme>
-  <programme start="20251113195200 +0200" stop="20251113213800 +0200" channel="2">
-    <title lang="ru">Сонна лощина</title>
-  </programme>
-  <programme start="20251113213800 +0200" stop="20251113231700 +0200" channel="2">
-    <title lang="ru">Викидайло</title>
-  </programme>
-  <programme start="20251113231700 +0200" stop="20251114004500 +0200" channel="2">
-    <title lang="ru">Жах Амітивілля</title>
-  </programme>
-  <programme start="20251114004500 +0200" stop="20251114014500 +0200" channel="2">
-    <title lang="ru">Зомбі на ім’я Шон</title>
-  </programme>
-  <programme start="20251110024000 +0200" stop="20251110040200 +0200" channel="1">
-    <title lang="ru">Відстрочка</title>
-  </programme>
-  <programme start="20251110040200 +0200" stop="20251110053500 +0200" channel="1">
-    <title lang="ru">Номад: Початок</title>
-  </programme>
-  <programme start="20251110053500 +0200" stop="20251110065600 +0200" channel="1">
-    <title lang="ru">Світ предків</title>
-  </programme>
-  <programme start="20251110065600 +0200" stop="20251110083100 +0200" channel="1">
-    <title lang="ru">Далекий схил</title>
-  </programme>
-  <programme start="20251110083100 +0200" stop="20251110095900 +0200" channel="1">
-    <title lang="ru">Спокутування гріхів</title>
-  </programme>
-  <programme start="20251110095900 +0200" stop="20251110112700 +0200" channel="1">
-    <title lang="ru">Брудна брехня</title>
-  </programme>
-  <programme start="20251110112700 +0200" stop="20251110125700 +0200" channel="1">
-    <title lang="ru">Подорож у джунглях</title>
-  </programme>
-  <programme start="20251110125700 +0200" stop="20251110142400 +0200" channel="1">
-    <title lang="ru">Прикордонний картель</title>
-  </programme>
-  <programme start="20251110142400 +0200" stop="20251110160700 +0200" channel="1">
-    <title lang="ru">Боротися до кінця</title>
-  </programme>
-  <programme start="20251110160700 +0200" stop="20251110173900 +0200" channel="1">
-    <title lang="ru">Тор: Бог грому</title>
-  </programme>
-  <programme start="20251110173900 +0200" stop="20251110191100 +0200" channel="1">
-    <title lang="ru">Кінець світу</title>
-  </programme>
-  <programme start="20251110191100 +0200" stop="20251110204300 +0200" channel="1">
-    <title lang="ru">Дьявольский треугольник</title>
-  </programme>
-  <programme start="20251110204300 +0200" stop="20251110221500 +0200" channel="1">
-    <title lang="ru">Помпеи: Апокалипсис Помпеї: Апокаліпсис</title>
-  </programme>
-  <programme start="20251110221500 +0200" stop="20251110235300 +0200" channel="1">
-    <title lang="ru">Бугай</title>
-  </programme>
-  <programme start="20251110235300 +0200" stop="20251111012200 +0200" channel="1">
-    <title lang="ru">Небезпечне небо: Мертва зона</title>
-  </programme>
-  <programme start="20251111012200 +0200" stop="20251111025300 +0200" channel="1">
+  <programme start="20251117021900 +0200" stop="20251117034900 +0200" channel="1">
     <title lang="ru">Акваріум мерців</title>
   </programme>
-  <programme start="20251111025300 +0200" stop="20251111042400 +0200" channel="1">
+  <programme start="20251117034900 +0200" stop="20251117052100 +0200" channel="1">
     <title lang="ru">Сезон акул</title>
   </programme>
-  <programme start="20251111042400 +0200" stop="20251111064200 +0200" channel="1">
+  <programme start="20251117052100 +0200" stop="20251117073800 +0200" channel="1">
     <title lang="ru">2025: Прелюдія до Інфуско</title>
   </programme>
-  <programme start="20251111064200 +0200" stop="20251111081400 +0200" channel="1">
+  <programme start="20251117073800 +0200" stop="20251117091100 +0200" channel="1">
     <title lang="ru">Мавпа проти монстра</title>
   </programme>
-  <programme start="20251111081400 +0200" stop="20251111093700 +0200" channel="1">
+  <programme start="20251117091100 +0200" stop="20251117103400 +0200" channel="1">
     <title lang="ru">Не попадись</title>
   </programme>
-  <programme start="20251111093700 +0200" stop="20251111110600 +0200" channel="1">
+  <programme start="20251117103400 +0200" stop="20251117120300 +0200" channel="1">
     <title lang="ru">Смертельні перегони</title>
   </programme>
-  <programme start="20251111110600 +0200" stop="20251111124500 +0200" channel="1">
+  <programme start="20251117120300 +0200" stop="20251117134200 +0200" channel="1">
     <title lang="ru">Мистецтво обману</title>
   </programme>
-  <programme start="20251111124500 +0200" stop="20251111142900 +0200" channel="1">
+  <programme start="20251117134200 +0200" stop="20251117152600 +0200" channel="1">
     <title lang="ru">Ніндзя. Незламне серце</title>
   </programme>
-  <programme start="20251111142900 +0200" stop="20251111155100 +0200" channel="1">
+  <programme start="20251117152600 +0200" stop="20251117164800 +0200" channel="1">
     <title lang="ru">Метеор: Перший контакт</title>
   </programme>
-  <programme start="20251111155100 +0200" stop="20251111171100 +0200" channel="1">
+  <programme start="20251117164800 +0200" stop="20251117180800 +0200" channel="1">
     <title lang="ru">Контракти</title>
   </programme>
-  <programme start="20251111171100 +0200" stop="20251111185400 +0200" channel="1">
+  <programme start="20251117180800 +0200" stop="20251117195100 +0200" channel="1">
     <title lang="ru">Під водою</title>
   </programme>
-  <programme start="20251111185400 +0200" stop="20251111202700 +0200" channel="1">
+  <programme start="20251117195100 +0200" stop="20251117212400 +0200" channel="1">
     <title lang="ru">Кров вікінгів</title>
   </programme>
-  <programme start="20251111202700 +0200" stop="20251111215100 +0200" channel="1">
+  <programme start="20251117212400 +0200" stop="20251117224800 +0200" channel="1">
     <title lang="ru">Нічия земля</title>
   </programme>
-  <programme start="20251111215100 +0200" stop="20251111233100 +0200" channel="1">
+  <programme start="20251117224800 +0200" stop="20251118002800 +0200" channel="1">
     <title lang="ru">Не вір нікому</title>
   </programme>
-  <programme start="20251111233100 +0200" stop="20251112010500 +0200" channel="1">
+  <programme start="20251118002800 +0200" stop="20251118020200 +0200" channel="1">
     <title lang="ru">Грозовий шторм</title>
   </programme>
-  <programme start="20251112010500 +0200" stop="20251112023400 +0200" channel="1">
+  <programme start="20251118020200 +0200" stop="20251118033100 +0200" channel="1">
     <title lang="ru">Небезпечне небо</title>
   </programme>
-  <programme start="20251112023400 +0200" stop="20251112040400 +0200" channel="1">
+  <programme start="20251118033100 +0200" stop="20251118050100 +0200" channel="1">
     <title lang="ru">Незнайомці на порозі</title>
   </programme>
-  <programme start="20251112040400 +0200" stop="20251112053300 +0200" channel="1">
+  <programme start="20251118050100 +0200" stop="20251118063000 +0200" channel="1">
     <title lang="ru">Чужі проти Титаніка</title>
   </programme>
-  <programme start="20251112053300 +0200" stop="20251112070500 +0200" channel="1">
+  <programme start="20251118063000 +0200" stop="20251118080200 +0200" channel="1">
     <title lang="ru">Астероїдогеддон</title>
   </programme>
-  <programme start="20251112070500 +0200" stop="20251112084300 +0200" channel="1">
+  <programme start="20251118080200 +0200" stop="20251118093900 +0200" channel="1">
     <title lang="ru">Виконавець</title>
   </programme>
-  <programme start="20251112084300 +0200" stop="20251112101100 +0200" channel="1">
+  <programme start="20251118093900 +0200" stop="20251118110800 +0200" channel="1">
     <title lang="ru">Колайдер</title>
   </programme>
-  <programme start="20251112101100 +0200" stop="20251112114900 +0200" channel="1">
+  <programme start="20251118110800 +0200" stop="20251118124600 +0200" channel="1">
     <title lang="ru">Підозрюваний</title>
   </programme>
-  <programme start="20251112114900 +0200" stop="20251112132800 +0200" channel="1">
+  <programme start="20251118124600 +0200" stop="20251118142400 +0200" channel="1">
     <title lang="ru">Містерія</title>
   </programme>
-  <programme start="20251112132800 +0200" stop="20251112145300 +0200" channel="1">
+  <programme start="20251118142400 +0200" stop="20251118155000 +0200" channel="1">
     <title lang="ru">Зрада</title>
   </programme>
-  <programme start="20251112145300 +0200" stop="20251112162400 +0200" channel="1">
+  <programme start="20251118155000 +0200" stop="20251118172100 +0200" channel="1">
     <title lang="ru">Бун: Мисливець за головами</title>
   </programme>
-  <programme start="20251112162400 +0200" stop="20251112175200 +0200" channel="1">
+  <programme start="20251118172100 +0200" stop="20251118184900 +0200" channel="1">
     <title lang="ru">Небезпечне небо</title>
   </programme>
-  <programme start="20251112175200 +0200" stop="20251112192000 +0200" channel="1">
+  <programme start="20251118184900 +0200" stop="20251118201700 +0200" channel="1">
     <title lang="ru">Час смерті</title>
   </programme>
-  <programme start="20251112192000 +0200" stop="20251112203900 +0200" channel="1">
+  <programme start="20251118201700 +0200" stop="20251118213600 +0200" channel="1">
     <title lang="ru">Морський змій</title>
   </programme>
-  <programme start="20251112203900 +0200" stop="20251112220600 +0200" channel="1">
+  <programme start="20251118213600 +0200" stop="20251118230300 +0200" channel="1">
     <title lang="ru">Мегалодон: Відродження</title>
   </programme>
-  <programme start="20251112220600 +0200" stop="20251112233800 +0200" channel="1">
+  <programme start="20251118230300 +0200" stop="20251119003500 +0200" channel="1">
     <title lang="ru">Інопланетний хижак</title>
   </programme>
-  <programme start="20251112233800 +0200" stop="20251113012100 +0200" channel="1">
+  <programme start="20251119003500 +0200" stop="20251119021700 +0200" channel="1">
     <title lang="ru">Зрадник</title>
   </programme>
-  <programme start="20251113012100 +0200" stop="20251113030800 +0200" channel="1">
+  <programme start="20251119021700 +0200" stop="20251119040500 +0200" channel="1">
     <title lang="ru">Кривава весна</title>
   </programme>
-  <programme start="20251113030800 +0200" stop="20251113043000 +0200" channel="1">
+  <programme start="20251119040500 +0200" stop="20251119052700 +0200" channel="1">
     <title lang="ru">Відстрочка</title>
   </programme>
-  <programme start="20251113043000 +0200" stop="20251113060400 +0200" channel="1">
+  <programme start="20251119052700 +0200" stop="20251119070100 +0200" channel="1">
     <title lang="ru">Номад: Початок</title>
   </programme>
-  <programme start="20251113060400 +0200" stop="20251113072500 +0200" channel="1">
+  <programme start="20251119070100 +0200" stop="20251119082200 +0200" channel="1">
     <title lang="ru">Світ предків</title>
   </programme>
-  <programme start="20251113072500 +0200" stop="20251113090000 +0200" channel="1">
+  <programme start="20251119082200 +0200" stop="20251119095700 +0200" channel="1">
     <title lang="ru">Далекий схил</title>
   </programme>
-  <programme start="20251113090000 +0200" stop="20251113102800 +0200" channel="1">
+  <programme start="20251119095700 +0200" stop="20251119112500 +0200" channel="1">
     <title lang="ru">Спокутування гріхів</title>
   </programme>
-  <programme start="20251113102800 +0200" stop="20251113115500 +0200" channel="1">
+  <programme start="20251119112500 +0200" stop="20251119125200 +0200" channel="1">
     <title lang="ru">Брудна брехня</title>
   </programme>
-  <programme start="20251113115500 +0200" stop="20251113132500 +0200" channel="1">
+  <programme start="20251119125200 +0200" stop="20251119142200 +0200" channel="1">
     <title lang="ru">Подорож у джунглях</title>
   </programme>
-  <programme start="20251113132500 +0200" stop="20251113145200 +0200" channel="1">
+  <programme start="20251119142200 +0200" stop="20251119154900 +0200" channel="1">
     <title lang="ru">Прикордонний картель</title>
   </programme>
-  <programme start="20251113145200 +0200" stop="20251113163600 +0200" channel="1">
+  <programme start="20251119154900 +0200" stop="20251119173300 +0200" channel="1">
     <title lang="ru">Боротися до кінця</title>
   </programme>
-  <programme start="20251113163600 +0200" stop="20251113180700 +0200" channel="1">
+  <programme start="20251119173300 +0200" stop="20251119190400 +0200" channel="1">
     <title lang="ru">Тор: Бог грому</title>
   </programme>
-  <programme start="20251113180700 +0200" stop="20251113193900 +0200" channel="1">
+  <programme start="20251119190400 +0200" stop="20251119203600 +0200" channel="1">
     <title lang="ru">Кінець світу</title>
   </programme>
-  <programme start="20251113193900 +0200" stop="20251113211200 +0200" channel="1">
+  <programme start="20251119203600 +0200" stop="20251119220800 +0200" channel="1">
     <title lang="ru">Дьявольский треугольник</title>
   </programme>
-  <programme start="20251113211200 +0200" stop="20251113224300 +0200" channel="1">
+  <programme start="20251119220800 +0200" stop="20251119234000 +0200" channel="1">
     <title lang="ru">Помпеи: Апокалипсис Помпеї: Апокаліпсис</title>
   </programme>
-  <programme start="20251113224300 +0200" stop="20251114002100 +0200" channel="1">
+  <programme start="20251119234000 +0200" stop="20251120011800 +0200" channel="1">
     <title lang="ru">Бугай</title>
   </programme>
-  <programme start="20251114002100 +0200" stop="20251114012100 +0200" channel="1">
+  <programme start="20251120011800 +0200" stop="20251120021800 +0200" channel="1">
     <title lang="ru">Небезпечне небо: Мертва зона</title>
+  </programme>
+  <programme start="20251117033100 +0200" stop="20251117051500 +0200" channel="2">
+    <title lang="ru">Дещо</title>
+  </programme>
+  <programme start="20251117051500 +0200" stop="20251117063600 +0200" channel="2">
+    <title lang="ru">Монстро</title>
+  </programme>
+  <programme start="20251117063600 +0200" stop="20251117082100 +0200" channel="2">
+    <title lang="ru">1408</title>
+  </programme>
+  <programme start="20251117082100 +0200" stop="20251117100500 +0200" channel="2">
+    <title lang="ru">Полтергейст</title>
+  </programme>
+  <programme start="20251117100500 +0200" stop="20251117120900 +0200" channel="2">
+    <title lang="ru">Імла</title>
+  </programme>
+  <programme start="20251117120900 +0200" stop="20251117134400 +0200" channel="2">
+    <title lang="ru">Примарний патруль</title>
+  </programme>
+  <programme start="20251117134400 +0200" stop="20251117152500 +0200" channel="2">
+    <title lang="ru">Життя</title>
+  </programme>
+  <programme start="20251117152500 +0200" stop="20251117165500 +0200" channel="2">
+    <title lang="ru">Страшилки 2: Привиди Хелловіна</title>
+  </programme>
+  <programme start="20251117165500 +0200" stop="20251117185800 +0200" channel="2">
+    <title lang="ru">Інферно</title>
+  </programme>
+  <programme start="20251117185800 +0200" stop="20251117205600 +0200" channel="2">
+    <title lang="ru">Веном</title>
+  </programme>
+  <programme start="20251117205600 +0200" stop="20251117222900 +0200" channel="2">
+    <title lang="ru">Механік</title>
+  </programme>
+  <programme start="20251117222900 +0200" stop="20251117235900 +0200" channel="2">
+    <title lang="ru">Непрохані</title>
+  </programme>
+  <programme start="20251117235900 +0200" stop="20251118014500 +0200" channel="2">
+    <title lang="ru">Жага смерті</title>
+  </programme>
+  <programme start="20251118014500 +0200" stop="20251118040300 +0200" channel="2">
+    <title lang="ru">Острів проклятих</title>
+  </programme>
+  <programme start="20251118040300 +0200" stop="20251118054600 +0200" channel="2">
+    <title lang="ru">Коломбіана</title>
+  </programme>
+  <programme start="20251118054600 +0200" stop="20251118074700 +0200" channel="2">
+    <title lang="ru">Лінкольн для адвоката</title>
+  </programme>
+  <programme start="20251118074700 +0200" stop="20251118091400 +0200" channel="2">
+    <title lang="ru">Мілина</title>
+  </programme>
+  <programme start="20251118091400 +0200" stop="20251118110800 +0200" channel="2">
+    <title lang="ru">Дзвінок</title>
+  </programme>
+  <programme start="20251118110800 +0200" stop="20251118125700 +0200" channel="2">
+    <title lang="ru">Дзвінок 2</title>
+  </programme>
+  <programme start="20251118125700 +0200" stop="20251118145800 +0200" channel="2">
+    <title lang="ru">Інший світ</title>
+  </programme>
+  <programme start="20251118145800 +0200" stop="20251118164300 +0200" channel="2">
+    <title lang="ru">Інший світ 2: Еволюція</title>
+  </programme>
+  <programme start="20251118164300 +0200" stop="20251118181300 +0200" channel="2">
+    <title lang="ru">Інший світ: Кровна помста</title>
+  </programme>
+  <programme start="20251118181300 +0200" stop="20251118194000 +0200" channel="2">
+    <title lang="ru">Останнє вигнання диявола</title>
+  </programme>
+  <programme start="20251118194000 +0200" stop="20251118211200 +0200" channel="2">
+    <title lang="ru">Паранормальне явище 2</title>
+  </programme>
+  <programme start="20251118211200 +0200" stop="20251118223700 +0200" channel="2">
+    <title lang="ru">Паранормальне явище 3</title>
+  </programme>
+  <programme start="20251118223700 +0200" stop="20251119000700 +0200" channel="2">
+    <title lang="ru">Паранормальне явище 4</title>
+  </programme>
+  <programme start="20251119000700 +0200" stop="20251119013200 +0200" channel="2">
+    <title lang="ru">Паранормальне явище: Фатальна мітка</title>
+  </programme>
+  <programme start="20251119013200 +0200" stop="20251119031600 +0200" channel="2">
+    <title lang="ru">Кладовище домашніх тварин</title>
+  </programme>
+  <programme start="20251119031600 +0200" stop="20251119050200 +0200" channel="2">
+    <title lang="ru">Сонна лощина</title>
+  </programme>
+  <programme start="20251119050200 +0200" stop="20251119064100 +0200" channel="2">
+    <title lang="ru">Викидайло</title>
+  </programme>
+  <programme start="20251119064100 +0200" stop="20251119080900 +0200" channel="2">
+    <title lang="ru">Жах Амітивілля</title>
+  </programme>
+  <programme start="20251119080900 +0200" stop="20251119095000 +0200" channel="2">
+    <title lang="ru">Зомбі на ім’я Шон</title>
+  </programme>
+  <programme start="20251119095000 +0200" stop="20251119112800 +0200" channel="2">
+    <title lang="ru">Син Рембо</title>
+  </programme>
+  <programme start="20251119112800 +0200" stop="20251119130200 +0200" channel="2">
+    <title lang="ru">Степфордські дружини</title>
+  </programme>
+  <programme start="20251119130200 +0200" stop="20251119142800 +0200" channel="2">
+    <title lang="ru">Дуже страшне кіно</title>
+  </programme>
+  <programme start="20251119142800 +0200" stop="20251119155000 +0200" channel="2">
+    <title lang="ru">Дуже страшне кіно 2</title>
+  </programme>
+  <programme start="20251119155000 +0200" stop="20251119171200 +0200" channel="2">
+    <title lang="ru">Дуже страшне кіно 3</title>
+  </programme>
+  <programme start="20251119171200 +0200" stop="20251119191300 +0200" channel="2">
+    <title lang="ru">Потяг до Пусана</title>
+  </programme>
+  <programme start="20251119191300 +0200" stop="20251119205700 +0200" channel="2">
+    <title lang="ru">Дещо</title>
+  </programme>
+  <programme start="20251119205700 +0200" stop="20251119221800 +0200" channel="2">
+    <title lang="ru">Монстро</title>
+  </programme>
+  <programme start="20251119221800 +0200" stop="20251120000300 +0200" channel="2">
+    <title lang="ru">1408</title>
+  </programme>
+  <programme start="20251120000300 +0200" stop="20251120010300 +0200" channel="2">
+    <title lang="ru">Полтергейст</title>
   </programme>
 </tv>
