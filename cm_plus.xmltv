@@ -222,7 +222,191 @@
   <programme start="20251127234200 +0200" stop="20251128005100 +0200" channel="1">
     <title lang="ru">Вмілі красуні</title>
   </programme>
-  <programme start="20251128005100 +0200" stop="20251128015100 +0200" channel="1">
+  <programme start="20251128005100 +0200" stop="20251128020600 +0200" channel="1">
     <title lang="ru">Студентки вчаться швидко</title>
+  </programme>
+  <programme start="20251128020600 +0200" stop="20251128032400 +0200" channel="1">
+    <title lang="ru">Мені можна все</title>
+  </programme>
+  <programme start="20251128032400 +0200" stop="20251128044100 +0200" channel="1">
+    <title lang="ru">У нас нова няня</title>
+  </programme>
+  <programme start="20251128044100 +0200" stop="20251128055700 +0200" channel="1">
+    <title lang="ru">Мрії повинні збуватись</title>
+  </programme>
+  <programme start="20251128055700 +0200" stop="20251128070400 +0200" channel="1">
+    <title lang="ru">Вболівальниці в гостях у спортсменів</title>
+    <category lang="ru">Спорт</category>
+  </programme>
+  <programme start="20251128070400 +0200" stop="20251128081100 +0200" channel="1">
+    <title lang="ru">Перша вечірка</title>
+  </programme>
+  <programme start="20251128081100 +0200" stop="20251128092600 +0200" channel="1">
+    <title lang="ru">Вечірка у коледжі</title>
+  </programme>
+  <programme start="20251128092600 +0200" stop="20251128104200 +0200" channel="1">
+    <title lang="ru">Приміряємо обновки!</title>
+  </programme>
+  <programme start="20251128104200 +0200" stop="20251128115500 +0200" channel="1">
+    <title lang="ru">Веселі вихідні</title>
+  </programme>
+  <programme start="20251128115500 +0200" stop="20251128131000 +0200" channel="1">
+    <title lang="ru">Практичні заняття</title>
+  </programme>
+  <programme start="20251128131000 +0200" stop="20251128142200 +0200" channel="1">
+    <title lang="ru">Досвідчені майстри</title>
+  </programme>
+  <programme start="20251128142200 +0200" stop="20251128153500 +0200" channel="1">
+    <title lang="ru">Чого нас навчать ці дівчата?</title>
+  </programme>
+  <programme start="20251128153500 +0200" stop="20251128164800 +0200" channel="1">
+    <title lang="ru">Довгий робочий день</title>
+  </programme>
+  <programme start="20251128164800 +0200" stop="20251128175900 +0200" channel="1">
+    <title lang="ru">Дівчата з коледжу</title>
+  </programme>
+  <programme start="20251128175900 +0200" stop="20251128190700 +0200" channel="1">
+    <title lang="ru">Вечір на кухні</title>
+  </programme>
+  <programme start="20251128190700 +0200" stop="20251128201800 +0200" channel="1">
+    <title lang="ru">Веселі подружки</title>
+  </programme>
+  <programme start="20251128201800 +0200" stop="20251128213000 +0200" channel="1">
+    <title lang="ru">Найкращий друг</title>
+  </programme>
+  <programme start="20251128213000 +0200" stop="20251128225600 +0200" channel="1">
+    <title lang="ru">У нас будуть гості</title>
+  </programme>
+  <programme start="20251128225600 +0200" stop="20251129001000 +0200" channel="1">
+    <title lang="ru">Зустріч у вихідний</title>
+  </programme>
+  <programme start="20251129001000 +0200" stop="20251129012300 +0200" channel="1">
+    <title lang="ru">Це буде весела вечірка</title>
+  </programme>
+  <programme start="20251129012300 +0200" stop="20251129023300 +0200" channel="1">
+    <title lang="ru">Добре серце</title>
+  </programme>
+  <programme start="20251129023300 +0200" stop="20251129034100 +0200" channel="1">
+    <title lang="ru">Працьовиті дівчата</title>
+  </programme>
+  <programme start="20251129034100 +0200" stop="20251129045400 +0200" channel="1">
+    <title lang="ru">Небезпечний зв'язок</title>
+  </programme>
+  <programme start="20251129045400 +0200" stop="20251129061300 +0200" channel="1">
+    <title lang="ru">У пошуках гарної няні</title>
+  </programme>
+  <programme start="20251129061300 +0200" stop="20251129072000 +0200" channel="1">
+    <title lang="ru">За крок від зради</title>
+  </programme>
+  <programme start="20251129072000 +0200" stop="20251129083300 +0200" channel="1">
+    <title lang="ru">Сімейні узи</title>
+  </programme>
+  <programme start="20251129083300 +0200" stop="20251129094100 +0200" channel="1">
+    <title lang="ru">Повернення додому</title>
+  </programme>
+  <programme start="20251129094100 +0200" stop="20251129105400 +0200" channel="1">
+    <title lang="ru">Юна модниця</title>
+  </programme>
+  <programme start="20251129105400 +0200" stop="20251129120300 +0200" channel="1">
+    <title lang="ru">Поки вдома немає батьків</title>
+  </programme>
+  <programme start="20251129120300 +0200" stop="20251129131500 +0200" channel="1">
+    <title lang="ru">Веселі канікули</title>
+  </programme>
+  <programme start="20251129131500 +0200" stop="20251129142400 +0200" channel="1">
+    <title lang="ru">Веселий вечір з друзями</title>
+  </programme>
+  <programme start="20251129142400 +0200" stop="20251129154100 +0200" channel="1">
+    <title lang="ru">Неймовірна вечірка</title>
+  </programme>
+  <programme start="20251129154100 +0200" stop="20251129165200 +0200" channel="1">
+    <title lang="ru">Вибираємо найкращу няню</title>
+  </programme>
+  <programme start="20251129165200 +0200" stop="20251129180100 +0200" channel="1">
+    <title lang="ru">Коли вдома тільки ми</title>
+  </programme>
+  <programme start="20251129180100 +0200" stop="20251129192000 +0200" channel="1">
+    <title lang="ru">Темношкірі подружки запрошують у гості</title>
+  </programme>
+  <programme start="20251129192000 +0200" stop="20251129202700 +0200" channel="1">
+    <title lang="ru">Красуні збирають вечірку</title>
+  </programme>
+  <programme start="20251129202700 +0200" stop="20251129213800 +0200" channel="1">
+    <title lang="ru">Йога нового формату</title>
+  </programme>
+  <programme start="20251129213800 +0200" stop="20251129224700 +0200" channel="1">
+    <title lang="ru">Такі різні дівчата</title>
+  </programme>
+  <programme start="20251129224700 +0200" stop="20251129235700 +0200" channel="1">
+    <title lang="ru">Покарання неминуче</title>
+  </programme>
+  <programme start="20251129235700 +0200" stop="20251130011000 +0200" channel="1">
+    <title lang="ru">Вечір у компанії медсестер</title>
+  </programme>
+  <programme start="20251130011000 +0200" stop="20251130021400 +0200" channel="1">
+    <title lang="ru">Веселий день двох подружок</title>
+  </programme>
+  <programme start="20251130021400 +0200" stop="20251130033300 +0200" channel="1">
+    <title lang="ru">Пустотливе тренування</title>
+  </programme>
+  <programme start="20251130033300 +0200" stop="20251130044100 +0200" channel="1">
+    <title lang="ru">Темні нетрі</title>
+  </programme>
+  <programme start="20251130044100 +0200" stop="20251130055100 +0200" channel="1">
+    <title lang="ru">Заборонені очікування</title>
+  </programme>
+  <programme start="20251130055100 +0200" stop="20251130070000 +0200" channel="1">
+    <title lang="ru">Досвідчена</title>
+  </programme>
+  <programme start="20251130070000 +0200" stop="20251130081300 +0200" channel="1">
+    <title lang="ru">Хто помиє мою машину?</title>
+  </programme>
+  <programme start="20251130081300 +0200" stop="20251130092600 +0200" channel="1">
+    <title lang="ru">Неймовірні пригоди</title>
+  </programme>
+  <programme start="20251130092600 +0200" stop="20251130103400 +0200" channel="1">
+    <title lang="ru">Підступні танці</title>
+  </programme>
+  <programme start="20251130103400 +0200" stop="20251130114200 +0200" channel="1">
+    <title lang="ru">Шоколадні дівчата</title>
+  </programme>
+  <programme start="20251130114200 +0200" stop="20251130125100 +0200" channel="1">
+    <title lang="ru">Що вміють досвідчені няньки?</title>
+  </programme>
+  <programme start="20251130125100 +0200" stop="20251130140200 +0200" channel="1">
+    <title lang="ru">Перша зустріч</title>
+  </programme>
+  <programme start="20251130140200 +0200" stop="20251130150800 +0200" channel="1">
+    <title lang="ru">Чудовий масажист</title>
+  </programme>
+  <programme start="20251130150800 +0200" stop="20251130162300 +0200" channel="1">
+    <title lang="ru">Понаднормові заняття</title>
+  </programme>
+  <programme start="20251130162300 +0200" stop="20251130173000 +0200" channel="1">
+    <title lang="ru">Як спокусити боса?</title>
+  </programme>
+  <programme start="20251130173000 +0200" stop="20251130183700 +0200" channel="1">
+    <title lang="ru">Пригоди на канікулах</title>
+  </programme>
+  <programme start="20251130183700 +0200" stop="20251130195100 +0200" channel="1">
+    <title lang="ru">Сусіди йдуть у гості</title>
+  </programme>
+  <programme start="20251130195100 +0200" stop="20251130210200 +0200" channel="1">
+    <title lang="ru">Урок масажу</title>
+  </programme>
+  <programme start="20251130210200 +0200" stop="20251130221000 +0200" channel="1">
+    <title lang="ru">Урок масажу</title>
+  </programme>
+  <programme start="20251130221000 +0200" stop="20251130231900 +0200" channel="1">
+    <title lang="ru">Вечірні розваги</title>
+  </programme>
+  <programme start="20251130231900 +0200" stop="20251201002600 +0200" channel="1">
+    <title lang="ru">Сюрприз від дівчат</title>
+  </programme>
+  <programme start="20251201002600 +0200" stop="20251201013900 +0200" channel="1">
+    <title lang="ru">Клуб досвідчених нянь</title>
+  </programme>
+  <programme start="20251201013900 +0200" stop="20251201023900 +0200" channel="1">
+    <title lang="ru">Азіатська історія</title>
   </programme>
 </tv>
