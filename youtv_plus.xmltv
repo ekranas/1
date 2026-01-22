@@ -9,21 +9,15 @@
   <channel id="3">
     <display-name>Viasat True Crime HD</display-name>
   </channel>
-  <programme start="20260119020500 +0200" stop="20260119025500 +0200" channel="3">
-    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 2 с. "Стюарт Велдон".</title>
-  </programme>
-  <programme start="20260119025500 +0200" stop="20260119034000 +0200" channel="3">
-    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 3 с. "Джейсон Скотт".</title>
-  </programme>
-  <programme start="20260119034000 +0200" stop="20260119043000 +0200" channel="3">
-    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 4 с. "Річард Бізлі".</title>
-  </programme>
-  <programme start="20260119043000 +0200" stop="20260119051500 +0200" channel="3">
-    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 5 с. "Коді Легебокофф".</title>
-  </programme>
-  <programme start="20260119051500 +0200" stop="20260119061500 +0200" channel="3">
-    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 6 с. "Метью Гоффман".</title>
-  </programme>
+  <channel id="4">
+    <display-name>Nick Jr</display-name>
+  </channel>
+  <channel id="5">
+    <display-name>Nickelodeon HD</display-name>
+  </channel>
+  <channel id="6">
+    <display-name>Nicktoons</display-name>
+  </channel>
   <programme start="20260119024900 +0200" stop="20260119042800 +0200" channel="2">
     <title lang="ru">Викидайло</title>
   </programme>
@@ -54,11 +48,8 @@
   <programme start="20260119170000 +0200" stop="20260119184400 +0200" channel="2">
     <title lang="ru">Дещо</title>
   </programme>
-  <programme start="20260119184400 +0200" stop="20260119200500 +0200" channel="2">
+  <programme start="20260119184400 +0200" stop="20260119215000 +0200" channel="2">
     <title lang="ru">Монстро</title>
-  </programme>
-  <programme start="20260119200500 +0200" stop="20260119215000 +0200" channel="2">
-    <title lang="ru">1408</title>
   </programme>
   <programme start="20260119215000 +0200" stop="20260119233400 +0200" channel="2">
     <title lang="ru">Полтергейст</title>
@@ -105,8 +96,137 @@
   <programme start="20260120224300 +0200" stop="20260121003700 +0200" channel="2">
     <title lang="ru">Дзвінок</title>
   </programme>
-  <programme start="20260121003700 +0200" stop="20260121013700 +0200" channel="2">
+  <programme start="20260121003700 +0200" stop="20260121022600 +0200" channel="2">
     <title lang="ru">Дзвінок 2</title>
+  </programme>
+  <programme start="20260121022600 +0200" stop="20260121042700 +0200" channel="2">
+    <title lang="ru">Інший світ</title>
+  </programme>
+  <programme start="20260121042700 +0200" stop="20260121061200 +0200" channel="2">
+    <title lang="ru">Інший світ 2: Еволюція</title>
+  </programme>
+  <programme start="20260121061200 +0200" stop="20260121074200 +0200" channel="2">
+    <title lang="ru">Інший світ: Кровна помста</title>
+  </programme>
+  <programme start="20260121074200 +0200" stop="20260121090900 +0200" channel="2">
+    <title lang="ru">Останнє вигнання диявола</title>
+  </programme>
+  <programme start="20260121090900 +0200" stop="20260121104100 +0200" channel="2">
+    <title lang="ru">Паранормальне явище 2</title>
+  </programme>
+  <programme start="20260121104100 +0200" stop="20260121120600 +0200" channel="2">
+    <title lang="ru">Паранормальне явище 3</title>
+  </programme>
+  <programme start="20260121120600 +0200" stop="20260121133600 +0200" channel="2">
+    <title lang="ru">Паранормальне явище 4</title>
+  </programme>
+  <programme start="20260121133600 +0200" stop="20260121150100 +0200" channel="2">
+    <title lang="ru">Паранормальне явище: Фатальна мітка</title>
+  </programme>
+  <programme start="20260121150100 +0200" stop="20260121164500 +0200" channel="2">
+    <title lang="ru">Кладовище домашніх тварин</title>
+  </programme>
+  <programme start="20260121164500 +0200" stop="20260121183100 +0200" channel="2">
+    <title lang="ru">Сонна лощина</title>
+  </programme>
+  <programme start="20260121183100 +0200" stop="20260121201000 +0200" channel="2">
+    <title lang="ru">Викидайло</title>
+  </programme>
+  <programme start="20260121201000 +0200" stop="20260121213800 +0200" channel="2">
+    <title lang="ru">Жах Амітивілля</title>
+  </programme>
+  <programme start="20260121213800 +0200" stop="20260121231900 +0200" channel="2">
+    <title lang="ru">Зомбі на ім’я Шон</title>
+  </programme>
+  <programme start="20260121231900 +0200" stop="20260122005700 +0200" channel="2">
+    <title lang="ru">Син Рембо</title>
+  </programme>
+  <programme start="20260122005700 +0200" stop="20260122023100 +0200" channel="2">
+    <title lang="ru">Степфордські дружини</title>
+  </programme>
+  <programme start="20260122023100 +0200" stop="20260122035700 +0200" channel="2">
+    <title lang="ru">Дуже страшне кіно</title>
+  </programme>
+  <programme start="20260122035700 +0200" stop="20260122051900 +0200" channel="2">
+    <title lang="ru">Дуже страшне кіно 2</title>
+  </programme>
+  <programme start="20260122051900 +0200" stop="20260122064100 +0200" channel="2">
+    <title lang="ru">Дуже страшне кіно 3</title>
+  </programme>
+  <programme start="20260122064100 +0200" stop="20260122084200 +0200" channel="2">
+    <title lang="ru">Потяг до Пусана</title>
+  </programme>
+  <programme start="20260122084200 +0200" stop="20260122102600 +0200" channel="2">
+    <title lang="ru">Дещо</title>
+  </programme>
+  <programme start="20260122102600 +0200" stop="20260122114700 +0200" channel="2">
+    <title lang="ru">Монстро</title>
+  </programme>
+  <programme start="20260122114700 +0200" stop="20260122133200 +0200" channel="2">
+    <title lang="ru">1408</title>
+  </programme>
+  <programme start="20260122133200 +0200" stop="20260122151600 +0200" channel="2">
+    <title lang="ru">Полтергейст</title>
+  </programme>
+  <programme start="20260122151600 +0200" stop="20260122172000 +0200" channel="2">
+    <title lang="ru">Імла</title>
+  </programme>
+  <programme start="20260122172000 +0200" stop="20260122185500 +0200" channel="2">
+    <title lang="ru">Примарний патруль</title>
+  </programme>
+  <programme start="20260122185500 +0200" stop="20260122203600 +0200" channel="2">
+    <title lang="ru">Життя</title>
+  </programme>
+  <programme start="20260122203600 +0200" stop="20260122220600 +0200" channel="2">
+    <title lang="ru">Страшилки 2: Привиди Хелловіна</title>
+  </programme>
+  <programme start="20260122220600 +0200" stop="20260123000900 +0200" channel="2">
+    <title lang="ru">Інферно</title>
+  </programme>
+  <programme start="20260123000900 +0200" stop="20260123020700 +0200" channel="2">
+    <title lang="ru">Веном</title>
+  </programme>
+  <programme start="20260123020700 +0200" stop="20260123034000 +0200" channel="2">
+    <title lang="ru">Механік</title>
+  </programme>
+  <programme start="20260123034000 +0200" stop="20260123051000 +0200" channel="2">
+    <title lang="ru">Непрохані</title>
+  </programme>
+  <programme start="20260123051000 +0200" stop="20260123065600 +0200" channel="2">
+    <title lang="ru">Жага смерті</title>
+  </programme>
+  <programme start="20260123065600 +0200" stop="20260123091400 +0200" channel="2">
+    <title lang="ru">Острів проклятих</title>
+  </programme>
+  <programme start="20260123091400 +0200" stop="20260123105700 +0200" channel="2">
+    <title lang="ru">Коломбіана</title>
+  </programme>
+  <programme start="20260123105700 +0200" stop="20260123125800 +0200" channel="2">
+    <title lang="ru">Лінкольн для адвоката</title>
+  </programme>
+  <programme start="20260123125800 +0200" stop="20260123142500 +0200" channel="2">
+    <title lang="ru">Мілина</title>
+  </programme>
+  <programme start="20260123142500 +0200" stop="20260123161900 +0200" channel="2">
+    <title lang="ru">Дзвінок</title>
+  </programme>
+  <programme start="20260123161900 +0200" stop="20260123180800 +0200" channel="2">
+    <title lang="ru">Дзвінок 2</title>
+  </programme>
+  <programme start="20260123180800 +0200" stop="20260123200900 +0200" channel="2">
+    <title lang="ru">Інший світ</title>
+  </programme>
+  <programme start="20260123200900 +0200" stop="20260123215400 +0200" channel="2">
+    <title lang="ru">Інший світ 2: Еволюція</title>
+  </programme>
+  <programme start="20260123215400 +0200" stop="20260123232400 +0200" channel="2">
+    <title lang="ru">Інший світ: Кровна помста</title>
+  </programme>
+  <programme start="20260123232400 +0200" stop="20260124005100 +0200" channel="2">
+    <title lang="ru">Останнє вигнання диявола</title>
+  </programme>
+  <programme start="20260124005100 +0200" stop="20260124015100 +0200" channel="2">
+    <title lang="ru">Паранормальне явище 2</title>
   </programme>
   <programme start="20260119021700 +0200" stop="20260119024200 +0200" channel="1">
     <title lang="ru">Смертоносна жертва</title>
@@ -273,31 +393,853 @@
   <programme start="20260120191200 +0200" stop="20260120192100 +0200" channel="1">
     <title lang="ru">Бун: Мисливець за головами</title>
   </programme>
-  <programme start="20260120192100 +0200" stop="20260120203800 +0200" channel="1">
+  <programme start="20260120192100 +0200" stop="20260120204100 +0200" channel="1">
     <title lang="ru">Містерія</title>
   </programme>
-  <programme start="20260120203800 +0200" stop="20260120205900 +0200" channel="1">
-    <title lang="ru">Астероїдогеддон</title>
+  <programme start="20260120204100 +0200" stop="20260120205900 +0200" channel="1">
+    <title lang="ru">Атака грейхаундів</title>
   </programme>
-  <programme start="20260120205900 +0200" stop="20260120220500 +0200" channel="1">
+  <programme start="20260120205900 +0200" stop="20260120220100 +0200" channel="1">
     <title lang="ru">Зрада</title>
   </programme>
-  <programme start="20260120220500 +0200" stop="20260120222500 +0200" channel="1">
-    <title lang="ru">Грозовий шторм</title>
+  <programme start="20260120220100 +0200" stop="20260120222500 +0200" channel="1">
+    <title lang="ru">Мавпа проти монстра</title>
   </programme>
-  <programme start="20260120222500 +0200" stop="20260120233500 +0200" channel="1">
+  <programme start="20260120222500 +0200" stop="20260120232900 +0200" channel="1">
     <title lang="ru">Бун: Мисливець за головами</title>
   </programme>
-  <programme start="20260120233500 +0200" stop="20260120235500 +0200" channel="1">
-    <title lang="ru">Нічия земля</title>
+  <programme start="20260120232900 +0200" stop="20260120235500 +0200" channel="1">
+    <title lang="ru">Швидкісна відповідь</title>
   </programme>
-  <programme start="20260120235500 +0200" stop="20260121005500 +0200" channel="1">
+  <programme start="20260120235500 +0200" stop="20260121005800 +0200" channel="1">
     <title lang="ru">Небезпечне небо</title>
   </programme>
-  <programme start="20260121005500 +0200" stop="20260121012300 +0200" channel="1">
-    <title lang="ru">Виконавець</title>
+  <programme start="20260121005800 +0200" stop="20260121012300 +0200" channel="1">
+    <title lang="ru">Мегаудав</title>
   </programme>
   <programme start="20260121012300 +0200" stop="20260121022300 +0200" channel="1">
     <title lang="ru">Час смерті</title>
+  </programme>
+  <programme start="20260121022300 +0200" stop="20260121025100 +0200" channel="1">
+    <title lang="ru">Небезпечне небо</title>
+  </programme>
+  <programme start="20260121025100 +0200" stop="20260121034700 +0200" channel="1">
+    <title lang="ru">Морський змій</title>
+  </programme>
+  <programme start="20260121034700 +0200" stop="20260121041000 +0200" channel="1">
+    <title lang="ru">Місяць-метеорит</title>
+  </programme>
+  <programme start="20260121041000 +0200" stop="20260121051600 +0200" channel="1">
+    <title lang="ru">Мегалодон: Відродження</title>
+  </programme>
+  <programme start="20260121051600 +0200" stop="20260121053800 +0200" channel="1">
+    <title lang="ru">Шрам Сербії</title>
+  </programme>
+  <programme start="20260121053800 +0200" stop="20260121065200 +0200" channel="1">
+    <title lang="ru">Інопланетний хижак</title>
+  </programme>
+  <programme start="20260121065200 +0200" stop="20260121071000 +0200" channel="1">
+    <title lang="ru">Месники Грімм: Війни часу</title>
+  </programme>
+  <programme start="20260121071000 +0200" stop="20260121082000 +0200" channel="1">
+    <title lang="ru">Зрадник</title>
+  </programme>
+  <programme start="20260121082000 +0200" stop="20260121085200 +0200" channel="1">
+    <title lang="ru">Зрада (укр)</title>
+  </programme>
+  <programme start="20260121085200 +0200" stop="20260121094200 +0200" channel="1">
+    <title lang="ru">Кривава весна</title>
+  </programme>
+  <programme start="20260121094200 +0200" stop="20260121104000 +0200" channel="1">
+    <title lang="ru">Кривава весна (укр)</title>
+  </programme>
+  <programme start="20260121104000 +0200" stop="20260121112500 +0200" channel="1">
+    <title lang="ru">Відстрочка</title>
+  </programme>
+  <programme start="20260121112500 +0200" stop="20260121120200 +0200" channel="1">
+    <title lang="ru">Брудна брехня</title>
+  </programme>
+  <programme start="20260121120200 +0200" stop="20260121124800 +0200" channel="1">
+    <title lang="ru">Номад: Початок</title>
+  </programme>
+  <programme start="20260121124800 +0200" stop="20260121133500 +0200" channel="1">
+    <title lang="ru">Колайдер</title>
+  </programme>
+  <programme start="20260121133500 +0200" stop="20260121141200 +0200" channel="1">
+    <title lang="ru">Світ предків</title>
+  </programme>
+  <programme start="20260121141200 +0200" stop="20260121145600 +0200" channel="1">
+    <title lang="ru">Під водою</title>
+  </programme>
+  <programme start="20260121145600 +0200" stop="20260121155100 +0200" channel="1">
+    <title lang="ru">Далекий схил</title>
+  </programme>
+  <programme start="20260121155100 +0200" stop="20260121163100 +0200" channel="1">
+    <title lang="ru">Ніндзя. Незламне серце</title>
+  </programme>
+  <programme start="20260121163100 +0200" stop="20260121173000 +0200" channel="1">
+    <title lang="ru">Спокутування гріхів</title>
+  </programme>
+  <programme start="20260121173000 +0200" stop="20260121175900 +0200" channel="1">
+    <title lang="ru">Містерія</title>
+  </programme>
+  <programme start="20260121175900 +0200" stop="20260121190400 +0200" channel="1">
+    <title lang="ru">Брудна брехня</title>
+  </programme>
+  <programme start="20260121190400 +0200" stop="20260121192700 +0200" channel="1">
+    <title lang="ru">Спокутування гріхів</title>
+  </programme>
+  <programme start="20260121192700 +0200" stop="20260121202700 +0200" channel="1">
+    <title lang="ru">Подорож у джунглях</title>
+  </programme>
+  <programme start="20260121202700 +0200" stop="20260121205600 +0200" channel="1">
+    <title lang="ru">Смертельні перегони</title>
+  </programme>
+  <programme start="20260121205600 +0200" stop="20260121215200 +0200" channel="1">
+    <title lang="ru">Прикордонний картель</title>
+  </programme>
+  <programme start="20260121215200 +0200" stop="20260121222400 +0200" channel="1">
+    <title lang="ru">Сезон акул</title>
+  </programme>
+  <programme start="20260121222400 +0200" stop="20260121231900 +0200" channel="1">
+    <title lang="ru">Боротися до кінця</title>
+  </programme>
+  <programme start="20260121231900 +0200" stop="20260122000700 +0200" channel="1">
+    <title lang="ru">Підозрюваний</title>
+  </programme>
+  <programme start="20260122000700 +0200" stop="20260122005300 +0200" channel="1">
+    <title lang="ru">Тор: Бог грому</title>
+  </programme>
+  <programme start="20260122005300 +0200" stop="20260122013800 +0200" channel="1">
+    <title lang="ru">Подорож у джунглях</title>
+  </programme>
+  <programme start="20260122013800 +0200" stop="20260122021900 +0200" channel="1">
+    <title lang="ru">Кінець світу</title>
+  </programme>
+  <programme start="20260122021900 +0200" stop="20260122031100 +0200" channel="1">
+    <title lang="ru">Астероїдогеддон</title>
+  </programme>
+  <programme start="20260122031100 +0200" stop="20260122034600 +0200" channel="1">
+    <title lang="ru">Дьявольский треугольник</title>
+  </programme>
+  <programme start="20260122034600 +0200" stop="20260122044300 +0200" channel="1">
+    <title lang="ru">Грозовий шторм</title>
+  </programme>
+  <programme start="20260122044300 +0200" stop="20260122051600 +0200" channel="1">
+    <title lang="ru">Помпеї: Апокаліпсис</title>
+  </programme>
+  <programme start="20260122051600 +0200" stop="20260122061500 +0200" channel="1">
+    <title lang="ru">Нічия земля</title>
+  </programme>
+  <programme start="20260122061500 +0200" stop="20260122063600 +0200" channel="1">
+    <title lang="ru">Бугай</title>
+  </programme>
+  <programme start="20260122063600 +0200" stop="20260122075200 +0200" channel="1">
+    <title lang="ru">Зрада</title>
+  </programme>
+  <programme start="20260122075200 +0200" stop="20260122075800 +0200" channel="1">
+    <title lang="ru">Небезпечне небо: Мертва зона</title>
+  </programme>
+  <programme start="20260122075800 +0200" stop="20260122092200 +0200" channel="1">
+    <title lang="ru">Кров вікінгів</title>
+  </programme>
+  <programme start="20260122092200 +0200" stop="20260122092600 +0200" channel="1">
+    <title lang="ru">Акваріум мерців</title>
+  </programme>
+  <programme start="20260122092600 +0200" stop="20260122104500 +0200" channel="1">
+    <title lang="ru">Метеор: Перший контакт</title>
+  </programme>
+  <programme start="20260122104500 +0200" stop="20260122105200 +0200" channel="1">
+    <title lang="ru">Не вір нікому</title>
+  </programme>
+  <programme start="20260122105200 +0200" stop="20260122122000 +0200" channel="1">
+    <title lang="ru">Сезон акул</title>
+  </programme>
+  <programme start="20260122122000 +0200" stop="20260122122400 +0200" channel="1">
+    <title lang="ru">Небезпечне небо: Мертва зона</title>
+  </programme>
+  <programme start="20260122122400 +0200" stop="20260122134600 +0200" channel="1">
+    <title lang="ru">2025: Прелюдія до Інфуско</title>
+  </programme>
+  <programme start="20260122134600 +0200" stop="20260122144100 +0200" channel="1">
+    <title lang="ru">Біла кров</title>
+  </programme>
+  <programme start="20260122144100 +0200" stop="20260122150800 +0200" channel="1">
+    <title lang="ru">Мавпа проти монстра</title>
+  </programme>
+  <programme start="20260122150800 +0200" stop="20260122161400 +0200" channel="1">
+    <title lang="ru">Далекий схил (жестова мова)</title>
+  </programme>
+  <programme start="20260122161400 +0200" stop="20260122163900 +0200" channel="1">
+    <title lang="ru">Не попадись</title>
+  </programme>
+  <programme start="20260122163900 +0200" stop="20260122173600 +0200" channel="1">
+    <title lang="ru">Світ предків</title>
+  </programme>
+  <programme start="20260122173600 +0200" stop="20260122175500 +0200" channel="1">
+    <title lang="ru">Смертельні перегони</title>
+  </programme>
+  <programme start="20260122175500 +0200" stop="20260122190500 +0200" channel="1">
+    <title lang="ru">Боротися до кінця</title>
+  </programme>
+  <programme start="20260122190500 +0200" stop="20260122193500 +0200" channel="1">
+    <title lang="ru">Мистецтво обману</title>
+  </programme>
+  <programme start="20260122193500 +0200" stop="20260122204500 +0200" channel="1">
+    <title lang="ru">Кінець світу</title>
+  </programme>
+  <programme start="20260122204500 +0200" stop="20260122210300 +0200" channel="1">
+    <title lang="ru">Ніндзя. Незламне серце</title>
+  </programme>
+  <programme start="20260122210300 +0200" stop="20260122222800 +0200" channel="1">
+    <title lang="ru">Номад: Початок</title>
+  </programme>
+  <programme start="20260122222800 +0200" stop="20260122223200 +0200" channel="1">
+    <title lang="ru">Метеор: Перший контакт</title>
+  </programme>
+  <programme start="20260122223200 +0200" stop="20260122235100 +0200" channel="1">
+    <title lang="ru">Далекий схил</title>
+  </programme>
+  <programme start="20260122235100 +0200" stop="20260123000300 +0200" channel="1">
+    <title lang="ru">Контракти</title>
+  </programme>
+  <programme start="20260123000300 +0200" stop="20260123011000 +0200" channel="1">
+    <title lang="ru">Робопокаліпсис</title>
+  </programme>
+  <programme start="20260123011000 +0200" stop="20260123013000 +0200" channel="1">
+    <title lang="ru">Під водою</title>
+  </programme>
+  <programme start="20260123013000 +0200" stop="20260123025300 +0200" channel="1">
+    <title lang="ru">Останній рівень: Втеча з Ранкали</title>
+  </programme>
+  <programme start="20260123025300 +0200" stop="20260123025700 +0200" channel="1">
+    <title lang="ru">Кров вікінгів</title>
+  </programme>
+  <programme start="20260123025700 +0200" stop="20260123042100 +0200" channel="1">
+    <title lang="ru">Американське правосуддя</title>
+  </programme>
+  <programme start="20260123042100 +0200" stop="20260123042600 +0200" channel="1">
+    <title lang="ru">Інопланетне вторгнення</title>
+  </programme>
+  <programme start="20260123042600 +0200" stop="20260123054900 +0200" channel="1">
+    <title lang="ru">Нічия земля</title>
+  </programme>
+  <programme start="20260123054900 +0200" stop="20260123055000 +0200" channel="1">
+    <title lang="ru">Відстрочка</title>
+  </programme>
+  <programme start="20260123055000 +0200" stop="20260123070600 +0200" channel="1">
+    <title lang="ru">Не вір нікому</title>
+  </programme>
+  <programme start="20260123070600 +0200" stop="20260123073100 +0200" channel="1">
+    <title lang="ru">Сан-Андреас: Мега-землетрус</title>
+  </programme>
+  <programme start="20260123073100 +0200" stop="20260123083400 +0200" channel="1">
+    <title lang="ru">Грозовий шторм</title>
+  </programme>
+  <programme start="20260123083400 +0200" stop="20260123090500 +0200" channel="1">
+    <title lang="ru">Прикордонний картель</title>
+  </programme>
+  <programme start="20260123090500 +0200" stop="20260123095600 +0200" channel="1">
+    <title lang="ru">Небезпечне небо</title>
+  </programme>
+  <programme start="20260123095600 +0200" stop="20260123103300 +0200" channel="1">
+    <title lang="ru">Помпеї: Апокаліпсис</title>
+  </programme>
+  <programme start="20260123103300 +0200" stop="20260123112400 +0200" channel="1">
+    <title lang="ru">Незнайомці на порозі</title>
+  </programme>
+  <programme start="20260123112400 +0200" stop="20260123120400 +0200" channel="1">
+    <title lang="ru">Острів монстрів</title>
+  </programme>
+  <programme start="20260123120400 +0200" stop="20260123125300 +0200" channel="1">
+    <title lang="ru">Чужі проти Титаніка</title>
+  </programme>
+  <programme start="20260123125300 +0200" stop="20260123133300 +0200" channel="1">
+    <title lang="ru">Атака грейхаундів</title>
+  </programme>
+  <programme start="20260123133300 +0200" stop="20260123141300 +0200" channel="1">
+    <title lang="ru">Астероїдогеддон</title>
+  </programme>
+  <programme start="20260123141300 +0200" stop="20260123150500 +0200" channel="1">
+    <title lang="ru">Мавпа проти монстра</title>
+  </programme>
+  <programme start="20260123150500 +0200" stop="20260123154100 +0200" channel="1">
+    <title lang="ru">Виконавець</title>
+  </programme>
+  <programme start="20260123154100 +0200" stop="20260123164200 +0200" channel="1">
+    <title lang="ru">Швидкісна відповідь</title>
+  </programme>
+  <programme start="20260123164200 +0200" stop="20260123171000 +0200" channel="1">
+    <title lang="ru">Колайдер</title>
+  </programme>
+  <programme start="20260123171000 +0200" stop="20260123181100 +0200" channel="1">
+    <title lang="ru">Мегаудав</title>
+  </programme>
+  <programme start="20260123181100 +0200" stop="20260123183500 +0200" channel="1">
+    <title lang="ru">Підозрюваний</title>
+  </programme>
+  <programme start="20260123183500 +0200" stop="20260123194900 +0200" channel="1">
+    <title lang="ru">Небезпечне небо</title>
+  </programme>
+  <programme start="20260123194900 +0200" stop="20260123195900 +0200" channel="1">
+    <title lang="ru">Містерія</title>
+  </programme>
+  <programme start="20260123195900 +0200" stop="20260123212700 +0200" channel="1">
+    <title lang="ru">Місяць-метеорит</title>
+  </programme>
+  <programme start="20260123212700 +0200" stop="20260123225300 +0200" channel="1">
+    <title lang="ru">Зрада</title>
+  </programme>
+  <programme start="20260123225300 +0200" stop="20260123230400 +0200" channel="1">
+    <title lang="ru">Бун: Мисливець за головами</title>
+  </programme>
+  <programme start="20260123230400 +0200" stop="20260124002400 +0200" channel="1">
+    <title lang="ru">Месники Грімм: Війни часу</title>
+  </programme>
+  <programme start="20260124002400 +0200" stop="20260124003200 +0200" channel="1">
+    <title lang="ru">Небезпечне небо</title>
+  </programme>
+  <programme start="20260124003200 +0200" stop="20260124013200 +0200" channel="1">
+    <title lang="ru">Зрада (укр)</title>
+  </programme>
+  <programme start="20260119025500 +0200" stop="20260119034000 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 3 с. "Джейсон Скотт".</title>
+  </programme>
+  <programme start="20260119034000 +0200" stop="20260119043000 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 4 с. "Річард Бізлі".</title>
+  </programme>
+  <programme start="20260119043000 +0200" stop="20260119051500 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 5 с. "Коді Легебокофф".</title>
+  </programme>
+  <programme start="20260119051500 +0200" stop="20260119060000 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 6 с. "Метью Гоффман".</title>
+  </programme>
+  <programme start="20260119060000 +0200" stop="20260119070500 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 7 с. "Гауелл Дональдсон III".</title>
+  </programme>
+  <programme start="20260119070500 +0200" stop="20260119073500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонний патруль Нової Зеландії", 6 сезон, 11 с. "Підроблений алкоголь".</title>
+  </programme>
+  <programme start="20260119073500 +0200" stop="20260119083000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 1 с.</title>
+  </programme>
+  <programme start="20260119083000 +0200" stop="20260119093000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі справи", 3 сезон, 1 с. "Убивства з підпалом".</title>
+  </programme>
+  <programme start="20260119093000 +0200" stop="20260119102500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 11 с. "Анджела Дікінсон".</title>
+  </programme>
+  <programme start="20260119102500 +0200" stop="20260119112500 +0200" channel="3">
+    <title lang="ru">Д/с "В'язниці Австралії", 1 сезон, 3 с.</title>
+  </programme>
+  <programme start="20260119112500 +0200" stop="20260119122000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 2 с.</title>
+  </programme>
+  <programme start="20260119122000 +0200" stop="20260119131500 +0200" channel="3">
+    <title lang="ru">Д/с "У свідомості серійного вбивці", 1 сезон, 3 с. "Андерс Брейвік".</title>
+  </programme>
+  <programme start="20260119131500 +0200" stop="20260119141500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі брати й сестри", 1 сезон, 10 с. "В'ю".</title>
+  </programme>
+  <programme start="20260119141500 +0200" stop="20260119151500 +0200" channel="3">
+    <title lang="ru">Д/ф "Убивчі відгуки на Amazon", 2 с.</title>
+  </programme>
+  <programme start="20260119151500 +0200" stop="20260119161500 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 11 с. "Інший чоловік".</title>
+  </programme>
+  <programme start="20260119161500 +0200" stop="20260119171000 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 5 с. "Убивство на острові".</title>
+  </programme>
+  <programme start="20260119171000 +0200" stop="20260119180500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 11 с. "Анджела Дікінсон".</title>
+  </programme>
+  <programme start="20260119180500 +0200" stop="20260119190500 +0200" channel="3">
+    <title lang="ru">Д/с "В'язниці Австралії", 1 сезон, 3 с.</title>
+  </programme>
+  <programme start="20260119190500 +0200" stop="20260119210000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 1 с.</title>
+  </programme>
+  <programme start="20260119210000 +0200" stop="20260119220000 +0200" channel="3">
+    <title lang="ru">Д/ф "Сохем. Спіймати вбивцю", 3 с.</title>
+  </programme>
+  <programme start="20260119220000 +0200" stop="20260119225500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 5 с. "Убивство на острові".</title>
+  </programme>
+  <programme start="20260119225500 +0200" stop="20260119235000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 5 с. "Побачення зі смертю".</title>
+  </programme>
+  <programme start="20260119235000 +0200" stop="20260120013500 +0200" channel="3">
+    <title lang="ru">Д/ф "Убивця з інструментами".</title>
+  </programme>
+  <programme start="20260120013500 +0200" stop="20260120023000 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 11 с. "Анджела Дікінсон".</title>
+  </programme>
+  <programme start="20260120023000 +0200" stop="20260120032500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 5 с. "Убивство на острові".</title>
+  </programme>
+  <programme start="20260120032500 +0200" stop="20260120041500 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 1 с. "Вільям Ріс".</title>
+  </programme>
+  <programme start="20260120041500 +0200" stop="20260120050000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 5 с. "Побачення зі смертю".</title>
+  </programme>
+  <programme start="20260120050000 +0200" stop="20260120055000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі справи", 3 сезон, 11 с. "Убивство джазового музиканта".</title>
+  </programme>
+  <programme start="20260120055000 +0200" stop="20260120071000 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 1 с. "У глибині душі я знав".</title>
+  </programme>
+  <programme start="20260120071000 +0200" stop="20260120074000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонний патруль Нової Зеландії", 6 сезон, 1 с. "Пакувальник тіл".</title>
+  </programme>
+  <programme start="20260120074000 +0200" stop="20260120083500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 2 с.</title>
+  </programme>
+  <programme start="20260120083500 +0200" stop="20260120093500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі справи", 3 сезон, 2 с. "Убивство студентки за обміном".</title>
+  </programme>
+  <programme start="20260120093500 +0200" stop="20260120103000 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 12 с. "Юніс Крістіна Родрігес".</title>
+  </programme>
+  <programme start="20260120103000 +0200" stop="20260120113000 +0200" channel="3">
+    <title lang="ru">Д/с "В'язниці Австралії", 1 сезон, 4 с.</title>
+  </programme>
+  <programme start="20260120113000 +0200" stop="20260120122500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 3 с.</title>
+  </programme>
+  <programme start="20260120122500 +0200" stop="20260120132000 +0200" channel="3">
+    <title lang="ru">Д/с "У свідомості серійного вбивці", 1 сезон, 6 с. "Стівен Гріффітс".</title>
+  </programme>
+  <programme start="20260120132000 +0200" stop="20260120142000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 1 с. "Седдон".</title>
+  </programme>
+  <programme start="20260120142000 +0200" stop="20260120152000 +0200" channel="3">
+    <title lang="ru">Д/ф "Сохем. Спіймати вбивцю", 3 с.</title>
+  </programme>
+  <programme start="20260120152000 +0200" stop="20260120161500 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 12 с. "Хтось, кому ти довіряєш".</title>
+  </programme>
+  <programme start="20260120161500 +0200" stop="20260120171000 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 6 с. "Убивство взимку".</title>
+  </programme>
+  <programme start="20260120171000 +0200" stop="20260120181000 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 12 с. "Юніс Крістіна Родрігес".</title>
+  </programme>
+  <programme start="20260120181000 +0200" stop="20260120190500 +0200" channel="3">
+    <title lang="ru">Д/с "В'язниці Австралії", 1 сезон, 4 с.</title>
+  </programme>
+  <programme start="20260120190500 +0200" stop="20260120210000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 2 с.</title>
+  </programme>
+  <programme start="20260120210000 +0200" stop="20260120220000 +0200" channel="3">
+    <title lang="ru">Д/ф "Щоденник ґвалтівника", 3 с.</title>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260120225500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 6 с. "Убивство взимку".</title>
+  </programme>
+  <programme start="20260120225500 +0200" stop="20260120235000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 6 с. "Далеко від дому".</title>
+  </programme>
+  <programme start="20260120235000 +0200" stop="20260121011500 +0200" channel="3">
+    <title lang="ru">Д/ф "Убивства в пансіонаті", 1 с.</title>
+  </programme>
+  <programme start="20260121011500 +0200" stop="20260121021000 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 12 с. "Юніс Крістіна Родрігес".</title>
+  </programme>
+  <programme start="20260121021000 +0200" stop="20260121030500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 6 с. "Убивство взимку".</title>
+  </programme>
+  <programme start="20260121030500 +0200" stop="20260121035500 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 2 с. "Стюарт Велдон".</title>
+  </programme>
+  <programme start="20260121035500 +0200" stop="20260121044000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 6 с. "Далеко від дому".</title>
+  </programme>
+  <programme start="20260121044000 +0200" stop="20260121052500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі справи", 3 сезон, 12 с. "Убивство зимової ночі".</title>
+  </programme>
+  <programme start="20260121052500 +0200" stop="20260121061500 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 3 с. "Трагедія в Теннессі".</title>
+  </programme>
+  <programme start="20260121061500 +0200" stop="20260121071500 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 4 с. "Остаточна пропозиція".</title>
+  </programme>
+  <programme start="20260121071500 +0200" stop="20260121074500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонний патруль Нової Зеландії", 6 сезон, 2 с. "Арджі Барджі".</title>
+  </programme>
+  <programme start="20260121074500 +0200" stop="20260121084500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 3 с.</title>
+  </programme>
+  <programme start="20260121084500 +0200" stop="20260121094000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі справи", 3 сезон, 3 с. "Убивство менонітів".</title>
+  </programme>
+  <programme start="20260121094000 +0200" stop="20260121103500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 13 с. "Розаліна Едмондсон".</title>
+  </programme>
+  <programme start="20260121103500 +0200" stop="20260121113000 +0200" channel="3">
+    <title lang="ru">Д/с "В'язниці Австралії", 1 сезон, 5 с.</title>
+  </programme>
+  <programme start="20260121113000 +0200" stop="20260121123000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 4 с.</title>
+  </programme>
+  <programme start="20260121123000 +0200" stop="20260121132500 +0200" channel="3">
+    <title lang="ru">Д/с "У свідомості серійного вбивці", 1 сезон, 7 с. "Джоанна Деннехі".</title>
+  </programme>
+  <programme start="20260121132500 +0200" stop="20260121142000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 2 с. "Ньюолл".</title>
+  </programme>
+  <programme start="20260121142000 +0200" stop="20260121152000 +0200" channel="3">
+    <title lang="ru">Д/ф "Щоденник ґвалтівника", 3 с.</title>
+  </programme>
+  <programme start="20260121152000 +0200" stop="20260121162000 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 13 с. "Убивство на VHS-касеті".</title>
+  </programme>
+  <programme start="20260121162000 +0200" stop="20260121171500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 1 с. "Кров у снігу".</title>
+  </programme>
+  <programme start="20260121171500 +0200" stop="20260121181000 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 13 с. "Розаліна Едмондсон".</title>
+  </programme>
+  <programme start="20260121181000 +0200" stop="20260121190500 +0200" channel="3">
+    <title lang="ru">Д/с "В'язниці Австралії", 1 сезон, 5 с.</title>
+  </programme>
+  <programme start="20260121190500 +0200" stop="20260121200000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 3 с.</title>
+  </programme>
+  <programme start="20260121200000 +0200" stop="20260121210000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 3 с. "Кларк".</title>
+  </programme>
+  <programme start="20260121210000 +0200" stop="20260121220000 +0200" channel="3">
+    <title lang="ru">Д/ф "Інша місіс Джордан", 1 с. "Закоханість у Супермена".</title>
+  </programme>
+  <programme start="20260121220000 +0200" stop="20260121225500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 1 с. "Кров у снігу".</title>
+  </programme>
+  <programme start="20260121225500 +0200" stop="20260121235000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 7 с. "Убивця з клейкою стрічкою".</title>
+  </programme>
+  <programme start="20260121235000 +0200" stop="20260122011500 +0200" channel="3">
+    <title lang="ru">Д/ф "Убивства в пансіонаті", 2 с.</title>
+  </programme>
+  <programme start="20260122011500 +0200" stop="20260122021000 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 13 с. "Розаліна Едмондсон".</title>
+  </programme>
+  <programme start="20260122021000 +0200" stop="20260122030500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 1 с. "Кров у снігу".</title>
+  </programme>
+  <programme start="20260122030500 +0200" stop="20260122035500 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 3 с. "Джейсон Скотт".</title>
+  </programme>
+  <programme start="20260122035500 +0200" stop="20260122044000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 7 с. "Убивця з клейкою стрічкою".</title>
+  </programme>
+  <programme start="20260122044000 +0200" stop="20260122052500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі справи", 3 сезон, 1 с. "Убивства з підпалом".</title>
+  </programme>
+  <programme start="20260122052500 +0200" stop="20260122061500 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 5 с. "Вчинення вбивства".</title>
+  </programme>
+  <programme start="20260122061500 +0200" stop="20260122072000 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 6 с. "Остання поїздка".</title>
+  </programme>
+  <programme start="20260122072000 +0200" stop="20260122075000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонний патруль Нової Зеландії", 6 сезон, 3 с. "Вкрадене посвідчення".</title>
+  </programme>
+  <programme start="20260122075000 +0200" stop="20260122084500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 4 с.</title>
+  </programme>
+  <programme start="20260122084500 +0200" stop="20260122094000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі справи", 3 сезон, 4 с. "Убивство в салоні краси".</title>
+  </programme>
+  <programme start="20260122094000 +0200" stop="20260122103500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 14 с. "Ширлі Джо Філліпс".</title>
+  </programme>
+  <programme start="20260122103500 +0200" stop="20260122113000 +0200" channel="3">
+    <title lang="ru">Д/с "В'язниці Австралії", 1 сезон, 6 с.</title>
+  </programme>
+  <programme start="20260122113000 +0200" stop="20260122123000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 5 с.</title>
+  </programme>
+  <programme start="20260122123000 +0200" stop="20260122132500 +0200" channel="3">
+    <title lang="ru">Д/с "У свідомості серійного вбивці", 1 сезон, 8 с. "Ізраель Кіз".</title>
+  </programme>
+  <programme start="20260122132500 +0200" stop="20260122142500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 3 с. "Кларк".</title>
+  </programme>
+  <programme start="20260122142500 +0200" stop="20260122152500 +0200" channel="3">
+    <title lang="ru">Д/ф "Інша місіс Джордан", 1 с. "Закоханість у Супермена".</title>
+  </programme>
+  <programme start="20260122152500 +0200" stop="20260122162000 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 14 с. "Подвійна особистість".</title>
+  </programme>
+  <programme start="20260122162000 +0200" stop="20260122172000 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 2 с. "Смерть в Анкориджі".</title>
+  </programme>
+  <programme start="20260122172000 +0200" stop="20260122181500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 14 с. "Ширлі Джо Філліпс".</title>
+  </programme>
+  <programme start="20260122181500 +0200" stop="20260122190500 +0200" channel="3">
+    <title lang="ru">Д/с "В'язниці Австралії", 1 сезон, 6 с.</title>
+  </programme>
+  <programme start="20260122190500 +0200" stop="20260122200500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 4 с.</title>
+  </programme>
+  <programme start="20260122200500 +0200" stop="20260122210000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 4 с. "Блеквел".</title>
+  </programme>
+  <programme start="20260122210000 +0200" stop="20260122220000 +0200" channel="3">
+    <title lang="ru">Д/ф "Я спостерігатиму за тобою", 1 с.</title>
+  </programme>
+  <programme start="20260122220000 +0200" stop="20260122225500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 2 с. "Смерть в Анкориджі".</title>
+  </programme>
+  <programme start="20260122225500 +0200" stop="20260122235000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 8 с. "Зізнання".</title>
+  </programme>
+  <programme start="20260122235000 +0200" stop="20260123015000 +0200" channel="3">
+    <title lang="ru">Д/ф "Канібал з арбалетом".</title>
+  </programme>
+  <programme start="20260123015000 +0200" stop="20260123024500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 14 с. "Ширлі Джо Філліпс".</title>
+  </programme>
+  <programme start="20260123024500 +0200" stop="20260123034000 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 2 с. "Смерть в Анкориджі".</title>
+  </programme>
+  <programme start="20260123034000 +0200" stop="20260123042500 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 4 с. "Річард Бізлі".</title>
+  </programme>
+  <programme start="20260123042500 +0200" stop="20260123051500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 8 с. "Зізнання".</title>
+  </programme>
+  <programme start="20260123051500 +0200" stop="20260123060000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі справи", 3 сезон, 2 с. "Убивство студентки за обміном".</title>
+  </programme>
+  <programme start="20260123060000 +0200" stop="20260123071500 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 7 с. "Приголомшений і стурбований".</title>
+  </programme>
+  <programme start="20260123071500 +0200" stop="20260123074500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонний патруль Нової Зеландії", 6 сезон, 4 с. "Безсоння Натана".</title>
+  </programme>
+  <programme start="20260123074500 +0200" stop="20260123084000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 5 с.</title>
+  </programme>
+  <programme start="20260123084000 +0200" stop="20260123094000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі справи", 3 сезон, 5 с. "Убивство зірки баскетболу".</title>
+  </programme>
+  <programme start="20260123094000 +0200" stop="20260123103500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 15 с. "Клара Ректор".</title>
+  </programme>
+  <programme start="20260123103500 +0200" stop="20260123113000 +0200" channel="3">
+    <title lang="ru">Д/с "В'язниці Австралії", 1 сезон, 7 с.</title>
+  </programme>
+  <programme start="20260123113000 +0200" stop="20260123122500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 6 с.</title>
+  </programme>
+  <programme start="20260123122500 +0200" stop="20260123132000 +0200" channel="3">
+    <title lang="ru">Д/с "У свідомості серійного вбивці", 1 сезон, 9 с. "Ентоні Соуелл".</title>
+  </programme>
+  <programme start="20260123132000 +0200" stop="20260123142000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 4 с. "Блеквел".</title>
+  </programme>
+  <programme start="20260123142000 +0200" stop="20260123152000 +0200" channel="3">
+    <title lang="ru">Д/с "TikTok: вірусне вбивство", 2 сезон, 3 с. "Убивство Бріанни Гей".</title>
+  </programme>
+  <programme start="20260123152000 +0200" stop="20260123162000 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 15 с. "Зміна на цвинтарі".</title>
+  </programme>
+  <programme start="20260123162000 +0200" stop="20260123171500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 3 с. "Крижана лють".</title>
+  </programme>
+  <programme start="20260123171500 +0200" stop="20260123181000 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 15 с. "Клара Ректор".</title>
+  </programme>
+  <programme start="20260123181000 +0200" stop="20260123190500 +0200" channel="3">
+    <title lang="ru">Д/с "В'язниці Австралії", 1 сезон, 7 с.</title>
+  </programme>
+  <programme start="20260123190500 +0200" stop="20260123200000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 5 с.</title>
+  </programme>
+  <programme start="20260123200000 +0200" stop="20260123210000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 5 с. "Дайтон".</title>
+  </programme>
+  <programme start="20260123210000 +0200" stop="20260123220000 +0200" channel="3">
+    <title lang="ru">Д/ф "Тіло по сусідству", 1 с. "Тіло".</title>
+  </programme>
+  <programme start="20260123220000 +0200" stop="20260123225500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 3 с. "Крижана лють".</title>
+  </programme>
+  <programme start="20260123225500 +0200" stop="20260123235000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство в країні амішів", 1 с. "Амішський жеребець".</title>
+  </programme>
+  <programme start="20260123235000 +0200" stop="20260124015000 +0200" channel="3">
+    <title lang="ru">Д/ф "Зізнання психопата-вбивці".</title>
+  </programme>
+  <programme start="20260124015000 +0200" stop="20260124024500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 15 с. "Клара Ректор".</title>
+  </programme>
+  <programme start="20260124024500 +0200" stop="20260124034000 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 3 с. "Крижана лють".</title>
+  </programme>
+  <programme start="20260124034000 +0200" stop="20260124043000 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 5 с. "Коді Легебокофф".</title>
+  </programme>
+  <programme start="20260124043000 +0200" stop="20260124051500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство в країні амішів", 1 с. "Амішський жеребець".</title>
+  </programme>
+  <programme start="20260124051500 +0200" stop="20260124060000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивчі справи", 3 сезон, 3 с. "Убивство менонітів".</title>
+  </programme>
+  <programme start="20260124060000 +0200" stop="20260124070000 +0200" channel="3">
+    <title lang="ru">Д/с "Не бачу зла", 8 сезон, 9 с. "Кошмар спільних поїздок".</title>
+  </programme>
+  <programme start="20260124070000 +0200" stop="20260124075000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивця, якого ти знаєш", 1 сезон, 1 с.</title>
+  </programme>
+  <programme start="20260124075000 +0200" stop="20260124085000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 1 с. "Седдон".</title>
+  </programme>
+  <programme start="20260124085000 +0200" stop="20260124094500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 2 с. "Ньюолл".</title>
+  </programme>
+  <programme start="20260124094500 +0200" stop="20260124104500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 3 с. "Кларк".</title>
+  </programme>
+  <programme start="20260124104500 +0200" stop="20260124114000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 4 с. "Блеквел".</title>
+  </programme>
+  <programme start="20260124114000 +0200" stop="20260124124000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство мами й тата", 5 с. "Дайтон".</title>
+  </programme>
+  <programme start="20260124124000 +0200" stop="20260124133500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 4 с. "Смертельна детонація".</title>
+  </programme>
+  <programme start="20260124133500 +0200" stop="20260124143000 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 5 с. "Убивство на острові".</title>
+  </programme>
+  <programme start="20260124143000 +0200" stop="20260124152500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 6 с. "Убивство взимку".</title>
+  </programme>
+  <programme start="20260124152500 +0200" stop="20260124162000 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 1 с. "Кров у снігу".</title>
+  </programme>
+  <programme start="20260124162000 +0200" stop="20260124171500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 2 с. "Смерть в Анкориджі".</title>
+  </programme>
+  <programme start="20260124171500 +0200" stop="20260124181500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 6 с.</title>
+  </programme>
+  <programme start="20260124181500 +0200" stop="20260124191000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 7 с.</title>
+  </programme>
+  <programme start="20260124191000 +0200" stop="20260124200500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 8 с.</title>
+  </programme>
+  <programme start="20260124200500 +0200" stop="20260124210500 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 9 с.</title>
+  </programme>
+  <programme start="20260124210500 +0200" stop="20260124220000 +0200" channel="3">
+    <title lang="ru">Д/с "Прикордонні сили США: Мости", 2 сезон, 10 с.</title>
+  </programme>
+  <programme start="20260124220000 +0200" stop="20260124225500 +0200" channel="3">
+    <title lang="ru">Д/ф "Монстр у морзі", 1 с. "Убивство у квартирному будинку".</title>
+  </programme>
+  <programme start="20260124225500 +0200" stop="20260124235500 +0200" channel="3">
+    <title lang="ru">Д/ф "Щоденник ґвалтівника", 2 с.</title>
+  </programme>
+  <programme start="20260124235500 +0200" stop="20260125005500 +0200" channel="3">
+    <title lang="ru">Х/ф "Максін", 3 с.</title>
+  </programme>
+  <programme start="20260125005500 +0200" stop="20260125025000 +0200" channel="3">
+    <title lang="ru">Д/ф "Канібал з арбалетом".</title>
+  </programme>
+  <programme start="20260125025000 +0200" stop="20260125033500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство з першого погляду", 2 сезон, 9 с. "Занадто молодий, щоб померти - Джермейн Кулз".</title>
+  </programme>
+  <programme start="20260125033500 +0200" stop="20260125042500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство з першого погляду", 2 сезон, 10 с. "Жорстокі наміри - Рейган Тоукс".</title>
+  </programme>
+  <programme start="20260125042500 +0200" stop="20260125051500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство з першого погляду", 2 сезон, 1 с. "Смертельна одержимість - Шеріл Мосс".</title>
+  </programme>
+  <programme start="20260125051500 +0200" stop="20260125060500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство з першого погляду", 2 сезон, 2 с. "Холоднокровно - Гантер Сміт".</title>
+  </programme>
+  <programme start="20260125060500 +0200" stop="20260125071000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивство з першого погляду", 2 сезон, 3 с. "Зникла на Різдво - Джонель Метьюз".</title>
+  </programme>
+  <programme start="20260125071000 +0200" stop="20260125080000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивця, якого ти знаєш", 1 сезон, 2 с.</title>
+  </programme>
+  <programme start="20260125080000 +0200" stop="20260125085500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 16 с. "Памела Мосс".</title>
+  </programme>
+  <programme start="20260125085500 +0200" stop="20260125095000 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 17 с. "Бренда Дельгадо".</title>
+  </programme>
+  <programme start="20260125095000 +0200" stop="20260125104500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 18 с. "Беккі Мачетті".</title>
+  </programme>
+  <programme start="20260125104500 +0200" stop="20260125114000 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 19 с. "Дженніфер Пеєнірс".</title>
+  </programme>
+  <programme start="20260125114000 +0200" stop="20260125123500 +0200" channel="3">
+    <title lang="ru">Д/с "Злам", 29 сезон, 20 с. "Дженеа Ченс".</title>
+  </programme>
+  <programme start="20260125123500 +0200" stop="20260125133500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 8 с. "Зізнання".</title>
+  </programme>
+  <programme start="20260125133500 +0200" stop="20260125143000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 1 с. "Обітниці насильства".</title>
+  </programme>
+  <programme start="20260125143000 +0200" stop="20260125153000 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 2 с. "Під поверхнею".</title>
+  </programme>
+  <programme start="20260125153000 +0200" stop="20260125162500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 3 с. "Викрадач тіл".</title>
+  </programme>
+  <programme start="20260125162500 +0200" stop="20260125172500 +0200" channel="3">
+    <title lang="ru">Д/с "Убивства у валізах", 4 с. "Пила".</title>
+  </programme>
+  <programme start="20260125172500 +0200" stop="20260125182000 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 2 с. "Смерть в Анкориджі".</title>
+  </programme>
+  <programme start="20260125182000 +0200" stop="20260125191500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 3 с. "Крижана лють".</title>
+  </programme>
+  <programme start="20260125191500 +0200" stop="20260125201000 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 4 с. "Смертельна детонація".</title>
+  </programme>
+  <programme start="20260125201000 +0200" stop="20260125210500 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 5 с. "Убивство на острові".</title>
+  </programme>
+  <programme start="20260125210500 +0200" stop="20260125220000 +0200" channel="3">
+    <title lang="ru">Д/с "Фатальний рубіж. Зло на Алясці", 6 с. "Убивство взимку".</title>
+  </programme>
+  <programme start="20260125220000 +0200" stop="20260125234500 +0200" channel="3">
+    <title lang="ru">Прем'єра. Д/ф "Метод серійного вбивці".</title>
+  </programme>
+  <programme start="20260125234500 +0200" stop="20260126011000 +0200" channel="3">
+    <title lang="ru">Д/ф "Убивства в пансіонаті", 2 с.</title>
+  </programme>
+  <programme start="20260126011000 +0200" stop="20260126015500 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 6 с. "Метью Гоффман".</title>
+  </programme>
+  <programme start="20260126015500 +0200" stop="20260126024000 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 7 с. "Гауелл Дональдсон III".</title>
+  </programme>
+  <programme start="20260126024000 +0200" stop="20260126033000 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 8 с. "Вільям Девіс".</title>
+  </programme>
+  <programme start="20260126033000 +0200" stop="20260126041500 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 9 с. "Ґері Гілтон".</title>
+  </programme>
+  <programme start="20260126041500 +0200" stop="20260126050500 +0200" channel="3">
+    <title lang="ru">Д/с "Формування серійного вбивці", 2 сезон, 10 с. "Тодд Лі".</title>
+  </programme>
+  <programme start="20260126050500 +0200" stop="20260126054500 +0200" channel="3">
+    <title lang="ru">Д/с "У свідомості серійного вбивці", 1 сезон, 1 с. "Едді Леонскі".</title>
+  </programme>
+  <programme start="20260126054500 +0200" stop="20260126064500 +0200" channel="3">
+    <title lang="ru">Д/с "У свідомості серійного вбивці", 1 сезон, 3 с. "Андерс Брейвік".</title>
   </programme>
 </tv>
