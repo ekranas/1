@@ -63,10 +63,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-wa/wa-clr.isml/index.m3u8
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",RSI La 2 HD
 https://rtsc3video.akamaized.net/hls/live/2042839/c2video/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport MotoGP",Sky Sport MotoGP (check acestreamid.com)
-http://127.0.0.1:6878/ace/getstream?id=PLACEHOLDER_ID
-#EXTINF:-1 tvg-logo="" group-title="Sport MotoGP",Canal+ MotoGP HD France (check acestreamid.com)
-http://127.0.0.1:6878/ace/getstream?id=PLACEHOLDER_ID
 #EXTINF:-1 tvg-logo="" group-title="Italia Sport",Sky Sport 1 IT
 http://127.0.0.1:6878/ace/getstream?id=986ea9418dd4604df704e04ff9dc44948562d839
 #EXTINF:-1 tvg-logo="" group-title="Italia Sport",Sky Sport Calcio IT
@@ -107,6 +103,7 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="" group-title="Portugal Sport",MotoGp
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928 
+
 
 
 
