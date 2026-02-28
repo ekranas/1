@@ -102,4 +102,11 @@ http://127.0.0.1:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-logo="" group-title="Portugal Sport",Sport TV 2 HD  
 http://127.0.0.1:6878/ace/getstream?id=81da821717afd34dda8f43a72b11ab4c47bd95c2
+#EXTINF:-1 tvg-logo="" group-title="Portugal Sport",MotoGP
+http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-logo="" group-title="Portugal Sport",MotoGP 
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-logo="" group-title="Portugal Sport",MotoGp
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928 
+
 
