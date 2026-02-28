@@ -75,8 +75,8 @@ http://127.0.0.1:6878/ace/getstream?id=f69b2859510dce33b992dd1940f95254c6e6f51c
 http://127.0.0.1:6878/ace/getstream?id=88c482d9e57b1a031c032344f9c00cf7b36da8d9
 #EXTINF:-1 tvg-logo="" group-title="Russia Sport",Матч Боец
 http://127.0.0.1:6878/ace/getstream?id=e84c8f3896a843b7fb272a6e3a18bba6b198db04
-#EXTINF:-1 tvg-logo="" group-title="Russia Sport",Setanta Eurasia+ 
-http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 BBC
+https://www.youtube.com/watch?v=vOPbmfAryus
 #EXTINF:-1 tvg-logo="" group-title="International Sport",Eurosport 1 HD
 http://127.0.0.1:6878/ace/getstream?id=42e959bffd0dd0f138dd03abf387b4284ece7e30
 #EXTINF:-1 tvg-logo="" group-title="International Sport",Eurosport 2 HD
@@ -103,6 +103,7 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="" group-title="Portugal Sport",MotoGp
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928 
+
 
 
 
