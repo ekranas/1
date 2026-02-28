@@ -14,7 +14,60 @@ https://1plus1.video/tvguide/kvartaltv/online
 #EXTINF:-1 group-title="Украина" tvg-logo="https://cbilling.pw/img/streams/bigudi.png",Бигуди HD
 https://1plus1.video/tvguide/bigudi/online
 #EXTINF:-1, 8TV
-https://webtvhd.com/tv8-hd-live-stream-online.php 
+https://webtvhd.com/tv8-hd-live-stream-online.php
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Italia RAI",RAI 1 HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-logo="" group-title="Italia RAI",RAI 2 HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-logo="" group-title="Italia RAI",RAI 3 HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-logo="" group-title="Italia RAI",RAI 4 HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-logo="" group-title="Italia RAI",RAI 5 HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-logo="" group-title="Italia RAI",RAI News HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-logo="" group-title="Italia RAI",RAI Movie HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-logo="" group-title="Italia RAI",RAI Premium HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-logo="" group-title="Italia RAI",RAI Storia HD
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",Canale 5 HD Italia
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",Italia 1 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",Rete 4 HD Italia
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",La 5 HD Italia
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",Iris Italia
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",Cielo HD Italia
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",Cine 34 Italia
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",Top Crime Italia
+https://live02-seg.msf.cdn.mediaset.net/live/ch-tq/tq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",Twentyseven HD Italia
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia Mediaset",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia TV",TV8 HD Italia
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11220/web/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italia TV",Warner HD Italia
+https://live02-seg.msf.cdn.mediaset.net/live/ch-wa/wa-clr.isml/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svizzera",RSI La 1 HD
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svizzera",RSI La 2 HD
+https://rtsc3video.akamaized.net/hls/live/2042839/c2video/3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport MotoGP",Sky Sport MotoGP (check acestreamid.com)
+http://127.0.0.1:6878/ace/getstream?id=PLACEHOLDER_ID
+#EXTINF:-1 tvg-logo="" group-title="Sport MotoGP",Canal+ MotoGP HD France (check acestreamid.com)
+http://127.0.0.1:6878/ace/getstream?id=PLACEHOLDER_ID
 #EXTINF:-1 tvg-logo="" group-title="Italia Sport",Sky Sport 1 IT
 http://127.0.0.1:6878/ace/getstream?id=986ea9418dd4604df704e04ff9dc44948562d839
 #EXTINF:-1 tvg-logo="" group-title="Italia Sport",Sky Sport Calcio IT
@@ -49,3 +102,4 @@ http://127.0.0.1:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-logo="" group-title="Portugal Sport",Sport TV 2 HD  
 http://127.0.0.1:6878/ace/getstream?id=81da821717afd34dda8f43a72b11ab4c47bd95c2
+
