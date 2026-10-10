@@ -6,6 +6,12 @@
   <channel id="2">
     <display-name>Cinema Horrors HD</display-name>
   </channel>
+  <channel id="3">
+    <display-name>Cinema Megahit HD</display-name>
+  </channel>
+  <channel id="4">
+    <display-name>Cinema Prime HD</display-name>
+  </channel>
   <programme start="20261005032100 +0300" stop="20261005035800 +0300" channel="1">
     <title lang="ru">Месники Грімм: Війни часу</title>
   </programme>
@@ -96,10 +102,7 @@
   <programme start="20261006014500 +0300" stop="20261006023100 +0300" channel="1">
     <title lang="ru">Нічия земля</title>
   </programme>
-  <programme start="20261006023100 +0300" stop="20261006030500 +0300" channel="1">
-    <title lang="ru">Зрада</title>
-  </programme>
-  <programme start="20261006030500 +0300" stop="20261006040100 +0300" channel="1">
+  <programme start="20261006023100 +0300" stop="20261006040100 +0300" channel="1">
     <title lang="ru">Зрада</title>
   </programme>
   <programme start="20261006040100 +0300" stop="20261006042600 +0300" channel="1">
@@ -381,53 +384,104 @@
   <programme start="20261009022600 +0300" stop="20261009024400 +0300" channel="1">
     <title lang="ru">Далекий схил (жестова мова)</title>
   </programme>
-  <programme start="20261009024400 +0300" stop="20261009042600 +0300" channel="1">
+  <programme start="20261009024400 +0300" stop="20261009035600 +0300" channel="1">
     <title lang="ru">Підозрюваний</title>
   </programme>
-  <programme start="20261009042600 +0300" stop="20261009060800 +0300" channel="1">
-    <title lang="ru">Містерія</title>
-  </programme>
-  <programme start="20261009060800 +0300" stop="20261009073800 +0300" channel="1">
-    <title lang="ru">Зрада</title>
-  </programme>
-  <programme start="20261009073800 +0300" stop="20261009091300 +0300" channel="1">
-    <title lang="ru">Бун: Мисливець за головами</title>
-  </programme>
-  <programme start="20261009091300 +0300" stop="20261009104500 +0300" channel="1">
-    <title lang="ru">Небезпечне небо</title>
-  </programme>
-  <programme start="20261009104500 +0300" stop="20261009121700 +0300" channel="1">
-    <title lang="ru">Час смерті</title>
-  </programme>
-  <programme start="20261009121700 +0300" stop="20261009134000 +0300" channel="1">
-    <title lang="ru">Морський змій</title>
-  </programme>
-  <programme start="20261009134000 +0300" stop="20261009151100 +0300" channel="1">
-    <title lang="ru">Мегалодон: Відродження</title>
-  </programme>
-  <programme start="20261009151100 +0300" stop="20261009164700 +0300" channel="1">
-    <title lang="ru">Інопланетний хижак</title>
-  </programme>
-  <programme start="20261009164700 +0300" stop="20261009183300 +0300" channel="1">
-    <title lang="ru">Зрадник</title>
-  </programme>
-  <programme start="20261009183300 +0300" stop="20261009202500 +0300" channel="1">
-    <title lang="ru">Кривава весна</title>
-  </programme>
-  <programme start="20261009202500 +0300" stop="20261009215100 +0300" channel="1">
-    <title lang="ru">Відстрочка</title>
-  </programme>
-  <programme start="20261009215100 +0300" stop="20261009232900 +0300" channel="1">
-    <title lang="ru">Номад: Початок</title>
-  </programme>
-  <programme start="20261009232900 +0300" stop="20261010005300 +0300" channel="1">
+  <programme start="20261009035600 +0300" stop="20261009042600 +0300" channel="1">
     <title lang="ru">Світ предків</title>
   </programme>
-  <programme start="20261010005300 +0300" stop="20261010023300 +0300" channel="1">
+  <programme start="20261009042600 +0300" stop="20261009051300 +0300" channel="1">
+    <title lang="ru">Містерія</title>
+  </programme>
+  <programme start="20261009051300 +0300" stop="20261009060800 +0300" channel="1">
+    <title lang="ru">Боротися до кінця</title>
+  </programme>
+  <programme start="20261009060800 +0300" stop="20261009065200 +0300" channel="1">
+    <title lang="ru">Зрада</title>
+  </programme>
+  <programme start="20261009065200 +0300" stop="20261009073800 +0300" channel="1">
+    <title lang="ru">Кінець світу</title>
+  </programme>
+  <programme start="20261009073800 +0300" stop="20261009082000 +0300" channel="1">
+    <title lang="ru">Бун: Мисливець за головами</title>
+  </programme>
+  <programme start="20261009082000 +0300" stop="20261009091300 +0300" channel="1">
+    <title lang="ru">Номад: Початок</title>
+  </programme>
+  <programme start="20261009091300 +0300" stop="20261009094900 +0300" channel="1">
+    <title lang="ru">Небезпечне небо</title>
+  </programme>
+  <programme start="20261009094900 +0300" stop="20261009104500 +0300" channel="1">
     <title lang="ru">Далекий схил</title>
   </programme>
-  <programme start="20261010023300 +0300" stop="20261010040500 +0300" channel="1">
+  <programme start="20261009104500 +0300" stop="20261009112000 +0300" channel="1">
+    <title lang="ru">Час смерті</title>
+  </programme>
+  <programme start="20261009112000 +0300" stop="20261009121700 +0300" channel="1">
+    <title lang="ru">Робопокаліпсис</title>
+  </programme>
+  <programme start="20261009121700 +0300" stop="20261009124800 +0300" channel="1">
+    <title lang="ru">Морський змій</title>
+  </programme>
+  <programme start="20261009124800 +0300" stop="20261009134000 +0300" channel="1">
+    <title lang="ru">Останній рівень: Втеча з Ранкали</title>
+  </programme>
+  <programme start="20261009134000 +0300" stop="20261009141500 +0300" channel="1">
+    <title lang="ru">Мегалодон: Відродження</title>
+  </programme>
+  <programme start="20261009141500 +0300" stop="20261009151100 +0300" channel="1">
+    <title lang="ru">Американське правосуддя</title>
+  </programme>
+  <programme start="20261009151100 +0300" stop="20261009153900 +0300" channel="1">
+    <title lang="ru">Інопланетний хижак</title>
+  </programme>
+  <programme start="20261009153900 +0300" stop="20261009164700 +0300" channel="1">
+    <title lang="ru">Інопланетне вторгнення</title>
+  </programme>
+  <programme start="20261009164700 +0300" stop="20261009170600 +0300" channel="1">
+    <title lang="ru">Зрадник</title>
+  </programme>
+  <programme start="20261009170600 +0300" stop="20261009182400 +0300" channel="1">
+    <title lang="ru">Відстрочка</title>
+  </programme>
+  <programme start="20261009182400 +0300" stop="20261009183300 +0300" channel="1">
+    <title lang="ru">Сан-Андреас: Мега-землетрус</title>
+  </programme>
+  <programme start="20261009183300 +0300" stop="20261009195100 +0300" channel="1">
+    <title lang="ru">Кривава весна</title>
+  </programme>
+  <programme start="20261009195100 +0300" stop="20261009202500 +0300" channel="1">
+    <title lang="ru">Помпеї: Апокаліпсис</title>
+  </programme>
+  <programme start="20261009202500 +0300" stop="20261009211900 +0300" channel="1">
+    <title lang="ru">Відстрочка</title>
+  </programme>
+  <programme start="20261009211900 +0300" stop="20261009215100 +0300" channel="1">
+    <title lang="ru">Острів монстрів</title>
+  </programme>
+  <programme start="20261009215100 +0300" stop="20261009224800 +0300" channel="1">
+    <title lang="ru">Номад: Початок</title>
+  </programme>
+  <programme start="20261009224800 +0300" stop="20261009232900 +0300" channel="1">
+    <title lang="ru">Атака грейхаундів</title>
+  </programme>
+  <programme start="20261009232900 +0300" stop="20261010000800 +0300" channel="1">
+    <title lang="ru">Світ предків</title>
+  </programme>
+  <programme start="20261010000800 +0300" stop="20261010005300 +0300" channel="1">
+    <title lang="ru">Мавпа проти монстра</title>
+  </programme>
+  <programme start="20261010005300 +0300" stop="20261010013600 +0300" channel="1">
+    <title lang="ru">Далекий схил</title>
+  </programme>
+  <programme start="20261010013600 +0300" stop="20261010023300 +0300" channel="1">
+    <title lang="ru">Швидкісна відповідь</title>
+  </programme>
+  <programme start="20261010023300 +0300" stop="20261010030500 +0300" channel="1">
     <title lang="ru">Спокутування гріхів</title>
+  </programme>
+  <programme start="20261010030500 +0300" stop="20261010040500 +0300" channel="1">
+    <title lang="ru">Мегаудав</title>
   </programme>
   <programme start="20261010040500 +0300" stop="20261010053600 +0300" channel="1">
     <title lang="ru">Брудна брехня</title>
